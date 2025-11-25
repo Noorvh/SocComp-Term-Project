@@ -1,0 +1,362 @@
+
+  21  display labels.
+21 Feb 05                                                               Page 109
+15:03:55  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P1525A: Culturele Veranderingen 2000, versie feb2005
+
+            List of variables on the working file
+
+Name     Position  Label
+
+RESPNR          1  Respondent identificatienummer
+HHNR            2  Huishoudnummer  (=adrescluster)
+HHPNR           3  Eerste of tweede persoon op adres
+INSTRU          4  Instrument
+INT000          5  S000   Schriftelijke deel ingevuld
+INT001          6  M004 Aantal jaar onderwijs vanaf 6e jaar
+INT004          7  M016 Aantal mensen waarover leiding
+INT044          8  S003 Overheid verkleinen verschil inkomens
+INT071          9  M077 Gezin lijdt onder vr+voll baan
+INT087         10  M141 Samenlevingsvorm
+INT229         11  S032 Mening God
+INT239         12  S035 Mens kunnen weinig verand levensloop
+INT264         13  S003 Zelfst. ondernemen oplossing econ prob
+INT265         14  M021 Allerbelangrijkste in Nederland
+INT265A        15  S004 Allerbelangrijkste in Nederland
+INT266         16  M022 Op een na belangrijkste
+INT266A        17  S004 Op een na belangrijkste
+INT267         18  S005 Vertrouwen  wetenschap,weinig geloof
+INT268         19  S005 Moderne wetenschap meer kwaad dan goed
+INT270         20  S005 Moderne wetenschap lost milieuprob. op
+INT271         21  S005 Teveel zorgen over toekomst
+INT272         22  S005 Moderne leven schaadt milieu
+INT276         23  S005 Teveel zorgen vooruitg. milieu schaden
+INT278         24  S005 Groei NL econ nodig v bescherm. milieu
+INT279         25  S005 Dier. med. exper. nodig v mens leven
+INT281         26  S005 Econ groei schaadt altijd het milieu
+INT282         27  S006 Komt het meest overeen met mening
+INT283         28  S007 Bereid hogere prijzen milieu sparen
+INT284         29  S008 Bereid hogere belast. milieu sparen
+INT285         30  S009 Bereid lagere lstand. milieu sparen
+INT286         31  S010 Moeilijk veel doen milieu
+INT287         32  S010 Doe goed v milieu,meer geld en tijd
+INT289         33  S011 Antibiotica doden geen virussen
+INT291         34  S011 Mens onstaan uit vroegere diersoorten
+INT292         35  S011 Chemicalien veroorzaken kanker
+INT293         36  S011 Radioactieve straling dodelijk
+INT295         37  S011 Broeikas effect door gat atmosfeer
+INT296         38  S011 Gebr kolen\olie\gas broeikas eff.
+INT300         39  S012 Luchtveront auto bedreig milieu
+INT301         40  S013 Luchtveront industrie bedreig milieu
+INT303         41  S034 Mate kerncentrales bedreiging milieu
+INT305         42  S014 Luchtveront auto\ind bedreig gezin
+INT307         43  S015 Bestrijd.midd\chemic bedreig milieu
+INT309         44  S016 Vervuil NL rivieren bedreig milieu
+INT311         45  S017 Hogere temp. bedreig milieu
+INT313         46  S019 Komt het meest overeen
+INT314         47  S020 Komt het meest overeen
+INT315         48  S028 Moeite afvalscheiding voor recycling
+INT318         49  S029 Laat auto staan om milieu te sparen
+INT319         50  S030 Lid groepering milieu sparen\bescher
+INT320         51  S031 Tekenen petitie mil aspect afgel 5j
+INT321         52  S031 Geld gegeven milieugoep afgel. 5j
+INT322         53  S031 Deelname demonstratie milieu afgel 5j
+21 Feb 05                                                               Page 110
+15:03:55  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+INT323         54  S033 Omschrijving woonplaats
+INT600         55  S005 Snelle groei bevolking belastend aarde
+INT601         56  S010 Belangrijker dingen dan mil.bescherm
+INT602         57  S010 Andere mensen ook inspannen milieu
+INT603         58  S010 Veel verhalen mil bedreig overdreven
+INT604         59  S018 Verand. erf eigensch bedreig milieu
+INT605         60  S021 Inspanningen NL bescherming milieu
+INT606         61  S022 Wie spannen meer in voor milieu
+INT607         62  S023 Wie spannen meer in voor milieu
+INT608         63  S024 Wie spannen meer in voor milieu
+INT609         64  S025 Int. regels oplossing mil probl
+INT610         65  S025 Arme landen minder inspanning milieu
+INT611         66  S025 Lage groei econ,tenzij meer zorg mil
+INT612         67  S026 Waarschijnlijk ongeluk kercentrale
+INT613         68  S027 Vertrouwen info bedrijfsleven
+INT614         69  S027 Vertrouwen info milieugroeperingen
+INT615         70  S027 Vertrouwen info ministeries
+INT616         71  S027 Vertrouwen info kranten
+INT617         72  S027 Vertrouwen info radio\tv
+INT618         73  S027 Vertrouwen info universiteiten
+INT619         74  S035 Overheid moet inkomens herverdelen
+INT620         75  S035 Mens trekken zich nu weinig aan gezag
+INT621         76  S035 Mens met geld moeten ervan genieten
+INT622         77  S035 Mens doen wat hun geweten hen ingeeft
+INT623         78  S035 In algemeen belang regels bedrijfslev
+INT624         79  S035 Samenlev kent vorm van ongelijkheid
+INT625         80  S035 Over geheel,wereld wordt er beter op
+V040           81  M008 Doet op dit moment betaald werk
+V041           82  M011 Vroeger betaald werk gedaan
+V049           83  M015 Dienstverband
+V065           84  M027 De meeste mensen te vertrouwen
+V200           85  M006 Opleiding alg vormend onderwijs
+V201           86  M007 Opleiding beroepsonderwijs
+V202           87  M011 Aktiviteitenkategorie
+VAR0000        88
+VAR001         89  M001 Geslacht respondent
+VAR002         90  M002 Leeftijd respondent
+VAR003         91  M003 Burgerlijke staat
+VAR006         92  M005 Laatst genoten opleiding
+VAR016         93  M013 Beroep
+VAR040         94  M091 Leest over politiek in ons land
+VAR043         95  M092 Leest over woonplaats
+VAR064         96  M043 Vergroot regering welvaart mensen
+VAR065         97  M023 Economische crisis nabije toekomst
+VAR096         98  M024 Overheidsgeld openb voorzieningen
+VAR100         99  M025 Overh.:vold.voorzieningen huiswerk
+VAR101        100  M025 Overh.:meer studiebeurzen
+VAR103        101  M025 Overh.:meer geld bouwen
+VAR107        102  M025 Overh.:onderwijs tot 18e gratis
+VAR109        103  M025 Overh.:ingrijp. maatregel milieuver
+VAR121        104  M025 Overh.:leerplicht tot 18e invoeren
+VAR122        105  M025 Overh.:susidies kunst uitbreiden
+VAR124        106  M025 Overh.:meer goedkope creches
+VAR125        107  M026 Overheiduitgaven omhoog|omlaag
+VAR131        108  M028 Zorgen over: geldzaken
+VAR132        109  M029 Zorgen over: politieke toestanden
+VAR133        110  M030 Zorgen over: uw gezondheid
+VAR134        111  M031 Zorgen over: gezin\kinderen
+VAR135        112  M032 Zorgen over: toekomst
+21 Feb 05                                                               Page 111
+15:03:55  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+VAR149        113  M041 Tevredenheid met inkomen
+VAR151        114  M042 Inkomen in overeenstemming opl
+VAR153        115  M044 Tevreden over sociale voorzieningen
+VAR154        116  M045 Oordeel AOW
+VAR154A       117  M045 Oordeel Ziektewet
+VAR155        118  M045 Oordeel Algemene Bijstandswet
+VAR156        119  M045 Oordeel Werkloosheidswet (WW)
+VAR157        120  M045 Oordeel Nabestaandenwet
+VAR157A       121  M045 Oordeel Arbeidsongeschikthwet
+VAR164        122  M046 Oordeel inkomensverschillen
+VAR165        123  M047 Gewenste inkomensverschillen
+VAR166        124  M048 Gewenste verschillen bezit
+VAR167        125  M049 Gewenste medezeggenschap arbeiders
+VAR179        126  M050 Vrij:om te demonstreren
+VAR180        127  M051 Vrij:openlijk kritiek koningshuis
+VAR181        128  M052 Vrij:staken voor loonsverhoging
+VAR183        129  M053 Vrij:gebouwen bezetten
+VAR184        130  M054 Vrij:openb schrijven wat men wil
+VAR185        131  M054 Vrij:openb zeggen wat men wil
+VAR198        132  M055 Grootgebracht in bepaald geloof
+VAR201        133  M057 Behorend tot kerkgenootschap
+VAR204        134  M056 Frequentie kerkgang
+VAR221        135  M058 Houden aan voorschriften kerk
+VAR229        136  M064 Allerbelangrijkste in het leven
+VAR271        137  M080 Inspraak studenten bestuur universi
+VAR272        138  M080 Inspraak leerlingen middel.scholen
+VAR273        139  M080 Inspraak burgers bestuur gem+prov
+VAR274        140  M089 Zou stemmen verkiezingen 2e kamer
+VAR275        141  M090 Partij waarop men zou stemmen
+VAR318        142  M096 Mensen als ik geen invloed regering
+VAR319        143  M097 Kamerl\ministers geven niet om mens
+VAR320        144  M098 Kamerl.letten veel op belang macht.
+VAR346        145  M072 Roken marihuana\hashish streng stra
+VAR351        146  M073 Voor bepaalde misdaden doodstraf
+VAR406        147  M122 Belastingen omhoog|omlaag
+VAR407        148  M123 Loon\inkomensbelasting te hoog|laag
+VAR408        149  M100 Actiebereidheid bij onrechtv wet
+VAR409        150  M101 Demonstrbereidh bij onrechtv wet
+VAR410        151  M102 Arrestatie aantal deelnemers
+VAR411        152  M103 Meer ll in klas:ouder+docent bezet
+VAR412        153  M104 Deeln onderwijzers worden ontslagen
+VAR413        154  M105 Wilde staking vanwege dreig.ontslag
+VAR414        155  M106 Werkn. bezet.bedrijf:ontruiming pol
+VAR430        156  M081 2 soorten mensen:sterken en zwakken
+VAR431        157  M082 Mensen vallen tegen na beter kennen
+VAR433        158  M071 Misdadigers veranderen ipv straffen
+VAR434        159  M083 Jong.in opstand\oud neerleg realit
+VAR437        160  M084 Soc problemen oplos door misd. verw
+VAR439        161  M085 Minder wet.,meer toegewijde leiders
+VAR445        162  M074 Sex.misdadigers genezen ipv straf
+VAR454        163  M086 Mens. minder goede manier. geen con
+VAR461        164  M088 Links - rechts indeling
+VAR462        165  M142 BRUTO inkomen van huishouden
+VAR491        166  M093 Interesse in politiek
+VAR493        167  M094 Op bijeenkomst gesproken
+VAR497        168  M095 Lid (geweest) politieke partij?
+VAR499        169  M121 Lid vakbond
+VAR515        170  M065 Vrouw met schoolgaande kind. werkz
+VAR516        171  M066 Vrouw met kind.in crech werkz.
+21 Feb 05                                                               Page 112
+15:03:55  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+VAR546        172  M127 Mensen ander ras als buren
+VAR548        173  M146 Vraaggesprek door anderen gevolgd
+VAR550        174  M146 Respondent beinvloed
+VAR567        175  M033 Verwachting inkomens
+VAR568        176  M034 Mate stijging\daling inkomens
+VAR569        177  M035 Oordeel inkomens gezien economie
+VAR570        178  M036 Mate stijg\daal ink gezien economie
+VAR571        179  M037 Verwachting soc uitkeringen
+VAR572        180  M038 Mate stijg\daal soc uitkeringen
+VAR573        181  M039 Oordeel soc uitk gezien economie
+VAR574        182  M040 Mate stijg\daal soc uitk gezien eco
+VAR589A       183  M059 Vrijlaten Katholieken
+VAR589B       184  M060 Vrijlaten Protestanten
+VAR589C       185  M061 Vrijlaten Mohammedanen
+VAR589D       186  M062 Vrijlaten Jehovas
+VAR589E       187  M063 Vrijlaten Humanisten
+VAR589F       188  M064 Vrijlaten Diverse groepen
+VAR591        189  M080 Inspraak ouders gang v zaken school
+VAR592        190  M116 Laatste 2j deelname inspraakproc.
+VAR594        191  M078 Vr vanwege achterstand voorrang baa
+VAR599        192  M117 Laatste 2j actief kwestie landelijk
+VAR600        193  M118 Laatste 2j actief kwestie gemeente
+VAR608        194  M087 Ouders laten kinderen teveel vrij
+VAR626        195  D012 Nielsen-gebied
+VAR627        196  D009 Cebuco verzorgingsgebied
+VAR628        197  D008 Nodaal gebied
+VAR629        198  D002 Provincie
+VAR630        199  D003 Gemeentegrootte
+VAR631        200  D013 Urbanisatiegraad cbs
+VAR632A       201  D005 Gemeentenummer cbs
+VAR632B       202  D007 Economisch-geografisch gebied
+VAR632C       203  D011 Corop-gebied
+VAR632E       204  D010 Wgr-gebied
+VAR632F       205  D014 Stedelijkheid
+VAR632G       206  D015 Stedelijke agglomeratie
+VAR634        207  M107 Staken bij verlagen soc.uitkeringen
+VAR635        208  M108 Kraken leegstaande woning
+VAR636        209  M109 Politie ontruimt met geweld pand
+VAR683B       210  M124 Woning: gastarb - nederlands
+VAR684        211  M143 Samenstelling huishouden
+VAR687        212  M068 Misdadigheid NL toenemen\afnemen
+VAR688        213  M069 Mate misdadigheid toenemen\afnemen
+VAR723        214  M009 Aantal uren betaald werk p\week
+VAR728B       215  M125 Ontslag: buitenl - nederlander
+VAR729B       216  M126 Promotie: buitenl - nederlander
+VAR768        217  M067 Kind< 4jaar naar kind.opvang
+VAR848        218  M075 Verslaafde verplicht behandelen
+VAR849        219  M076 Onder med toezicht gratis drugs
+VAR900A       220  M154 Duur interview
+VAR900B       221  M151 Interviewdag
+VAR900C       222  M151 Interviewmaand
+VAR900D       223  M00002 Bereidheid schriftelijk deel
+VAR900E       224  S036 Duur interview volgens respondent
+VAR900F       225  S038 Oordeel respondent over duur
+VAR900G       226  S039 Maximale duur volgens respondent
+VAR900H       227  S039 Interview interessant
+VAR900J       228  D001 Enqueteursnummer
+VAR900K       229  M144 Moeilijkheidsgraad vraagstelling
+VAR900L       230  M145 Oordeel interviewer over duur
+21 Feb 05                                                               Page 113
+15:03:55  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+VAR900M       231  M153 Eindtijd interview
+VAR900N       232  M152 Starttijd interview
+VAR900O       233  Vergoeding schriftelijk deel
+VAR901        234  F001 Kleur omslagformulier
+VAR902        235  F002 Resultaat op adres
+VAR903        236  F003 Interview met enige of 1e persoon
+VAR904        237  F004 Interview met 2e persoon
+VAR905        238  F005 Reden geen interview
+VAR906        239  F006 Geslacht mannelijk gezinshoofd
+VAR907        240  F006 Leeftijd mannelijk gezinshoofd
+VAR908        241  F007 Geslacht vrouwelijk gezinshoofd
+VAR909        242  F007 Leeftijd vrouwelijk gezinshoofd
+VAR910        243  F008 Geslacht 1e (oudste) kind
+VAR911        244  F008 Leeftijd 1e (oudste) kind
+VAR912        245  F009 Geslacht 2e kind
+VAR913        246  F009 Leeftijd 2e kind
+VAR914        247  F010 Geslacht 3e kind
+VAR915        248  F010 Leeftijd 3e kind
+VAR916        249  F011 Geslacht 4e kind
+VAR917        250  F011 Leeftijd 4e kind
+VAR918        251  F012 Geslacht 5e kind
+VAR919        252  F012 Leeftijd 5e kind
+VAR920        253  F013 Geslacht 6e kind
+VAR921        254  F013 Leeftijd 6e kind
+VAR922        255  F014 Geslacht 7e kind
+VAR923        256  F014 Leeftijd 7e kind
+VAR924        257  F015 Geslacht 8e kind
+VAR925        258  F015 Leeftijd 8e kind
+VAR926        259  F016 Geslacht 1e (oudste) ander gezinsld
+VAR927        260  F016 Leeftijd 1e (oudste) ander gezinsld
+VAR928        261  F017 Geslacht 2e ander gezinslid
+VAR929        262  F017 Leeftijd 2e ander gezinslid
+VAR951        263  M019 Econ.situatie in NL komende 12 mnd
+VAR952        264  M020 Werkloosheid in NL komende 12 mnd
+VAR953        265  M070 Misdaden NL zwaar\licht bestraft
+VAR1031       266  M128 Aantal buitenlanders in NL
+VAR1033       267  M137 Buitenlanders voorrang werk
+VAR1046A      268  M099 Doel politiek: orde handhaven
+VAR1046B      269  M099 Doel politiek: inspraak burgers
+VAR1046C      270  M099 Doel politiek: prijsstijging stoppe
+VAR1046D      271  M099 Doel politiek: vrije mening
+VAR1046E      272  M099 Doel politiek: hoge econ groei
+VAR1046F      273  M099 Doel politiek: sterk leger
+VAR1046G      274  M099 Doel politiek: inspraak werk woonpl
+VAR1046H      275  M099 Doel politiek: steden verfraaien
+VAR1046I      276  M099 Doel politiek: stabiele economie
+VAR1046J      277  M099 Doel politiek: strijd tegen misdaad
+VAR1046K      278  M099 Doel politiek: persoonlijker samenl
+VAR1046L      279  M099 Doel politiek: ideeen boven geld
+VAR1046M      280  M099 Doel politiek: werkloosh verminder
+VAR1046N      281  M099 Doel politiek: bestrijden milieuver
+VAR1046O      282  M099 Doel politiek: soc zekerh op peil
+VAR1046P      283  M099 Doel politiek: opvang alloch imigr
+VAR1050       284  M110 Tegenw. arts meeste ziekte genezen
+VAR1052       285  M111 Arts. weten niet altijd wat goed is
+VAR1061       286  M017 Aantal uren vrijwilligerswerk p\wk
+VAR1062       287  M018 Aantal uren hulp zieken p\wk
+VAR1076       288  M119 Slagen overtuigen vriend\fam\coll.
+VAR1077       289  M120 Gepraat over politiek onder vriend.
+21 Feb 05                                                               Page 114
+15:03:55  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+VAR1103       290  M133 Verblijfsv. vanwege pol.situatie
+VAR1104       291  M134 Verblijfsv. vanwege econ.situatie
+VAR1105X      292  M146 Verbl.verg. Illegaal: echtgenoot/-genote
+VAR1106       293  M136 Verblijfsv. vanwege komst aanstaan
+VAR1140       294  M129 Houding allochtone groepen
+VAR1141       295  M130 Buitenl. moeten NL leren
+VAR1142       296  M131 Buitenl. minder eigen cult.
+VAR1143       297  M132 Meeste buitenl. ingeburgerd
+VAR1145A      298  M138 Cijfer: zorgbeleid
+VAR1145B      299  M138 Cijfer: cultuurbeleid
+VAR1145C      300  M138 Cijfer: beleid vrije tijd
+VAR1145D      301  M138 Cijfer: beleid alg vorm onderwijs
+VAR1145E      302  M138 Cijfer: beleid beroepsonderwijs
+VAR1145F      303  M138 Cijfer: ordehandhaving
+VAR1145G      304  M138 Cijfer: sociale zekerheid
+VAR1145H      305  M138 Cijfer: werkgelegenheid
+VAR1145I      306  M138 Cijfer: milieubeleid
+VAR1145J      307  M138 Cijfer: kosten levensonderhoud
+VAR1145K      308  M138 Cijfer: leefbaarheid steden
+VAR1145L      309  M138 Cijfer: opvang buitenlanders
+VAR1145M      310  M138 Cijfer: beleid kinderopvang
+VAR1146       311  M140 Tevredenheid over regering
+VAR1161       312  M079 Vestiging immigrant verrijking same
+VAR1162A      313  M139 Oordeel: zorgbeleid
+VAR1162B      314  M139 Oordeel: cultuurbeleid
+VAR1162C      315  M139 Oordeel: beleid vrije tijd
+VAR1162D      316  M139 Oordeel: beleid alg vorm onderw
+VAR1162E      317  M139 Oordeel: beleid beroepsonderwijs
+VAR1162F      318  M139 Oordeel: ordehandhaving
+VAR1162G      319  M139 Oordeel: sociale zekerheid
+VAR1162H      320  M139 Oordeel: werkgelegenheid
+VAR1162I      321  M139 Oordeel: milieubeleid
+VAR1162J      322  M139 Oordeel: kosten levensonderhoud
+VAR1162K      323  M139 Oordeel: leefbaarheid steden
+VAR1162L      324  M139 Oordeel: opvang buitenlanders
+VAR1162M      325  M139 Oordeel: beleid kinderopvang
+VAR1163       326  M140 Nederl overh functioneert goed
+VAR1227       327  M112 Oorzaaken ziekte niet bestreden
+VAR1228       328  M113 Positief denken kan veel bereiken
+VAR1229       329  M114 Gebedsgenezers kunnen beter maken
+VAR1230       330  M115 Negatief leven,leidt tot ziekte
+VAR3000       331  Beroepencode CBS
+ISCO          332  Occupation ISCO 88
+21 Feb 05                                                               Page 115
+15:03:55  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+  22  set listing '7491.stp'.

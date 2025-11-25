@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codebook>
+<docDscr>
+<citation>
+<titlStmt>
+<IDNo><![CDATA[P1291]]></IDNo>
+</titlStmt>
+</citation>
+</docDscr>
+<stdyDescr>
+<citation>
+<titlStmt>
+<titl><![CDATA[-]]></titl>
+<parTitl><![CDATA[-]]></parTitl>
+<IDNo><![CDATA[P1291]]></IDNo>
+</titlStmt>
+<prodStmt>
+<prodPlac><![CDATA[NIWI]]></prodPlac>
+</prodStmt>
+<distStmt>
+<depDate><![CDATA[1996-01-01]]></depDate>
+</distStmt>
+</citation>
+<stdyInfo>
+<sumDscr>
+<timePrd><![CDATA[1995]]></timePrd>
+<timePrd><![CDATA[1995]]></timePrd>
+<timePrd><![CDATA[1995]]></timePrd>
+<collDate><![CDATA[1995-10-26]]></collDate>
+<collDate><![CDATA[1996-01-19]]></collDate>
+<nation><![CDATA[Netherlands]]></nation>
+<anlyUnit><![CDATA[individuals]]></anlyUnit>
+<universe><![CDATA[Age limits: 16 years and older
+Location: national
+Name of country: Netherlands]]></universe>
+<dataKind><![CDATA[survey]]></dataKind>
+<dataKind><![CDATA[Survey Continuous Longitudinal]]></dataKind>
+</sumDscr>
+</stdyInfo>
+<method>
+<dataColl>
+<timeMeth><![CDATA[longitudinal]]></timeMeth>
+<datacollector><![CDATA[NIPO * Amsterdam]]></datacollector>
+<frequenc><![CDATA[other repeated]]></frequenc>
+<sampProc><![CDATA[Multi-stage sample: first stage: sampling of municipalities,  stratification by number of households in municipalities;:  second stage: selection of addresses;: third stage:  selection of individuals.  Number of unit original/losses: number of cases: 2177]]></sampProc>
+<collMode><![CDATA[interview]]></collMode>
+<resInstru><![CDATA[structured quest.]]></resInstru>
+<collSitu><![CDATA[duration of interview / presence of other people]]></collSitu>
+<actMin><![CDATA[other: gift: voucher of Dfl. 15]]></actMin>
+<weight><![CDATA[no weighting]]></weight>
+<fileDescr>
+<fileTxt>
+<fileName><![CDATA[P1291]]></fileName>
+</fileTxt>
+<dimensns>
+<caseQnty><![CDATA[2177]]></caseQnty>
+<varQnty><![CDATA[518]]></varQnty>
+</dimensns>
+<fileType><![CDATA[spss-file part lab]]></fileType>
+<dataChck><![CDATA[complete study stored]]></dataChck>
+<verStmt>
+</verStmt>
+</fileDescr>
+</dataColl>
+</method>
+</stdyDescr>
+</codebook>

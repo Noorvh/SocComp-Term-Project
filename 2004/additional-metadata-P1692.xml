@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codebook>
+<docDscr>
+<citation>
+<titlStmt>
+<IDNo><![CDATA[P1692]]></IDNo>
+</titlStmt>
+</citation>
+</docDscr>
+<stdyDescr>
+<citation>
+<titlStmt>
+<titl><![CDATA[Respondents national sample]]></titl>
+<parTitl><![CDATA[Respondents national sample]]></parTitl>
+<IDNo><![CDATA[P1692A]]></IDNo>
+</titlStmt>
+</citation>
+<stdyInfo>
+<sumDscr>
+<timePrd><![CDATA[2004]]></timePrd>
+<timePrd><![CDATA[2004]]></timePrd>
+<timePrd><![CDATA[2004]]></timePrd>
+<collDate><![CDATA[2004-09-14]]></collDate>
+<collDate><![CDATA[2005-01-11]]></collDate>
+<nation><![CDATA[The Netherlands]]></nation>
+<geoUnit><![CDATA[National]]></geoUnit>
+<anlyUnit><![CDATA[individual]]></anlyUnit>
+<universe><![CDATA[Dutch population of 16 years and older]]></universe>
+<dataKind><![CDATA[survey]]></dataKind>
+<dataKind><![CDATA[Face-to-face interviews (CAPI) and self-administered questionnaires]]></dataKind>
+</sumDscr>
+</stdyInfo>
+<method>
+<dataColl>
+<timeMeth><![CDATA[longitudinal]]></timeMeth>
+<datacollector><![CDATA[Intomart GfK - United Fieldwork Organisation - Ufo]]></datacollector>
+<frequenc><![CDATA[biennial]]></frequenc>
+<sampProc><![CDATA[multi-stage]]></sampProc>
+<sampProc><![CDATA[Cendris addresses]]></sampProc>
+<actMin><![CDATA[Respondents received for the interview EURO 10,00; for the interview and the self-administered questionnaire EURO 15,00]]></actMin>
+</dataColl>
+</method>
+</stdyDescr>
+<stdyDescr>
+<citation>
+<titlStmt>
+<titl><![CDATA[Respondents disadvantaged neighbourhoods]]></titl>
+<parTitl><![CDATA[Respondents disadvantaged neighbourhoods]]></parTitl>
+<IDNo><![CDATA[P1692B]]></IDNo>
+</titlStmt>
+</citation>
+<stdyInfo>
+<sumDscr>
+<timePrd><![CDATA[2004]]></timePrd>
+<timePrd><![CDATA[2004]]></timePrd>
+<timePrd><![CDATA[2004]]></timePrd>
+<collDate><![CDATA[2004-09-14]]></collDate>
+<collDate><![CDATA[2004-11-02]]></collDate>
+<nation><![CDATA[Netherlands]]></nation>
+<geoUnit><![CDATA[National]]></geoUnit>
+<anlyUnit><![CDATA[individual]]></anlyUnit>
+<universe><![CDATA[Dutch population of 16 years and older in disatvantaged neighbourhoods]]></universe>
+<dataKind><![CDATA[survey]]></dataKind>
+<dataKind><![CDATA[Face-to-face interviews (CAPI) and self-administered questionnaires]]></dataKind>
+</sumDscr>
+</stdyInfo>
+<method>
+<dataColl>
+<timeMeth><![CDATA[longitudinal]]></timeMeth>
+<datacollector><![CDATA[Intomart GfK - United Fieldwork Organisation - Ufo]]></datacollector>
+<frequenc><![CDATA[biennial]]></frequenc>
+<sampProc><![CDATA[Stratified three-stage sample; Cendris addresses]]></sampProc>
+<actMin><![CDATA[Respondents received for the interview EURO 10,00; for the interview and the self-administered questionnaire EURO 15,00]]></actMin>
+</dataColl>
+</method>
+</stdyDescr>
+</codebook>

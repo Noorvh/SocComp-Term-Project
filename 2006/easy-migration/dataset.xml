@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ddm:DDM xsi:schemaLocation="http://schemas.dans.knaw.nl/dataset/ddm-v2/ https://schemas.dans.knaw.nl/md/ddm/v2/ddm.xsd" xmlns:id-type="http://easy.dans.knaw.nl/schemas/vocab/identifier-type/" xmlns:ddm="http://schemas.dans.knaw.nl/dataset/ddm-v2/" xmlns:abr="http://www.den.nl/standaard/166/Archeologisch-Basisregister/" xmlns:gml="http://www.opengis.net/gml" xmlns:dcx-gml="http://easy.dans.knaw.nl/schemas/dcx/gml/" xmlns:dcx-dai="http://easy.dans.knaw.nl/schemas/dcx/dai/" xmlns:dct="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/">
+     <ddm:profile>
+        
+       <dc:title>Culturele Veranderingen in Nederland 2006 - CV'06</dc:title>
+       <dct:description>Het doel van het onderzoek Culturele Veranderingen in Nederland is het systematisch peilen van meningen onder de Nederlandse bevolking om inzicht te krijgen in de culturele veranderingen. Het onderzoek is gebaseerd op enquêtevragen uit een aantal onderzoeken die vóór 1975 zijn gehouden en wordt in principe jaarlijks, na 1999 tweejaarlijks herhaald. Het steekproefaantal wordt zodanig gekozen dat de netto respons rond de 2000 personen ligt.        
+       
+De vragen hebben betrekking op de volgende onderwerpen: veiligheid, criminaliteit, leefsituatie, sociale contacten, vrijtijdsbesteding, gezondheid, emancipatie, homosexualiteit, sociale zekerheid, migratie, islam, woonomstandigheden.          
+Het databestand bevat bovendien een groot aantal achtergrondvariabelen o.a. met betrekking tot religie, politieke overtuiging, inkomen en onderwijs.                        
+      
+Tot en met 2002 waren in het schriftelijke deel van CV vragen opgenomen voor het International Social Survey Programme (ISSP). Vanaf 2004 bevat het schriftelijke deel vragen voor de SCP Leefsituatie-index (SLI).</dct:description>
+       
+       <dc:creator>Sociaal en Cultureel Planbureau, SCP * Den Haag (primary investigator)</dc:creator>
+       
+       <ddm:created>2007-01-01</ddm:created>
+       <ddm:available>2010-08-11</ddm:available>
+       <ddm:audience>D60000</ddm:audience><ddm:audience>D61000</ddm:audience>
+       <ddm:accessRights>OPEN_ACCESS</ddm:accessRights>
+     
+        <ddm:personalData present="Unknown"/>
+      </ddm:profile>
+     <ddm:dcmiMetadata>
+       <dct:identifier xsi:type="id-type:EASY1">twips.dans.knaw.nl--4855289459940977638-1212134339471</dct:identifier><dct:identifier xsi:type="id-type:URN">urn:nbn:nl:ui:13-73o-mbh</dct:identifier><dct:identifier xsi:type="id-type:DOI">10.17026/dans-zh2-8kh6</dct:identifier><dct:identifier>P1757</dct:identifier><dct:identifier xsi:type="id-type:EASY2">easy-dataset:43077</dct:identifier>
+       
+       
+       
+       
+       
+       
+       <ddm:relation href="http://www.scp.nl/content.jsp?objectid=default:18453">Aanvullende informatie van het Sociaal en Cultureel Planbureau</ddm:relation><ddm:relation href="http://www.gesis.org/en/data_service/issp/">International Social Survey Program - ISSP</ddm:relation><ddm:relation href="http://www.scp.nl/Organisatie/Stafafdelingen/Informatievoorziening_Automatisering/Lopende_onderzoeksthema_s_van_I_A/Leefsituatie_index">SCP leefsituatie index</ddm:relation><ddm:relation href="http://datareviews.dans.knaw.nl/details.php?pid=urn:nbn:nl:ui:13-73o-mbh">Voor deze dataset zijn enkele reviews beschikbaar.</ddm:relation><ddm:relation href="http://dx.doi.org/10.17026/dans-zpa-9uwp">Thematische collectie: Culturele Veranderingen in Nederland (CV) en SCP Leefsituatie Index (SLI)</ddm:relation>
+       
+       
+       
+       
+       
+       
+       <dct:format>SPSS</dct:format>
+       
+       
+       <dct:subject>Culturele Veranderingen</dct:subject><dct:subject>Democratie</dct:subject><dct:subject>Emancipatie</dct:subject><dct:subject>Ethnocentrisme</dct:subject><dct:subject>Gender</dct:subject><dct:subject>Generaties</dct:subject><dct:subject>Leefomstandigheden</dct:subject><dct:subject>Minderheden</dct:subject><dct:subject>Criminaliteit</dct:subject><dct:subject>Onderwijs</dct:subject><dct:subject>Ouderen</dct:subject><dct:subject>Overheidsbeleid</dct:subject><dct:subject>Politiek</dct:subject><dct:subject>Publieke Opinie</dct:subject><dct:subject>Religie</dct:subject><dct:subject>Sociale zekerheid</dct:subject><dct:subject>Vertrouwen</dct:subject><dct:subject>Vrijheid van meningsuiting</dct:subject><dct:subject>Welzijn</dct:subject><dct:subject>Werk</dct:subject><dct:subject>Gebruikersreview</dct:subject>
+       
+       <dct:spatial>Nederland</dct:spatial>
+       
+       
+       
+       <dct:license xsi:type="dct:URI">http://creativecommons.org/publicdomain/zero/1.0</dct:license>
+       <ddm:language code="dut" encodingScheme="ISO639-2">nld</ddm:language>
+       
+     <ddm:inCollection subjectScheme="DANS Collection" valueURI="https://vocabularies.dans.knaw.nl/collections/ssh/7f899692-90b4-49d0-8a5f-891e73ae84c1" schemeURI="https://vocabularies.dans.knaw.nl/collections">Culturele Veranderingen in Nederland (CV) en SCP Leefsituatie Index (SLI)</ddm:inCollection><ddm:description descriptionType="SeriesInformation">
+    Het Sociaal en Cultureel Planbureau (SCP) voert sinds 1975 (twee)jaarlijks het onderzoek Culturele Veranderingen in Nederland uit. De reeks bestaat inmiddels uit 30 onderzoeken en bevat zo’n 3500 variabelen en gegevens over meer dan 50.000 respondenten.
+
+De onderzoeken Culturele Veranderingen in Nederland (CV) en SCP Leefsituatie Index (SLI) worden sinds 2004 tweejaarlijks gecombineerd uitgevoerd in samenwerking door het Sociaal Cultureel Planbureau (SCP) en het Centraal Bureau voor de Statistiek (CBS).
+
+Doel van CV is vaststellen welke opvattingen “de Nederlander” heeft over samenleving en cultuur en hoe deze in de loop van de tijd zijn veranderd. Doel van SLI is het ontwikkelen van een indicator om de sociale leefsituatie van Nederland in kaart te brengen en het monitoren van de ontwikkeling van de sociale leefsituatie van de Nederlandse bevolking.
+
+De onderzoeken liggen aan de basis van veel onderzoek uit het werkprogramma van het SCP. Door het CBS zullen de data vooral worden gebruikt ten behoeve van het speerpunt Sociale Samenhang.
+  </ddm:description><dct:rightsHolder>Unknown</dct:rightsHolder></ddm:dcmiMetadata>
+   </ddm:DDM>

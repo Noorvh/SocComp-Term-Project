@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<files xsi:schemaLocation="http://easy.dans.knaw.nl/schemas/bag/metadata/files/ http://easy.dans.knaw.nl/schemas/bag/metadata/files/files.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://easy.dans.knaw.nl/schemas/bag/metadata/files/" xmlns:afm="http://easy.dans.knaw.nl/schemas/bag/metadata/afm/" xmlns:dct="http://purl.org/dc/terms/">
+    <file filepath="data/CV 2006 Kaartenboek.pdf">
+        <!--original/CV 2006 Kaartenboek.pdf-->
+        <dct:identifier>easy-file:2500083</dct:identifier>
+        <dct:title>CV 2006 Kaartenboek.pdf</dct:title>
+        <dct:format>application/pdf</dct:format>
+        <dct:extent>0.0MB</dct:extent>
+        
+        <accessibleToRights>ANONYMOUS</accessibleToRights>
+        <visibleToRights>ANONYMOUS</visibleToRights>
+        
+        
+      </file><file filepath="data/CV 2006 Veldwerkverslag-11-JG.doc">
+        <!--original/CV 2006 Veldwerkverslag-11-JG.doc-->
+        <dct:identifier>easy-file:2500085</dct:identifier>
+        <dct:title>CV 2006 Veldwerkverslag-11-JG.doc</dct:title>
+        <dct:format>application/vnd.ms-word</dct:format>
+        <dct:extent>1.0MB</dct:extent>
+        
+        <accessibleToRights>ANONYMOUS</accessibleToRights>
+        <visibleToRights>ANONYMOUS</visibleToRights>
+        
+        
+      </file><file filepath="data/CV 2006 Kaartjes A-P.pdf">
+        <!--original/CV 2006 Kaartjes A-P.pdf-->
+        <dct:identifier>easy-file:2500084</dct:identifier>
+        <dct:title>CV 2006 Kaartjes A-P.pdf</dct:title>
+        <dct:format>application/pdf</dct:format>
+        <dct:extent>0.0MB</dct:extent>
+        
+        <accessibleToRights>ANONYMOUS</accessibleToRights>
+        <visibleToRights>ANONYMOUS</visibleToRights>
+        
+        
+      </file><file filepath="data/13.849 CV 2006 schriftelijke SLI vragenlijst 7.pdf">
+        <!--original/13.849 CV 2006 schriftelijke SLI vragenlijst 7.pdf-->
+        <dct:identifier>easy-file:6228211</dct:identifier>
+        <dct:title>13.849 CV 2006 schriftelijke SLI vragenlijst 7.pdf</dct:title>
+        <dct:format>application/pdf</dct:format>
+        <dct:extent>0.9MB</dct:extent>
+        
+        <accessibleToRights>ANONYMOUS</accessibleToRights>
+        <visibleToRights>ANONYMOUS</visibleToRights>
+        
+        <dct:source>data/13.849 CV 2006 schriftelijke SLI vragenlijst 7.doc</dct:source>
+      </file><file filepath="data/13.849 CV 2006 schriftelijke SLI vragenlijst 7.doc">
+        <!--original/13.849 CV 2006 schriftelijke SLI vragenlijst 7.doc-->
+        <dct:identifier>easy-file:2500082</dct:identifier>
+        <dct:title>13.849 CV 2006 schriftelijke SLI vragenlijst 7.doc</dct:title>
+        <dct:format>application/vnd.ms-word</dct:format>
+        <dct:extent>0.7MB</dct:extent>
+        
+        <accessibleToRights>ANONYMOUS</accessibleToRights>
+        <visibleToRights>ANONYMOUS</visibleToRights>
+        
+        
+      </file><file filepath="data/CV 2006 Veldwerkverslag-11-JG.pdf">
+        <!--original/CV 2006 Veldwerkverslag-11-JG.pdf-->
+        <dct:identifier>easy-file:6228210</dct:identifier>
+        <dct:title>CV 2006 Veldwerkverslag-11-JG.pdf</dct:title>
+        <dct:format>application/pdf</dct:format>
+        <dct:extent>0.5MB</dct:extent>
+        
+        <accessibleToRights>ANONYMOUS</accessibleToRights>
+        <visibleToRights>ANONYMOUS</visibleToRights>
+        
+        <dct:source>data/CV 2006 Veldwerkverslag-11-JG.doc</dct:source>
+      </file><file filepath="data/CV 2006 mondelinge vragenlijst.pdf">
+        <!--original/CV 2006 mondelinge vragenlijst.pdf-->
+        <dct:identifier>easy-file:2500081</dct:identifier>
+        <dct:title>CV 2006 mondelinge vragenlijst.pdf</dct:title>
+        <dct:format>application/pdf</dct:format>
+        <dct:extent>0.1MB</dct:extent>
+        
+        <accessibleToRights>ANONYMOUS</accessibleToRights>
+        <visibleToRights>ANONYMOUS</visibleToRights>
+        
+        
+      </file><file filepath="data/cv2006.sav">
+        <!--original/cv2006.sav-->
+        <dct:identifier>easy-file:2500080</dct:identifier>
+        <dct:title>cv2006.sav</dct:title>
+        <dct:format>application/octet-stream</dct:format>
+        <dct:extent>1.9MB</dct:extent>
+        
+        <accessibleToRights>ANONYMOUS</accessibleToRights>
+        <visibleToRights>ANONYMOUS</visibleToRights>
+        
+        
+      </file>
+    </files>

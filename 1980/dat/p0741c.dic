@@ -1,0 +1,2175 @@
+
+  17  display dictionary.
+11 Apr 05                                                                 Page 3
+15:51:14  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0741C: CULVER1980,Middendorp-schriftelijk
+
+            List of variables on the working file
+
+Name                                                                   Position
+
+RESPNR                                                                        1
+          Print Format: F5
+          Write Format: F5
+          Missing Values: -3, -5, -6
+
+MDD001    Response to drop-off questionnaire MIDDENDORP                       2
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+              1    Response
+              2    GEEN
+              4    Non-response
+
+MDD002    Amount of talking about social position or class in family          3
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    A lot
+              5    Never a word
+
+MDD003    Our country needs strong man                                        4
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Completely agree
+              5    Completely disagree
+
+11 Apr 05                                                                 Page 4
+15:51:14  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0741C: CULVER1980,Middendorp-schriftelijk
+
+MDD004    Coalition preference coming administration (CDA vote-intenti        5
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -5 M  INAP
+             -3 M  No opin.
+              1    CDA + PvdA
+              2    CDA + VVD
+              3    CDA + PvdA +D66
+              4    CDA + VVD + D66
+              5    I don't care
+
+MDD005    Preferred position PvdA (Labour) in case no CDA-VVD mayority        6
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -5 M  INAP
+             -3 M  No opin.
+              1    Coalition CDA + PvdA
+              2    Leftwing minority cabinet
+              3    PvdA stays in opposition
+              4    Other
+
+MDD006    Higher incomes have to sacrifice more than lower ones to sup        7
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Completely agree
+              5    Completely disagree
+
+MDD007    People nowadays need more law and order than in the past            8
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Completely agree
+              5    Completely disagree
+
+11 Apr 05                                                                 Page 5
+15:51:14  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0741C: CULVER1980,Middendorp-schriftelijk
+
+MDD008    Since increase of student-participation, quality of scientif        9
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Completely agree
+              5    Completely disagree
+
+MDD009    Difference between left- and rightwing parties in Netherland       10
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Completely agree
+              5    Completely disagree
+
+MDD010    Government's actions are mostly the best for the country           11
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Completely agree
+              5    Completely disagree
+
+MDD011    Degree of interest in women's emancipation and feminism            12
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Strongly interested
+              5    Not interested at all
+
+11 Apr 05                                                                 Page 6
+15:51:14  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0741C: CULVER1980,Middendorp-schriftelijk
+
+MDD012    Extent to which one keeps informed about social developments       13
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Very well informed
+              5    Not at all
+
+MDD013    Extent to which social developments influence one's own opin       14
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Very strongly
+              5    Not at all
+
+MDD014    My opinions in various matters are: ..(progressive-conservat       15
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Ahead of what most others think
+              2    About the same as of others
+              3    Like people thought in the past
+
+MDD015    Left -right rating of: CDA (Christian Democrats)                   16
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Extreme left
+              7    Extreme right
+
+11 Apr 05                                                                 Page 7
+15:51:14  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0741C: CULVER1980,Middendorp-schriftelijk
+
+MDD016    Left -right rating of:  PvdA (Labour Party)                        17
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Extreme left
+              7    Extreme right
+
+MDD017    Left -right rating of: VVD (+/-Conservatives)                      18
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Extreme left
+              7    Extreme right
+
+MDD018    Left -right rating of:  D66 (+/-Liberals)                          19
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Extreme left
+              7    Extreme right
+
+MDD019    Customs and traditions in society are essential for man            20
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Very strongly agree
+              7    Very strongly disagree
+
+11 Apr 05                                                                 Page 8
+15:51:14  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0741C: CULVER1980,Middendorp-schriftelijk
+
+MDD020    One should strive for maximum social change to realise ideal       21
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Very strongly agree
+              7    Very strongly disagree
+
+MDD021    Government intervention only leads to bureaucracy and econom       22
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Very strongly agree
+              7    Very strongly disagree
+
+MDD022    Flourishing economy only possible when govenment regulates p       23
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Very strongly agree
+              7    Very strongly disagree
+
+MDD023    Existing social differences are mainly caused by unequal edu       24
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Very strongly agree
+              7    Very strongly disagree
+
+11 Apr 05                                                                 Page 9
+15:51:14  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0741C: CULVER1980,Middendorp-schriftelijk
+
+MDD024    The existence of classes and ranks is necessary for the well       25
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Very strongly agree
+              7    Very strongly disagree
+
+MDD025    It's impossible to fight unemployment, maintain purchasing p       26
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Strongly agree
+              5    Strongly disagree
+
+MDD026    V16 Man is: good  -  bad                                           27
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Strongly agree with first
+              4    Neutral
+              7    Strongly agree with second
+
+MDD027    V16 Man is: weak  -  strong                                        28
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Strongly agree with first
+              4    Neutral
+              7    Strongly agree with second
+
+11 Apr 05                                                                Page 10
+15:51:14  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0741C: CULVER1980,Middendorp-schriftelijk
+
+MDD028    V16 Man is: equal  -  unequal                                      29
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Strongly agree with first
+              4    Neutral
+              7    Strongly agree with second
+
+MDD029    V16 Man is: wise  -  unwise                                        30
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Strongly agree with first
+              4    Neutral
+              7    Strongly agree with second
+
+MDD030    V16 Man is: complicated  -  simple                                 31
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Strongly agree with first
+              4    Neutral
+              7    Strongly agree with second
+
+MDD031    V16 Man is: dependent  -  independent                              32
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Strongly agree with first
+              4    Neutral
+              7    Strongly agree with second
+
+11 Apr 05                                                                Page 11
+15:51:14  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0741C: CULVER1980,Middendorp-schriftelijk
+
+MDD032    V16 Man is: determined by natural endowment  - determined by       33
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Strongly agree with first
+              4    Neutral
+              7    Strongly agree with second
+
+MDD033    V16 Man is: egoistic  -  altruistic                                34
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Strongly agree with first
+              4    Neutral
+              7    Strongly agree with second
+
+MDD034    V16 Man is: gentle  -  aggressive                                  35
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Strongly agree with first
+              4    Neutral
+              7    Strongly agree with second
+
+MDD035    V16 Man is: emotional  -  rational                                 36
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Strongly agree with first
+              4    Neutral
+              7    Strongly agree with second
+
+11 Apr 05                                                                Page 12
+15:51:14  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0741C: CULVER1980,Middendorp-schriftelijk
+
+MDD036    V16 Man is: materialistic  -  idealistic                           37
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Strongly agree with first
+              4    Neutral
+              7    Strongly agree with second
+
+MDD037    Society is a balanced whole. built of various groups               38
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Strongly agree
+              7    Strongly disagree
+
+MDD038    Social development is determined by the pursuit of interest        39
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Strongly agree
+              7    Strongly disagree
+
+MDD039    Social relationships are determined by the clash of intersts       40
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Strongly agree
+              7    Strongly disagree
+
+11 Apr 05                                                                Page 13
+15:51:14  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0741C: CULVER1980,Middendorp-schriftelijk
+
+MDD040    Current society is shaped by and based on the wisdom of our        41
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Strongly agree
+              7    Strongly disagree
+
+MDD041    Society consists of groups with antagonistic intersts fighti       42
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Strongly agree
+              7    Strongly disagree
+
+MDD042    Social development is determined by the pursuit of personal        43
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Strongly agree
+              7    Strongly disagree
+
+MDD043    Current society is based mainly on obsolete ideas                  44
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Strongly agree
+              7    Strongly disagree
+
+11 Apr 05                                                                Page 14
+15:51:14  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0741C: CULVER1980,Middendorp-schriftelijk
+
+MDD044    Society is made of individuals looking after their personal        45
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Strongly agree
+              7    Strongly disagree
+
+MDD045    Social development is an automatic process, following it's o       46
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Strongly agree
+              7    Strongly disagree
+
+MDD046    Social relationships are determined by class-conflict              47
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Strongly agree
+              7    Strongly disagree
+
+MDD047    Current society is the result of the activities of  individu       48
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Strongly agree
+              7    Strongly disagree
+
+11 Apr 05                                                                Page 15
+15:51:14  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0741C: CULVER1980,Middendorp-schriftelijk
+
+MDD048    Societal relationships show a high degree of harmony               49
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Strongly agree
+              7    Strongly disagree
+
+MDD049    A better society will not produce better people (vs. yes, it       50
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Much more agree with first
+              7    Much more agree with second
+
+MDD050    Society should be more in accordance with general principles       51
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Much more agree with first
+              7    Much more agree with second
+
+MDD051    Social change should be in the hands of wise men (vs. ordina       52
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Much more agree with first
+              7    Much more agree with second
+
+11 Apr 05                                                                Page 16
+15:51:14  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0741C: CULVER1980,Middendorp-schriftelijk
+
+MDD052    Social change  can be managed (vs. is a natural process not        53
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Much more agree with first
+              7    Much more agree with second
+
+MDD053    Social change should be brought about gradually and carefull       54
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Much more agree with first
+              7    Much more agree with second
+
+MDD054    Social change needs to be brought about in various areas at        55
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Much more agree with first
+              7    Much more agree with second
+
+MDD055    Social developments should be rerouted in a planned fashion        56
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Much more agree with first
+              7    Much more agree with second
+
+11 Apr 05                                                                Page 17
+15:51:14  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0741C: CULVER1980,Middendorp-schriftelijk
+
+MDD056    Social change should preserve the many good things in societ       57
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Much more agree with first
+              7    Much more agree with second
+
+MDD057    Individual rights should be subordinate to the public intere       58
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Much more agree with first
+              7    Much more agree with second
+
+MDD058    There are universal human rights (vs. human rights should be       59
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Much more agree with first
+              7    Much more agree with second
+
+MDD059    Social duties should be fulfilled, before one can claim one'       60
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Much more agree with first
+              7    Much more agree with second
+
+11 Apr 05                                                                Page 18
+15:51:14  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0741C: CULVER1980,Middendorp-schriftelijk
+
+MDD060    Quality of society can be measured by universally valid prin       61
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Much more agree with first
+              7    Much more agree with second
+
+MDD061    Lawfull public authority should be based on customs and trad       62
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Much more agree with first
+              7    Much more agree with second
+
+MDD062    Public authority can only be accepted if the people accepts        63
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Much more agree with first
+              7    Much more agree with second
+
+MDD063    Some countries are not ripe for democracy (vs. democracy fit       64
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Much more agree with first
+              7    Much more agree with second
+
+11 Apr 05                                                                Page 19
+15:51:14  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0741C: CULVER1980,Middendorp-schriftelijk
+
+MDD064    Important political decisions should be made by the joint po       65
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Much more agree with first
+              7    Much more agree with second
+
+MDD065    Direct democracy - one man one vote - works specially well i       66
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Much more agree with first
+              7    Much more agree with second
+
+MDD066    Private property should be abolished as far as it is in soci       67
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Much more agree with first
+              7    Much more agree with second
+
+MDD067    Differences in income and property are not justified by diff       68
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Much more agree with first
+              7    Much more agree with second
+
+11 Apr 05                                                                Page 20
+15:51:14  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0741C: CULVER1980,Middendorp-schriftelijk
+
+MDD068    Differences in reward are necessary as stimulus for better p       69
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Much more agree with first
+              7    Much more agree with second
+
+MDD069    Differences in wealth are due to the domination of the weak        70
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Much more agree with first
+              7    Much more agree with second
+
+MDD070    Private property is essential for personal freedom (vs. pers       71
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Much more agree with first
+              7    Much more agree with second
+
+MDD071    Government should intervene as little as possible in natural       72
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Much more agree with first
+              7    Much more agree with second
+
+11 Apr 05                                                                Page 21
+15:51:14  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0741C: CULVER1980,Middendorp-schriftelijk
+
+MDD072    Governement policy should be radical and energetic (vs. prud       73
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Much more agree with first
+              7    Much more agree with second
+
+MDD073    Main government task is in socio-economic area (vs. is in mo       74
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Much more agree with first
+              7    Much more agree with second
+
+MDD074    Government policy should mainly be determined by able and wi       75
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Much more agree with first
+              7    Much more agree with second
+
+MDD075    Our economic system is in tune with human nature (vs. stimul       76
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Much more agree with first
+              7    Much more agree with second
+
+11 Apr 05                                                                Page 22
+15:51:14  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0741C: CULVER1980,Middendorp-schriftelijk
+
+MDD076    Government must divert private property to public use if nec       77
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Much more agree with first
+              7    Much more agree with second
+
+MDD077    Citizens should take care of themselves as much as possible        78
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Much more agree with first
+              7    Much more agree with second
+
+MDD078    Government care should be as widespread as possible (vs. as        79
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Much more agree with first
+              7    Much more agree with second
+
+MDD246    Customs and traditions limit personal freedom (vs. customs a       80
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Much more agree with first
+              7    Much more agree with second
+
+11 Apr 05                                                                Page 23
+15:51:14  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0741C: CULVER1980,Middendorp-schriftelijk
+
+MDD248    Social change only when necessary (vs. social change as much       81
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Much more agree with first
+              7    Much more agree with second
+
+MDD250    Social change should be oriented towards eradicating obsolet       82
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Much more agree with first
+              7    Much more agree with second
+
+MDD252    Limiting freedom of enterprise does not lead to loss of othe       83
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Much more agree with first
+              7    Much more agree with second
+
+MDD254    Much government intervention only leads to bureaucracy and e       84
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Much more agree with first
+              7    Much more agree with second
+
+11 Apr 05                                                                Page 24
+15:51:14  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0741C: CULVER1980,Middendorp-schriftelijk
+
+MDD255    Government regulation of private initiative is necessary for       85
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Much more agree with first
+              7    Much more agree with second
+
+MDD258    Government care from cradle to grave leads to deterioration        86
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Much more agree with first
+              7    Much more agree with second
+
+MDD260    Existing social differences caused by different inborn capab       87
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Much more agree with first
+              7    Much more agree with second
+
+MDD261    Existence of classes and ranks is unfair (vs.is necessary fo       88
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Much more agree with first
+              7    Much more agree with second
+
+11 Apr 05                                                                Page 25
+15:51:14  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0741C: CULVER1980,Middendorp-schriftelijk
+
+MDD262    In current society differences in social class are no longer       89
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Much more agree with first
+              7    Much more agree with second
+
+MDD263    All social groups can live in harmony without changing exist       90
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Much more agree with first
+              7    Much more agree with second
+
+MDD264    Current distribution of power limits the freedom of many (vs       91
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Much more agree with first
+              7    Much more agree with second
+
+MDD409    Approval of: sit-demonstrations, mass-gatherings, protest ma       92
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  Don't know
+              1    Approve
+              2    Don't care much
+              3    Disapprove
+
+11 Apr 05                                                                Page 26
+15:51:14  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0741C: CULVER1980,Middendorp-schriftelijk
+
+MDD410    Approval of: police arresting participants of demonstrations       93
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  Don't know
+              1    Approve
+              2    Don't care much
+              3    Disapprove
+
+MDD411    Approval of: occupation of schools by parents disagreeing wi       94
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  Don't know
+              1    Approve
+              2    Don't care much
+              3    Disapprove
+
+MDD412    Approval of: teachers participating in occupations being fir       95
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  Don't know
+              1    Approve
+              2    Don't care much
+              3    Disapprove
+
+MDD413    Approval of: unofficial strike against the firing of fellow        96
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  Don't know
+              1    Approve
+              2    Don't care much
+              3    Disapprove
+
+11 Apr 05                                                                Page 27
+15:51:14  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0741C: CULVER1980,Middendorp-schriftelijk
+
+MDD414    Approval of: police clearing firms, occupied by strikers           97
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  Don't know
+              1    Approve
+              2    Don't care much
+              3    Disapprove
+
+MDD079    V20 Cause current economic crisis: high energy prices              98
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    very important
+              7    completely unimportant
+
+MDD080    V20 Cause current economic crisis: high wages                      99
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    very important
+              7    completely unimportant
+
+MDD081    V20 Cause current economic crisis: low productivity               100
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    very important
+              7    completely unimportant
+
+11 Apr 05                                                                Page 28
+15:51:14  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0741C: CULVER1980,Middendorp-schriftelijk
+
+MDD082    V20 Cause current economic crisis: decreasing world trade         101
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    very important
+              7    completely unimportant
+
+MDD083    V20 Cause current economic crisis: high prices of raw materi      102
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    very important
+              7    completely unimportant
+
+MDD084    V20 Cause current economic crisis: too many people living on      103
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    very important
+              7    completely unimportant
+
+MDD085    V20 Cause current economic crisis: low profits                    104
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    very important
+              7    completely unimportant
+
+11 Apr 05                                                                Page 29
+15:51:14  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0741C: CULVER1980,Middendorp-schriftelijk
+
+MDD086    V20 Cause current economic crisis: competition of low-wage c      105
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    very important
+              7    completely unimportant
+
+MDD087    V20 Cause current economic crisis: insufficient investments       106
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    very important
+              7    completely unimportant
+
+MDD088    V20 Cause current economic crisis: insufficient willingnes t      107
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    very important
+              7    completely unimportant
+
+MDD089    V20 Cause current economic crisis: most people already have       108
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    very important
+              7    completely unimportant
+
+11 Apr 05                                                                Page 30
+15:51:14  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0741C: CULVER1980,Middendorp-schriftelijk
+
+MDD090    V20 Cause current economic crisis: outdated production metho      109
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    very important
+              7    completely unimportant
+
+MDD091    V20 Cause current economic crisis: high government spending       110
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    very important
+              7    completely unimportant
+
+MDD092    V20 Cause current economic crisis: bad management in firms        111
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    very important
+              7    completely unimportant
+
+MDD093    Compared to 5-10 yrs ago: I think more that people should st      112
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Absolutely right
+              5    Absolutely wrong
+
+11 Apr 05                                                                Page 31
+15:51:14  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0741C: CULVER1980,Middendorp-schriftelijk
+
+MDD094    Compared to 5-10 yrs ago: I have a stronger need to pamper m      113
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Absolutely right
+              5    Absolutely wrong
+
+MDD095    Compared to 5-10 yrs ago: I'm more interested in the problem      114
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Absolutely right
+              5    Absolutely wrong
+
+MDD096    Compared to 5-10 yrs ago: I'm more after my own interest          115
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Absolutely right
+              5    Absolutely wrong
+
+MDD097    Compared to 5-10 yrs ago: I care more about others outside m      116
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Absolutely right
+              5    Absolutely wrong
+
+11 Apr 05                                                                Page 32
+15:51:14  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0741C: CULVER1980,Middendorp-schriftelijk
+
+MDD098    Compared to 5-10 yrs ago: I often more clearly express my op      117
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Absolutely right
+              5    Absolutely wrong
+
+MDD099    Compared to 5-10 yrs ago: I stand up for myself more often        118
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Absolutely right
+              5    Absolutely wrong
+
+MDD100    Compared to 5-10 yrs ago: I'm often getting jealous quicker       119
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Absolutely right
+              5    Absolutely wrong
+
+MDD101    Compared to 5-10 yrs ago: I'm more after satisfying my own n      120
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Absolutely right
+              5    Absolutely wrong
+
+11 Apr 05                                                                Page 33
+15:51:14  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0741C: CULVER1980,Middendorp-schriftelijk
+
+MDD102    Compared to 5-10 yrs ago: I go my own way more                    121
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Absolutely right
+              5    Absolutely wrong
+
+MDD103    Compared to 5-10 yrs ago: I think more about my financial si      122
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Absolutely right
+              5    Absolutely wrong
+
+MDD104    Compared to 5-10 yrs ago: I pay more attention to what other      123
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Absolutely right
+              5    Absolutely wrong
+
+MDD105    Customs and traditions mostly limit people's freedom              124
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Very strongly agree
+              7    Very strongly disagree
+
+11 Apr 05                                                                Page 34
+15:51:14  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0741C: CULVER1980,Middendorp-schriftelijk
+
+MDD106    One should change society only when it has been found to be       125
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Very strongly agree
+              7    Very strongly disagree
+
+MDD107    Large amount of governments interference leads to planning a      126
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Very strongly agree
+              7    Very strongly disagree
+
+MDD108    Private initiative is the motor of a blooming economy             127
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Very strongly agree
+              7    Very strongly disagree
+
+MDD109    Existing soxial differences are mainly due to inborn abiliti      128
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Very strongly agree
+              7    Very strongly disagree
+
+11 Apr 05                                                                Page 35
+15:51:14  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0741C: CULVER1980,Middendorp-schriftelijk
+
+MDD110    Existence of classes and ranks is unjust                          129
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Very strongly agree
+              7    Very strongly disagree
+
+MDD111    Evaluation of: pricecontrol by government                         130
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Very positive
+              6    Very negative
+
+MDD112    Evaluation of:sexual freedom                                      131
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Very positive
+              6    Very negative
+
+MDD113    Evaluation of: aristocracy                                        132
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Very positive
+              6    Very negative
+
+11 Apr 05                                                                Page 36
+15:51:14  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0741C: CULVER1980,Middendorp-schriftelijk
+
+MDD114    Evaluation of: nationalizing big enterprises                      133
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Very positive
+              6    Very negative
+
+MDD115    Evaluation of: demonstrations                                     134
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+             -6 M  NA
+             -3 M  No opin.
+              1    Very positive
+              6    Very negative
+
+MDD116    Evaluation of: equal chances                                      135
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Very positive
+              6    Very negative
+
+MDD117    Evaluation of: freedom of speech                                  136
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Very positive
+              6    Very negative
+
+11 Apr 05                                                                Page 37
+15:51:14  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0741C: CULVER1980,Middendorp-schriftelijk
+
+MDD118    Evaluation of: private property                                   137
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Very positive
+              6    Very negative
+
+MDD119    Evaluation of: government care                                    138
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Very positive
+              6    Very negative
+
+MDD120    Evaluation of: capitalism                                         139
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Very positive
+              6    Very negative
+
+MDD121    Evaluation of: employee participation                             140
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Very positive
+              6    Very negative
+
+11 Apr 05                                                                Page 38
+15:51:14  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0741C: CULVER1980,Middendorp-schriftelijk
+
+MDD122    Evaluation of: respect for parents                                141
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Very positive
+              6    Very negative
+
+MDD123    Best solution for government to balance the budget                142
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Raise taxes
+              2    Print more money
+              3    Cut government expenses
+
+MDD124    Last 5 years change in: freedom of speech                         143
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Much more/larger
+              5    Much less/smaller
+
+MDD125    Last 5 years change in: employee participation in firms           144
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Much more/larger
+              5    Much less/smaller
+
+11 Apr 05                                                                Page 39
+15:51:14  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0741C: CULVER1980,Middendorp-schriftelijk
+
+MDD126    Last 5 years change in: social security                           145
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Much more/larger
+              5    Much less/smaller
+
+MDD127    Last 5 years change in: women's emancipation                      146
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Much more/larger
+              5    Much less/smaller
+
+MDD128    Last 5 years change in: tolerance towards homosexuals             147
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Much more/larger
+              5    Much less/smaller
+
+MDD129    Last 5 years change in: development aid                           148
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Much more/larger
+              5    Much less/smaller
+
+11 Apr 05                                                                Page 40
+15:51:14  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0741C: CULVER1980,Middendorp-schriftelijk
+
+MDD130    Last 5 years change in: retaining traditional religion            149
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Much more/larger
+              5    Much less/smaller
+
+MDD131    Last 5 years change in: student democracy at universities         150
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Much more/larger
+              5    Much less/smaller
+
+MDD132    Last 5 years change in: differences in income and property        151
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Much more/larger
+              5    Much less/smaller
+
+MDD133    Last 5 years change in: municipal and regional democracy          152
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Much more/larger
+              5    Much less/smaller
+
+11 Apr 05                                                                Page 41
+15:51:14  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0741C: CULVER1980,Middendorp-schriftelijk
+
+MDD134    Last 5 years change in: firmness of unions' policy                153
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Much more/larger
+              5    Much less/smaller
+
+MDD135    Last 5 years change in: subsidies for art                         154
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Much more/larger
+              5    Much less/smaller
+
+MDD136    Government activity last 5 years regarding: raising minimum       155
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Much more done
+              2    Much less done
+
+MDD137    Government activity last 5 years regarding: controlling pric      156
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Much more done
+              2    Much less done
+
+11 Apr 05                                                                Page 42
+15:51:14  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0741C: CULVER1980,Middendorp-schriftelijk
+
+MDD138    Government activity last 5 years regarding: reducing differe      157
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Much more done
+              2    Much less done
+
+MDD139    Government activity last 5 years regarding: controlling busi      158
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Much more done
+              2    Much less done
+
+MDD140    Government activity last 5 years regarding: starting day-car      159
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Much more done
+              2    Much less done
+
+MDD141    Government activity last 5 years regarding: building afforda      160
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Much more done
+              2    Much less done
+
+11 Apr 05                                                                Page 43
+15:51:14  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0741C: CULVER1980,Middendorp-schriftelijk
+
+MDD142    Government activity last 5 years regarding:  creating educta      161
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No opin.
+              1    Much more done
+              2    Much less done
+
+MDD143    Government policy changes due to van Agt-den Uyl political d      162
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -3, -5, -6
+
+          Value    Label
+
+             -6 M  NA
+             -3 M  No judgement
+              1    Political signature
+              2    Economic situation
+              3    Both
+
+11 Apr 05                                                                Page 44
+15:51:14  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+  18  set listing 'p0741c.doc'.

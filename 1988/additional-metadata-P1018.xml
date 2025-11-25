@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codebook>
+<docDscr>
+<citation>
+<titlStmt>
+<IDNo><![CDATA[P1018]]></IDNo>
+</titlStmt>
+</citation>
+</docDscr>
+<stdyDescr>
+<citation>
+<titlStmt>
+<titl><![CDATA[-]]></titl>
+<parTitl><![CDATA[-]]></parTitl>
+<IDNo><![CDATA[P1018]]></IDNo>
+</titlStmt>
+<prodStmt>
+<prodPlac><![CDATA[NIWI]]></prodPlac>
+</prodStmt>
+<distStmt>
+<depDate><![CDATA[1990-01-01]]></depDate>
+</distStmt>
+</citation>
+<stdyInfo>
+<sumDscr>
+<timePrd><![CDATA[1988 * 1989]]></timePrd>
+<timePrd><![CDATA[1988]]></timePrd>
+<timePrd><![CDATA[1989]]></timePrd>
+<collDate><![CDATA[1988-11-01]]></collDate>
+<collDate><![CDATA[1989-01-31]]></collDate>
+<nation><![CDATA[Netherlands]]></nation>
+<anlyUnit><![CDATA[individuals]]></anlyUnit>
+<universe><![CDATA[Age limits: 16 years and older
+Location: national
+Name of country: Netherlands]]></universe>
+<dataKind><![CDATA[survey]]></dataKind>
+<dataKind><![CDATA[Survey]]></dataKind>
+</sumDscr>
+</stdyInfo>
+<method>
+<dataColl>
+<datacollector><![CDATA[NIPO * Amsterdam, the Netherlands]]></datacollector>
+<sampProc><![CDATA[multi-stage sample: municipality, addresses, persons * stratified sample: number of households in municipality  Number of unit original/losses: nr. of units in original sample: 2680 * nr. of losses: 647 * nr. of cases: 2033]]></sampProc>
+<collMode><![CDATA[interview]]></collMode>
+<resInstru><![CDATA[structured quest.]]></resInstru>
+<weight><![CDATA[no weighting]]></weight>
+<fileDescr>
+<fileTxt>
+<fileName><![CDATA[P1018]]></fileName>
+</fileTxt>
+<dimensns>
+<caseQnty><![CDATA[2033]]></caseQnty>
+<varQnty><![CDATA[573]]></varQnty>
+</dimensns>
+<fileType><![CDATA[spss-file labelled]]></fileType>
+<dataChck><![CDATA[complete study stored]]></dataChck>
+<verStmt>
+</verStmt>
+</fileDescr>
+</dataColl>
+</method>
+</stdyDescr>
+</codebook>

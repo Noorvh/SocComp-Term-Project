@@ -1,0 +1,608 @@
+
+  17  display documents.
+02 Apr 04                                                               Page 168
+13:01:39  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P1052 CULTURELE VERANDERINGEN IN NEDERLAND 1989
+
+DOCUMENTS      Enige opmerkingen bij het gebruik van het bestand.
+               Ondervragingsperiode: augustus 1989 - november 1989.
+               Bruto 2646 cases, 638 non-response, 2008 netto.
+               De vragenlijst bestaat uit een mondeling deel met de
+               variabelen VAR... voor de typisch authentieke vragen uit
+               de Culturele Veranderingen reeks, alsmede variabelen
+               V... die betrekking hebben op de leefsituatie.
+               Daarnaast is een schriftelijk onderdeel met de
+               variabelen INT... ten behoeve van het
+               internationale onderzoek.
+
+               Er zijn twee huishoudboxen met afwijkende definitie.
+               Afleidingen kunnen dus tot verschillende uitkomsten
+               leiden! Als je wilt weten hoeveel mensen samen om tafel
+               zitten moet je de NIPO-box met de variabelen VAR906 t/m
+               VAR929 hanteren. De gezinssamenstelling en relaties met
+               betrekking tot het hoofd moeten uit de SCP-box met de
+               variabelen V005 alsmede V017.. - V020.. gehaald worden.
+
+               UITGEVOERDE KONTROLES
+
+               - De SCP-box is volledig ingevuld voor alle
+                 personen.
+               - Ieder huishouden heeft een hoofd
+               - Eenpersoonshuishouden bestaat ook uit slechts een
+                 persoon
+               - leeftijdsverschil HHH met kinderen of ouders
+                 acceptabel
+               - De variabele RESPNR is uniek, doch het bestand is niet
+                 gesorteerd op deze variabele.]
+               - De persoonsgegevens van de respondent komen overeen
+                 met de NIPO-box met uitzondering van twee gevallen
+                 waar de leeftijd verschillend is.
+                 M.b.t. de SCP-box is leeftijd aannemelijk afwijkend.
+                 De verschillen zijn te verklaren door niet volledig
+                 mogelijke omzetting van geboortejaar naar leeftijd.
+               - De huishoudgroottes gebaseerd op de verschillende
+                 boxen wijken om verklaarbare reden iets af. Slechts 24
+                 afwijkingen.
+               - De variabelen zijn gekontroleerd op hun
+                 definitiegebied.
+
+
+               CULTURELE VERANDERINGEN 1989:  VARNAME -> VRAAGNUMMER
+               VARNAME:   VRAAGNR:
+
+               RESPNR   -  0 Uniek respondentnummer/
+               VAR900J  -  0 NIPO enqueteursnummer       /
+               VAR629   -  0 provincie   /
+               VAR630   -  0 gemeentegrootte     /
+               VAR633   -  0 wijkkode    /
+               VAR632A  -  0 gemeentenummer CBS  /
+               POSCO1   -  0 postcode cijfers    /
+               POSCO2   -  0 postcode letters    /
+               VAR632D  -  0 postcodegebied      /
+               VAR632B  -  0 econ. geografisch gebied    /
+               VAR628   -  0 Nodaal gebied       /
+02 Apr 04                                                               Page 169
+13:01:39  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+               VAR627   -  0 Cebuco-distrikt     /
+               VAR632C  -  0 coropgebied /
+               VAR626   -  0 Nielsen-distrikt    /
+               VAR631   -  0 urbanisatiegraad CBS        /
+               VAR901   -  0 kleur omslag formulier      /
+               VAR902   -  0 aantal bruikbare gesprekken /
+               VAR905   -  0 reden geen gesprek  /
+               VAR903   -  0 1e of enige te ondervragen persoon  /
+               VAR904   -  0 2e te ondervragen persoon   /
+               VAR906   -  0 sexe mannelijk gezinshoofd  /
+               VAR907   -  0 leeftijd mannelijk gezinshoofd      /
+               VAR908   -  0 sexe vrouwelijk gezinshoofd /
+               VAR909   -  0 leeftijd vrouwelijk gezinshoofd     /
+               VAR910   -  0 sexe oudste kind    /
+               VAR911   -  0 leeftijd oudste kind        /
+               VAR912   -  0 sexe 2e kind        /
+               VAR913   -  0 leeftijd 2e kind    /
+               VAR914   -  0 sexe 3e kind        /
+               VAR915   -  0 leeftijd 3e kind    /
+               VAR916   -  0 sexe 4e kind        /
+               VAR917   -  0 leeftijd 4e kind    /
+               VAR918   -  0 sexe 5e kind        /
+               VAR919   -  0 leeftijd 5e kind    /
+               VAR920   -  0 sexe 6e kind        /
+               VAR921   -  0 leeftijd 6e kind    /
+               VAR922   -  0 sexe 7e kind        /
+               VAR923   -  0 leeftijd 7e kind    /
+               VAR924   -  0 sexe 8e kind        /
+               VAR925   -  0 leeftijd 8e kind    /
+               VAR926   -  0 sexe ander gezinslid <oudste>       /
+               VAR927   -  0 leeftijd ander gezinslid <oudste>   /
+               VAR928   -  0 sexe ander gezinslid        /
+               VAR929   -  0 leeftijd ander gezinslid    /
+               VAR000   -  0 eerste of tweede ondervraagde       /
+               VAR001   -  1 sexe respondent     /
+               VAR002   -  2 leeftijd respondent /
+               VAR003   -  3 burgerlijke staat   /
+               INT001   M 04 Years of education since 6th birthday/
+               VAR006   -  5 laatst genoten opleiding    /
+               V200     -  6 O.P. hoogste diploma AVO    /
+               V201     -  7 O.P. hoogste diploma beroepsondw    /
+               V040     -  8 doet O.P. betaald werk      /
+               VAR723   -  9 aantal betaalde arbeidsuren per wk  /
+               V202     - 10 eigen maatschappelijke indeling     /
+               VAR722   - 11 aantal maanden werkloos     /
+               V041     - 12 vroeger wel werkkring       /
+               VAR016   - 14 respondent <vroeger> werkzaam als   /
+               V049     - 16 dienstverband O.P.  /
+               INT004   M 17 Number of people under guidance/
+               VAR017   - 18 gezinshoofd <vroeger> werkzaam als  /
+               V203     - 19 aantal jaren betaalde arbeid        /
+               V204     - 20 aantal arbeidsmaanden sinds 5 jaar  /
+               INT201   M 22 Second paid job                     /
+               INT202   M 23 Paid hours main job                 /
+               INT203   M 24 Paid hours secondary jobs           /
+               VAR810   - 25 bereidh tot halve dg ADV p wk       /
+               VAR643   - 26 bereidh tot half uur ADV p dag      /
+               VAR645   - 27 bereidh extra wk vak als ADV        /
+               V054     - 28 ploegendienst       /
+02 Apr 04                                                               Page 170
+13:01:39  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+               V055     - 29 werkomgeving lawaai /
+               V056     - 30 vuil werk   /
+               V05701   - 31 werkomst. stank     /
+               V05702   - 31 werkomst. gevaarlijk werk   /
+               V05703   - 31 werkomst. lich. zwaar werk  /
+               V05704   - 31 werkomst. hoog tempo        /
+               V05705   - 31 werkomst. eentonig werk     /
+               V05801   - 32 uitspr. werk kan mij ontplooien     /
+               V05802   - 32 uitspr. werk sluit aan bij opl.     /
+               V05803   - 32 uitspr. werk baan is safe   /
+               V05804   - 32 uitspr. werk goede promotiekansen   /
+               V05805   - 32 uitspr. werk goede beloning /
+               V059     - 33 plezier in werk     /
+               V12501   - 34 politiek    /
+               V12502   - 34 vrijwwrk: beroepsorganisatie ed     /
+               V12503   - 34 vrijwwrk: godsdienst        /
+               V12504   - 34 vrijwwrk: zang, muziek ed   /
+               V12505   - 34 vrijwwrk: anders cultureel  /
+               V12506   - 34 vrijwwrk: sport     /
+               V12507   - 34 vrijwwrk: hobby     /
+               V12508   - 34 vrijwwrk: hulp op school    /
+               V12509   - 34 vrijwwrk: schoolbestuur ed  /
+               V12510   - 34 vrijwwrk: vrouwenvereniging /
+               V12511   - 34 vrijwwrk: kinderopvang      /
+               V12512   - 34 vrijwwrk: jeugdwerk /
+               V12513   - 34 vrijwwrk: vrouwencafe       /
+               V12514   - 34 vrijwwrk: burenhulp ed      /
+               V12515   - 34 vrijwwrk: georganiseerde burenhulp  /
+               V12516   - 34 vrijwwrk: overig maatsch doel       /
+               V12517   - 34 vrijwwrk: overige hulpverlening     /
+               V126     - 35 sat.fact. fin. en maatsch. positie  /
+               INT204   M 36 Years education partner since 6th   /
+               V205     - 37 Prtnr hoogste diploma AVO   /
+               V206     - 38 Prtnr hoogste diploma beroepsonderw /
+               V062     - 39 partner betaald werk        /
+               V067     - 40 uren werk per week partner  /
+               V12701   - 41 freq. bezoek sportwedstrijd /
+               V12702   - 41 freq. zwemmen       /
+               V12703   - 41 freq. andere watersport     /
+               V12704   - 41 freq. andere lich. sport    /
+               V12705   - 41 freq. denksport     /
+               V12706   - 41 freq. bezoek concert ed     /
+               V12707   - 41 freq. filmbezoek    /
+               V12708   - 41 freq. beoefenen muziek, fotografie  /
+               V12709   - 41 freq. creatieve activiteiten        /
+               V12710   - 41 freq. doe-het-zelven aan woning     /
+               V12711   - 41 freq. hobbies       /
+               V12712   - 41 freq. spelletjes    /
+               V12713   - 41 freq. fietsen, wandelen ed  /
+               V12714   - 41 freq. bezoek aan clubs ed   /
+               V12715   - 41 freq. bezoek aan dansavond ed       /
+               V12716   - 41 freq. radio luisteren       /
+               V12717   - 41 freq. kijken naar gehuurde video    /
+               V12718   - 41 freq. tv kijken     /
+               V12719   - 41 freq. gebruik van spel-homecomputer /
+               V12720   - 41 freq. luisteren naar pick-up ed     /
+               V12721   - 41 freq. lezen boek ed /
+               V12722   - 41 freq. bezoek aan bibliotheek        /
+               V12723   - 41 freq. sociaal cultureel centrum     /
+02 Apr 04                                                               Page 171
+13:01:39  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+               V12724   - 41 freq. goederenshow ed       /
+               V12725   - 41 freq. museumbezoek  /
+               V12726   - 41 freq. revue ed      /
+               V12727   - 41 freq. bejaardensocieteit ed /
+               V12728   - 41 freq. cafe  /
+               V12729   - 41 freq. winkelen      /
+               V12730   - 41 freq. bezoek recreatiepark  /
+               V12731   - 41 freq. bezoek strand /
+               V12732   - 41 freq. bezoek bos, heide, meren      /
+               V12733   - 41 freq. bezoek stadspark      /
+               V12734   - 41 freq. bezoek monumenten ed  /
+               V12801   - 42 lid van bibliotheek /
+               V12802   - 42 lid van zangvereniging      /
+               V12803   - 42 lid van muziekvereniging    /
+               V12804   - 42 lid van toneelvereniging    /
+               V12805   - 42 lid van godsdienstvereniging        /
+               V12806   - 42 lid van jeugdvereniging     /
+               V12807   - 42 lid van vrouwenvereniging   /
+               V12808   - 42 lid van sportvereniging     /
+               V12809   - 42 lid van hobbyvereniging     /
+               V12810   - 43 lid van overige verenigingen        /
+               V129     - 44 satisfactie vrijetijdsbesteding     /
+               V153     - 45 hoe vaak ontmoeten familieleden     /
+               V154     - 46 bespreken persoonlijke problemen    /
+               V155     - 47 hoe vaak ontmoeten kennissen        /
+               V156     - 48 bespreken persoonlijke problemen    /
+               V157     - 49 hoe vaak kontakt buren      /
+               V158     - 50 bespreken persoonlijke problemen    /
+               V159     - 51 satisfactie vrienden        /
+               VAR027A  - 52 aantal vakanties afgl 12 mnd        /
+               VAR028   - 53 buitenlandse vakantie afgl 12 mnd   /
+               VAR029   - 54 vakantie buiten Europa afgl 12 mnd  /
+               VAR096   - 55 ++-- overheidsgeld v openb voorzien /
+               VAR100   - 56 overh moet: huiswerkvoorz   /
+               VAR101   - 56 overh moet: veel meer studiebeurzen /
+               VAR103   - 56 overh moet: goede woning & goedkoop /
+               VAR107   - 56 overh moet: onderw tot 18e gratis   /
+               VAR109   - 56 overh moet: milieu-verv bestrijden  /
+               VAR121   - 56 overh moet: leerplicht tot 18e jaar /
+               VAR122   - 56 overh moet: meer kunstsubsidies     /
+               VAR124   - 56 overh moet: goedkope creches bouwen /
+               VAR125   - 57 overheidsuitgaven omhoog of omlaag? /
+               VAR126   - 58 zorgen hebben       /
+               VAR127   - 59 vaak angsten hebben /
+               VAR128   - 60 drukkend gevoel     /
+               VAR129   - 61 soms gevoel hebben dat het leven zi /
+               VAR130   - 62 zich soms eenzaam voelen    /
+               VAR131   - 63 zich soms zorgen maken over geldzak /
+               VAR132   - 63 zich soms zorgen maken over politie /
+               VAR133   - 63 zich soms zorgen maken over gezondh /
+               VAR134   - 63 zich soms zorgen maken over het gez /
+               VAR135   - 63 bezorgt over de toekomst?   /
+               VAR951   - 64 verwachting economie over 12 mnd    /
+               VAR952   - 65 verwachting werkloosheid in 12 mnd  /
+               VAR065   - 66 komt crisis of blijft welvaart      /
+               VAR059   - 67is gezin welvarend?  /
+               VAR149   - 68 mate van tevredenheid over inkomen  /
+               VAR150   - 69 oordeel eig ink tov landel ink.verd /
+               VAR151   - 70 hoogte ink mbt opleiding en praktij /
+02 Apr 04                                                               Page 172
+13:01:39  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+               VAR567   - 71 verwachting hoogte inkomens /
+               VAR568   - 72 mate stijging-daling inkomens       /
+               VAR569   - 73 gezien econ situatie moeten inkomen /
+               VAR570   - 74 mate +- inkomens gezien econ situat /
+               VAR571   - 75 verwachting sociale uitkeringen     /
+               VAR572   - 76 mate +- sociale uitkeringen /
+               VAR573   - 77 gezien econ situatie moeten soc uit /
+               VAR574   - 78 mate +- soc uitk gez econ situatie  /
+               VAR575   - 79 met ons inkomen allemaal stap terug /
+               VAR576   - 80 leren leven met minder sociale zeke /
+               VAR154   - 81 de algemene ouderdomswet<AOW> is    /
+               VAR155   - 81 de algemene bijstandswet is /
+               VAR156   - 81 de werkloosheidswet<WW> is  /
+               VAR157   - 81 de alg weduwen- en wezenwet<AWW>    /
+               VAR157A  - 81 arbeidsongeschiktheidswet<WAO,AAW>  /
+               VAR154A  - 81 de ziektewet is     /
+               VAR588   - 82 tolerantie vrijw.werk door werkeloz /
+               VAR813   - 83 tolerantie vrijw.werk door WAO-er   /
+               VAR814   - 84 gaat partner werken zodra hkw werkl /
+               VAR703   - 85 verschil arbeidsinkomen en soc uitk /
+               VAR704   - 86 koers verschil arb.ink en soc uitk  /
+               VAR705   - 87 rechtvrdhd koers arb.ink - soc uitk /
+               VAR706   - 88 kans op verzet van uitkeringstrekke /
+               VAR164   - 89 hoogte inkomensverschillen  /
+               VAR165   - 90 gewenste inkomensverschillen        /
+               VAR166   - 91 gewenste verschillen in bezit       /
+               VAR167   - 92 gewenste inspraak arbeider in bedr  /
+               VAR171   - 93 recht op financ stabiliteit v ink   /
+               VAR179   - 94 vrijheid tot demonstreren?  /
+               VAR180   - 94 vrijheid tot kritiek op koningshuis /
+               VAR181   - 94 vrijheid tot staken voor loonsverho /
+               VAR182   - 94 vrijheid tot weigering militaire di /
+               VAR183   - 94 vrijheid tot bezetting van gebouwen /
+               VAR184   - 94 vrijheid tot publiceren wat men wil /
+               VAR185   - 94 vrijheid tot verkondigen wat men wi /
+               VAR836   - 95 vakbew verantw voor uitk.trekkers   /
+               VAR837   - 95 bijverd werkl minderen op uitkering /
+               VAR838   - 95 geen sollicit.pl indien n passend   /
+               VAR271   - 96 inspraak studenten op bestuur univ  /
+               VAR591   - 96 inspraak ouders in schoolzaken      /
+               VAR272   - 96 inspraak leerl midd scholen en p.a. /
+               VAR273   - 96 inspraak burgers bestuur gem|prov   /
+               VAR367   - 97 eigen indeling sociale klasse O.P.  /
+               VAR342   - 98 standsverschillen moeten kleiner    /
+               VAR593   - 98 sociale uitkeringen in geen geval m /
+               VAR596   - 98 inkomen moet minstens gelijk blijve /
+               VAR994   - 98 verzwijg je drijfveer tenzij voorde /
+               VAR995   - 98 beste omgang bij lieve praatjes     /
+               VAR996   - 98 beste hulp bij eerlijke voorstellin /
+               VAR997   - 98 open kaart altijd het beste /
+               VAR461   - 99 politieke kleur: links - rechts     /
+               VAR274   -100 gaan stemmen bij verkiezing 2e kamr /
+               VAR275   -101 huidige partijkeuze /
+               VAR491   -102 politieke interesse O.P.    /
+               VAR038   -103 ooit 2e kamer-zitting op tv gezien? /
+               VAR039   -104 interesse niet-politieke tv-program /
+               VAR040   -105 regelmaat landelijke politiek lezen /
+               VAR495   -106 recent politieke bijeenkomst bezoch /
+               VAR496   -107 recent ingezet v politieke partij   /
+02 Apr 04                                                               Page 173
+13:01:39  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+               VAR497   -108 lid <geweest> politieke partij      /
+               VAR498   -109 partij waarvan men lid is <geweest> /
+               VAR318   -110 mensen als ik geen invloed op reger /
+               VAR319   -110 minister ed doof voor mensen als ik /
+               VAR320   -110 kamerl dienen machtige gr ipv alg   /
+               VAR321   -110 komt weinig van verkiezingsbelofte  /
+               VAR408   -111 aktie tegen onrechtvaardige wet 2e  /
+               VAR409   -112 goedk onrechtv wet -> zitdemonstr   /
+               VAR592   -113 aktief bij inspraakproc laatste 2 j /
+               VAR599   -114 inspanning landelijk,wereldlijk niv /
+               VAR600   -115 inspanning op gemeentelijk niveau?  /
+               VAR597   -116 recent vakbondsbijeenkomst bezocht? /
+               VAR499   -117 vakbondslid <incl beroepsvere>      /
+               VAR500   -118 aantal jaren dat men vakbondslid is /
+               VAR598   -119 lid werkgevers- of middenstandsorga /
+               VAR204   -120 frekwentie kerkgang /
+               VAR201   -121 kerkgenootschap O.P.        /
+               VAR222   -122 schoolkeuze l.o. eigen kind /
+               VAR223   -123 verhouding tussen politiek en godsd /
+               VAR224   -124 godsd principe: omroepvereniging?   /
+               VAR225   -124 godsd principe: sportvereniging?    /
+               VAR226   -124 godsd principe: vakvereniging?      /
+               VAR227   -124 godsd principe: jeugdvereniging?    /
+               VAR228   -124 godsd principe: politieke partij?   /
+               V162     -125 satisfactie maatschappij    /
+               V023     -126 bouwjaar woning     /
+               V024     -127 aantal kamers       /
+               V025     -128 huur- of eigen woning       /
+               V207     -129 inwonend huishouden /
+               V021     -130 woningtype  /
+               V022     -131 toestand woning     /
+               V03401   -132 broodwinkel vlakbij /
+               V03402   -132 groentewinkel vlakbij       /
+               V03403   -132 bushalte of station vlakbij /
+               V03404   -132 postkantoor vlakbij /
+               V03405   -132 basisschool vlakbij /
+               V03406   -132 huisdok of medisch centrum vlakbij  /
+               V03407   -132 cafe vlakbij        /
+               V03408   -132 groenvoorziening vlakbij    /
+               V03501   -133 sat.fact wonen: verhuizen wenselijk /
+               V03502   -133 sat.fact wonen: leuke kennissn hier /
+               V03503   -133 sat.fact wonen: goed getroffen      /
+               V03504   -133 sat.fact wonen: vervelende buurt    /
+               V03510   -133 sat.fact wonen: moeilijk kontakt    /
+               V03506   -133 sat.fact wonen: hier blijven wonen  /
+               V03507   -133 sat.fact wonen: leven prettig hier  /
+               V03508   -133 sat.fact wonen: graag andere woning /
+               V03509   -133 sat.fact wonen: mensen vriendelijk  /
+               V160     -134 satisfactie huwelijk en gezin       /
+               V036     -135 tevredenheid woonsituatie   /
+               V03701   -136 dure spullen: diaprojector  /
+               V03702   -136 dure spullen: filmapparaat  /
+               V03723   -136 dure spullen: video camera  /
+               V03703   -136 dure spullen: piano of orgel        /
+               V03704   -136 dure spullen: electr boor of zaag   /
+               V03705   -136 dure spullen: electr naaimachine    /
+               V03706   -136 dure spullen: diepvriezer   /
+               V03707   -136 dure spullen: wasdroger     /
+               V03708   -136 dure spullen: kleuren t.v.  /
+02 Apr 04                                                               Page 174
+13:01:39  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+               V03709   -136 dure spullen: zwart-wit t.v.        /
+               V03710   -136 dure spullen: vaatwasmachine        /
+               V03724   -136 dure spullen: magnetron     /
+               V03725   -136 dure spullen: keukenmachine /
+               V03711   -136 dure spullen: video-recorder        /
+               V03712   -136 dure spullen: compact-disc speler   /
+               V03713   -136 dure spullen: home-computer /
+               V03726   -136 dure spullen: personal computer     /
+               V03727   -136 dure spullen: walkman       /
+               V03714   -136 dure spullen: tweede woning /
+               V03715   -137 dure spullen: stacaravan    /
+               V03716   -137 dure spullen: tourcaravan-vouwwagen /
+               V03717   -137 dure spullen: bungalowtent  /
+               V03718   -137 dure spullen: roeiboot-kano /
+               V03719   -137 dure spullen: zeil-of motorboot     /
+               V03720   -137 dure spullen: auto  /
+               V03721   -137 dure spullen: motor of scooter      /
+               V03722   -137 dure spullen: bromfiets     /
+               V13001   -138 verhuizing binnen woonplaats        /
+               V13002   -138 verhuizing buiten woonplaats        /
+               V13003   -138 aangaan financiele verplichting     /
+               V13004   -138 achteruitgang financiele positie    /
+               V13005   -138 werkloos geworden   /
+               V13006   -138 begonnen met werken /
+               V13007   -138 gezinsuitbreiding   /
+               V13008   -138 ernstige spanningen /
+               V13009   -138 kind het huis verlaten      /
+               V13010   -139 ernstige ziekte     /
+               V13011   -139 overlijden partner  /
+               V13012   -139 overlijden gezinslid, vriend        /
+               V13013   -139 verslechtering gezondheid   /
+               V13014   -139 echtscheiding       /
+               V13015   -139 getrouwd    /
+               V13016   -139 gaan samenwonen     /
+               V131     -140 gezondheidstoestand /
+               V13201   -141 aand: astma /
+               V13202   -141 aand: chronische bronchitis /
+               V13203   -141 aand: neusbijholte ontsteking       /
+               V13204   -141 aand: tuberculose   /
+               V13205   -141 aand: hartafwijking /
+               V13206   -141 aand: hoge bloeddruk        /
+               V13207   -141 aand: beroerte      /
+               V13208   -141 aand: spataderen    /
+               V13209   -141 aand: aambeien      /
+               V13210   -141 aand: maagzweer     /
+               V13211   -141 aand: andere maagklachten   /
+               V13212   -141 aand: dikke darm    /
+               V13213   -141 aand: galstenen     /
+               V13214   -141 aand: breuk /
+               V13215   -141 aand: nierstenen    /
+               V13216   -141 aand: chronische blaasontsteking    /
+               V13217   -141 aand: prostaat      /
+               V13218   -141 aand: verzakkingen  /
+               V13219   -141 aand: suikerziekte  /
+               V13220   -141 aand: schildklierafwijking  /
+               V13221   -141 aand: rugaandoening /
+               V13222   -141 aand: reumatische pijnen    /
+               V13223   -141 aand: gewrichtsslijtage     /
+               V13224   -141 aand: epilepsie     /
+02 Apr 04                                                               Page 175
+13:01:39  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+               V13225   -141 aand: migraine      /
+               V13226   -141 aand: eczeem        /
+               V13227   -141 aand: kanker        /
+               V13228   -141 aand: ongeval ernstig       /
+               V133     -142 andere klachten     /
+               V13401   -143 O.P. doof of slechthorend   /
+               V13402   -143 O.P. slechtziend    /
+               V13403   -143 O.P. spraakgebrek   /
+               V135     -144 aantal dagen ziek te bed afgl 3 mnd /
+               V136     -145 ziek thuis afgl 3 mnd       /
+               V137     -146 spreekuur huisarts afgl 3 mnd       /
+               V138     -147 freq. huisarts afgl 3 mnd   /
+               V139     -148 ziekenhuis afgl 12 mnd      /
+               V140     -149 freq. specialist afgl 3 mnd /
+               V141     -150 medicijngebruik afgl 14 dgn /
+               V142     -151 medicijngebruik op recept   /
+               V143     -152 ziektekostenverzekering     /
+               V144     -153 geheel, ten dele of niet verzekerd  /
+               V14501   -154 voeg: opgezette maag        /
+               V14502   -154 voeg: kortademig    /
+               V14503   -154 voeg: pijn in borst of hartstreek   /
+               V14504   -154 voeg: spierpijn, botpijn    /
+               V14505   -154 voeg: moeheid       /
+               V14506   -154 voeg: hoofdpijn     /
+               V14507   -154 voeg: rugpijn       /
+               V14508   -154 voeg: maag van streek       /
+               V14509   -154 voeg: verdoofd gevoel       /
+               V14510   -154 voeg: vlug moe      /
+               V14511   -154 voeg: duizelig      /
+               V14512   -154 voeg: lusteloos     /
+               V14513   -154 voeg: s ochtends moe        /
+               V15001   -155 mtsch.dnstvrl: mtschappelijk werk   /
+               V15002   -155 mtsch.dnstvrl: bedrijfsmtsch. werk  /
+               V15003   -155 mtsch.dnstvrl: sociale dienst       /
+               V15004   -155 mtsch.dnstvrl: gezinsverzorging     /
+               V15005   -155 mtsch.dnstvrl: dienstencentrum      /
+               V15006   -155 mtsch.dnstvrl: bur v levensvragen   /
+               V15007   -155 mtsch.dnstvrl: med. opvoedk bur     /
+               V15008   -155 mtsch.dnstvrl: med. psychotherapie  /
+               V15009   -155 mtsch.dnstvrl: psychiatrische dnst  /
+               V15010   -155 mtsch.dnstvrl: kruisvereniging      /
+               V15011   -155 mtsch.dnstvrl: kraamhulp    /
+               V15012   -155 mtsch.dnstvrl: wijkverpleging       /
+               V15013   -155 mtsch.dnstvrl: geboorteregeling     /
+               V15014   -155 mtsch.dnstvrl: raadsmens    /
+               V15015   -155 mtsch.dnstvrl: wetswinkel   /
+               V15016   -155 mtsch.dnstvrl: JAC, Release /
+               V15017   -155 mtsch.dnstvrl: tel. hulpdienst      /
+               V15018   -155 mtsch.dnstvrl: c.bur alcoh & drugs  /
+               V163     -156 satisfactie leven dat men leidt     /
+               V152     -157 hoe gelukkig bent u /
+               VAR683A  -158 priori woning: met gezin    /
+               VAR683B  -158 priori woning: gastarbeider /
+               VAR683C  -158 priori woning: jongere      /
+               VAR683D  -158 priori woning: Surinaams gezin      /
+               VAR683E  -158 priori woning: andere huidskleur    /
+               VAR683F  -158 priori woning: groot gezin  /
+               VAR683G  -158 priori woning: gezin m kinderen     /
+               VAR683H  -158 priori woning: alleenstaande man    /
+02 Apr 04                                                               Page 176
+13:01:39  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+               VAR728A  -159 priori ontslag: met gezin   /
+               VAR728B  -159 priori ontslag: buitenlander        /
+               VAR728C  -159 priori ontslag: man /
+               VAR728D  -159 priori ontslag: Surinamer   /
+               VAR728E  -159 priori ontslag: jongere     /
+               VAR728F  -159 priori ontslag: blanke      /
+               VAR729A  -160 priori promotie: met gezin  /
+               VAR729B  -160 priori promotie: buitenlander       /
+               VAR729C  -160 priori promotie: man        /
+               VAR729D  -160 priori promotie: Surinamer  /
+               VAR729E  -160 priori promotie: jongere    /
+               VAR729F  -160 priori promotie: blanke     /
+               VAR546   -161 bezwaar tegen buren van ander ras   /
+               VAR758   -162 bezwaar kind gastarb bij eigen k in /
+               VAR759   -163 bezwaar gastarb|Surinamer als colle /
+               VAR941A  -164 hitech: milieutechnologie   /
+               VAR941B  -164 hitech: kommunikatietechnologie          /
+               VAR941C  -164 hitech: computertechnologie              /
+               VAR941D  -164 hitech: automatisering                   /
+               VAR941E  -164 hitech: DNA-technologie                  /
+               VAR941F  -164 hitech: in vitro vertilisatie            /
+               VAR941G  -164 hitech: kernenergie                      /
+               VAR941H  -164 hitech: militaire technologie            /
+               VAR942   -165 hitech: eigen bate                       /
+               VAR943   -166 hitech: bate werksituatie                /
+               VAR944   -167 hitech: confrontatie                     /
+               VAR945   -168 hitech: op de hoogte                     /
+               VAR946   -169 hitech: informatiehonger                 /
+               VAR947   -170 hitech: behoefte meer informatie         /
+               VAR948   -171 hitech: mens moet aanpassen              /
+               VAR949   -171 hitech: wetenschap vrij laten            /
+               VAR950   -171 hitech: oplossingen komen                /
+               V102     -172 eigen inkomen: O.P.?        /
+               V208     -173 netto inkomen O.P.  /
+               V103     -174 voorn. bron inkomen O.P.    /
+               VAR930A  -175 eigen inkomen: man-vader?   /
+               VAR930B  -175 eigen inkomen: vrouw-moeder?        /
+               VAR930C  -175 eigen inkomen: aantal kinderen      /
+               VAR930D  -175 eigen inkomen: aantal anderen       /
+               VAR931   -176 netto gezinsinkomen /
+               VAR462   -177 totaal bruto gezinsinkomen  /
+               V209     -178 voornaamste inkomensbron huishouden /
+               VAR684   -179 samenstelling van het huishouden    /
+               V210     -180 aantal personen in huishouden       /
+               V01701   -181 persoon1 relatie tot hoofd huish    /
+               V01702   -181 persoon2 relatie tot hoofd huish    /
+               V01703   -181 persoon3 relatie tot hoofd huish    /
+               V01704   -181 persoon4 relatie tot hoofd huish    /
+               V01705   -181 persoon5 relatie tot hoofd huish    /
+               V01706   -181 persoon6 relatie tot hoofd huish    /
+               V01707   -181 persoon7 relatie tot hoofd huish    /
+               V01708   -181 persoon8 relatie tot hoofd huish    /
+               V01709   -181 persoon9 relatie tot hoofd huish    /
+               V01710   -181 persoon10 relatie tot hoofd huish   /
+               V01801   -182 persoon1 geboortejaar       /
+               V01802   -182 persoon2 geboortejaar       /
+               V01803   -182 persoon3 geboortejaar       /
+               V01804   -182 persoon4 geboortejaar       /
+               V01805   -182 persoon5 geboortejaar       /
+02 Apr 04                                                               Page 177
+13:01:39  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+               V01806   -182 persoon6 geboortejaar       /
+               V01807   -182 persoon7 geboortejaar       /
+               V01808   -182 persoon8 geboortejaar       /
+               V01809   -182 persoon9 geboortejaar       /
+               V01810   -182 persoon10 geboortejaar      /
+               V01901   -182 persoon1 geslacht   /
+               V01902   -182 persoon2 geslacht   /
+               V01903   -182 persoon3 geslacht   /
+               V01904   -182 persoon4 geslacht   /
+               V01905   -182 persoon5 geslacht   /
+               V01906   -182 persoon6 geslacht   /
+               V01907   -182 persoon7 geslacht   /
+               V01908   -182 persoon8 geslacht   /
+               V01909   -182 persoon9 geslacht   /
+               V01910   -182 persoon10 geslacht  /
+               V02001   -182 persoon1 burgerlijke staat  /
+               V02002   -182 persoon2 burgerlijke staat  /
+               V02003   -182 persoon3 burgerlijke staat  /
+               V02004   -182 persoon4 burgerlijke staat  /
+               V02005   -182 persoon5 burgerlijke staat  /
+               V02006   -182 persoon6 burgerlijke staat  /
+               V02007   -182 persoon7 burgerlijke staat  /
+               V02008   -182 persoon8 burgerlijke staat  /
+               V02009   -182 persoon9 burgerlijke staat  /
+               V02010   -182 persoon10 burgerlijke staat /
+               V005     -183 regelnummer O.P. in huishoudsbox    /
+               VAR900B  -185 datum vraaggesprek: maanddag        /
+               VAR900C  -185 datum vraaggesprek: maand   /
+               VAR900A  -186 duur vraaggesprek in minuten        /
+               VAR900D  -186 bereidheid schriftelijk deel        /
+               VAR900S  S-00 deelname schriftelijk deel  /
+               INT002   S-03 Occupation <present or last one>    /
+               INT003   S-04 Occupational status /
+               INT066   S-32 Present or last job /
+               VAR900E  - 33 O.P.: duur vraaggesprek     /
+               VAR900F  - 34 O.P.: oordeel duur vraaggesprek     /
+               VAR900G  - 33 O.P.: gewenste duur vraaggesprek    /
+               VAR900H  - 33 O.P.: oordeel vraaggesprek  /
+               AE001    -  0 Mosaic type HH      /
+
+   (Entered 25 JUL 90)
+02 Apr 04                                                               Page 178
+13:01:39  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+  18  set listing 'p1052.lab'.

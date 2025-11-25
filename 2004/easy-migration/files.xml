@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<files xsi:schemaLocation="http://easy.dans.knaw.nl/schemas/bag/metadata/files/ http://easy.dans.knaw.nl/schemas/bag/metadata/files/files.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://easy.dans.knaw.nl/schemas/bag/metadata/files/" xmlns:afm="http://easy.dans.knaw.nl/schemas/bag/metadata/afm/" xmlns:dct="http://purl.org/dc/terms/">
+    <file filepath="data/CV 2004 in STATA file format -dta/p1692a.dta">
+        
+        <dct:identifier>easy-file:6189476</dct:identifier>
+        <dct:title>p1692a.dta</dct:title>
+        <dct:format>application/octet-stream</dct:format>
+        <dct:extent>2.0MB</dct:extent>
+        
+        <accessibleToRights>ANONYMOUS</accessibleToRights>
+        <visibleToRights>ANONYMOUS</visibleToRights>
+        
+        
+      </file><file filepath="data/CV 2004 in SPSS file format -por/p1692b.por">
+        
+        <dct:identifier>easy-file:6189434</dct:identifier>
+        <dct:title>p1692b.por</dct:title>
+        <dct:format>application/octet-stream</dct:format>
+        <dct:extent>0.9MB</dct:extent>
+        
+        <accessibleToRights>ANONYMOUS</accessibleToRights>
+        <visibleToRights>ANONYMOUS</visibleToRights>
+        
+        
+      </file><file filepath="data/CV 2004 documentation/p1692.ovz.txt">
+        
+        <dct:identifier>easy-file:6189473</dct:identifier>
+        <dct:title>p1692.ovz.txt</dct:title>
+        <dct:format>image/x-portable-bitmap</dct:format>
+        <dct:extent>0.0MB</dct:extent>
+        
+        <accessibleToRights>ANONYMOUS</accessibleToRights>
+        <visibleToRights>ANONYMOUS</visibleToRights>
+        
+        
+      </file><file filepath="data/CV 2004 in SPSS file format -por/p1692a.por">
+        
+        <dct:identifier>easy-file:6189433</dct:identifier>
+        <dct:title>p1692a.por</dct:title>
+        <dct:format>application/octet-stream</dct:format>
+        <dct:extent>2.7MB</dct:extent>
+        
+        <accessibleToRights>ANONYMOUS</accessibleToRights>
+        <visibleToRights>ANONYMOUS</visibleToRights>
+        
+        
+      </file><file filepath="data/additional-metadata-P1692.xml">
+        
+        <dct:identifier>easy-file:6189475</dct:identifier>
+        <dct:title>additional-metadata-P1692.xml</dct:title>
+        <dct:format>text/xml</dct:format>
+        <dct:extent>0.0MB</dct:extent>
+        
+        <accessibleToRights>ANONYMOUS</accessibleToRights>
+        <visibleToRights>ANONYMOUS</visibleToRights>
+        
+        
+      </file><file filepath="data/CV 2004 in SPSS file format -sav/p1692a.sav">
+        
+        <dct:identifier>easy-file:6189632</dct:identifier>
+        <dct:title>p1692a.sav</dct:title>
+        <dct:format>application/octet-stream</dct:format>
+        <dct:extent>1.9MB</dct:extent>
+        
+        <accessibleToRights>ANONYMOUS</accessibleToRights>
+        <visibleToRights>ANONYMOUS</visibleToRights>
+        
+        
+      </file><file filepath="data/CV 2004 documentation/p1692.pdf">
+        
+        <dct:identifier>easy-file:6189474</dct:identifier>
+        <dct:title>p1692.pdf</dct:title>
+        <dct:format>application/pdf</dct:format>
+        <dct:extent>0.4MB</dct:extent>
+        
+        <accessibleToRights>ANONYMOUS</accessibleToRights>
+        <visibleToRights>ANONYMOUS</visibleToRights>
+        
+        
+      </file><file filepath="data/CV 2004 in STATA file format -dta/p1692b.dta">
+        
+        <dct:identifier>easy-file:6189477</dct:identifier>
+        <dct:title>p1692b.dta</dct:title>
+        <dct:format>application/octet-stream</dct:format>
+        <dct:extent>0.7MB</dct:extent>
+        
+        <accessibleToRights>ANONYMOUS</accessibleToRights>
+        <visibleToRights>ANONYMOUS</visibleToRights>
+        
+        
+      </file><file filepath="data/CV 2004 in SPSS file format -sav/p1692b.sav">
+        
+        <dct:identifier>easy-file:6189631</dct:identifier>
+        <dct:title>p1692b.sav</dct:title>
+        <dct:format>application/octet-stream</dct:format>
+        <dct:extent>0.7MB</dct:extent>
+        
+        <accessibleToRights>ANONYMOUS</accessibleToRights>
+        <visibleToRights>ANONYMOUS</visibleToRights>
+        
+        
+      </file>
+    </files>

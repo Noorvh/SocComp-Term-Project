@@ -1,0 +1,10 @@
+easy-migration.zip (application/zip) 29495 bytes.
+Antwoordkaarten CultV2014[versie 1.0].doc (application/msword) 56832 bytes.
+doc333 variant-B-OCR.pdf (application/pdf) 137319 bytes.
+CCF_CV_SLI_DANS2014.sav (application/x-spss-sav) 1327002 bytes.
+SLI2014v3.0 vragenlijst.doc (application/msword) 623616 bytes.
+CCF_CV_SLI_DANS2014.DTA (application/x-stata-13) 1342071 bytes.
+Onderzoeksverantwoording CV SLI_2014_def.pdf (application/pdf) 974916 bytes.
+CCF_CV_SLI_DANS2014.POR (application/x-spss-por) 2366928 bytes.
+Antwoordkaarten CultV2014[versie 1.0].pdf (application/pdf) 87742 bytes.
+doc333 variant-A-OCR.pdf (application/pdf) 137148 bytes.

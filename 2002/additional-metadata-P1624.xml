@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codebook>
+<docDscr>
+<citation>
+<titlStmt>
+<IDNo><![CDATA[P1624]]></IDNo>
+</titlStmt>
+</citation>
+</docDscr>
+<stdyDescr>
+<citation>
+<titlStmt>
+<titl><![CDATA[Culturele Veranderingen in Nederland 2000]]></titl>
+<parTitl><![CDATA[Cultural changes in the Netherlands 2000]]></parTitl>
+<IDNo><![CDATA[-]]></IDNo>
+</titlStmt>
+<prodStmt>
+<prodPlac><![CDATA[NIWI]]></prodPlac>
+</prodStmt>
+<distStmt>
+<depDate><![CDATA[2004-06-02]]></depDate>
+</distStmt>
+</citation>
+<stdyInfo>
+<abstract><![CDATA[Data were collected by face to face interviews, CAPI interviews and drop off questionnaires.]]></abstract>
+<sumDscr>
+<timePrd><![CDATA[2002]]></timePrd>
+<timePrd><![CDATA[2002]]></timePrd>
+<timePrd><![CDATA[2002]]></timePrd>
+<collDate><![CDATA[2002-10-01]]></collDate>
+<collDate><![CDATA[2003-01-31]]></collDate>
+<nation><![CDATA[Netherlands]]></nation>
+<geoCover><![CDATA[Netherlands]]></geoCover>
+<geoUnit><![CDATA[National]]></geoUnit>
+<anlyUnit><![CDATA[individual]]></anlyUnit>
+<anlyUnit><![CDATA[individual]]></anlyUnit>
+<universe><![CDATA[Dutch population 16 and older]]></universe>
+<dataKind><![CDATA[survey]]></dataKind>
+</sumDscr>
+</stdyInfo>
+<method>
+<dataColl>
+<timeMeth><![CDATA[longitudinal]]></timeMeth>
+<frequenc><![CDATA[other repeated]]></frequenc>
+<sampProc><![CDATA[multi-stage]]></sampProc>
+<collMode><![CDATA[other]]></collMode>
+<resInstru><![CDATA[struct.  quest.]]></resInstru>
+<fileDescr>
+<fileTxt>
+<fileName><![CDATA[p1624]]></fileName>
+<fileStrc><![CDATA[rectangular]]></fileStrc>
+</fileTxt>
+<dimensns>
+<caseQnty><![CDATA[2013]]></caseQnty>
+<varQnty><![CDATA[407]]></varQnty>
+</dimensns>
+<fileType><![CDATA[software dependent]]></fileType>
+<format><![CDATA[fixed length]]></format>
+<software><![CDATA[spss]]></software>
+<verStmt>
+</verStmt>
+</fileDescr>
+</dataColl>
+</method>
+</stdyDescr>
+</codebook>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codebook>
+<docDscr>
+<citation>
+<titlStmt>
+<IDNo><![CDATA[P1525]]></IDNo>
+</titlStmt>
+</citation>
+</docDscr>
+<stdyDescr>
+<citation>
+<titlStmt>
+<titl><![CDATA[Written questionnaire]]></titl>
+<parTitl><![CDATA[Written questionnaire]]></parTitl>
+<IDNo><![CDATA[P1525SCHRIFTELIJK]]></IDNo>
+</titlStmt>
+<prodStmt>
+<prodPlac><![CDATA[NIWI]]></prodPlac>
+</prodStmt>
+<distStmt>
+<depDate><![CDATA[2002-01-01]]></depDate>
+</distStmt>
+</citation>
+<stdyInfo>
+<abstract><![CDATA[Questions from the International Social Survey Programme.]]></abstract>
+<sumDscr>
+<timePrd><![CDATA[2000]]></timePrd>
+<collDate><![CDATA[2000-09-01]]></collDate>
+<collDate><![CDATA[2000-12-31]]></collDate>
+<geoUnit><![CDATA[National]]></geoUnit>
+<anlyUnit><![CDATA[individual]]></anlyUnit>
+<anlyUnit><![CDATA[individual]]></anlyUnit>
+<dataKind><![CDATA[survey]]></dataKind>
+</sumDscr>
+</stdyInfo>
+<method>
+<dataColl>
+<timeMeth><![CDATA[longitudinal]]></timeMeth>
+<datacollector><![CDATA[NIPO, Amsterdam]]></datacollector>
+<frequenc><![CDATA[other repeated]]></frequenc>
+<sampProc><![CDATA[multi-stage]]></sampProc>
+<collMode><![CDATA[self-administered]]></collMode>
+<resInstru><![CDATA[struct.  quest.]]></resInstru>
+<fileDescr>
+<fileTxt>
+<fileName><![CDATA[P1525a]]></fileName>
+</fileTxt>
+<dimensns>
+<caseQnty><![CDATA[1650]]></caseQnty>
+<varQnty><![CDATA[332]]></varQnty>
+</dimensns>
+<verStmt>
+</verStmt>
+</fileDescr>
+</dataColl>
+</method>
+</stdyDescr>
+<stdyDescr>
+<citation>
+<titlStmt>
+<titl><![CDATA[Oral questionnaire]]></titl>
+<parTitl><![CDATA[Oral questionnaire]]></parTitl>
+<IDNo><![CDATA[P1525MONDELING]]></IDNo>
+</titlStmt>
+<prodStmt>
+<prodPlac><![CDATA[NIWI]]></prodPlac>
+</prodStmt>
+<distStmt>
+<depDate><![CDATA[2002-01-01]]></depDate>
+</distStmt>
+</citation>
+<stdyInfo>
+<sumDscr>
+<timePrd><![CDATA[2000]]></timePrd>
+<timePrd><![CDATA[2000]]></timePrd>
+<collDate><![CDATA[2000-09-25]]></collDate>
+<collDate><![CDATA[2000-12-10]]></collDate>
+<geoUnit><![CDATA[National]]></geoUnit>
+<anlyUnit><![CDATA[individual]]></anlyUnit>
+<anlyUnit><![CDATA[individual]]></anlyUnit>
+<dataKind><![CDATA[survey]]></dataKind>
+</sumDscr>
+</stdyInfo>
+<method>
+<dataColl>
+<timeMeth><![CDATA[longitudinal]]></timeMeth>
+<datacollector><![CDATA[NIPO, Amsterdam]]></datacollector>
+<frequenc><![CDATA[other repeated]]></frequenc>
+<sampProc><![CDATA[multi-stage]]></sampProc>
+<collMode><![CDATA[face-to-face ]]></collMode>
+<resInstru><![CDATA[CAPI]]></resInstru>
+<fileDescr>
+<fileTxt>
+<fileName><![CDATA[P1525a]]></fileName>
+</fileTxt>
+<dimensns>
+<caseQnty><![CDATA[1650]]></caseQnty>
+<varQnty><![CDATA[332]]></varQnty>
+</dimensns>
+<verStmt>
+</verStmt>
+</fileDescr>
+</dataColl>
+</method>
+</stdyDescr>
+</codebook>

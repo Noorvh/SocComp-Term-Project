@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codebook>
+<docDscr>
+<citation>
+<titlStmt>
+<IDNo><![CDATA[P1451]]></IDNo>
+</titlStmt>
+</citation>
+</docDscr>
+<stdyDescr>
+<citation>
+<titlStmt>
+<titl><![CDATA[-]]></titl>
+<parTitl><![CDATA[-]]></parTitl>
+<IDNo><![CDATA[P1451]]></IDNo>
+</titlStmt>
+<prodStmt>
+</prodStmt>
+<distStmt>
+<depDate><![CDATA[2000-01-17]]></depDate>
+</distStmt>
+</citation>
+<stdyInfo>
+<sumDscr>
+<timePrd><![CDATA[1998]]></timePrd>
+<timePrd><![CDATA[1998]]></timePrd>
+<timePrd><![CDATA[1998]]></timePrd>
+<collDate><![CDATA[1998-09-15]]></collDate>
+<collDate><![CDATA[1999-01-13]]></collDate>
+<nation><![CDATA[The Netherlands]]></nation>
+<geoUnit><![CDATA[country]]></geoUnit>
+<anlyUnit><![CDATA[individual]]></anlyUnit>
+<anlyUnit><![CDATA[individual]]></anlyUnit>
+<dataKind><![CDATA[survey]]></dataKind>
+<dataKind><![CDATA[Survey Longitudinal Continuous]]></dataKind>
+</sumDscr>
+</stdyInfo>
+<method>
+<dataColl>
+<timeMeth><![CDATA[longitudinal]]></timeMeth>
+<frequenc><![CDATA[other repeated]]></frequenc>
+<sampProc><![CDATA[multi-stage]]></sampProc>
+<sampProc><![CDATA[Drawing of gross sample of 300.000 addresses from postal code register. From this gross sample 800 postal codes were selected as starting point from which 3 interviews should be obtained from all over the Netherlands.]]></sampProc>
+<collMode><![CDATA[face-to-face ivw]]></collMode>
+<resInstru><![CDATA[coded obsrvn frm]]></resInstru>
+<collSitu><![CDATA[Duration of interview / presence of other people / respondent influenced by others / interviewers' opinion on several aspects of the interview]]></collSitu>
+<actMin><![CDATA[Letters; introduction letter / Dfl. 15,00 for respondent]]></actMin>
+<weight><![CDATA[No weighting]]></weight>
+<fileDescr>
+<fileTxt>
+<fileName><![CDATA[p1451.por]]></fileName>
+<fileStrc><![CDATA[unknown]]></fileStrc>
+</fileTxt>
+<dimensns>
+<caseQnty><![CDATA[2103]]></caseQnty>
+<varQnty><![CDATA[432]]></varQnty>
+</dimensns>
+<fileType><![CDATA[unknown]]></fileType>
+<format><![CDATA[other]]></format>
+<software><![CDATA[spss]]></software>
+<verStmt>
+</verStmt>
+</fileDescr>
+</dataColl>
+</method>
+</stdyDescr>
+</codebook>

@@ -1,0 +1,555 @@
+
+  18  display labels.
+15 Aug 97                                                               Page 171
+10:06:25  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     P1291: Culturele Veranderingen in Nederland 1995
+
+            List of variables on the working file
+
+Name     Position  Label
+
+RESPNR          1  M000 Interviewnummer
+VAR001          2  M001 Geslacht
+VAR002          3  M002 Leeftijd
+VAR003          4  M003 Burgerlijke staat
+VAR006          5  M005 Laatst genoten opleiding
+VAR016          6  M014 Beroep
+VAR019          7  M034 Voldoende vrije tijd
+VAR038          8  M144 Kijkt Tweede Kamer-zitting op TV
+VAR039          9  M145 Kijkt ander TV-programma over politiek
+VAR040         10  M148 Leest over politiek in ons land
+VAR041         11  M146 Abonnement op landelijk dagblad
+VAR042A        12  M147 Geabonneerd op Het Algemeen Dagblad
+VAR042B        13  M147 Geabonneerd op Nederlands Dagblad
+VAR042C        14  M147 Geabonneerd op NRC/Handelsblad
+VAR042D        15  M147 Geabonneerd op Het Parool
+VAR042E        16  M147 Geabonneerd op Reformatorisch Dagblad
+VAR042F        17  M147 Geabonneerd op De Telegraaf
+VAR042G        18  M147 Geabonneerd op Trouw
+VAR042H        19  M147 Geabonneerd op De Volkskrant
+VAR043         20  M149 Nieuws lezen over eigen woonplaats
+VAR046         21  M028 Plezier in het werk
+VAR047         22  M029 Druk in het werk
+VAR048         23  M030 Meer vrije tijd krijgen in de toekomst
+VAR053         24  M031 Tevreden met beroep
+VAR054         25  M032 Tevreden over in het leven bereikte
+VAR058         26  M035 Welvaart in ons land
+VAR059         27  M036 Welvaart in gezin
+VAR062         28  M037 Oordeel over toekomst voor de mensen
+VAR063         29  M038 Welvaart in gezin in komende jaren
+VAR064         30  M039 Regeringsinspanning vergroting welvaart
+VAR065         31  M042 Economische crisis in nabije toekomst
+VAR091         32  M043 Toekomst bepaald door eigendoen/omstandh
+VAR096         33  M046 Overheidsgeld voor openb voorzieningen
+VAR097         34  M047 Overh ingr: iedereen gelijke kansen
+VAR098         35  M047 Overh ingr: verschil inkomens verkleinen
+VAR099         36  M047 Overh ingr: verschil bezit verkleinen
+VAR100         37  M048 Overh moet: voldoende voorz huiswerk
+VAR1001        38  M079 Minimumloon volwassenen veranderen
+VAR1002        39  M080 Minimumjeugdloon veranderen
+VAR1003        40  M081 Werkloosheidsuitk lager dan minimumloon
+VAR101         41  M048 Overh moet: veel meer studiebeurzen
+VAR1017        42  M213 Vrouwenemancipatie niet meer nodig
+VAR103         43  M048 Overh moet: veel meer geld woningbouw
+VAR1031        44  M200 Oordeel over aantal buitenlanders
+VAR1032A       45  M201 Aanwezigheid buitenlanders hinderlijk
+VAR1032B       46  M201 Aanwezigheid andere rassen hinderlijk
+VAR1033        47  M202 Voorrang buitenlanders bij overheidswerk
+VAR1034        48  M074 Oordeel over mini-stelsel
+VAR1046A       49  M161 Doel politiek: orde handhaven
+VAR1046B       50  M161 Doel politiek: inspraak burgers
+VAR1046C       51  M161 Doel politiek: prijsstijging tegengaan
+VAR1046D       52  M161 Doel politiek: vrijheid meningsuiting
+VAR1046E       53  M161 Doel politiek: hoge mate van ekon groei
+15 Aug 97                                                               Page 172
+10:06:25  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+VAR1046F       54  M161 Doel politiek: sterk leger
+VAR1046G       55  M161 Doel politiek: inspraak werk/woonplaats
+VAR1046H       56  M161 Doel politiek: steden verfraaien
+VAR1046I       57  M161 Doel politiek: stabiele economie
+VAR1046J       58  M161 Doel politiek: strijd tegen misdaad
+VAR1046K       59  M161 Doel politiek: persoonlijker samenleving
+VAR1046L       60  M161 Doel politiek: idee0n boven geld
+VAR1046M       61  M161 Doel politiek: werkloosheid verminderen
+VAR1046N       62  M161 Doel politiek: bestrijden milieu-verontr
+VAR1046O       63  M161 Doel politiek: soc zekerheid op peil
+VAR1046P       64  M161 Doel politiek: opvang alloch immigranten
+VAR1060        65  M008 Terrein waarop opleiding gericht
+VAR1061        66  M018 Aantal uren vrijwilligerswerk per week
+VAR1062        67  M019 Aantal uren hulp aan zieken per week
+VAR1063        68  M075 Oordeel over basisinkomen
+VAR1066        69  M076 Oordeel over verplicht werken
+VAR1069        70  M077 Soc uitkering gelijk op met lonen
+VAR107         71  M048 Overh moet: onderw tot 18e geheel gratis
+VAR1070        72  M078 Soc uitk gelijk op met kosten levensond
+VAR1072        73  M091 Opl a-hoog mogelijk b-extra zelf betalen
+VAR1073        74  M091 Beleid a-zelfstandig b-zelfde kwaliteit
+VAR1074        75  M091 Hoger ondw a-iedereen b-toelatingsexamen
+VAR1076        76  M167 Vrienden kunnen overtuigen van belang
+VAR1077        77  M168 Onder vrienden over politiek spreken
+VAR1082        78  M183 Drukte rond milieu overdreven
+VAR1084        79  M183 Met eigen ogen achteruitgang milieu zien
+VAR1086        80  M184 Let bij aankoop op schadelijkheid milieu
+VAR1087        81  M185 Weigert plastic tasjes omwille milieu
+VAR109         82  M048 Overh moet: ingr maatreg milieu-verontr
+VAR110         83  M048 Overh moet: belasting hogere inkomens
+VAR1103        84  M204 Verblijfsvergunning: politieke situatie
+VAR1104        85  M204 Verblijfsvergunning: ekon situatie
+VAR1105        86  M204 Verblijfsvergunning: echtgenoot/-genote
+VAR1106        87  M204 Verblijfsvergunning: toekomstige vrouw
+VAR1109        88  M107 Groepering Rooms-Katholieke Kerk
+VAR1110        89  M108 Richting Nederlands Hervormde Kerk
+VAR1132        90  M182 Heeft sticker tegen ongewenst drukwerk
+VAR1139        91  M205 Bezwaar asielzoekerscentrum in buurt
+VAR114         92  M048 Overh moet: belasting lagere inkomens
+VAR1140        93  M206 Houding tov allochtone groepen
+VAR1141        94  M207 Buitenlanders meer best doen Nederlands
+VAR1142        95  M207 Buitenlanders niet vasthouden cultuur
+VAR1143        96  M208 Meeste buitenlanders ingeburgerd
+VAR1144        97  M209 Begrip verhuizing vanwege allochtonen
+VAR1145A       98  M214 Cijfer: Zorgbeleid
+VAR1145B       99  M214 Cijfer: Cultuurbeleid
+VAR1145C      100  M214 Cijfer: Beleid op gebied vrije tijd
+VAR1145D      101  M214 Cijfer: Beleid op gebied Alg Vorm Ondw
+VAR1145E      102  M214 Cijfer: Beleid op gebied Beroepsonderw
+VAR1145F      103  M214 Cijfer: Ordehandhaving
+VAR1145G      104  M214 Cijfer: Sociale zekerheid
+VAR1145H      105  M214 Cijfer: Werkgelegenheid
+VAR1145I      106  M214 Cijfer: Milieubeleid
+VAR1145J      107  M214 Cijfer: Beleid kosten levensonderhoud
+VAR1145K      108  M214 Cijfer: Beleid leefbaarheid in steden
+VAR1145L      109  M214 Cijfer: Beleid opvang buitenlanders
+VAR1146       110  M216 Tevreden met wat de regering doet
+VAR1148       111  M026 2 uur per week korter werken
+VAR1149       112  M027 Inkomensoffer 2 uur per week korter werk
+15 Aug 97                                                               Page 173
+10:06:25  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+VAR1150       113  M095 Ouderen nooit als tweedehands behandeld
+VAR1151A      114  M096 Behandeling ouderen: gemeente
+VAR1151B      115  M096 Behandeling ouderen: artsen/med diensten
+VAR1151C      116  M096 Behandeling ouderen: winkelpersoneel
+VAR1151D      117  M096 Behandeling ouderen: politie
+VAR1151E      118  M096 Behandeling ouderen: openb vervoer/taxi
+VAR1151F      119  M096 Behandeling ouderen: radio en tv
+VAR1151G      120  M096 Behandeling ouderen: pers
+VAR1151H      121  M096 Behandeling ouderen: familie
+VAR1152       122  M097 Behoort tot bepaalde generatie
+VAR1153       123  M098 Bepalend voor generatie
+VAR1154A      124  M099 Generatieverschil: houding arbeid
+VAR1154B      125  M099 Generatieverschil: muziek,boeken,films
+VAR1154C      126  M099 Generatieverschil: pol/maatsch vraagst
+VAR1154D      127  M099 Generatieverschil: normen en waarden
+VAR1155A      128  M100 Ervaring generatie: houding arbeid
+VAR1155B      129  M100 Ervaring generatie: muziek,boeken,films
+VAR1155C      130  M100 Ervaring generatie: pol/maatsch vraagst
+VAR1155D      131  M100 Ervaring generatie: normen en waarden
+VAR1156       132  M101 Houding tov jongere generatie
+VAR1157       133  M102 Houding tov oudere generatie
+VAR1158       134  M123 Mogelijkheid keuze voor jongen of meisje
+VAR1159       135  M138 Gebruik drugs officieel toestaan
+VAR1160A      136  M210 Grote steden: mooi-lelijk
+VAR1160B      137  M210 Grote steden: saai-levendig
+VAR1160C      138  M210 Grote steden: druk-rustig
+VAR1160D      139  M210 Grote steden: weinig-veel te doen
+VAR1160E      140  M210 Grote steden: veel-weinig leefruimte
+VAR1160F      141  M210 Grote steden: slecht-goed wonen
+VAR1160G      142  M210 Grote steden: veel-weinig buitenlanders
+VAR1160H      143  M210 Grote steden: armoede-rijkdom
+VAR1160I      144  M210 Grote steden: veilig-gevaarlijk
+VAR1160J      145  M210 Grote steden: veel-dezelfde soort mensen
+VAR1160K      146  M210 Grote steden: zal beter-slechter gaan
+VAR1161       147  M213 Immigranten verrijking voor samenleving
+VAR1162A      148  M215 Oordeel: Zorgbeleid
+VAR1162B      149  M215 Oordeel: Cultuurbeleid
+VAR1162C      150  M215 Oordeel: Beleid op gebied vrije tijd
+VAR1162D      151  M215 Oordeel: Beleid op gebied Alg Vorm Ondw
+VAR1162E      152  M215 Oordeel: Beleid op gebied Beroepsonderw
+VAR1162F      153  M215 Oordeel: Ordehandhaving
+VAR1162G      154  M215 Oordeel: Sociale zekerheid
+VAR1162H      155  M215 Oordeel: Werkgelegenheid
+VAR1162I      156  M215 Oordeel: Milieubeleid
+VAR1162J      157  M215 Oordeel: Beleid kosten levensonderhoud
+VAR1162K      158  M215 Oordeel: Beleid leefbaarheid in steden
+VAR1162L      159  M215 Oordeel: Beleid opvang buitenlanders
+VAR1163       160  M217 Nederlandse overheid funktioneert goed
+VAR118        161  M048 Overh moet: belasting winsten/vermogens
+VAR121        162  M048 Overh moet: leerplicht tot 18e jaar
+VAR124        163  M048 Overh moet: meer goedkope cr0ches bouwen
+VAR125        164  M049 Overheidsuitgaven in het algemeen
+VAR131        165  M050 Zich soms zorgen maken over geldzaken
+VAR132        166  M050 Zich soms zorgen maken over politiek
+VAR133        167  M050 Zich soms zorgen maken over gezondheid
+VAR134        168  M050 Zich soms zorgen maken over het gezin
+VAR135        169  M050 Zich soms zorgen maken over de toekomst
+VAR136        170  M051 Zich zorgen maken over eigen werkloosh
+VAR141        171  M052 Tevreden over woning en huisvesting
+15 Aug 97                                                               Page 174
+10:06:25  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+VAR143        172  M053 Tevreden over gezondheid/lich toestand
+VAR146        173  M054 Tevreden over huwelijks- en gezinsleven
+VAR149        174  M055 Tevreden over inkomen
+VAR150        175  M056 Beoordeling inkomen tov landelijk
+VAR151        176  M057 Beoordeling inkomen tov opleiding/ervar
+VAR152        177  M058 Oordeel over maximum-inkomensgrens
+VAR153        178  M069 Tevreden over sociale voorzieningen
+VAR154        179  M070 Oordeel Algemene Ouderdomswet AOW
+VAR154A       180  M070 Oordeel Ziektewet
+VAR155        181  M070 Oordeel Algemene Bijstandswet
+VAR156        182  M070 Oordeel Werkloosheidswet WW
+VAR157        183  M070 Oordeel Alg Weduwen- en Wezenwet AWW
+VAR157A       184  M070 Oordeel Arb ongeschiktheidswet WAO/AAW
+VAR159        185  M073 Misbruik Algemene Ouderdomswet AOW
+VAR159A       186  M073 Misbruik Ziektewet
+VAR160        187  M073 Misbruik Algemene Bijstandswet
+VAR161        188  M073 Misbruik Werkloosheidswet WW
+VAR162        189  M073 Misbruik Alg Weduwen- en Wezenwet AWW
+VAR162A       190  M073 Misbruik Arb ongeschiktheidswet WAO/AAW
+VAR164        191  M082 Oordeel inkomensverschillen
+VAR165        192  M083 Gewenste inkomensverschillen
+VAR166        193  M084 Gewenste verschillen tussen bezit
+VAR167        194  M085 Gewenste medezeggenschap van arbeiders
+VAR171        195  M086 Recht op financieel niet achteruit gaan
+VAR172        196  M086 Recht op werk waarin men kan ontplooien
+VAR173        197  M086 Recht op onderwijs zoveel men wil
+VAR174        198  M086 Recht op comfortabel wonen
+VAR175        199  M089 Oordeel gelijke kansen op univ studie
+VAR176        200  M087 Oordeel gelijke kansen op geschikte baan
+VAR179        201  M088 Vrijheid tot demonstreren
+VAR180        202  M088 Vrijheid tot kritiek op koningshuis
+VAR181        203  M088 Vrijheid tot staken voor loonsverhoging
+VAR182        204  M088 Vrijheid tot weigering militaire dienst
+VAR183        205  M088 Vrijheid tot bezetten van gebouwen
+VAR184        206  M088 Vrijheid tot schrijven wat men wil
+VAR185        207  M088 Vrijheid tot zeggen wat men wil
+VAR198        208  M103 Grootgebracht in bepaald geloof
+VAR201        209  M106 Behorend tot kerkgenootschap
+VAR204        210  M104 Frequentie kerkgang
+VAR221        211  M109 Zich houden aan voorschriften geloof
+VAR229        212  M112 Belangrijkst in het leven
+VAR239        213  M158 Regering weinig nut voor dagelijks leven
+VAR271        214  M140 Gewenste inspraak studenten universiteit
+VAR272        215  M140 Gewenste inspraak leerlingen midd school
+VAR273        216  M140 Gewenste inspraak burgers gemeente/prov
+VAR274        217  M142 Zou stemmen bij verkiezingen 2e Kamer
+VAR275        218  M143 Partij waarop men zou stemmen
+VAR280        219  M151 Thuis over politiek spreken
+VAR318        220  M158 Mensen als ik geen invloed op regering
+VAR319        221  M158 Kamerleden geven niet om wat ik denk
+VAR320        222  M158 Kamerleden letten op belang groepen
+VAR323        223  M158 Stemmen enige manier invloed op regering
+VAR324        224  M159 Kamerleden weinig begrip voor wat leeft
+VAR329        225  M160 Er is partij met inzet voor mijn belang
+VAR342        226  M213 Standsverschillen moeten kleiner zijn
+VAR347        227  M213 Abortus mogelijk als vrouw dit wenst
+VAR367        228  M211 Klasse
+VAR368        229  M212 Klasse ouderlijk gezin
+VAR402        230  M213 Politie doet haar werk uitstekend
+15 Aug 97                                                               Page 175
+10:06:25  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+VAR403        231  M213 Overheid werkt zuinig genoeg
+VAR404        232  M213 Overheid behandelt ons met respekt
+VAR405        233  M213 Overheid bemoeit zich met teveel dingen
+VAR408        234  M162 Kans op aktie bij onrechtvaardige wet
+VAR409        235  M163 Demonstratie bij ontrechtvaardige wet
+VAR410        236  M163 Arrestatie van deelnemers protest
+VAR411        237  M163 Schoolbezetting als meer leerl per klas
+VAR412        238  M163 Ontslag van bezettende onderwijzers
+VAR413        239  M163 Wilde staking bij ontslag aantal werkn
+VAR414        240  M163 Ontruiming van bezet bedrijf
+VAR427        241  M173 Zorgen over milieuverontreiniging
+VAR428        242  M174 Oordeel over bestrijding vervuiling
+VAR429        243  M175 Gewenste bijdrage bestrijding vervuiling
+VAR461        244  M141 Links - rechts
+VAR462        245  M223 Bruto inkomen van huishouden
+VAR491        246  M150 Interesse in politiek
+VAR493        247  M152 Op bijeenkomst gesproken over standpunt
+VAR494        248  M153 Krant geschreven over standpunt
+VAR495        249  M154 Bijeenkomsten politieke partij bezocht
+VAR496        250  M155 Wat gedaan voor politieke partij
+VAR497        251  M156 Lid (geweest) van politieke partij
+VAR498        252  M157 Partij waarvan lid (geweest)
+VAR499        253  M170 Lid van vakbond (inkl beroepsvereniging)
+VAR500        254  M171 Aantal jaren lid van vakbond
+VAR515        255  M115 Vrouw met schoolg kind werkt naast huish
+VAR516        256  M116 Vrouw werkt,kind moet naar cr0che
+VAR519        257  M119 Echtpaar wil bewust geen kinderen
+VAR532        258  M130 Toestand huwelijk bij ontrouw
+VAR533        259  M131 Avontuurtje van getrouwde man
+VAR542        260  M133 Avontuurtje kan voor huwelijk geen kwaad
+VAR544        261  M124 Euthanasie op eigen verzoek dmv spuitje
+VAR546        262  M203 Mensen van ander ras als buren krijgen
+VAR548        263  M229 Vraaggesprek door anderen gevolgd
+VAR550        264  M230 Respondent door anderen be0nvloed
+VAR567        265  M059 Verwachting inkomens
+VAR568        266  M060 Mate stijging/daling inkomens
+VAR569        267  M061 Oordeel inkomens obv economie
+VAR570        268  M062 Mate stijging/daling inkomens obv ekon
+VAR571        269  M063 Verwachting soc uitkeringen
+VAR572        270  M064 Mate stijging/daling soc uitkeringen
+VAR573        271  M065 Oordeel soc uitkeringen obv economie
+VAR574        272  M066 Mate stijging/daling soc uitk obv ekon
+VAR575        273  M067 Allemaal stapje terug met inkomen
+VAR576        274  M068 Leren leven met minder sociale zekerheid
+VAR577        275  M071 Aantal mensen misbruik soc verzekeringen
+VAR578        276  M072 Kent gevallen misbruik soc verzekeringen
+VAR591        277  M140 Inspraak ouders in gang van zaken school
+VAR592        278  M164 Meegedaan aan inspraakproc/hoorzitting
+VAR593        279  M213 Sociale uitkeringen in geen geval minder
+VAR594        280  M213 Vrouwen voorrang vanwege achterstand
+VAR596        281  M213 Inkomens moeten minstens gelijk blijven
+VAR597        282  M169 Vergadering/bijeenkomst vakbond bezocht
+VAR598        283  M172 Lid werkgevers- of middenstandsorg
+VAR599        284  M165 Inspanning landelijk/wereldlijk niveau
+VAR600        285  M166 Inspanning gemeentelijk niveau
+VAR611        286  M196 In 15 jaar: toename milieuverontreinig
+VAR624        287  M044 Denkt na hoe wereld over 15 jaar uitziet
+VAR626        288  D012 Nielsen-gebied
+VAR627        289  D009 Cebuco verzorgingsgebied
+15 Aug 97                                                               Page 176
+10:06:25  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+VAR628        290  D008 Nodaal gebied
+VAR629        291  D002 Provincie
+VAR630        292  D003 Gemeentegrootte
+VAR631        293  D013 Urbanisatiegraad CBS
+VAR632A       294  D005 Gemeentenummer CBS
+VAR632B       295  D007 Economisch-geografisch gebied
+VAR632C       296  D011 Corop-gebied
+VAR632E       297  D010 Wgr-gebied
+VAR632F       298  D014 Stedelijkheid
+VAR632G       299  D015 Stedelijke agglomeratie
+VAR634        300  M163 Staken bij verlaging sociale uitkeringen
+VAR635        301  M163 Woningzoekenden kraken leegstaand pand
+VAR636        302  M163 Met geweld ontruimen van gekraakt pand
+VAR637        303  M163 Blokkade door mensen bang v kernenergie
+VAR638        304  M163 Burgem laat demonstranten verwijderen
+VAR643        305  M022 Half uur per dag korter werken
+VAR644        306  M023 Inkomensoffer half uur per dag
+VAR645        307  M024 Extra week vakantie
+VAR646        308  M025 Inkomensoffer extra week vakantie
+VAR647        309  M021 Respondent is wel/geen huisvrouw
+VAR648        310  M033 Tevreden met het leven op het ogenblik
+VAR683B       311  M197 Woning: gezin gastarbeider - Nederlands
+VAR684        312  M224 Samenstelling huishouden
+VAR687        313  M134 Misdadigheid in Nederland
+VAR688        314  M135 Mate van af/toename misdadigheid
+VAR689        315  M136 Misdaad in Nederland wordt echt probleem
+VAR723        316  M010 Aantal uren betaalde arbeid per week
+VAR728B       317  M198 Ontslag: buitenlander - Nederlander
+VAR729B       318  M199 Promotie: buitenlander - Nederlander
+VAR753        319  M118 Gehuwde moeder werkt,man zorgt voor huis
+VAR754        320  M126 Kind beslist over verdere schoolkeuze
+VAR755        321  M128 Ouder kind bepaalt besteding bijbaan
+VAR756        322  M132 Avontuurtje van een getrouwde vrouw
+VAR760        323  M127 Kind mag beslissen over afmaken opl
+VAR761        324  M129 Dochter van 17 gaat zelfstandig wonen
+VAR768        325  M117 Kinderopvang
+VAR819        326  M090 Gelijke kansen studie op latere leeftijd
+VAR820        327  M114 Heeft kinderen jonger dan 21 jaar
+VAR827        328  M091 Samenst groepen a-homogeen b-heterogeen
+VAR828        329  M091 VO a-veel schoolsoorten b-kleine school
+VAR836        330  M139 Vakbeweging verantw uitkeringstrekkers
+VAR837        331  M139 Werkloze met karwei geen volle uitkering
+VAR838        332  M139 Werkloze niet verplicht sol passend werk
+VAR844        333  M139 Man en vrouw huish werk gelijk verdelen
+VAR845        334  M139 Huishouden ook verantwoordelijkheid man
+VAR846        335  M139 Man/vrouw betaald werk gelijk verdelen
+VAR847        336  M139 Kinderverzorging ook verantwoording man
+VAR895        337  M120 Alleenstaande vrouw wil kind
+VAR896        338  M121 Ongeh samenw paar kind zonder te trouwen
+VAR897        339  M122 Kunstmatig bevruchting buiten baarmoeder
+VAR898        340  M125 Gewenste achternaam kind
+VAR900A       341  M233 Duur van interview
+VAR900B       342  M231 Interviewdag
+VAR900C       343  M231 Interviewmaand
+VAR900E       344  S026 Duur van interview volgens respondent
+VAR900F       345  S027 Oordeel respondent over duur
+VAR900G       346  S028 Maksimale duur volgens respondent
+VAR900H       347  S029 Interview interessant
+VAR900J       348  D001 Enqu0teursnummer
+15 Aug 97                                                               Page 177
+10:06:25  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+VAR900K       349  M227 Moeilijkheidsgraad vraagstelling
+VAR900L       350  M228 Oordeel interviewer over duur
+VAR900M       351  M232 Tijdstip einde interview
+VAR900N       352  M000 Tijdstip begin interview
+VAR901        353  F001 Kleur omslagformulier
+VAR902        354  F002 Resultaat op adres
+VAR903        355  F003 Interview met enige of 1e persoon
+VAR904        356  F004 Interview met 2e persoon
+VAR905        357  F005 Reden geen interview
+VAR906        358  F006 Geslacht mannelijk gezinshoofd
+VAR907        359  F006 Leeftijd mannelijk gezinshoofd
+VAR908        360  F007 Geslacht vrouwelijk gezinshoofd
+VAR909        361  F007 Leeftijd vrouwelijk gezinshoofd
+VAR910        362  F008 Geslacht 1e (oudste) kind
+VAR911        363  F008 Leeftijd 1e (oudste) kind
+VAR912        364  F009 Geslacht 2e kind
+VAR913        365  F009 Leeftijd 2e kind
+VAR914        366  F010 Geslacht 3e kind
+VAR915        367  F010 Leeftijd 3e kind
+VAR916        368  F011 Geslacht 4e kind
+VAR917        369  F011 Leeftijd 4e kind
+VAR918        370  F012 Geslacht 5e kind
+VAR919        371  F012 Leeftijd 5e kind
+VAR920        372  F013 Geslacht 6e kind
+VAR921        373  F013 Leeftijd 6e kind
+VAR922        374  F014 Geslacht 7e kind
+VAR923        375  F014 Leeftijd 7e kind
+VAR924        376  F015 Geslacht 8e kind
+VAR925        377  F015 Leeftijd 8e kind
+VAR926        378  F016 Geslacht 1e (oudste) ander gezinslid
+VAR927        379  F016 Leeftijd 1e (oudste) ander gezinslid
+VAR928        380  F017 Geslacht 2e ander gezinslid
+VAR929        381  F017 Leeftijd 2e ander gezinslid
+VAR930A       382  M221 Eigen inkomen: Man/vader
+VAR930B       383  M221 Eigen inkomen: Vrouw/moeder
+VAR930C       384  M221 Eigen inkomen: Kinderen
+VAR930D       385  M221 Eigen inkomen: Andere personen
+VAR931        386  M222 Netto inkomen van huishouden
+VAR932        387  M225 Geboorteland
+VAR951        388  M040 Economische situatie komende 12 maanden
+VAR952        389  M041 Werkloosheid in komende 12 maanden
+VAR953        390  M137 Hoogte bestraffing misdaden in Nederland
+VAR956        391  M092 Ouderen: a-goed pensioen b-net rondkomen
+VAR958        392  M092 Ouderen: a-huishouding zelf b-hulp
+VAR959        393  M092 Ouderen: a-niet meekomen b-maatsch aktie
+VAR963        394  M093 Ouderen lid van ouderenbonden
+VAR964        395  M093 Samenl te weinig oog noden van ouderen
+VAR966        396  M093 Ouderen moeten plaats afstaan aan jonger
+VAR967        397  M093 Ouderen mogen betaald werken
+VAR968        398  M093 Ouderen kunnen iets doen voor jongeren
+VAR969        399  M093 Ouderen recht op hulp jongeren
+VAR972A       400  M094 Ouderen: eigenwijs
+VAR972B       401  M094 Ouderen: futloos
+VAR972C       402  M094 Ouderen: waardevol voor de samenleving
+VAR972D       403  M094 Ouderen: betrouwbaar
+VAR972E       404  M094 Ouderen: verantwoordelijkheidsgevoel
+VAR972F       405  M094 Ouderen: zwak
+VAR972G       406  M094 Ouderen: ongeduldig
+VAR972H       407  M094 Ouderen: aktief
+15 Aug 97                                                               Page 178
+10:06:25  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+VAR972I       408  M094 Ouderen: goede manieren
+VAR972J       409  M094 Ouderen: ego0stisch
+VAR972K       410  M094 Ouderen: tevreden
+V040          411  M009 Doet op dit moment betaald werk
+V041          412  M012 Vroeger betaald werk gedaan
+V049          413  M016 Dienstverband
+V102          414  M218 Heeft eigen inkomen
+V103          415  M220 Voornaamste bron eigen inkomen
+V200          416  M006 Opleiding Alg Vormend Onderwijs
+V201          417  M007 Opleiding Beroepsonderwijs
+V202          418  M011 Aktiviteitenkategorie
+V208          419  M219 Eigen netto-inkomen
+INT000        420  S000 Schriftelijke vragenlijst ingevuld
+INT001        421  M004 Aantal jaar onderwijs vanaf 6e jaar
+INT004        422  M017 Aantal mensen waarover leiding
+INT087        423  M113 Samenlevingsvorm
+INT229        424  M110 Mening over God
+INT256        425  M105 Deelname aan aktiviteiten van de kerk
+INT257        426  M111 Gelovig
+INT265        427  M045 Allerbelangrijkste in Nederland
+INT266        428  M045 Op 00n na belangrijkste in Nederland
+INT283        429  M190 Bereidheid hogere prijzen tbv milieu
+INT284        430  M191 Bereidheid hogere belasting tbv milieu
+INT285        431  M192 Bereidheid lagere levensst tbv milieu
+INT286        432  M196 Te moeilijk om veel voor milieu te doen
+INT287        433  M196 Doe wat goed is voor milieu, zelfs kost
+INT315        434  M176 Scheidt afval voor recycling
+INT316        435  M177 Koopt onbespoten groenten of fruit
+INT317        436  M178 Eet geen vlees op morele gronden/milieu
+INT318        437  M179 Laat auto staan om milieu te sparen
+INT319        438  M180 Lid groepering voor milieubescherming
+INT320        439  M181 Afgel 5 jr: petitie milieu getekend
+INT321        440  M181 Afgel 5 jr: geld aan milieugroepering
+INT322        441  M181 Afgel 5 jr: demonstratie voor milieu
+INT332        442  M193 Overheid moet: belast energie verhogen
+INT347        443  M194 Overheid moet: benzine-accijns verhogen
+INT348        444  M194 Overheid moet: milieubelast op auto's
+INT350        445  M186 Let op hoeveelheid/soort verpakking
+INT351        446  M187 Iets niet gekocht vanwege verpakking
+INT357        447  M188 Leest over milieu-invloed op verpakking
+INT358        448  M189 Vertrouwt milieu-invloed op verpakking
+INT360        449  M195 Overheid moet: belast schadelijk produkt
+INT398        450  Feel close to neighbourhood (or village)
+INT399        451  Feel close to town or city
+INT400        452  Feel close to province
+INT401        453  Feel close to NL
+INT402        454  Feel close to Europe
+INT403        455  To improve: move another neighbourhood
+INT404        456  To improve: move another town or city
+INT405        457  To improve: move another province
+INT406        458  To improve: move another country
+INT407        459  To improve: move outside Europe
+INT408        460  Essential The Netherlands remains one
+INT409        461  Real Dutch: have been born in NL
+INT410        462  Real Dutch: have Dutch citizenship
+INT411        463  Real Dutch: lived one's life in NL
+INT412        464  Real Dutch: be able to speak Dutch
+INT413        465  Real Dutch: be Christian
+INT414        466  Real Dutch: respect politics and laws
+15 Aug 97                                                               Page 179
+10:06:25  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+INT415        467  Real Dutch: feel Dutch
+INT416        468  Rather be citizen NL than other country
+INT417        469  There are things make me ashamed of NL
+INT418        470  Better world if people be like the Dutch
+INT419        471  NL better country than other countries
+INT420        472  Support country even if is in the wrong
+INT421        473  Proud when well in international sports
+INT422        474  Proud NL: way democracy works
+INT423        475  Proud NL: political influence in world
+INT424        476  Proud NL: economic achievements
+INT425        477  Proud NL: social security system
+INT426        478  Proud NL: scientific/techn achievements
+INT427        479  Proud NL: achievements in sports
+INT428        480  Proud NL: achievements arts/literature
+INT429        481  Proud NL: armed forces
+INT430        482  Proud NL: history
+INT431        483  Proud NL: fair treatment of all groups
+INT432        484  Limit import to protect national economy
+INT433        485  Right of int bodies to envorce solutions
+INT434        486  Schools more teach foreign languages
+INT435        487  NL should follow its own interests
+INT436        488  Not allow foreigners to buy land in NL
+INT437        489  TV preference to Dutch films/programmes
+INT438        490  Impossible Dutch without sharing customs
+INT439        491  Gov assistance to preserve customs
+INT440        492  Better to maintain distinct customs
+INT441        493  Immigrants increase crime rates
+INT442        494  Immigrants good for Dutch economy
+INT443        495  Immigrants take away jobs of born Dutch
+INT444        496  Immigrants make NL open to new cultures
+INT445        497  Preferred number of immigrants
+INT446        498  Political refugees be allowed to stay
+INT447        499  Where spend childhood (until 16)
+INT448        500  Years lived in town where living now
+INT449        501  Lived in other countries
+INT450        502  Language most spoken at home
+INT451A       503  Other language spoken well - first
+INT451B       504  Other language spoken well - second
+INT451C       505  Other language spoken well - third
+INT451D       506  Other language spoken well - fourth
+INT451E       507  Other language spoken well - fifth
+INT452        508  Citizen of The Netherlands
+INT453        509  At time of birth parents were citizen NL
+INT454        510  Ethnic group
+INT455        511  Feel close to ethnic group
+INT456        512  Heard or read about European Union
+INT457        513  NL benefit being member European Union
+INT458        514  NL should unite fully European Union
+INT459        515  Immigrants attain easier citizenship
+INT460        516  Measures to exclude illegal immigrants
+15 Aug 97                                                               Page 180
+10:06:25  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+  19  set listing '5905.stp'.

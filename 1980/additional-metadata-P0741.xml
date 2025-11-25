@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codebook>
+<docDscr>
+<citation>
+<titlStmt>
+<IDNo><![CDATA[P0741]]></IDNo>
+</titlStmt>
+</citation>
+</docDscr>
+<stdyDescr>
+<citation>
+<titlStmt>
+<titl><![CDATA[-]]></titl>
+<parTitl><![CDATA[-]]></parTitl>
+<IDNo><![CDATA[P0741]]></IDNo>
+</titlStmt>
+<prodStmt>
+<prodDate><![CDATA[2005-04-11]]></prodDate>
+<prodPlac><![CDATA[NIWI]]></prodPlac>
+</prodStmt>
+<distStmt>
+<depDate><![CDATA[2004-01-01]]></depDate>
+<distDate><![CDATA[2005-04-11]]></distDate>
+</distStmt>
+</citation>
+<stdyInfo>
+<abstract><![CDATA[The collection includes three data-files;
+- P0741A: Oral Interview (SCP)
+- P0741C: Drop-off questionnaire (Middendorp)
+- P0741B: Combination file as used by Middendorp]]></abstract>
+<sumDscr>
+<timePrd><![CDATA[1980 * 1981]]></timePrd>
+<timePrd><![CDATA[1980]]></timePrd>
+<timePrd><![CDATA[1981]]></timePrd>
+<collDate><![CDATA[1980-11-01]]></collDate>
+<collDate><![CDATA[1981-01-31]]></collDate>
+<nation><![CDATA[Netherlands]]></nation>
+<geoCover><![CDATA[Netherlands]]></geoCover>
+<geoUnit><![CDATA[National]]></geoUnit>
+<anlyUnit><![CDATA[individuals]]></anlyUnit>
+<anlyUnit><![CDATA[individual]]></anlyUnit>
+<universe><![CDATA[Age limits: 16-74 years
+Location: national
+Name of country: Netherlands]]></universe>
+<dataKind><![CDATA[survey]]></dataKind>
+<dataKind><![CDATA[Survey Continuous Longitudinal]]></dataKind>
+</sumDscr>
+</stdyInfo>
+<method>
+<dataColl>
+<timeMeth><![CDATA[longitudinal]]></timeMeth>
+<datacollector><![CDATA[NIPO * Amsterdam, the Netherlands]]></datacollector>
+<frequenc><![CDATA[other repeated]]></frequenc>
+<sampProc><![CDATA[multi-stage]]></sampProc>
+<sampProc><![CDATA[Multi-stage sample.  Number of units original sample: 2648. Losses: 641. Nr. of cases, oral interview: 2007. Nr of cases drop-off questionnaire: 1663.]]></sampProc>
+<collMode><![CDATA[interview]]></collMode>
+<actMin><![CDATA[follow-up visits: 2; 
+substitution of original address by nearest address;
+letters introduction for both questionnaires;
+Dfl. 10,- for returning the drop-off questionnaire.]]></actMin>
+<weight><![CDATA[no weighting]]></weight>
+<fileDescr>
+<fileTxt>
+<fileName><![CDATA[p0741c]]></fileName>
+<fileCont><![CDATA[Separate file with only variables from the drop-off questionnaire (Middendorp) in sequence of this questionnaire. Valid response: N=1663]]></fileCont>
+</fileTxt>
+<dimensns>
+<caseQnty><![CDATA[2007]]></caseQnty>
+<varQnty><![CDATA[162]]></varQnty>
+</dimensns>
+<verStmt>
+</verStmt>
+</fileDescr>
+<fileDescr>
+<fileTxt>
+<fileName><![CDATA[P0741a]]></fileName>
+<fileCont><![CDATA[Vraiables from the oral interview only.]]></fileCont>
+</fileTxt>
+<dimensns>
+<caseQnty><![CDATA[2007]]></caseQnty>
+<varQnty><![CDATA[613]]></varQnty>
+</dimensns>
+<dataChck><![CDATA[complete study stored]]></dataChck>
+<verStmt>
+</verStmt>
+</fileDescr>
+<fileDescr>
+<fileTxt>
+<fileName><![CDATA[P0714b]]></fileName>
+<fileCont><![CDATA[Combination of variables from both oral and drop-off questionnaire. The format is the same as used by C.P. Middendorp, i.e. variable-sequence does not conform to the SCP-file or the questionnaires. There are minor differences in coding and missing-value declarations. Scales and constructed variables are not (yet) documented.]]></fileCont>
+</fileTxt>
+<dimensns>
+<caseQnty><![CDATA[2007]]></caseQnty>
+<varQnty><![CDATA[842]]></varQnty>
+</dimensns>
+<dataChck><![CDATA[complete study stored]]></dataChck>
+<verStmt>
+</verStmt>
+</fileDescr>
+</dataColl>
+</method>
+</stdyDescr>
+</codebook>

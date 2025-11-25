@@ -1,0 +1,6 @@
+dat/p0140.pdf (application/pdf) 299617 bytes.
+additional-metadata-P0140.xml (text/xml) 1880 bytes.
+dat/p0140.por (application/x-spss-por) 49086 bytes.
+dat/p0140.dic (text/x-c) 10004 bytes.
+dat/p0140.frq (application/octet-stream) 22420 bytes.
+easy-migration.zip (application/zip) 19470 bytes.

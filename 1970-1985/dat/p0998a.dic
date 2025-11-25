@@ -1,0 +1,3181 @@
+
+  17  display dictionary.
+22 May 03                                                                 Page 3
+14:13:00  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0998A: Culturele Veranderingen in Ned. 1970-85 CUM
+
+            List of variables on the working file
+
+Name                                                                   Position
+
+VAR001    SEX                                                                 1
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 9
+
+          Value    Label
+
+              1    MAN
+              2    WOMAN
+
+VAR002    AGE EXACT                                                           2
+          Print Format: F2
+          Write Format: F2
+          Missing Values: 0, 99
+
+VAR003    MARITAL STATUS                                                      3
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    MARRIED 1ST TIME
+              2    MARRIED,NOT 1ST MARR
+              3    UNMARRIED
+              4    DIVORCED
+              5    WIDOW-ER
+
+VAR004    SOCIAL CLASS,INTERVIEWER RATING                                     4
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 9
+
+          Value    Label
+
+              1    UPPER CLASS
+              2    MIDDLE CLASS
+              3    UPPER-LOWER CLASS
+              4    LOWER-LOWER CLASS
+
+VAR005    WHERE SPENT YOUTH?                                                  5
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    IN-NEAR-BIG CITY
+              2    IN-NEAR TOWN >100000
+              3    IN-NEAR SM.TWN
+              4    IN THE COUNTRY
+              5    CANNOT SAY
+              6    OUTSIDE NETH.
+22 May 03                                                                 Page 4
+14:13:00  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+
+VAR006    EDUCATIONAL LEVEL                                                   6
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    PRIMARY SCHOOL
+              2    PRIM.SCH.PLUS TRAIN.
+              3    SEC.MODERN LEVEL
+              4    SEC.MODERN PLUS TR.
+              5    GRAMMAR SCH.LEVEL
+              6    GRAMM.SCH.PLUS TRAIN
+              7    UNIVERSITY LEVEL
+
+VAR007    EDUCATIONAL LEVEL COMPLETED WITH DIPLOMA                            7
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    YES
+              2    NO
+
+VAR008    EDUCATIONAL LEVEL COMPLETED WITH DIPLOMA                            8
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    PRIMARY SCHOOL
+              2    PRIM.SCH.PLUS TRAIN.
+              3    SEC.MODERN LEVEL
+              4    SEC.MODERN PLUS TR.
+              5    GRAMMAR SCH.LEVEL
+              6    GRAMM.SCH.PLUS TRAIN
+              7    UNIVERSITY LEVEL
+
+VAR010    EDUCATIONAL LEVEL FATHER COMPLETED                                  9
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    PRIMARY SCHOOL
+              2    PRIM.SCH.PLUS TRAIN.
+              3    SEC.MODERN LEVEL
+              4    SEC.MODERN PLUS TR.
+              5    GRAMMAR SCH.LEVEL
+              6    GRAMM.SCH.PLUS TRAIN
+              7    UNIVERSITY LEVEL
+
+22 May 03                                                                 Page 5
+14:13:00  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0998A: Culturele Veranderingen in Ned. 1970-85 CUM
+
+VAR016    OCCUPATION                                                         10
+          Print Format: F2
+          Write Format: F2
+          Missing Values: 0, 99
+
+VAR036    HOW LONG WATCH TV PER DAY?                                         11
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    LESS TH.15 MIN
+              2    15-30 MIN
+              3    30-60 MIN
+              4    1-2 HOURS
+              5    2-3HOURS
+              6    MORE TH.3 HOURS
+
+VAR038    EVER SEE DIRECT BROADCASTING FR.PARLIAM.                           12
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    YES
+              2    NO
+
+VAR039    EVER WATCH OTHER POLITICAL TV-PROGRAMMES                           13
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    YES
+              2    NO
+
+VAR040    DO YOU READ POLITICAL ARTICLES,EG IN PAP                           14
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    REGULARY
+              2    NOW AND THEN
+              3    SOMETIMES
+              4    NO
+
+22 May 03                                                                 Page 6
+14:13:00  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0998A: Culturele Veranderingen in Ned. 1970-85 CUM
+
+VAR092    ARE MORAL NORMS DETERIORATING-IMPROVING?                           15
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    IMPROVE
+              2    PARTL.IMPR.PARL.DET.
+              3    REMAIN SAME
+              4    DETERIORATE
+
+VAR096    SH.GOVMT HAVE MORE MONEY FOR PUBLIC UTIL                           16
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    MUCH MORE
+              2    BIT MORE
+              3    LIKE IT IS NOW
+              4    BIT LESS
+              5    MUCH LESS
+
+VAR097    SH.GOVMT TAKE STR.ACTION FOR EQUAL.CHANC                           17
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    STR.IN FAVOR
+              2    IN FAVOR
+              3    NEITHER
+              4    AGAINST
+              5    STR.AGAINST
+
+VAR098    SH.GOVMT TAKE STR.ACTION FOR EQUAL.INCOM                           18
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    STR.IN FAVOR
+              2    IN FAVOR
+              3    NEITHER
+              4    AGAINST
+              5    STR.AGAINST
+
+22 May 03                                                                 Page 7
+14:13:00  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0998A: Culturele Veranderingen in Ned. 1970-85 CUM
+
+VAR099    SH.GOVMT TAKE STR.ACTION FOR EQ.PROPERTY                           19
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    STR.IN FAVOR
+              2    IN FAVOR
+              3    NEITHER
+              4    AGAINST
+              5    STR.AGAINST
+
+VAR100    GOVMNT SH.CREATE PROV.FOR CHILD-S HOMEWK                           20
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    STR.AGREE
+              2    AGREE
+              3    NEITHER
+              4    DISAGREE
+              5    STR.DISAGREE
+
+VAR101    GOVMNT SH.MAKE MORE BURSARIES AVAILABLE                            21
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    STR.AGREE
+              2    AGREE
+              3    NEITHER
+              4    DISAGREE
+              5    STR.DISAGREE
+
+VAR102    GOVMNT SH.OBLIGE FIRMS EQ.SHARE WORK-SHP                           22
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    STR.AGREE
+              2    AGREE
+              3    NEITHER
+              4    DISAGREE
+              5    STR.DISAGREE
+
+22 May 03                                                                 Page 8
+14:13:00  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0998A: Culturele Veranderingen in Ned. 1970-85 CUM
+
+VAR103    GOVMNT SH.SPEND MORE MONEY CHEAP HOUSES                            23
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    STR.AGREE
+              2    AGREE
+              3    NEITHER
+              4    DISAGREE
+              5    STR.DISAGREE
+
+VAR104    GOVMNT SH.FIRMLY CONTR.PRIZES AFT.WAGEIN                           24
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    STR.AGREE
+              2    AGREE
+              3    NEITHER
+              4    DISAGREE
+              5    STR.DISAGREE
+
+VAR105    GOVMNT SH.MIN.INC.RISE SHARPER TH.OTERS                            25
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    STR.AGREE
+              2    AGREE
+              3    NEITHER
+              4    DISAGREE
+              5    STR.DISAGREE
+
+VAR106    GOVMNT SH.EXPLOIT MINERALS ITSELF                                  26
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    STR.AGREE
+              2    AGREE
+              3    NEITHER
+              4    DISAGREE
+              5    STR.DISAGREE
+
+22 May 03                                                                 Page 9
+14:13:00  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0998A: Culturele Veranderingen in Ned. 1970-85 CUM
+
+VAR107    GOVMNT SH.EDUC.FREE OF CHARGE TILL 18Y.                            27
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    STR.AGREE
+              2    AGREE
+              3    NEITHER
+              4    DISAGREE
+              5    STR.DISAGREE
+
+VAR108    GOVMNT SH.NATIONALIZE BIG INDUSTRY-TRADE                           28
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    STR.AGREE
+              2    AGREE
+              3    NEITHER
+              4    DISAGREE
+              5    STR.DISAGREE
+
+VAR109    GOVMNT SH.FIGHT ENVIRONM.POLLUTION MORE                            29
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    STR.AGREE
+              2    AGREE
+              3    NEITHER
+              4    DISAGREE
+              5    STR.DISAGREE
+
+VAR110    GOVMNT SH.INCREASE TAXES HIGHER INCOMES                            30
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    STR.INCREASE
+              2    BIT INCREASE
+              3    LEAVE LIKE NOW
+              4    BIT DECREASE
+              5    STR.DECREASE
+
+22 May 03                                                                Page 10
+14:13:00  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0998A: Culturele Veranderingen in Ned. 1970-85 CUM
+
+VAR111    GOVMNT SH.INCR-DECREASE DEATH-DUTIES                               31
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    STR.INCREASE
+              2    BIT INCREASE
+              3    LEAVE LIKE NOW
+              4    BIT DECREASE
+              5    STR.DECREASE
+
+VAR113    GOVMNT SH.INCR-DECREASE AID TO DEVEL.CTS                           32
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    STR.INCREASE
+              2    BIT INCREASE
+              3    LEAVE LIKE NOW
+              4    BIT DECREASE
+              5    STR.DECREASE
+
+VAR114    GOVMNT SH.INCR-DECR.TAXES ON LOWER INC.                            33
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    STR.INCREASE
+              2    BIT INCREASE
+              3    LEAVE LIKE NOW
+              4    BIT DECREASE
+              5    STR.DECREASE
+
+VAR115    GOVMNT SH.INCR-DECR.INDIRECT.TAX LUXURY                            34
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    STR.INCREASE
+              2    BIT INCREASE
+              3    LEAVE LIKE NOW
+              4    BIT DECREASE
+              5    STR.DECREASE
+
+22 May 03                                                                Page 11
+14:13:00  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0998A: Culturele Veranderingen in Ned. 1970-85 CUM
+
+VAR117    GOVMNT SH.INCR-DECR.INDIR.TAX DAILY NECC                           35
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    STR.INCREASE
+              2    BIT INCREASE
+              3    LEAVE LIKE NOW
+              4    BIT DECREASE
+              5    STR.DECREASE
+
+VAR118    GOVMNT SH.INCR-DECR.SURTAX                                         36
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    STR.INCREASE
+              2    BIT INCREASE
+              3    LEAVE LIKE NOW
+              4    BIT DECREASE
+              5    STR.DECREASE
+
+VAR121    GOVMNT SH.COMPULSORY EDUC.TILL 18 Y.                               37
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    STR.AGREE
+              2    AGREE
+              3    NEITHER
+              4    DISAGREE
+              5    STR.DISAGREE
+
+VAR122    GOVMNT SH.EXTEND GRANTS FOR ARTISTS                                38
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    STR.AGREE
+              2    AGREE
+              3    NEITHER
+              4    DISAGREE
+              5    STR.DISAGREE
+
+22 May 03                                                                Page 12
+14:13:00  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0998A: Culturele Veranderingen in Ned. 1970-85 CUM
+
+VAR123    GOVMNT SH.CONTR.MERGERS IN TRADE-INDUSTR                           39
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    STR.AGREE
+              2    AGREE
+              3    NEITHER
+              4    DISAGREE
+              5    STR.DISAGREE
+
+VAR124    GOVMNT SH.BUILD MORE CHEAP DAY-NURSERIES                           40
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    STR.AGREE
+              2    AGREE
+              3    NEITHER
+              4    DISAGREE
+              5    STR.DISAGREE
+
+VAR154    OLD-AGE PENSIONS ARE                                               41
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              0 M  TOO GOOD
+              1    SUFFICIENT
+              2    INSUFFICIENT
+
+VAR155    SUPPLEMENTARY BENEFITS ARE                                         42
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              0 M  TOO GOOD
+              1    SUFFICIENT
+              2    INSUFFICIENT
+
+22 May 03                                                                Page 13
+14:13:00  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0998A: Culturele Veranderingen in Ned. 1970-85 CUM
+
+VAR156    SUPPL.BENEFITS FOR UNEMPLOYMENT ARE                                43
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+          Value    Label
+
+              0 M  TOO GOOD
+              1    SUFFICIENT
+              2    INSUFFICIENT
+
+VAR157    SUPPL.BENEFITS FOR WIDOWS-ORPHANS ARE                              44
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              0 M  TOO GOOD
+              1    SUFFICIENT
+              2    INSUFFICIENT
+
+VAR158    THE NATIONAL HEALTH INSURANCE IS                                   45
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              0 M  TOO GOOD
+              1    SUFFICIENT
+              2    INSUFFICIENT
+
+VAR165    WISH DIFFER.IN INCOME TO BECOME                                    46
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+              1    MUCH LARGER
+              2    BIT LARGER
+              3    REMAIN AS NOW
+              4    BITSMALLER
+              5    MUCH SMALLER
+
+22 May 03                                                                Page 14
+14:13:00  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0998A: Culturele Veranderingen in Ned. 1970-85 CUM
+
+VAR166    WISH DIFFER. IN PROPERTY TO BECOME                                 47
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    MUCH LARGER
+              2    BIT LARGER
+              3    REMAIN AS NOW
+              4    BITSMALLER
+              5    MUCH SMALLER
+
+VAR167    WISH WORKER-S SAY IN INDUSTRY-TRADE BEC.                           48
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    MUCH LARGER
+              2    BIT LARGER
+              3    REMAIN AS NOW
+              4    BITSMALLER
+              5    MUCH SMALLER
+
+VAR179    TO DEMONSTRATE                                                     49
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    YES
+              2    NO
+
+VAR180    OPENLY CRITICIZE THE ROYAL FAMILY                                  50
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    YES
+              2    NO
+
+VAR181    STRIKE FOR PAY-RISE                                                51
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    YES
+              2    NO
+
+22 May 03                                                                Page 15
+14:13:00  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0998A: Culturele Veranderingen in Ned. 1970-85 CUM
+
+VAR182    BE A CONSCIENTIOUS OBJECTOR                                        52
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    YES
+              2    NO
+
+VAR183    OCCUPY BUILDINGS TO ENFORCE JUST DEMANDS                           53
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    YES
+              2    NO
+
+VAR184    WRITE IN PUBLIC WHATEVER ONE WANTS                                 54
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    YES
+              2    NO
+
+VAR185    SAY IN PUBLIC WHATEVER ONE WANTS                                   55
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    YES
+              2    NO
+
+VAR198    IN WHICH RELIGION HAVE YOU BEEN RAISED                             56
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 5, 9
+
+          Value    Label
+
+              1    NONE
+              2    ROMAN CATHOLIC
+              3    DUTCH REFORMED
+              4    CALVINIST
+              5 M  OTHER RELIGION
+
+22 May 03                                                                Page 16
+14:13:00  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0998A: Culturele Veranderingen in Ned. 1970-85 CUM
+
+VAR201    CONSIDER MEMBER OF RELIGIOUS COMMUNITY?                            57
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 5, 9
+
+          Value    Label
+
+              1    NONE
+              2    ROMAN CATHOLIC
+              3    DUTCH REFORMED
+              4    CALVINIST
+              5 M  OTHER RELIGION
+
+VAR204    HOW OFTEN DO YOU ATTEND CHURCH?-LST 6M.                            58
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    ONCE A WEEK
+              2    ONCE A FORTNIGHT
+              3    ONCE A MONTH
+              4    LESS THAN ONCE A MON
+              5    NEVER
+
+VAR205    DO Y.BELIEVE IN LIFE AFTER DEATH?                                  59
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    YES
+              2    NO
+
+VAR206    DO Y.BELIEVE IN HEAVEN                                             60
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    YES
+              2    NO
+
+VAR207    DO Y.BELIEVE IN PURGATORY                                          61
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    YES
+              2    NO
+
+22 May 03                                                                Page 17
+14:13:00  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0998A: Culturele Veranderingen in Ned. 1970-85 CUM
+
+VAR208    DO Y.BELIEVE IN HELL                                               62
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    YES
+              2    NO
+
+VAR209    DO Y.BELIEVE IN THE DEVIL                                          63
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    YES
+              2    NO
+
+VAR210    DID ADAM AND EVE EXIST?                                            64
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    YES
+              2    PERHAPS
+              3    NO
+
+VAR211    IS THE BIBLE THE WORD OF GOD?                                      65
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    COMPLETELY AGREE
+              2    AGREE GENERALLY
+              3    NOT AGREE AT ALL
+
+VAR212    DOES PRAYING MAKE SENSE?                                           66
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    YES
+              2    PERHAPS
+              3    NO
+
+22 May 03                                                                Page 18
+14:13:00  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0998A: Culturele Veranderingen in Ned. 1970-85 CUM
+
+VAR217    DAUGHTER WISHES TO MARRY S. OF OTH.FAITH                           67
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    NO OBJECT.AT ALL
+              2    DEPENDS
+              3    NOT PLEASANT
+              4    WILL RESIST
+
+VAR218    SON OR DAUGHTER CHOOSES OTHER RELIGION                             68
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    NO OBJECT.AT ALL
+              2    DEPENDS
+              3    NOT PLEASANT
+              4    WILL RESIST
+
+VAR219    SON OR DAUGHTER CHOOSES NOT TO BELIEVE                             69
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    NO OBJECT.AT ALL
+              2    DEPENDS
+              3    NOT PLEASANT
+              4    WILL RESIST
+
+VAR220    HOW ARE THE PRESCRIPTIONS OF CHURCH                                70
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    TOO SEVERE
+              2    JUST ABOUT RIGHT
+              3    NOT STRICT ENOUGH
+
+VAR222    WOULD YOU CHOOSE STATE-REL.SCH.FOR CHILD                           71
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    STATE SCHOOL
+              2    RELIGIOUS SCHOOL
+              3    NOT MUCH DIFFERENCE
+22 May 03                                                                Page 19
+14:13:00  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+
+VAR223    SHOULD POLITICS AND RELIGION BE                                    72
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    UNRELATED
+              2    DEPENDS
+              3    NOT UNRELATED
+
+VAR224    SH.BE RELIGION-BASED:BROADCAST-CORPORAT.                           73
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    YES-REL.BASED
+              2    NOT NECESSARY
+
+VAR225    SH.BE RELIGION-BASED:SPORTSCLUB                                    74
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    YES-REL.BASED
+              2    NOT NECESSARY
+
+VAR226    SH.BE RELIGION-BASED:TRADE UNION                                   75
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    YES-REL.BASED
+              2    NOT NECESSARY
+
+VAR227    SH.BE RELIGION-BASED:YOUTH-CLUB                                    76
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    YES-REL.BASED
+              2    NOT NECESSARY
+
+22 May 03                                                                Page 20
+14:13:00  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0998A: Culturele Veranderingen in Ned. 1970-85 CUM
+
+VAR228    SH.BE RELIGION-BASED:POLITICAL PARTY                               77
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    YES-REL.BASED
+              2    NOT NECESSARY
+
+VAR246    CUST-TRAD.INDISPENS.TO MANKIND-OPPOSITE                            78
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    AGREE STR.M.FIRST ST
+              2    AGREE M.FIRST STATMT
+              3    AGR.BIT M.FIRST STAT
+              4    BOTH AGREE-DISAGREE
+              5    AGR.BIT M.SEC.STATEM
+              6    AGREE M.SEC.STATEMEN
+              7    AGR.STR.M.SEC.STATEM
+
+VAR247    LAW-ORDER ESSENT.F:SOCIAL DEVEL.-OPP.                              79
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    AGREE STR.M.FIRST ST
+              2    AGREE M.FIRST STATMT
+              3    AGR.BIT M.FIRST STAT
+              4    BOTH AGREE-DISAGREE
+              5    AGR.BIT M.SEC.STATEM
+              6    AGREE M.SEC.STATEMEN
+              7    AGR.STR.M.SEC.STATEM
+
+VAR248    IMPLEM.OF CHANGE ONLY WK.NECESS.-                                  80
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    AGREE STR.M.FIRST ST
+              2    AGREE M.FIRST STATMT
+              3    AGR.BIT M.FIRST STAT
+              4    BOTH AGREE-DISAGREE
+              5    AGR.BIT M.SEC.STATEM
+              6    AGREE M.SEC.STATEMEN
+              7    AGR.STR.M.SEC.STATEM
+
+22 May 03                                                                Page 21
+14:13:00  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0998A: Culturele Veranderingen in Ned. 1970-85 CUM
+
+VAR249    IMPLEM.OF CHANGE GUIDED BY LESSONS HIST.                           81
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    AGREE STR.M.FIRST ST
+              2    AGREE M.FIRST STATMT
+              3    AGR.BIT M.FIRST STAT
+              4    BOTH AGREE-DISAGREE
+              5    AGR.BIT M.SEC.STATEM
+              6    AGREE M.SEC.STATEMEN
+              7    AGR.STR.M.SEC.STATEM
+
+VAR250    AIMS OF CHANGE:RESTORATION OF THE PAST                             82
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    AGREE STR.M.FIRST ST
+              2    AGREE M.FIRST STATMT
+              3    AGR.BIT M.FIRST STAT
+              4    BOTH AGREE-DISAGREE
+              5    AGR.BIT M.SEC.STATEM
+              6    AGREE M.SEC.STATEMEN
+              7    AGR.STR.M.SEC.STATEM
+
+VAR251    BETTER SOC.ONLY THROUGH RADICAL CHANGE                             83
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    AGREE STR.M.FIRST ST
+              2    AGREE M.FIRST STATMT
+              3    AGR.BIT M.FIRST STAT
+              4    BOTH AGREE-DISAGREE
+              5    AGR.BIT M.SEC.STATEM
+              6    AGREE M.SEC.STATEMEN
+              7    AGR.STR.M.SEC.STATEM
+
+22 May 03                                                                Page 22
+14:13:00  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0998A: Culturele Veranderingen in Ned. 1970-85 CUM
+
+VAR252    LIMIT FREED.OF ENTERPRISE:OTH.FREED.LOST                           84
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    AGREE STR.M.FIRST ST
+              2    AGREE M.FIRST STATMT
+              3    AGR.BIT M.FIRST STAT
+              4    BOTH AGREE-DISAGREE
+              5    AGR.BIT M.SEC.STATEM
+              6    AGREE M.SEC.STATEMEN
+              7    AGR.STR.M.SEC.STATEM
+
+VAR253    HUMAN NEEDS SERVED BEST IN CAPIT.SOCIETY                           85
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    AGREE STR.M.FIRST ST
+              2    AGREE M.FIRST STATMT
+              3    AGR.BIT M.FIRST STAT
+              4    BOTH AGREE-DISAGREE
+              5    AGR.BIT M.SEC.STATEM
+              6    AGREE M.SEC.STATEMEN
+              7    AGR.STR.M.SEC.STATEM
+
+VAR254    MUCH GOVNTINTERF:BUREACRACY-STAGNATION                             86
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    AGREE STR.M.FIRST ST
+              2    AGREE M.FIRST STATMT
+              3    AGR.BIT M.FIRST STAT
+              4    BOTH AGREE-DISAGREE
+              5    AGR.BIT M.SEC.STATEM
+              6    AGREE M.SEC.STATEMEN
+              7    AGR.STR.M.SEC.STATEM
+
+22 May 03                                                                Page 23
+14:13:00  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0998A: Culturele Veranderingen in Ned. 1970-85 CUM
+
+VAR255    PRIV.ENTERPR.ESSENT.F.ECONOMIC GROWTH                              87
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    AGREE STR.M.FIRST ST
+              2    AGREE M.FIRST STATMT
+              3    AGR.BIT M.FIRST STAT
+              4    BOTH AGREE-DISAGREE
+              5    AGR.BIT M.SEC.STATEM
+              6    AGREE M.SEC.STATEMEN
+              7    AGR.STR.M.SEC.STATEM
+
+VAR256    FREED.OF ENTERPR:TOO FEW PUBLIC UTILITIE                           88
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    AGREE STR.M.FIRST ST
+              2    AGREE M.FIRST STATMT
+              3    AGR.BIT M.FIRST STAT
+              4    BOTH AGREE-DISAGREE
+              5    AGR.BIT M.SEC.STATEM
+              6    AGREE M.SEC.STATEMEN
+              7    AGR.STR.M.SEC.STATEM
+
+VAR257    EXIST,SOC.RELAT.INEVITABLE ECONOMICALLY                            89
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    AGREE STR.M.FIRST ST
+              2    AGREE M.FIRST STATMT
+              3    AGR.BIT M.FIRST STAT
+              4    BOTH AGREE-DISAGREE
+              5    AGR.BIT M.SEC.STATEM
+              6    AGREE M.SEC.STATEMEN
+              7    AGR.STR.M.SEC.STATEM
+
+22 May 03                                                                Page 24
+14:13:00  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0998A: Culturele Veranderingen in Ned. 1970-85 CUM
+
+VAR258    GMNT-CARE FR.CRADDL TO GRAVE:LIFE SLACKS                           90
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    AGREE STR.M.FIRST ST
+              2    AGREE M.FIRST STATMT
+              3    AGR.BIT M.FIRST STAT
+              4    BOTH AGREE-DISAGREE
+              5    AGR.BIT M.SEC.STATEM
+              6    AGREE M.SEC.STATEMEN
+              7    AGR.STR.M.SEC.STATEM
+
+VAR259    PEOPLEONLY EXERT THSELVES FOR HIGH.INCO                            91
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    AGREE STR.M.FIRST ST
+              2    AGREE M.FIRST STATMT
+              3    AGR.BIT M.FIRST STAT
+              4    BOTH AGREE-DISAGREE
+              5    AGR.BIT M.SEC.STATEM
+              6    AGREE M.SEC.STATEMEN
+              7    AGR.STR.M.SEC.STATEM
+
+VAR260    SOC.DIFF.CAUSED BY UNEQUAL CHANCE TO DEV                           92
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    AGREE STR.M.FIRST ST
+              2    AGREE M.FIRST STATMT
+              3    AGR.BIT M.FIRST STAT
+              4    BOTH AGREE-DISAGREE
+              5    AGR.BIT M.SEC.STATEM
+              6    AGREE M.SEC.STATEMEN
+              7    AGR.STR.M.SEC.STATEM
+
+22 May 03                                                                Page 25
+14:13:00  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0998A: Culturele Veranderingen in Ned. 1970-85 CUM
+
+VAR261    EXISTENCE OF SOCIAL CLASSES UNJUST                                 93
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    AGREE STR.M.FIRST ST
+              2    AGREE M.FIRST STATMT
+              3    AGR.BIT M.FIRST STAT
+              4    BOTH AGREE-DISAGREE
+              5    AGR.BIT M.SEC.STATEM
+              6    AGREE M.SEC.STATEMEN
+              7    AGR.STR.M.SEC.STATEM
+
+VAR262    MOST IMP.SOC.ANTITHESIS BETWEEN CLASSES                            94
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    AGREE STR.M.FIRST ST
+              2    AGREE M.FIRST STATMT
+              3    AGR.BIT M.FIRST STAT
+              4    BOTH AGREE-DISAGREE
+              5    AGR.BIT M.SEC.STATEM
+              6    AGREE M.SEC.STATEMEN
+              7    AGR.STR.M.SEC.STATEM
+
+VAR263    ALL GROUPS CAN LIVE IN HARMONY IN SOC.                             95
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    AGREE STR.M.FIRST ST
+              2    AGREE M.FIRST STATMT
+              3    AGR.BIT M.FIRST STAT
+              4    BOTH AGREE-DISAGREE
+              5    AGR.BIT M.SEC.STATEM
+              6    AGREE M.SEC.STATEMEN
+              7    AGR.STR.M.SEC.STATEM
+
+22 May 03                                                                Page 26
+14:13:00  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0998A: Culturele Veranderingen in Ned. 1970-85 CUM
+
+VAR264    EXIST,AUTHRELAT.SET LIMITS TO FREEDOM                              96
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    AGREE STR.M.FIRST ST
+              2    AGREE M.FIRST STATMT
+              3    AGR.BIT M.FIRST STAT
+              4    BOTH AGREE-DISAGREE
+              5    AGR.BIT M.SEC.STATEM
+              6    AGREE M.SEC.STATEMEN
+              7    AGR.STR.M.SEC.STATEM
+
+VAR265    AUTH.SH.EXERCIZED BY SM.GR.OF ABLE MEN                             97
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    AGREE STR.M.FIRST ST
+              2    AGREE M.FIRST STATMT
+              3    AGR.BIT M.FIRST STAT
+              4    BOTH AGREE-DISAGREE
+              5    AGR.BIT M.SEC.STATEM
+              6    AGREE M.SEC.STATEMEN
+              7    AGR.STR.M.SEC.STATEM
+
+VAR266    COMPL.DEMOCRACY IMPOSS.BEC.VARYING ABILI                           98
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    AGREE STR.M.FIRST ST
+              2    AGREE M.FIRST STATMT
+              3    AGR.BIT M.FIRST STAT
+              4    BOTH AGREE-DISAGREE
+              5    AGR.BIT M.SEC.STATEM
+              6    AGREE M.SEC.STATEMEN
+              7    AGR.STR.M.SEC.STATEM
+
+22 May 03                                                                Page 27
+14:13:00  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0998A: Culturele Veranderingen in Ned. 1970-85 CUM
+
+VAR267    FOR FULL DEVELOPM:LIVE ACC.TO TRADITIONS                           99
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    AGREE STR.M.FIRST ST
+              2    AGREE M.FIRST STATMT
+              3    AGR.BIT M.FIRST STAT
+              4    BOTH AGREE-DISAGREE
+              5    AGR.BIT M.SEC.STATEM
+              6    AGREE M.SEC.STATEMEN
+              7    AGR.STR.M.SEC.STATEM
+
+VAR268    ANCIENT INSTIT.VALUABLE FOR MANKIND                               100
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    AGREE STR.M.FIRST ST
+              2    AGREE M.FIRST STATMT
+              3    AGR.BIT M.FIRST STAT
+              4    BOTH AGREE-DISAGREE
+              5    AGR.BIT M.SEC.STATEM
+              6    AGREE M.SEC.STATEMEN
+              7    AGR.STR.M.SEC.STATEM
+
+VAR269    ORIGIN OF SOCIAL ABUSE LIES IN HUMAN NAT                          101
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    AGREE STR.M.FIRST ST
+              2    AGREE M.FIRST STATMT
+              3    AGR.BIT M.FIRST STAT
+              4    BOTH AGREE-DISAGREE
+              5    AGR.BIT M.SEC.STATEM
+              6    AGREE M.SEC.STATEMEN
+              7    AGR.STR.M.SEC.STATEM
+
+22 May 03                                                                Page 28
+14:13:00  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0998A: Culturele Veranderingen in Ned. 1970-85 CUM
+
+VAR270    SOC.IS TOO COMPLEX TO IMPROVE BY IDEAS                            102
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    AGREE STR.M.FIRST ST
+              2    AGREE M.FIRST STATMT
+              3    AGR.BIT M.FIRST STAT
+              4    BOTH AGREE-DISAGREE
+              5    AGR.BIT M.SEC.STATEM
+              6    AGREE M.SEC.STATEMEN
+              7    AGR.STR.M.SEC.STATEM
+
+VAR271    STUDENT-S SAY IN MANAGEM.OF UNIVERS.SH:                           103
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    SH.INCR.SHARPLY
+              2    SH.INCREASE A LITTLE
+              3    REMAIN AS IT IS
+              4    DECREASE A LITTLE
+              5    DECREASE A LOT
+
+VAR272    PUPILS-S SAY IN SEC.SCH.TRAININGCOLL.SH:                          104
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    SH.INCR.SHARPLY
+              2    SH.INCREASE A LITTLE
+              3    REMAIN AS IT IS
+              4    DECREASE A LITTLE
+              5    DECREASE A LOT
+
+VAR273    CITIZEN-S SAY IN LOCAL-REG.GOVMNT SH:                             105
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    SH.INCR.SHARPLY
+              2    SH.INCREASE A LITTLE
+              3    REMAIN AS IT IS
+              4    DECREASE A LITTLE
+              5    DECREASE A LOT
+
+22 May 03                                                                Page 29
+14:13:00  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0998A: Culturele Veranderingen in Ned. 1970-85 CUM
+
+VAR274    VOTE IF TH.WERE PARLIAM.ELECTIONS NOW:                            106
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    YES
+              2    PERHAPS
+              3    NO
+              4    DON-T WANT TO TELL
+
+VAR275    IF PARLIAM.ELECTIONS NOW:WHICH PARTY VOT                          107
+          Print Format: F2
+          Write Format: F2
+          Missing Values: 99
+
+          Value    Label
+
+              1    PVDA
+              2    VVD
+              3    KVP
+              4    ARP
+              5    CHU-CHR.HIST-PROT
+              6    CDA-CHR.DEM.APPEL
+              7    PPR-RADICALS
+              8    D66-DEMOCRATS
+              9    PSP-PACIFIST-SOCIAL
+             10    CPN-COMMUNISTS
+             11    DS70-DEM.SOCIALISTS
+             12    BP-FARMERS PARTY
+             13    SGP-EXTR.ORTHOD.PROT
+             14    GPV-EXTR.PROT.ORTHOD
+             15    RKPN-EXTRCATH.ORTH
+             16    RPF
+             17    CP
+             18    EVP
+             19    BLANCO
+             20    TOO YOUNG TO VOTE
+             21    OTHER PARTY
+             22    DON-T KNOWYET
+             23    DON-T WANT TO TELL
+             24    DIDNT VOTE
+             25    DOESN-T REMEMBER
+             26    PAK
+
+22 May 03                                                                Page 30
+14:13:00  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0998A: Culturele Veranderingen in Ned. 1970-85 CUM
+
+VAR277    VOTE IN LAST ELECT.2ND CHAMBER OF PARL.                           108
+          Print Format: F2
+          Write Format: F2
+          Missing Values: 99
+
+          Value    Label
+
+              1    PVDA
+              2    VVD
+              3    KVP
+              4    ARP
+              5    CHU-CHR.HIST-PROT
+              6    CDA-CHR.DEM.APPEL
+              7    PPR-RADICALS
+              8    D66-DEMOCRATS
+              9    PSP-PACIFIST-SOCIAL
+             10    CPN-COMMUNISTS
+             11    DS70-DEM.SOCIALISTS
+             12    BP-FARMERS PARTY
+             13    SGP-EXTR.ORTHOD.PROT
+             14    GPV-EXTR.PROT.ORTHOD
+             15    RKPN-EXTRCATH.ORTH
+             16    RPF
+             17    CP
+             18    EVP
+             19    BLANCO
+             20    TOO YOUNG TO VOTE
+             21    OTHER PARTY
+             22    DON-T KNOWYET
+             23    DON-T WANT TO TELL
+             24    DIDNT VOTE
+             25    DOESN-T REMEMBER
+             26    PAK
+
+VAR340    TR.UN.MORE VIG.POLICY FOR INTER.WORKERS                           109
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    STR.AGREE
+              2    AGREE
+              3    NEITHER
+              4    DISAGREE
+              5    STR.DISAGREE
+
+22 May 03                                                                Page 31
+14:13:00  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0998A: Culturele Veranderingen in Ned. 1970-85 CUM
+
+VAR341    TR.UNIONS ADVICE MEMBERS HOW TO VOTE                              110
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    STR.AGREE
+              2    AGREE
+              3    NEITHER
+              4    DISAGREE
+              5    STR.DISAGREE
+
+VAR342    DIFF.IN CLASS SHOULD BE SMALLER                                   111
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    STR.AGREE
+              2    AGREE
+              3    NEITHER
+              4    DISAGREE
+              5    STR.DISAGREE
+
+VAR343    WORKERS STILL STRUGGLE F.EQUAL POSITION                           112
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    STR.AGREE
+              2    AGREE
+              3    NEITHER
+              4    DISAGREE
+              5    STR.DISAGREE
+
+VAR347    ABORTION SH.BE POSS.IF A WOMAN WISHES SO                          113
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    STR.AGREE
+              2    AGREE
+              3    NEITHER
+              4    DISAGREE
+              5    STR.DISAGREE
+
+22 May 03                                                                Page 32
+14:13:00  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0998A: Culturele Veranderingen in Ned. 1970-85 CUM
+
+VAR348    BIRTHCONTR PROPAGATED TO FIGHT POP.INCR.                          114
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    STR.AGREE
+              2    AGREE
+              3    NEITHER
+              4    DISAGREE
+              5    STR.DISAGREE
+
+VAR351    FOR SOME CRIMES:REINTRODUCE DEATHPENALTY                          115
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    STR.AGREE
+              2    AGREE
+              3    NEITHER
+              4    DISAGREE
+              5    STR.DISAGREE
+
+VAR353    FOR GOOD OF TEENAGERS TO OBEY PARENTS                             116
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    STR.AGREE
+              2    AGREE
+              3    NEITHER
+              4    DISAGREE
+              5    STR.DISAGREE
+
+VAR354    MST IMPORT.TH:LEARN CHILDR.TOT.OBED.PART                          117
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    STR.AGREE
+              2    AGREE
+              3    NEITHER
+              4    DISAGREE
+              5    STR.DISAGREE
+
+22 May 03                                                                Page 33
+14:13:00  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0998A: Culturele Veranderingen in Ned. 1970-85 CUM
+
+VAR355    OBVIOUSLY CHILD.HAVE REGARD F.PARENTS                             118
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    STR.AGREE
+              2    AGREE
+              3    NEITHER
+              4    DISAGREE
+              5    STR.DISAGREE
+
+VAR357    WOMAN MORE FIT TO RAISE SMALL CHILDREN                            119
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    STR.AGREE
+              2    AGREE
+              3    NEITHER
+              4    DISAGREE
+              5    STR.DISAGREE
+
+VAR358    UNNATURAL IF WOMAN ARE IN CONTROL O.MEN                           120
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    STR.AGREE
+              2    AGREE
+              3    NEITHER
+              4    DISAGREE
+              5    STR.DISAGREE
+
+VAR359    NOT SO IMP.F.GIRL TO GET GOOD SCHOOLING                           121
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    STR.AGREE
+              2    AGREE
+              3    NEITHER
+              4    DISAGREE
+              5    STR.DISAGREE
+
+22 May 03                                                                Page 34
+14:13:00  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0998A: Culturele Veranderingen in Ned. 1970-85 CUM
+
+VAR360    BOYS CAN BE RAISED MORE FREELY TH.GIRLS                           122
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    STR.AGREE
+              2    AGREE
+              3    NEITHER
+              4    DISAGREE
+              5    STR.DISAGREE
+
+VAR364    EXPECT BETTER FUTURE                                              123
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    CERTAINLY
+              2    PROBABLY YES
+              3    PROBABLY NOT
+              4    CERTAINLY NOT
+
+VAR365    EXPECT PRESENT SOCIAL POSITION DETERIORT                          124
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    YES
+              2    NO
+
+VAR367    TO WHICH CLASS DO YOU THINK YOU BELONG                            125
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    WORKING CLASS
+              2    LOWER MIDDLE CLASS
+              3    UPPERMIDDLE CLASS
+              4    UPPER CLASS
+
+22 May 03                                                                Page 35
+14:13:00  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0998A: Culturele Veranderingen in Ned. 1970-85 CUM
+
+VAR368    TO WHICH CLASS YOUR FAMILY BELONGS-ED                             126
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    WORKING CLASS
+              2    LOWER MIDDLE CLASS
+              3    UPPERMIDDLE CLASS
+              4    UPPER CLASS
+
+VAR415    MENTIONED NAMES OF MINISTERS IN GOVMNT                            127
+          Print Format: F2
+          Write Format: F2
+
+          Value    Label
+
+              0    NO CORR NAME MENT.
+              1    1 CORR.NAME
+              2    2 CORR. NAMES
+              9    9 CORRECT NAMES
+
+VAR430    THERE ARE 2 KINDS OF PEOPLE:WEAK-STRONG                           128
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    COMPL.AGREE
+              2    AGREE GENERALLY
+              3    NEITHER
+              4    RATHER DISAGREE
+              5    COMPLETELY DISAGREE
+
+VAR431    FAMILIARITY BREEDS CONTEMPT                                       129
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    COMPL.AGREE
+              2    AGREE GENERALLY
+              3    NEITHER
+              4    RATHER DISAGREE
+              5    COMPLETELY DISAGREE
+
+22 May 03                                                                Page 36
+14:13:00  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0998A: Culturele Veranderingen in Ned. 1970-85 CUM
+
+VAR433    CRIMINALS:NOT PUNISH BUT CHANGE                                   130
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    COMPL.AGREE
+              2    AGREE GENERALLY
+              3    NEITHER
+              4    RATHER DISAGREE
+              5    COMPLETELY DISAGREE
+
+VAR434    YOUNG PEOPLE REBELL:GET OVER AND SETTLE                           131
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    COMPL.AGREE
+              2    AGREE GENERALLY
+              3    NEITHER
+              4    RATHER DISAGREE
+              5    COMPLETELY DISAGREE
+
+VAR436    TODAY YOU DON-T KNOW WHOM TO TRUST                                132
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    COMPL.AGREE
+              2    AGREE GENERALLY
+              3    NEITHER
+              4    RATHER DISAGREE
+              5    COMPLETELY DISAGREE
+
+VAR437    SOLVE SOC.PROBL.BY ELIMIN.CRIM,ANTI-SOC                           133
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    COMPL.AGREE
+              2    AGREE GENERALLY
+              3    NEITHER
+              4    RATHER DISAGREE
+              5    COMPLETELY DISAGREE
+
+22 May 03                                                                Page 37
+14:13:00  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0998A: Culturele Veranderingen in Ned. 1970-85 CUM
+
+VAR439    FEWER LAWS,MORE STRONG,TRUSTED LEADERS                            134
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    COMPL.AGREE
+              2    AGREE GENERALLY
+              3    NEITHER
+              4    RATHER DISAGREE
+              5    COMPLETELY DISAGREE
+
+VAR441    HOLLAND IS BETTER COUNTRY THAN OTHER C.                           135
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    COMPL.AGREE
+              2    AGREE GENERALLY
+              3    NEITHER
+              4    RATHER DISAGREE
+              5    COMPLETELY DISAGREE
+
+VAR442    MOST IMP.TASK EDUC:INSTILL NATIONALISM                            136
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    COMPL.AGREE
+              2    AGREE GENERALLY
+              3    NEITHER
+              4    RATHER DISAGREE
+              5    COMPLETELY DISAGREE
+
+VAR443    EV.DUTCHM.SH.HONOR NAT.SYMBOLS:FLAG-ANTH                          137
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    COMPL.AGREE
+              2    AGREE GENERALLY
+              3    NEITHER
+              4    RATHER DISAGREE
+              5    COMPLETELY DISAGREE
+
+22 May 03                                                                Page 38
+14:13:00  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0998A: Culturele Veranderingen in Ned. 1970-85 CUM
+
+VAR444    NOT INTERNAT.WHEN TYP.DUTCH WAY.G.LOST                            138
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    COMPL.AGREE
+              2    AGREE GENERALLY
+              3    NEITHER
+              4    RATHER DISAGREE
+              5    COMPLETELY DISAGREE
+
+VAR445    SEX.CRIM.NOT PUNISH BUT CURE                                      139
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    COMPL.AGREE
+              2    AGREE GENERALLY
+              3    NEITHER
+              4    RATHER DISAGREE
+              5    COMPLETELY DISAGREE
+
+VAR446    SO MANY MORALS:GET EMBARRASSED                                    140
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    COMPL.AGREE
+              2    AGREE GENERALLY
+              3    NEITHER
+              4    RATHER DISAGREE
+              5    COMPLETELY DISAGREE
+
+VAR447    SO MUCH CHANGE:DON-T KNOW GOOD FR.BAD                             141
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    COMPL.AGREE
+              2    AGREE GENERALLY
+              3    NEITHER
+              4    RATHER DISAGREE
+              5    COMPLETELY DISAGREE
+
+22 May 03                                                                Page 39
+14:13:00  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0998A: Culturele Veranderingen in Ned. 1970-85 CUM
+
+VAR448    FUTURE SO UNCERTAIN-LIVE FR.DAY TO DAY                            142
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    COMPL.AGREE
+              2    AGREE GENERALLY
+              3    NEITHER
+              4    RATHER DISAGREE
+              5    COMPLETELY DISAGREE
+
+VAR449    TO BE SUCCESSFUL:NEED MUCH LUCK                                   143
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    COMPL.AGREE
+              2    AGREE GENERALLY
+              3    NEITHER
+              4    RATHER DISAGREE
+              5    COMPLETELY DISAGREE
+
+VAR454    PPL WITH BAD MANNERSDNOT EXP.CONT-DEC.PL                          144
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    COMPL.AGREE
+              2    AGREE GENERALLY
+              3    NEITHER
+              4    RATHER DISAGREE
+              5    COMPLETELY DISAGREE
+
+VAR456    MORE PEOPLE TODAY PRYING INTO PRIV.LIFE                           145
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    COMPL.AGREE
+              2    AGREE GENERALLY
+              3    NEITHER
+              4    RATHER DISAGREE
+              5    COMPLETELY DISAGREE
+
+22 May 03                                                                Page 40
+14:13:00  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0998A: Culturele Veranderingen in Ned. 1970-85 CUM
+
+VAR457    CONS.SELF PROG-CONS                                               146
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 8, 9
+
+          Value    Label
+
+              1    VERY CONSERVATIVE
+              2    MODERAT.CONS
+              3    NONE
+              4    MODER.PROGRESS
+              5    VERY PROGR
+
+VAR461    CONS.SELF LEFTWING-RIGHTWING                                      147
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 8, 9
+
+          Value    Label
+
+              1    VERY LEFTWING
+              2    MODERATE LEFTWING
+              3    NEITHER
+              4    MODER.RIGHTWING
+              5    VERY RIGHTWING
+
+VAR462    INCOME-GROSS-OF FAMILY                                            148
+          Print Format: F2
+          Write Format: F2
+          Missing Values: 12, 0
+
+          Value    Label
+
+              0 M  NO INCOME
+              1    LESS TH.6000
+              2    DFL6-12000
+              3    DFL12-18000
+              4    DFL18-24000
+              5    DFL24-30000
+              6    DFL30-40000
+              7    DFL40-50000
+              8    MORE TH. 50000
+              9    DFL50-60000
+             10    DFL60-80000
+             11    MORE TH. 80000
+             12 M  DOESN-T WANT TO TELL
+
+22 May 03                                                                Page 41
+14:13:00  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0998A: Culturele Veranderingen in Ned. 1970-85 CUM
+
+VAR491    ARE YOU INTERESTED IN POLITICS?                                   149
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    YES
+              2    NO
+              3    SO-SO
+              4    LITTLE
+              5    NOT AT ALL
+
+VAR497    HAVE YOU BEEN-ARE YOU-MEMBER OF POL.PART                          150
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    YES
+              2    NO-BUT HAVE BEEN
+              3    NO-HAVE NEVER BEEN
+              4    DOESN-T WANT TO SAY
+
+VAR498    WHICH PARTY ARE-WERE YOU MEMBER OF                                151
+          Print Format: F2
+          Write Format: F2
+          Missing Values: 0, 99
+
+          Value    Label
+
+              0 M  INAP
+              1    PVDA
+              2    VVD
+              3    KVP
+              4    ARP
+              5    CHU
+              6    PPR
+              7    D66
+              8    PSP
+              9    CPN
+             10    DS70
+             11    BP
+             12    SGP
+             13    GPV
+             14    CDA
+             15    RPF
+             16    CP
+             19    DOESN-T WANT TO SAY
+             20    OTHER PARTY
+             21    DOESN-T REMEMBER
+
+22 May 03                                                                Page 42
+14:13:00  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0998A: Culturele Veranderingen in Ned. 1970-85 CUM
+
+VAR499    ARE YOU MEMBER OF TRADE-UNION                                     152
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    NO
+              2    NVV
+              3    NKV
+              4    CNV
+              5    OTHER
+              6    DOESN-T WANT TO SAY
+              7    FNV
+
+VAR500    HOW LONG ARE Y.MEMBER OF TRADE-UNION                              153
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    LESS THAN YEAR
+              2    1-3 YEARS
+              3    3-5 YEARS
+              4    5-10 YEARS
+              5    MORE THAN 10 YEARS
+
+VAR501    WITH WHICH STATEM.AGREE MOST-ON AID T.DC                          154
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    ALWAYS AID DEVELOP.C
+              2    AID WHEN PROSPEROUS
+              3    AID IRREGULARLY
+              4    AGAINST EVERY AID
+
+VAR502    EVERYB.ONE PERC.OF INC.TO AID T.DEV.CNTR                          155
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    MUCH TOO MUCH
+              2    A BIT TOO MUCH
+              3    JUST ABOUT RIGHT
+              4    A BIT TOO LITTLE
+              5    MUCH TOO LITTLE
+
+22 May 03                                                                Page 43
+14:13:00  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0998A: Culturele Veranderingen in Ned. 1970-85 CUM
+
+VAR515    OBJ.AGAINST WORK WIFE W.CHILDR.AT SCHOOL                          156
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    RECOMMENDED
+              2    NO OBJECTIONS
+              3    OBJECTIONS
+
+VAR516    OBJ.AGAINST WORK WIFE IF SMALL CH.CRECHE                          157
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    RECOMMENDED
+              2    NO OBJECTIONS
+              3    OBJECTIONS
+
+VAR519    CHILDLESS COUPLE ALLOWED                                          158
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    ALLOWED
+              2    DEPENDS
+              3    NOT ALLOWED
+
+VAR522    CAN CHILDREN SAY "JIJ"-YOU                                        159
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    IN FAVOR
+              2    NOT IMPORTANT
+              3    AGAINST
+
+VAR529    CAN BOYS-GIRLS 18Y.READ EVERYTHING                                160
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    YES-READ EVERYTH
+              2    SOME BOOKS UNFIT
+
+22 May 03                                                                Page 44
+14:13:00  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0998A: Culturele Veranderingen in Ned. 1970-85 CUM
+
+VAR530    SH.PAR-DAUGHTER 20Y.DECIDE WHEN TO COM.H                          161
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    LEAVE TO DAUGHTER
+              2    DEC.TOGETHER
+              3    PARENTS DECIDE
+
+VAR537    HOMOSEXUALS FIRMLY DEALT WITH                                     162
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    COMPLETELY AGREE
+              5    COMPLETELY DISAGREE
+
+VAR538    HOMOSEXUALS ELIMINATED FROM SOCIETY                               163
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    COMPLETELY AGREE
+              5    COMPLETELY DISAGREE
+
+VAR540    FULL SEXINTERC.GIRL ALL:WHEN HARDLY CARE                          164
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    COMPLETELY AGREE
+              5    COMPLETELY DISAGREE
+
+VAR543    CONDITIONS IN WHICH ABORTION ALLOWED                              165
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    YES
+              2    NO
+
+22 May 03                                                                Page 45
+14:13:00  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0998A: Culturele Veranderingen in Ned. 1970-85 CUM
+
+VAR544    EUTHANASIA-WHEN ASKING FOR IT-ALLOWED                             166
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    GIVE
+              2    DEPENDS
+              3    DO NOT GIVE
+
+VAR545    SH.HOMOSEXUALS BE LEFT FREE AS M.AS POSS                          167
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 0, 8, 9
+
+          Value    Label
+
+              1    LET FREE
+              2    OPPOSE STRONGLY
+
+VAR629    PROVINCE                                                          168
+          Print Format: F2
+          Write Format: F2
+          Missing Values: 97
+
+          Value    Label
+
+              1    GR
+              2    FR
+              3    DR
+              4    OV
+              5    GE
+              6    UT
+              7    NH
+              8    ZH
+              9    ZE
+             10    NB
+             11    LI
+
+VAR630    SIZE OF MUNICIPALITY                                              169
+          Print Format: F2
+          Write Format: F2
+          Missing Values: 9
+
+          Value    Label
+
+              1    > 400.000
+              2    100.000-400.000
+              3    50.000-100.000
+              4    20.000-50.000
+              5    10.000-20.000
+              6    5.000-10.000
+              7    < 5.000
+
+22 May 03                                                                Page 46
+14:13:00  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0998A: Culturele Veranderingen in Ned. 1970-85 CUM
+
+VAR631    OTHER DATA ON MUNICIPALITY                                        170
+          Print Format: F2
+          Write Format: F2
+
+JAAR      YEAR OF INTERVIEW                                                 171
+          Print Format: F4
+          Write Format: F4
+
+NAR01                                                                       172
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR02                                                                       173
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR03                                                                       174
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR04                                                                       175
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR05                                                                       176
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR06                                                                       177
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR07                                                                       178
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR08                                                                       179
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR09                                                                       180
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR10                                                                       181
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR11                                                                       182
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR12                                                                       183
+          Print Format: F8.2
+          Write Format: F8.2
+
+22 May 03                                                                Page 47
+14:13:00  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0998A: Culturele Veranderingen in Ned. 1970-85 CUM
+
+NAR13                                                                       184
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR14                                                                       185
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR15                                                                       186
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR16                                                                       187
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR17                                                                       188
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR18                                                                       189
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR19                                                                       190
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR20                                                                       191
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR21                                                                       192
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR22                                                                       193
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR23                                                                       194
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR24                                                                       195
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR25                                                                       196
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR26                                                                       197
+          Print Format: F8.2
+          Write Format: F8.2
+
+22 May 03                                                                Page 48
+14:13:00  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0998A: Culturele Veranderingen in Ned. 1970-85 CUM
+
+NAR27                                                                       198
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR28                                                                       199
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR29                                                                       200
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR30                                                                       201
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR31                                                                       202
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR32                                                                       203
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR33                                                                       204
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR34                                                                       205
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR35                                                                       206
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR36                                                                       207
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR37                                                                       208
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR38                                                                       209
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR39                                                                       210
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR40                                                                       211
+          Print Format: F8.2
+          Write Format: F8.2
+
+22 May 03                                                                Page 49
+14:13:00  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0998A: Culturele Veranderingen in Ned. 1970-85 CUM
+
+NAR41                                                                       212
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR42                                                                       213
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR43                                                                       214
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR44                                                                       215
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR45                                                                       216
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR46                                                                       217
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR47                                                                       218
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR48                                                                       219
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR49                                                                       220
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR50                                                                       221
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR51                                                                       222
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR52                                                                       223
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR53                                                                       224
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR54                                                                       225
+          Print Format: F8.2
+          Write Format: F8.2
+
+22 May 03                                                                Page 50
+14:13:00  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0998A: Culturele Veranderingen in Ned. 1970-85 CUM
+
+NAR55                                                                       226
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR56                                                                       227
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR57                                                                       228
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR58                                                                       229
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR59                                                                       230
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR60                                                                       231
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR61                                                                       232
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR62                                                                       233
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR63                                                                       234
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR64                                                                       235
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR65                                                                       236
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR66                                                                       237
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR67                                                                       238
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR68                                                                       239
+          Print Format: F8.2
+          Write Format: F8.2
+
+22 May 03                                                                Page 51
+14:13:00  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0998A: Culturele Veranderingen in Ned. 1970-85 CUM
+
+NAR69                                                                       240
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR70                                                                       241
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR71                                                                       242
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR72                                                                       243
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR73                                                                       244
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR74                                                                       245
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR75                                                                       246
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR76                                                                       247
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR77                                                                       248
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR78                                                                       249
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR79                                                                       250
+          Print Format: F8.2
+          Write Format: F8.2
+
+POLINT                                                                      251
+          Print Format: F8.2
+          Write Format: F8.2
+
+OPTPESS                                                                     252
+          Print Format: F8.2
+          Write Format: F8.2
+
+ANOMIA                                                                      253
+          Print Format: F8.2
+          Write Format: F8.2
+
+22 May 03                                                                Page 52
+14:13:00  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0998A: Culturele Veranderingen in Ned. 1970-85 CUM
+
+GELIB                                                                       254
+          Print Format: F8.2
+          Write Format: F8.2
+
+OVGELIB                                                                     255
+          Print Format: F8.2
+          Write Format: F8.2
+
+SOCWET                                                                      256
+          Print Format: F8.2
+          Write Format: F8.2
+
+OVOND                                                                       257
+          Print Format: F8.2
+          Write Format: F8.2
+
+OVINK                                                                       258
+          Print Format: F8.2
+          Write Format: F8.2
+
+BELHO                                                                       259
+          Print Format: F8.2
+          Write Format: F8.2
+
+BELLA                                                                       260
+          Print Format: F8.2
+          Write Format: F8.2
+
+OVDERIN                                                                     261
+          Print Format: F8.2
+          Write Format: F8.2
+
+OVNEIN                                                                      262
+          Print Format: F8.2
+          Write Format: F8.2
+
+VAKBPOL                                                                     263
+          Print Format: F8.2
+          Write Format: F8.2
+
+DEMATT                                                                      264
+          Print Format: F8.2
+          Write Format: F8.2
+
+VRYMEN                                                                      265
+          Print Format: F8.2
+          Write Format: F8.2
+
+ONTWHP                                                                      266
+          Print Format: F8.2
+          Write Format: F8.2
+
+INTERN                                                                      267
+          Print Format: F8.2
+          Write Format: F8.2
+
+22 May 03                                                                Page 53
+14:13:00  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0998A: Culturele Veranderingen in Ned. 1970-85 CUM
+
+TOLMISD                                                                     268
+          Print Format: F8.2
+          Write Format: F8.2
+
+GEZTRAD                                                                     269
+          Print Format: F8.2
+          Write Format: F8.2
+
+AUTOKR                                                                      270
+          Print Format: F8.2
+          Write Format: F8.2
+
+CONVMV                                                                      271
+          Print Format: F8.2
+          Write Format: F8.2
+
+TOLHOM                                                                      272
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR80                                                                       273
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR81                                                                       274
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR82                                                                       275
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR83                                                                       276
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR84                                                                       277
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR85                                                                       278
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR86                                                                       279
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR87                                                                       280
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR88                                                                       281
+          Print Format: F8.2
+          Write Format: F8.2
+
+22 May 03                                                                Page 54
+14:13:00  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0998A: Culturele Veranderingen in Ned. 1970-85 CUM
+
+NAR89                                                                       282
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR90                                                                       283
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR91                                                                       284
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR92                                                                       285
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR93                                                                       286
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR94                                                                       287
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR95                                                                       288
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR96                                                                       289
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR97                                                                       290
+          Print Format: F8.2
+          Write Format: F8.2
+
+ORTH                                                                        291
+          Print Format: F8.2
+          Write Format: F8.2
+
+RELTOL                                                                      292
+          Print Format: F8.2
+          Write Format: F8.2
+
+CONFESS                                                                     293
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR98                                                                       294
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR99                                                                       295
+          Print Format: F8.2
+          Write Format: F8.2
+
+22 May 03                                                                Page 55
+14:13:00  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0998A: Culturele Veranderingen in Ned. 1970-85 CUM
+
+NAR100                                                                      296
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR101                                                                      297
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR102                                                                      298
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR103                                                                      299
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR104                                                                      300
+          Print Format: F8.2
+          Write Format: F8.2
+
+FSCALE                                                                      301
+          Print Format: F8.2
+          Write Format: F8.2
+
+VAR204A                                                                     302
+          Print Format: F8.2
+          Write Format: F8.2
+          Missing Values: .00, 8.00, 9.00
+
+RELID                                                                       303
+          Print Format: F8.2
+          Write Format: F8.2
+          Missing Values: 9.00
+
+NAR275                                                                      304
+          Print Format: F8.2
+          Write Format: F8.2
+
+NEW275                                                                      305
+          Print Format: F8.2
+          Write Format: F8.2
+          Missing Values: 9.00
+
+VAR005A                                                                     306
+          Print Format: F8.2
+          Write Format: F8.2
+          Missing Values: 4.00, 9.00
+
+VAR462A                                                                     307
+          Print Format: F8.2
+          Write Format: F8.2
+          Missing Values: 7.00
+
+VAR005B                                                                     308
+          Print Format: F8.2
+          Write Format: F8.2
+          Missing Values: 4.00, 6.00, 9.00
+22 May 03                                                                Page 56
+14:13:00  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+
+VAR462B                                                                     309
+          Print Format: F8.2
+          Write Format: F8.2
+
+VAR005C                                                                     310
+          Print Format: F8.2
+          Write Format: F8.2
+          Missing Values: .00
+
+VAR462C                                                                     311
+          Print Format: F8.2
+          Write Format: F8.2
+          Missing Values: 10.00, 99.00
+
+VAR005D                                                                     312
+          Print Format: F8.2
+          Write Format: F8.2
+          Missing Values: .00
+
+VAR462D                                                                     313
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR246                                                                      314
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR247                                                                      315
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR248                                                                      316
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR249                                                                      317
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR250                                                                      318
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR251                                                                      319
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR252                                                                      320
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR253                                                                      321
+          Print Format: F8.2
+          Write Format: F8.2
+
+22 May 03                                                                Page 57
+14:13:00  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0998A: Culturele Veranderingen in Ned. 1970-85 CUM
+
+NAR254                                                                      322
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR255                                                                      323
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR256                                                                      324
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR257                                                                      325
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR258                                                                      326
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR259                                                                      327
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR260                                                                      328
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR261                                                                      329
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR262                                                                      330
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR263                                                                      331
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR264                                                                      332
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR265                                                                      333
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR266                                                                      334
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR267                                                                      335
+          Print Format: F8.2
+          Write Format: F8.2
+
+22 May 03                                                                Page 58
+14:13:00  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0998A: Culturele Veranderingen in Ned. 1970-85 CUM
+
+NAR268                                                                      336
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR269                                                                      337
+          Print Format: F8.2
+          Write Format: F8.2
+
+NAR270                                                                      338
+          Print Format: F8.2
+          Write Format: F8.2
+
+CONA                                                                        339
+          Print Format: F8.2
+          Write Format: F8.2
+
+CONF                                                                        340
+          Print Format: F8.2
+          Write Format: F8.2
+
+LIB                                                                         341
+          Print Format: F8.2
+          Write Format: F8.2
+
+SOC                                                                         342
+          Print Format: F8.2
+          Write Format: F8.2
+
+LERI                                                                        343
+          Print Format: F8.2
+          Write Format: F8.2
+
+AUTH                                                                        344
+          Print Format: F8.2
+          Write Format: F8.2
+
+LERI9                                                                       345
+          Print Format: F8.2
+          Write Format: F8.2
+
+AUTH9                                                                       346
+          Print Format: F8.2
+          Write Format: F8.2
+
+22 May 03                                                                Page 59
+14:13:00  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+  18  set listing 'p0998a.doc'.

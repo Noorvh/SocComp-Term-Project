@@ -1,0 +1,6 @@
+dat/p0742.por (application/x-spss-por) 1935495 bytes.
+additional-metadata-P0742.xml (text/xml) 2142 bytes.
+easy-migration.zip (application/zip) 31767 bytes.
+dat/p0742.cmd (application/octet-stream) 102410 bytes.
+dat/p0742.dat (text/x-fixed-field) 1698390 bytes.
+dat/p0742.pdf (application/pdf) 1995772 bytes.

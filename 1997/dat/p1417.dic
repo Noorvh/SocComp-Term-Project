@@ -1,0 +1,6454 @@
+
+  14  display dictionary.
+03 Jun 99                                                                 Page 3
+09:32:12  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+            List of variables on the working file
+
+Name                                                                   Position
+
+RESPNR    M  0 Uniek respondentnummer                                         1
+          Print Format: F5
+          Write Format: F5
+
+HHNR      Huishoudnummer                                                      2
+          Print Format: F4
+          Write Format: F4
+
+HHPNR     Volgnummer in Huishouden                                            3
+          Print Format: F8.2
+          Write Format: F8.2
+
+TYPE           Papier/Capi                                                    4
+          Print Format: A6
+          Write Format: A6
+
+TYPEINTV  Type interview en capi-ervaring                                     5
+          Print Format: F8.2
+          Write Format: F8.2
+
+          Value    Label
+
+           1.00    PAPI:on+ervaren
+           2.00    PAPI: ervaren
+           3.00    CAPI: ervaren
+
+INTVNIV   Ervaringsniveau interviewer                                         6
+          Print Format: F8.2
+          Write Format: F8.2
+
+          Value    Label
+
+            .00    Geen CAPI ervaring
+           1.00    CAPI ervaring
+
+INT001    M004 Aantal jaar onderwijs vanaf 6e jaar                            7
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+
+03 Jun 99                                                                 Page 4
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+INT004    M017 Aantal mensen waarover leiding                                 8
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+
+INT137    S003 Gewenste tijd betaald werk                                     9
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Veel meer tijd
+              2    Iets meer tijd
+              3    Net zoveel tijd
+              4    Iets minder tijd
+              5    Veel minder tijd
+
+INT138    S003 Gewenste tijd huishoudelijk werk                              10
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Veel meer tijd
+              2    Iets meer tijd
+              3    Net zoveel tijd
+              4    Iets minder tijd
+              5    Veel minder tijd
+
+03 Jun 99                                                                 Page 5
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+INT139    S003 Gewenste tijd gezin                                           11
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Veel meer tijd
+              2    Iets meer tijd
+              3    Net zoveel tijd
+              4    Iets minder tijd
+              5    Veel minder tijd
+
+INT140    S003 Gewenste tijd vrienden                                        12
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Veel meer tijd
+              2    Iets meer tijd
+              3    Net zoveel tijd
+              4    Iets minder tijd
+              5    Veel minder tijd
+
+INT141    S003 Gewenste tijd vrijetijds-activiteit                           13
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Veel meer tijd
+              2    Iets meer tijd
+              3    Net zoveel tijd
+              4    Iets minder tijd
+              5    Veel minder tijd
+
+03 Jun 99                                                                 Page 6
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+INT143    S004 Baan alleen om geld te verdienen                              14
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Sterk mee eens
+              2    Mee eens
+              3    Noch mee eens,noch mee oneens
+              4    Mee oneens
+              5    Sterk mee oneens
+
+INT144    S004 Wil graag, ook als geld niet nodig                            15
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Sterk mee eens
+              2    Mee eens
+              3    Noch mee eens,noch mee oneens
+              4    Mee oneens
+              5    Sterk mee oneens
+
+INT145    S004 Baan belangrijkste bezigheid                                  16
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Sterk mee eens
+              2    Mee eens
+              3    Noch mee eens,noch mee oneens
+              4    Mee oneens
+              5    Sterk mee oneens
+
+03 Jun 99                                                                 Page 7
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+INT146    S005 Verantwoord. voor huishoud. taken                             17
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Ja, ik voornamelijk
+              2    Ja, maar in even grote mate
+              3    Nee, voornamelijk iemand anders
+
+INT152    S006 Niet gauw werkeloos                                           18
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Zeer belangrijk
+              2    Belangrijk
+              3    Noch belangrijk,noch onbelangrijk
+              4    Niet belangrijk
+              5    Helemaal niet belangrijk
+
+INT153    S006 Hoog inkomen                                                  19
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Zeer belangrijk
+              2    Belangrijk
+              3    Noch belangrijk,noch onbelangrijk
+              4    Niet belangrijk
+              5    Helemaal niet belangrijk
+
+03 Jun 99                                                                 Page 8
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+INT154    S006 Goed mogelijkheden verder te komen                            20
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Zeer belangrijk
+              2    Belangrijk
+              3    Noch belangrijk,noch onbelangrijk
+              4    Niet belangrijk
+              5    Helemaal niet belangrijk
+
+INT156    S006 Interessante baan                                             21
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Zeer belangrijk
+              2    Belangrijk
+              3    Noch belangrijk,noch onbelangrijk
+              4    Niet belangrijk
+              5    Helemaal niet belangrijk
+
+INT157    S006 Zelfstandigheid                                               22
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Zeer belangrijk
+              2    Belangrijk
+              3    Noch belangrijk,noch onbelangrijk
+              4    Niet belangrijk
+              5    Helemaal niet belangrijk
+
+03 Jun 99                                                                 Page 9
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+INT158    S006 Baan om andere mensen te helpen                               23
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Zeer belangrijk
+              2    Belangrijk
+              3    Noch belangrijk,noch onbelangrijk
+              4    Niet belangrijk
+              5    Helemaal niet belangrijk
+
+INT159    S006 Baan nuttig voor samenleving                                  24
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Zeer belangrijk
+              2    Belangrijk
+              3    Noch belangrijk,noch onbelangrijk
+              4    Niet belangrijk
+              5    Helemaal niet belangrijk
+
+INT160    S006 Baan met flexibele werktijden                                 25
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Zeer belangrijk
+              2    Belangrijk
+              3    Noch belangrijk,noch onbelangrijk
+              4    Niet belangrijk
+              5    Helemaal niet belangrijk
+
+03 Jun 99                                                                Page 10
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+INT164    S010 Keuze loondienst/zelfstandige                                 26
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Werken in loondienst
+              2    Werken als zelfstandige
+
+INT165    S010 Keuze klein/groot bedrijf                                     27
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Werken een klein bedrijf
+              2    Werken een groot bedrijf
+
+INT167    S010 Keuze bedrijfsleven/overheid                                  28
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Werken in het bedrijfsleven
+              2    Werken bij de overheid
+
+03 Jun 99                                                                Page 11
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+INT172    S012 Makkelijk acceptabele baan vinden                             29
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Erg gemakkelijk
+              2    Tamelijk gemakkelijk
+              3    Noch gemakkelijk, noch moeilijk
+              4    Tamelijk moeilijk
+              5    Erg moeilijk
+
+INT173    S014 Gevoelens baan                                                30
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Ik werk zo hard als strikt nodig is
+              2    Ik werk hard, maar niet ten koste priv0-leven
+              3    Ik maak  punt van het werk zo goed mogelijk te doen
+
+INT174    S015 Gewenste werkuren en loon                                     31
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Meer uren werken en meer geld verdienen
+              2    zelfde  uren werken en zelfde geld verdienen
+              3    Minder uren werken en minder geld verdienen
+
+03 Jun 99                                                                Page 12
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+INT178    S016 Baan niet gauw werkeloos                                      32
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Sterk mee eens
+              2    Mee eens
+              3    Noch mee eens,noch mee oneens
+              4    Mee oneens
+              5    Sterk mee oneens
+
+INT179    S016 Hoog inkomen                                                  33
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Sterk mee eens
+              2    Mee eens
+              3    Noch mee eens,noch mee oneens
+              4    Mee oneens
+              5    Sterk mee oneens
+
+INT180    S016 Goede vooruitzichten                                          34
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Sterk mee eens
+              2    Mee eens
+              3    Noch mee eens,noch mee oneens
+              4    Mee oneens
+              5    Sterk mee oneens
+
+03 Jun 99                                                                Page 13
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+INT182    S016 Baan is interessant                                           35
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Sterk mee eens
+              2    Mee eens
+              3    Noch mee eens,noch mee oneens
+              4    Mee oneens
+              5    Sterk mee oneens
+
+INT183    S016 Kan zelfstandig werken                                        36
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Sterk mee eens
+              2    Mee eens
+              3    Noch mee eens,noch mee oneens
+              4    Mee oneens
+              5    Sterk mee oneens
+
+INT184    S016 Kan andere mensen helpen                                      37
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Sterk mee eens
+              2    Mee eens
+              3    Noch mee eens,noch mee oneens
+              4    Mee oneens
+              5    Sterk mee oneens
+
+03 Jun 99                                                                Page 14
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+INT185    S016 Baan nuttig voor samenleving                                  38
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Sterk mee eens
+              2    Mee eens
+              3    Noch mee eens,noch mee oneens
+              4    Mee oneens
+              5    Sterk mee oneens
+
+INT187    S017 Komt uitgeput thuis                                           39
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Altijd
+              2    Vaak
+              3    Soms
+              4    Bijna nooit
+              5    Nooit
+
+INT188    S017 Doet zwaar lichamelijk werk                                   40
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Altijd
+              2    Vaak
+              3    Soms
+              4    Bijna nooit
+              5    Nooit
+
+03 Jun 99                                                                Page 15
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+INT189    S017 Werkt onder grote spanning                                    41
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Altijd
+              2    Vaak
+              3    Soms
+              4    Bijna nooit
+              5    Nooit
+
+INT191    S017 Werkt onder gevaarlijke omstangigh.                           42
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Altijd
+              2    Vaak
+              3    Soms
+              4    Bijna nooit
+              5    Nooit
+
+INT196    S023 Relatie management/employees                                  43
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Erg goed
+              2    Tamelijk goed
+              3    Noch goed,noch slecht
+              4    Tamelijk slecht
+              5    Erg slecht
+
+03 Jun 99                                                                Page 16
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+INT197    S023 Relatie colleaga's onderling                                  44
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Erg goed
+              2    Tamelijk goed
+              3    Noch goed,noch slecht
+              4    Tamelijk slecht
+              5    Erg slecht
+
+INT198    S024 Tevreden over baan                                            45
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Uitermate tevreden
+              2    Erg tevreden
+              3    Tamelijk tevreden
+              4    Noch tevreden, noch ontevreden
+              5    Tamelijk ontevreden
+              6    Erg ontevreden
+              7    Uitermate ontevreden
+
+INT256    M043 Deelname aktiviteiten van de kerk                             46
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Nooit
+              2    Minder 1x/jr
+              3    1-2     x/jr
+              4    Meer    x/jr
+              5    1      x/mnd
+              6    2-3    x/mnd
+              7    Bijna 1 x/wk
+              8    Iedere wk
+              9    Vaker p wk
+
+03 Jun 99                                                                Page 17
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+INT265    M021 Allerbelangrijkste in nederland                               47
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Orde handhaven
+              2    Inspraak
+              3    Prijzen stop
+              4    Vrije mening
+
+INT266    M022 Op 00n na belangrijkste in nederlnd                           48
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Orde handhaven
+              2    Inspraak
+              3    Prijzen stop
+              4    Vrije mening
+INT283    M111 Bereidheid hogere prijzen tbv milie                           49
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+INT284    M112 Bereidheid hogere belasting tbv mil                           50
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+03 Jun 99                                                                Page 18
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+INT285    M110 Bereidh lagere levensst tbv milieu                            51
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Zeer bereid
+              2    Beetje bereid
+              3    Noch, noch
+              4    Beetje onwillig
+              5    Zeer onwillig
+
+INT319    M104 Lid groepering milieubescherming                              52
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Ja
+              2    Neen
+
+INT321    M105 Afgel 5 jr: geld v milieugroepering                           53
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Ja
+              2    Nee
+
+03 Jun 99                                                                Page 19
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+INT461    S007 Keuze werknemers doet goed werk                               54
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Essentieel
+              2    Erg belangrijk
+              3    Tamelijk belangrijk
+              4    Niet zo belangrijk
+              5    Helemaal niet belangrijk
+
+INT462    S007 Keuze werknemers heeft gezin                                  55
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Essentieel
+              2    Erg belangrijk
+              3    Tamelijk belangrijk
+              4    Niet zo belangrijk
+              5    Helemaal niet belangrijk
+
+INT463    S007 Keuze werknemers opleiding                                    56
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Essentieel
+              2    Erg belangrijk
+              3    Tamelijk belangrijk
+              4    Niet zo belangrijk
+              5    Helemaal niet belangrijk
+
+03 Jun 99                                                                Page 20
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+INT464    S007 Keuze werknemers hoe lang werkzaam                            57
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Essentieel
+              2    Erg belangrijk
+              3    Tamelijk belangrijk
+              4    Niet zo belangrijk
+              5    Helemaal niet belangrijk
+
+INT465    S008 Toename werk nieuwe technologieen                             58
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Het aantal banen aanzienlijk zal doen toenemen
+              2    Het aantal banen enigszins zal doen toenemen
+              3    Geen verschil zal uitmaken voor het aantal banen
+              4    Het aantal banen enigszins zal doen afnemen
+              5    Het aantal banen aanzienlijk zal doen afnemen
+
+INT466    S009 Nwe technologieen werk interessant                            59
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Veel interessanter zal maken
+              2    Een beetje interessanter zal maken
+              3    Noch meer, noch minder interessant zal maken
+              4    Een beetje oninteressanter zal maken
+              5    Veel oninteressanter zal maken
+
+03 Jun 99                                                                Page 21
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+INT467    S011 Voorkeur werksituatie                                         60
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Een volledige baan
+              2    Een part-time baan
+              3    Een baan <= 10 uur p.w
+              4    Helemaal geen betaalde baan
+
+INT468    S013 Momenteel betaald werk                                        61
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Ja
+              2    Nee
+
+INT469    S018 Beslist over werktijden                                       62
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    kan ze niet zelf veranderen
+              2    zelf bepalen, binnen zekere grenzen
+              3    geheel vrij om te bepalen
+
+03 Jun 99                                                                Page 22
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+INT470    S019 Plaats werkzaamheden                                          63
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    alleen buitenshuis
+              2    alleen thuis
+              3    zowel thuis als buitenshuis
+              4    :"op veel verschillende plaatsen"
+
+INT471    S020 Werkplaats                                                    64
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    baan zonder schriftelijke arbeidsovereenkomst
+              2    vaste baan voor minder dan twaalf maanden
+              3    vaste baan voor 00n jaar of langer
+              4    baan waaraan geen tijdslimiet is gesteld
+
+INT472    S021 Gebruik vroegere werkerv.\vaardighe                           65
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Bijna niets
+              2    Een beetje
+              3    Veel
+              4    Bijna alles
+
+03 Jun 99                                                                Page 23
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+INT473    S022 Vaardigheden school/hbo/universitei                           66
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Zeer belangrijk
+              2    Belangrijk
+              3    Noch belangrijk,noch onbelangrijk
+              4    Niet belangrijk
+              5    Helemaal niet belangrijk
+
+INT474    S022 Training/ervaring in huidige/vorige                           67
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Zeer belangrijk
+              2    Belangrijk
+              3    Noch belangrijk,noch onbelangrijk
+              4    Niet belangrijk
+              5    Helemaal niet belangrijk
+
+INT475    S025 Harder werken om bedr. laten slagen                           68
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Sterk mee eens
+              2    Mee eens
+              3    Noch mee eens,noch mee oneens
+              4    Mee oneens
+              5    Sterk mee oneens
+
+03 Jun 99                                                                Page 24
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+INT476    S025 Trots op bedrijf                                              69
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Sterk mee eens
+              2    Mee eens
+              3    Noch mee eens,noch mee oneens
+              4    Mee oneens
+              5    Sterk mee oneens
+
+INT477    S025 Werk verruilen als mogelijk                                   70
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Sterk mee eens
+              2    Mee eens
+              3    Noch mee eens,noch mee oneens
+              4    Mee oneens
+              5    Sterk mee oneens
+
+INT478    S025 Blijft bij bedr. ondanks betere baa                           71
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Sterk mee eens
+              2    Mee eens
+              3    Noch mee eens,noch mee oneens
+              4    Mee oneens
+              5    Sterk mee oneens
+
+03 Jun 99                                                                Page 25
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+INT479    S025 Trots op soort werk                                           72
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Sterk mee eens
+              2    Mee eens
+              3    Noch mee eens,noch mee oneens
+              4    Mee oneens
+              5    Sterk mee oneens
+
+INT480    S026 Verzuim werk                                                  73
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Meer dan 20 dagen
+              2    11 - 20 dagen
+              3    6 - 10 dagen
+              4    1 - 5 dagen
+              5    Geen
+
+INT481    S027 Komende 12 mnd andere baan zoeken                             74
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Zeer waarschijnlijk
+              2    Waarschijnlijk
+              3    Onwaarschijnlijk
+              4    Zeer onwaarschijnlijk
+
+03 Jun 99                                                                Page 26
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+INT482    S028 Zorgen baan verliezen                                         75
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Daar maak ik mij veel zorgen over
+              2    Daar maak ik mij enigermate zorgen over
+              3    Daar maak ik mij een klein beetje zorgen over
+              4    Daar maak ik mij helemaal geen zorgen over
+
+INT483    S029 Ooit betaalde baan voor >= 1 jaar                             76
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Ja
+              2    Nee
+
+INT484    S030 Betaalde baan beeindigde in jaar                              77
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+INT485    S031 Reden beeindigen baan                                         78
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Ik bereikte de pensioengerechtigde leeftijd
+              2    Ik ging in de VUT, op eigen verzoek
+              3    Ik ging in de VUT, niet op eigen verzoek
+              4    Ik werd (volledig) arbeidsongeschikt
+              5    Mijn werkplek werd opgeheven
+              6    Ik werd ontslagen
+              7    Mijn arbeidsovereenkomst\arbeidscontract liep af
+              8    Gezins verantwoordelijkheden
+              9    Ik ging trouwen
+
+03 Jun 99                                                                Page 27
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+INT486    S032 Wilt nu/in toekomst een baan                                  79
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Ja
+              2    Nee
+
+INT487    S033 Waarschijnlijk baan vinden                                    80
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Zeer waarschijnlijk
+              2    Waarschijnlijk
+              3    Onwaarschijnlijk
+              4    Zeer onwaarschijnlijk
+
+INT488    S034 Zoekt momenteel baan                                          81
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Ja
+              2    Nee
+
+03 Jun 99                                                                Page 28
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+INT489    S035 Ingeschreven arbeidsbureau                                    82
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Nee
+              2    Ja, een of twee keer
+              3    Ja, meer dan twee keer
+
+INT490    S035 Ingeschreven uitzendbureau                                    83
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Nee
+              2    Ja, een of twee keer
+              3    Ja, meer dan twee keer
+
+INT491    S035 Reageren personeelsadvertenties                               84
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Nee
+              2    Ja, een of twee keer
+              3    Ja, meer dan twee keer
+
+03 Jun 99                                                                Page 29
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+INT492    S035 Advertentie voor baan                                         85
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Nee
+              2    Ja, een of twee keer
+              3    Ja, meer dan twee keer
+
+INT493    S035 Open sollicitaties                                            86
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Nee
+              2    Ja, een of twee keer
+              3    Ja, meer dan twee keer
+
+INT494    S035 Hulp gevraagd bij vinden baan                                 87
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Nee
+              2    Ja, een of twee keer
+              3    Ja, meer dan twee keer
+
+03 Jun 99                                                                Page 30
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+INT495    S036 Belangrijkste bron inkomsten                                  88
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Pensioen (particulier of AOW)
+              2    Werkloosheids uitkering
+              3    Echtgeno(o)t(e)\Partner
+              4    Andere gezinsleden
+              5    Sociale uitkering\bijstand
+              6    Af en toe werken
+              7    Nog anders
+
+V040      M009 Doet op dit moment betaald werk                               89
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+V041      M012 Vroeger betaald werk gedaan                                   90
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Ja
+              2    Neen
+
+V049      M016 Dienstverband                                                 91
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Niet overheid
+              2    Overheid
+              3    Directeur
+              4    Gez-fam. bedrijf
+              5    Eigen rekening
+              6    Free-lance
+03 Jun 99                                                                Page 31
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+
+V200      M006 Opleiding alg vormend onderwijs                               92
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Lager
+              2    Mavo
+              3    Havo-vwo
+              4    Universiteit
+              5    Geen van deze
+
+V201      M007 Opleiding beroepsonderwijs                                    93
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Hoger beroeps
+              2    Middelbaar ber
+              3    Lager beroeps
+              4    Geen beroepsondw
+
+V202      M011 Aktiviteitenkategorie                                         94
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Werkt > dan 15 uur
+              2    Militair, 1e oef
+              3    Werkl na verl. werk
+              4    Zoekt eerste x werk
+              5    Doet huishouden
+              6    Wao,aww
+              7    Scholier, student
+              8    Gepensioneerd
+              9    Anders
+
+03 Jun 99                                                                Page 32
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR000    M000 1e of 2e persoon                                              95
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Eerste
+              2    Tweede
+
+VAR000S                                                                      96
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+VAR001    M001 Geslacht                                                      97
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Man
+              2    Vrouw
+
+VAR002    M002 Leeftijd                                                      98
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+
+03 Jun 99                                                                Page 33
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR003    M003 Burgerlijke staat                                             99
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Gehuwd
+              2    Bed  gescheiden
+              3    Echt gescheiden
+              4    Weduwstaat
+              5    Ongehuwd
+
+VAR006    M005 Laatst genoten opleiding                                     100
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    L.o.
+              2    L.o.+vakond.
+              3    V.a.o.
+              4    V.a.o. + vakond.
+              5    M.o.-h.b.o.
+              6    M.o.-h.b.o.+vakond.
+              7    W.o.
+
+VAR016    M014 Beroep                                                       101
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Direkt. > 10
+              2    Direkt. < 10
+              3    Zelfst. hvb
+              4    Zelfst. boer
+              5    Hog. employe
+              6    Mid. employe
+              7    Lag. employe
+03 Jun 99                                                                Page 34
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+              8    Gesch. arb.
+              9    Ong.-landarb.
+
+VAR038    M066 Kijkt tweede kamer-zitting op tv                             102
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Ja
+              2    Neen
+
+VAR039    M067 Kijkt ander politiek tv-programma                            103
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Ja
+              2    Neen
+
+VAR040    M068 Leest over politiek in ons land                              104
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Regelmatig
+              2    Af en toe
+              3    Enkele keer
+              4    Niet
+
+03 Jun 99                                                                Page 35
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR041    M069 Abonnement op landelijk dagblad                              105
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Ja
+              2    Neen
+
+VAR042    M137 Abonnement landelijk dagblad                                 106
+          Print Format: F8
+          Write Format: F8
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  geen opgave
+             -5 M  n.v.t.
+             -3 M  weet niet
+              1    volkskrant
+             10    trouw
+            100    telegraaf
+           1000    reformatorisch d
+          10000    het parool
+         100000    nrc-handelsblad
+        1000000    ned dagblad
+       10000000    alg dagblad
+
+VAR042A   M070 Geabonneerd op Het Algemeen     01                           107
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -5 M  Geen abonnement
+              0    Nee
+              1    Ja
+
+VAR042B   M070 Geabonneerd op Nederlands       02                           108
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -5 M  Geen abonnement
+              0    Nee
+              1    Ja
+
+03 Jun 99                                                                Page 36
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR042C   M070 Geabonneerd op NRC/Handelsblad  03                           109
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -5 M  Geen abonnement
+              0    Nee
+              1    Ja
+
+VAR042D   M070 Geabonneerd op Het Parool       04                           110
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -5 M  Geen abonnement
+              0    Nee
+              1    Ja
+
+VAR042E   M070 Geabonneerd op Reformatorisch   05                           111
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -5 M  Geen abonnement
+              0    Nee
+              1    Ja
+
+VAR042F   M070 Geabonneerd op De Telegraaf     06                           112
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -5 M  Geen abonnement
+              0    Nee
+              1    Ja
+
+VAR042G   M070 Geabonneerd op Trouw            07                           113
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -5 M  Geen abonnement
+              0    Nee
+              1    Ja
+
+03 Jun 99                                                                Page 37
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR042H   M070 Geabonneerd op De Volkskrant    08                           114
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -5 M  Geen abonnement
+              0    Nee
+              1    Ja
+
+VAR043    M071 Nieuws lezen over eigen woonplaats                           115
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    <bijna>altijd
+              2    Vaak
+              3    Zo nu en dan
+              4    Zelden-nooit
+
+VAR065    M023 Economische crisis in nabije toekom                          116
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Crisis komt
+              2    Welvaart blijft
+
+03 Jun 99                                                                Page 38
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR096    M024 Overheidsgeld voor openb voorzienin                          117
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Veel meer
+              2    Beetje meer
+              3    Zo laten
+              4    Beetje minder
+              5    Veel minder
+
+VAR100    M025 Overh moet: voldoende voorz huiswer                          118
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Sterk eens
+              2    Mee eens
+              3    Noch,noch
+              4    Mee oneens
+              5    Sterk oneens
+
+VAR101    M025 Overh moet: veel meer studiebeurzen                          119
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Sterk eens
+              2    Mee eens
+              3    Noch,noch
+              4    Mee oneens
+              5    Sterk oneens
+
+03 Jun 99                                                                Page 39
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR103    M025 Overh moet: veel meer geld woningbw                          120
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Sterk eens
+              2    Mee eens
+              3    Noch,noch
+              4    Mee oneens
+              5    Sterk oneens
+
+VAR107    M025 Overh moet: onderw tot 18e gratis                            121
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Sterk eens
+              2    Mee eens
+              3    Noch,noch
+              4    Mee oneens
+              5    Sterk oneens
+
+VAR109    M025 Overh moet: ingr maatreg milieu-ver                          122
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Sterk eens
+              2    Mee eens
+              3    Noch,noch
+              4    Mee oneens
+              5    Sterk oneens
+
+03 Jun 99                                                                Page 40
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR121    M025 Overh moet: leerplicht tot 18e jaar                          123
+          Print Format: F4
+          Write Format: F4
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Sterk eens
+              2    Mee eens
+              3    Noch,noch
+              4    Mee oneens
+              5    Sterk oneens
+
+VAR122    M025 Overh moet: meer kunstsubsidies                              124
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Sterk eens
+              2    Mee eens
+              3    Noch,noch
+              4    Mee oneens
+              5    Sterk oneens
+
+VAR124    M025 Overh moet: meer goedkope cr0ches b                          125
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Sterk eens
+              2    Mee eens
+              3    Noch,noch
+              4    Mee oneens
+              5    Sterk oneens
+
+03 Jun 99                                                                Page 41
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR125    M026 Overheidsuitgaven in het algemeen                            126
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Omhoog
+              2    Zo blijven
+              3    Omlaag
+
+VAR136    M027 Zich zorgen maken over eigen werklo                          127
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  Geen opgave
+             -5 M  Vr niet gest
+             -3 M  Geen mening
+              1    Veel
+              2    Enige
+              3    Geen
+
+VAR153    M036 Tevreden over sociale voorzieningen                          128
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Tevreden
+              2    Ontevreden
+
+03 Jun 99                                                                Page 42
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR154    M037 Oordeel algemene ouderdomswet AOW                            129
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Te goed
+              2    Voldoende
+              3    Onvoldoende
+
+VAR154A   M037 Oordeel ziektewet                                            130
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Te goed
+              2    Voldoende
+              3    Onvoldoende
+
+VAR155    M037 Oordeel algemene bijstandswet                                131
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Te goed
+              2    Voldoende
+              3    Onvoldoende
+
+03 Jun 99                                                                Page 43
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR156    M037 Oordeel werkloosheidswet ww                                  132
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Te goed
+              2    Voldoende
+              3    Onvoldoende
+
+VAR157    M037 Oordeel alg weduwen- wezenwet AWW                            133
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Te goed
+              2    Voldoende
+              3    Onvoldoende
+
+VAR157A   M037 Oordeel arb ongeschikthwet WAO/AAW                           134
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Te goed
+              2    Voldoende
+              3    Onvoldoende
+
+03 Jun 99                                                                Page 44
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR164    M038 Oordeel inkomensverschillen                                  135
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Te groot
+              2    Ongev juist
+              3    Te klein
+
+VAR165    M039 Gewenste inkomensverschillen                                 136
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Veel groter
+              2    Beetje groter
+              3    Zo blijven
+              4    Beetje kleiner
+              5    Veel kleiner
+
+VAR166    M040 Gewenste verschillen tussen bezit                            137
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Veel groter
+              2    Beetje groter
+              3    Zo blijven
+              4    Beetje kleiner
+              5    Veel kleiner
+
+03 Jun 99                                                                Page 45
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR198    M041 Grootgebracht in bepaald geloof                              138
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Geen
+              2    Rk
+              3    Nh
+              4    Gereformeerd
+              5    Hindoe
+              6    Islam
+              7    Boeddhist
+              8    Ander kerkgen
+
+VAR201    M044 Behorend tot kerkgenootschap                                 139
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Geen
+              2    Rk
+              3    Nh
+              4    Gereformeerd
+              5    Hindoe
+              6    Islamitisch
+              7    Boeddhist
+              8    Ander kerkgen
+
+03 Jun 99                                                                Page 46
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR204    M042 Frequentie kerkgang                                          140
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    1x pw of meer
+              2    1x per 2 wek
+              3    1x per maand
+              4    Minder 1x pm
+              5    Nooit
+
+VAR274    M064 Zou stemmen bij verkiezingen 2e kam                          141
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Ja
+              2    Misschien
+              3    Neen
+
+VAR275    M065 Partij waarop men zou stemmen                                142
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Pvda
+              2    Vvd
+              3    Arp
+              4    Kvp
+              5    Chu
+              6    Cda
+              7    Ppr
+              8    D'66
+              9    Psp
+             10    Cpn
+             11    Ds'70
+03 Jun 99                                                                Page 47
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+             12    Bp
+             13    Sgp
+             14    Gpv
+             15    Rpf
+             16    Centrumparty
+             17    Evp
+             18    Weet nog niet
+             19    Blanco
+             20    Geen stemrecht
+             21    Andere party
+             22    Niet gestemd
+             23    Pak
+             24    Rkpn
+             25    Groen   links
+             26    Groen  platform
+             27    Vrouwenpartij
+             28    Cd-centrumdemo
+             29    Sp-soc partij
+             30    Unie 55+
+             31    Aov-alg oud verbond
+
+VAR318    M079 Mensen als ik geen invloed regering                          143
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Eens
+              2    Oneens
+
+VAR319    M079 Kamerl geven niet om wat ik denk                             144
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Eens
+              2    Oneens
+
+03 Jun 99                                                                Page 48
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR320    M079 Kamerl letten op belang groepen                              145
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Eens
+              2    Oneens
+
+VAR342    M090 Standsverschil moet kleiner zijn                             146
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Geen mening
+              1    Sterk   eens
+              2    Mee eens
+              3    Noch,   noch
+              4    Mee     oneens
+              5    Sterk   oneens
+
+VAR347    M090 Abortus mogelijk als vrouw wenst                             147
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Sterk   eens
+              2    Mee eens
+              3    Noch,   noch
+              4    Mee     oneens
+              5    Sterk   oneens
+
+03 Jun 99                                                                Page 49
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR357    M090 Vrouw geschikter v opvoed kl kind                            148
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Sterk   eens
+              2    Mee eens
+              3    Noch,   noch
+              4    Mee     oneens
+              5    Sterk   oneens
+
+VAR377    M086 Raadsleden luisteren niet naar ons                           149
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Is zo
+              2    Is niet zo
+
+VAR378    M086 Ons soort geen invloed op gem.polit                          150
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Is zo
+              2    Is niet zo
+
+03 Jun 99                                                                Page 50
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR406    M100 hoogte van de belastingen                                    151
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Omhoog
+              2    Zo blijven
+              3    Omlaag
+
+VAR407    M101 redeijkheid loon- en inkomensbelast                          152
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Te hoog
+              2    Redelijk
+              3    Te laag
+
+VAR408    M087 Aktiebereidh bij onrechtv wet                                153
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Zeer    waarsch
+              2    Enigsz  waarsch
+              3    Onwaarschijnl
+
+03 Jun 99                                                                Page 51
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR409    M088 Demonstrbereidh bij onrechtv wet                             154
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Keurt   goed
+              2    Kan niet schelen
+              3    Keurt af
+
+VAR427    M102 Zorgen over milieuverontreiniging                            155
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Zeer veel
+              2    Veel
+              3    Tamelijk
+              4    Weinig
+              5    Helemaal niet
+
+VAR428    M103 Oordeel over bestrijding vervuiling                          156
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Te veel
+              2    Genoeg
+              3    Te weinig
+
+03 Jun 99                                                                Page 52
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR433    M062 Misdadigers veranderen ipv straffen                          157
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Geen mening
+             -2 M  Wil niet zeggen
+              1    Volkomen eens
+              2    Gr lijn  eens
+              3    Noch,    noch
+              4    Eigenl   oneens
+              5    Helem    oneens
+
+VAR461    M063 Links - rechts                                               158
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Geen mening
+             -2 M  Wil niet zeggen
+              1    Zeer    links
+              2    Matig   links
+              3    Noch,   noch
+              4    Matig   rechts
+              5    Zeer    rechts
+
+VAR462    M127 Bruto inkomen van huishouden                                 159
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Tot         9000
+              2    9000  tm   12000
+              3    12000 tm   15000
+              4    15000 tm   18000
+              5    18000 tm   21000
+              6    21000 tm   24000
+              7    24000 tm   27000
+              8    27000 tm   30000
+              9    30000 tm   33000
+03 Jun 99                                                                Page 53
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+             10    33000 tm   39000
+             11    39000 tm   45000
+             12    45000 tm   51000
+             13    51000 tm   63000
+             14    63000 tm   75000
+             15    75000 tm   99000
+             16    99000 tm  123000
+             17    123000 of meer
+
+VAR491    M072 Interesse in politiek                                        160
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Geen mening
+             -2 M  Wil niet zeggen
+              1    Sterk
+              2    Gewoon
+              3    Matig
+              4    Weinig
+              5    Geen
+
+VAR493    M073 Standpunt op bijeenkomst verdedigd                           161
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Ja
+              2    Neen
+
+VAR494    M074 Standpunt geschreven naar krant                              162
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Ja
+              2    Neen
+
+03 Jun 99                                                                Page 54
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR495    M075 Bijeenkomsten politieke partij bez                           163
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Ja
+              2    Neen
+
+VAR496    M076 Wat gedaan voor politieke partij                             164
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Ja
+              2    Neen
+
+VAR497    M077 Lid (geweest) van politieke partij                           165
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Ja
+              2    Nee, wel geweest
+              3    Nog nooit
+
+03 Jun 99                                                                Page 55
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR498    M078 Partij waarvan lid (geweest)                                 166
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Pvda
+              2    Vvd
+              3    Arp
+              4    Kvp
+              5    Chu
+              6    Cda
+              7    Ppr
+              8    D'66
+              9    Psp
+             10    Cpn
+             11    Ds'70
+             12    Bp
+             13    Sgp
+             14    Gpv
+             15    Rpf
+             16    Centrumparty
+             17    Evp
+             21    Andere party
+             23    Pak
+             24    Rkpn
+             25    Groen   links
+             26    Groen  platform
+             27    Vrouwenpartij
+             28    Ce-centrumdemo
+             29    Sp-soc partij
+             30    Unie 55+
+             31    Aov-alg oud verbond
+
+03 Jun 99                                                                Page 56
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR499    M097 Lid van vakbond (inkl beroepsvere)                           167
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Neen
+              2    Nvv
+              3    Nkv
+              4    Cnv
+              5    Fnv
+              6    Mhp
+              7    Unie blhp
+              8    Andere
+
+VAR500    M098 Aantal jaren lid van vakbond                                 168
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Korter 1 jaar
+              2    1 - 3   jaar
+              3    3 - 5   jaar
+              4    5 -10   jaar
+              5    Langer  dan 10 jr
+
+VAR515    M046 Vrouw + schoolg k werkt naast huish                          169
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Aan te  bevelen
+              2    Niet    bezwaarl
+              3    Bezwaarlijk
+
+03 Jun 99                                                                Page 57
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR516    M047 Vrouw werkt,kind moet naar cr0che                            170
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Aan te  bevelen
+              2    Niet    bezwaarl
+              3    Bezwaarlijk
+
+VAR517    M053 Scheiding bij echtpaar met kinderen                          171
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Scheiden beter
+              2    Ongewenst
+              3    Ontoelaatbaar
+
+VAR542    M056 Avontuurtje in huwelijk geen kwaad                           172
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Geen mening
+             -2 M  Wil niet zeggen
+              1    Volkomen eens
+              2    Gr lijn  eens
+              3    Noch,    noch
+              4    Eigenl   oneens
+              5    Helem    oneens
+
+03 Jun 99                                                                Page 58
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR544    M126 Euthanasie op verzoek dmv spuitje                            173
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Wel geven
+              2    H ervan af
+              3    Niet geven
+
+VAR545    M057 homosexuelen zoveel mogelijk vrijla                          174
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Zoveel mogelijk vrijlaten
+              2    Zoveel mogelijk tegengaan
+
+VAR546    M117 Mensen ander ras als buren krijgen                           175
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Geen bezwaar
+              2    H ervan af
+              3    Mind prettig
+              4    Verzet
+
+03 Jun 99                                                                Page 59
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR548    M134 Vraaggesprek door anderen gevolgd                            176
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Ja
+              2    Nee
+
+VAR550    M135 Respondent door anderen be0nvloed                            177
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Ja
+              2    Nee
+
+VAR555    M025 Overh moet: werkn bet verlof aanvul                          178
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Sterk eens
+              2    Mee eens
+              3    Noch,noch
+              4    Mee oneens
+              5    Sterk oneens
+
+03 Jun 99                                                                Page 60
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR556    M025 Overh moet: meer subsidie hoge huur                          179
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Sterk eens
+              2    Mee eens
+              3    Noch,noch
+              4    Mee oneens
+              5    Sterk oneens
+
+VAR557    M025 Overh moet: werkgl v elk gehuwde vr                          180
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Sterk eens
+              2    Mee eens
+              3    Noch,noch
+              4    Mee oneens
+              5    Sterk oneens
+
+VAR558    M025 Overh moet: m subsidie onderw oudrn                          181
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Sterk eens
+              2    Mee eens
+              3    Noch,noch
+              4    Mee oneens
+              5    Sterk oneens
+
+03 Jun 99                                                                Page 61
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR559    M025 Overh moet: betaalbb huisvst jongrn                          182
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Sterk eens
+              2    Mee eens
+              3    Noch,noch
+              4    Mee oneens
+              5    Sterk oneens
+
+VAR560    M025 Overh moet: aangepast onderw kind b                          183
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Sterk eens
+              2    Mee eens
+              3    Noch,noch
+              4    Mee oneens
+              5    Sterk oneens
+
+VAR567    M028 Verwachting inkomens                                         184
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Stijgen
+              2    Gelijk
+              3    Dalen
+
+03 Jun 99                                                                Page 62
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR568    M029 Mate stijging/daling inkomens                                185
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Sterk stijg|dalen
+              2    Enigzins
+              3    Beetje
+
+VAR569    M030 Oordeel inkomens gezien economie                             186
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Stijgen
+              2    Gelijk
+              3    Dalen
+
+VAR570    M031 Mate stijg/daal ink gezien economie                          187
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Sterk stijg|dalen
+              2    Enigzins
+              3    Beetje
+
+03 Jun 99                                                                Page 63
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR571    M032 Verwachting soc uitkeringen                                  188
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Stijgen
+              2    Gelijk
+              3    Dalen
+
+VAR572    M033 Mate stijg/daal soc uitkeringen                              189
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Sterk stijg|dalen
+              2    Enigzins
+              3    Beetje
+
+VAR573    M034 Oordeel soc uitk gezien economie                             190
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Stijgen
+              2    Gelijk
+              3    Dalen
+
+03 Jun 99                                                                Page 64
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR574    M035 Mate stijg/daal soc uitk gez econom                          191
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Sterk stijg|dalen
+              2    Enigzins
+              3    Beetje
+
+VAR589A   M045 Katholieken doen/laten vrijlaten                             192
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Volledig vrijlaten
+              2    Tamelijk vrijlaten
+              3    Een klein beetje vrijlaten
+              4    Helemaal niet vrijlaten
+
+VAR589B   M045 Protestanten doen/laten vrijlaten                            193
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Volledig vrijlaten
+              2    Tamelijk vrijlaten
+              3    Een klein beetje vrijlaten
+              4    Helemaal niet vrijlaten
+
+03 Jun 99                                                                Page 65
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR589C   M045 Mohammedanen doen/laten vrijlaten                            194
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Volledig vrijlaten
+              2    Tamelijk vrijlaten
+              3    Een klein beetje vrijlaten
+              4    Helemaal niet vrijlaten
+
+VAR589D   M045 Jehova's doen/laten vrijlaten                                195
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Volledig vrijlaten
+              2    Tamelijk vrijlaten
+              3    Een klein beetje vrijlaten
+              4    Helemaal niet vrijlaten
+
+VAR589E   M045 Humanisten doen/laten vrijlaten                              196
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Volledig vrijlaten
+              2    Tamelijk vrijlaten
+              3    Een klein beetje vrijlaten
+              4    Helemaal niet vrijlaten
+
+03 Jun 99                                                                Page 66
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR589F   M045 Diverse groep doen/laten vrijlaten                           197
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Volledig vrijlaten
+              2    Tamelijk vrijlaten
+              3    Een klein beetje vrijlaten
+              4    Helemaal niet vrijlaten
+
+VAR592    M091 Meegedaan inspraakproc/hoorzitting                           198
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Ja
+              2    Nee
+
+VAR594    M090 Vrouwen voorrang vanwege                                     199
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+VAR597    M096 Vergadering/bijeenkomst vakbond bez                          200
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Ja
+              2    Neen
+
+03 Jun 99                                                                Page 67
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR598    M099 Lid werkgevers- of middenstandsorg                           201
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Ja
+              2    Neen
+
+VAR599    M092 Inspanning landelijk/wereldlijk niv                          202
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Ja
+              2    Neen
+
+VAR600    M093 Inspanning gemeentelijk niveau                               203
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Ja
+              2    Neen
+
+03 Jun 99                                                                Page 68
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR603    M025 Overh moet: onbet verlof tbv verz k                          204
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Sterk eens
+              2    Mee eens
+              3    Noch,noch
+              4    Mee oneens
+              5    Sterk oneens
+
+VAR625    M119 hoe zullen buitenlanders integreren                          205
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Eigen zeden en gewoonten behouden
+              2    Aanpassen aan Nederlandse samenleving
+
+VAR626    D012 Nielsen-gebied                                               206
+          Print Format: F2
+          Write Format: F2
+
+          Value    Label
+
+             -7    Uitgesloten
+             -6    Geen opgave
+             -5    N.v.t.
+             -3    Weet niet
+             -2    Wil niet zeggen
+              1    Adam rdam dhaag
+              2    Rest westen
+              3    Noord
+              4    Oost
+              5    Zuid
+
+03 Jun 99                                                                Page 69
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR627    D009 Cebuco verzorgingsgebied                                     207
+          Print Format: F2
+          Write Format: F2
+
+          Value    Label
+
+             -7    Uitgesloten
+             -6    Geen opgave
+             -5    N.v.t.
+             -3    Weet niet
+             -2    Wil niet zeggen
+              1    Groningen
+              2    Winschoten veendam
+              3    Leeuwarden dokkum
+              4    Sneek
+              5    Heerenveen
+              6    Smallingerland
+              7    Assen hoogeveen
+              8    Meppel steenwyk
+              9    Emmen coevorden
+             10    Enschede hengelo
+             11    Zwolle kampen
+             12    Almelo
+             13    Deventer
+             14    Arnhem doetichem
+             15    Nijmegen
+             16    Winterswyk zutphen
+             17    Apeldoorn
+             18    Tiel
+             19    Utrecht woerden
+             20    Amersfoort
+             21    Amsterdam purmerend
+             22    Haarlem velsen
+             23    Hilversum
+             24    Zaandam
+             25    Alkmaar
+             26    Enkhuizen hoorn
+             27    Denhelder schagen
+             28    Rotterdam schiedam
+             29    Den haag
+             30    Delft
+             31    Leiden alphen ryn
+             32    Dordrecht
+             33    Gouda
+             34    Gorinchem
+             35    Middelburg vlissinge
+             36    Goes
+             37    Terneuzen hulst
+             38    Oostburg
+             39    Zierikzee
+             40    Eindhoven helmond
+             41    Den bosch
+             42    Tilburg
+             43    Breda
+             44    Bergen op zoom
+             45    Heerlen
+             46    Maastricht
+03 Jun 99                                                                Page 70
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+             47    Roermand weert
+             48    Venlo
+             49    Sittard geleen
+             50    Almere lelystad
+
+VAR628    D008 Nodaal gebied                                                208
+          Print Format: F2
+          Write Format: F2
+
+          Value    Label
+
+             -7    Uitgesloten
+             -6    Geen opgave
+             -5    N.v.t.
+             -3    Weet niet
+             -2    Wil niet zeggen
+              0    Zijp, cpr,buitenland
+              1    Groningen
+              2    App.dam+delfzijl
+              3    Hoogezand-sappemeer
+              4    Veendam
+              5    Winschoten
+              6    Stadskanaal
+              7    Smallingerland
+              8    Heerenveen
+              9    Sneek
+             10    Leeuwarden
+             11    Assen
+             12    Emmen
+             13    Coevorden+dalen
+             14    Hoogeveen
+             15    Meppel
+             16    Steenwijk
+             17    Noordoostpolder
+             18    Zwolle
+             19    Hardenberg+gramsb.
+             20    Deventer
+             21    Almelo
+             22    Enschede
+             23    Zutphen
+             24    Winterswijk
+             25    Doetinchem
+             26    Arnhem
+             27    Apeldoorn
+             28    Harderwijk
+             29    Ede
+             30    Nijmegen
+             31    Tiel
+             32    Zaltbommel
+             33    Culemborg
+             34    Veenendaal
+             35    Amersfoort
+             36    Utrecht
+             37    Den helder
+             38    Alkmaar
+             39    Enkhuizen
+             40    Hoorn
+             41    Zaanstad
+             42    Velsen
+03 Jun 99                                                                Page 71
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+             43    Haarlem
+             44    Amsterdam
+             45    Hilversum
+             46    Leiden
+             47    Alphen a.d.rijn
+             48    Woerden
+             49    Den haag
+             50    Delft
+             51    Gouda
+             52    Gorinchem
+             53    Dordrecht+zwijndrecht
+             54    Rotterdam
+             55    Oud beijerland
+             56    Brielle
+             57    Middelharnis
+             58    Zierikzee
+             59    Middelburg
+             60    Goes
+             61    Oostburg
+             62    Terneuzen
+             63    Hulst
+             64    Bergen op zoom
+             65    Roosendaal+nispen
+             66    Breda
+             67    Waalwijk
+             68    Tilburg
+             69    Den bosch
+             70    Eindhoven
+             71    Uden
+             72    Oss
+             73    Boxmeer
+             74    Helmond
+             75    Weert
+             76    Venlo
+             77    Roermond
+             78    Sittard
+             79    Heerlen
+             80    Maastricht
+             81    Almere/lelystad
+
+VAR629    D002 Provincie                                                    209
+          Print Format: F2
+          Write Format: F2
+
+          Value    Label
+
+             -7    Uitgesloten
+             -6    Geen opgave
+             -5    N.v.t.
+             -3    Weet niet
+             -2    Wil niet zeggen
+              1    Groningen
+              2    Friesland
+              3    Drente
+              4    Overijssel
+              5    Gelderland
+              6    Utrecht
+              7    Noord-holland
+              8    Zuid-holland
+03 Jun 99                                                                Page 72
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+              9    Zeeland
+             10    Noord-brabant
+             11    Limburg
+             12    Flevoland
+
+VAR630    D003 Gemeentegrootte                                              210
+          Print Format: F2
+          Write Format: F2
+
+          Value    Label
+
+             -7    Uitgesloten
+             -6    Geen opgave
+             -5    N.v.t.
+             -3    Weet niet
+             -2    Wil niet zeggen
+              1    Meer dan 400.000 inw
+              2    100.000- 400.000
+              3    50.000 - 100.000
+              4    20.000 -  50.000
+              5    10.000 -  20.000
+              6    5.000  -  10.000
+              7    Minder dan 5.000 inw
+
+VAR631    D013 Urbanisatiegraad cbs                                         211
+          Print Format: F2
+          Write Format: F2
+
+          Value    Label
+
+             -7    Uitgesloten
+             -6    Geen opgave
+             -5    N.v.t.
+             -3    Weet niet
+             -2    Wil niet zeggen
+              1    C5 meer  100.000
+              2    C4 50  - 100.000
+              3    C3 30  -  50.000
+              4    C2 10  -  30.000
+              5    C1  2  -  10.000
+              6    B3      forensgm
+              7    B2  5  -  30.000
+              8    B1 minder  5.000
+              9    A4 20-30% landb.
+             10    A3 30-40% landb.
+             11    A1 40-50% landb.
+             12    A1 +++50% landb.
+
+03 Jun 99                                                                Page 73
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR632A   D005 Gemeentenummer cbs                                           212
+          Print Format: F4
+          Write Format: F4
+
+          Value    Label
+
+             -7    Uitgesloten
+             -6    Geen opgave
+             -5    N.v.t.
+             -3    Weet niet
+             -2    Wil niet zeggen
+
+VAR632B   D007 Economisch-geografisch gebied                                213
+          Print Format: F4
+          Write Format: F4
+
+          Value    Label
+
+             -7    Uitgesloten
+             -6    Geen opgave
+             -5    N.v.t.
+             -3    Weet niet
+             -2    Wil niet zeggen
+              1    Gr.hoogeland+n.w-kw.
+              2    App.dam+delfzijl
+              3    Groninger oldambt
+              4    Gr.veenkolonien
+              5    Gr.z-westerkwartier
+              6    Gr.centr.weidestreek
+              7    Stad groningen
+              8    Stad gron.randgebied
+              9    Fries zandgebied
+             10    Fries weidegebied
+             11    Leeuwarden
+             12    Friese bouwstreek
+             13    Friese wadden
+             14    N-drents randgebied
+             15    Emmen+schoonebeek
+             16    Dr.veenkolonien ov.
+             17    Dr.zandgronden
+             18    Z-drents randgebied
+             19    Nw-overijssel
+             20    Ijssel-vecht-delta
+             21    No-overijssel
+             22    Zw-overijssel
+             23    Enschede
+             24    Twente overig
+             25    Urk
+             26    De lijmers
+             27    W.oude-ijsselgebied
+             28    W.achterhoek ov.
+             29    O.oude-ijsselgebied
+             30    O.achterhoek ov.
+             31    Gelderse vallei
+             32    Ijsselmeerkust
+             33    Apeldoorn
+             34    O.veluwezoom ov.
+03 Jun 99                                                                Page 74
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+             35    Arnhem
+             36    Z.veluwezoom ov.
+             37    Oost.betuwe
+             38    West.betuwe
+             39    Nijmegen
+             40    Gebied om nijmegen
+             41    Lnd.v.maas en waal
+             42    Bommelerwaard
+             43    Utr.vallei+eemgebied
+             44    Utr.heuvelrug
+             45    Utr.kromme rijngeb.
+             46    Nieuwegein+ijsselst.
+             47    Stad utrecht
+             48    U.vechtstr.+pl.geb.
+             49    U.weidegebied
+             50    Texel
+             51    Wieringen+-meer
+             52    Kop n.h. overig
+             53    W.west-friesland
+             54    Midd.+o.west-fr.
+             55    N.kennemerland
+             56    Nh.middengewest
+             57    Waterland
+             58    Zaanstreek
+             59    Ijmond
+             60    Haarlem
+             61    Z.kennemerland ov.
+             62    Nh.meerlanden
+             63    Amsterdam
+             64    Z.randgeb.a'dam
+             65    Nh.vechtstreek
+             66    Hilversum
+             67    Het gooi ov.
+             68    Zh.bollenstreek
+             69    Katwijk e.o.
+             70    Leiden
+             71    Randgeb.leiden
+             72    Zh. n.veenstreek
+             73    Zh.rijnstreek
+             74    Gouda e.o.
+             75    Krimpenerwaard
+             76    Alblasserw.ind.geb.
+             77    Alblasserw.overig
+             78    Vijfheerenlanden
+             79    's gravenhage
+             80    Randgeb.den haag
+             81    Westland
+             82    Delft
+             83    Zh.midden
+             84    Rotterdam
+             85    Ind.geb.nwe.wat.weg
+             86    W.ijsselmonde
+             87    O.ijsselmonde
+             88    O.randgeb.r'dam
+             89    Eil.v.dordrecht
+             90    Hoeksche waard
+             91    Voorne putten+rozenb
+             92    Goeree overflakkee
+             93    Schouwen-duiveland
+03 Jun 99                                                                Page 75
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+             94    St.philipsl.+tholen
+             95    Walcheren kanaalzone
+             96    Walcheren overig
+             97    N.+z.beveland
+             98    W.zeeuwsch-vlaand.
+             99    Zws.vlaand.kanaalz.
+            100    O.zws.vlaanderen
+            101    Nb.nw.zeekleigeb.
+            102    Bergen op zoom e.o.
+            103    Breda
+            104    Gebied om breda
+            105    Land van altena
+            106    Langstraat
+            107    Tilburg
+            108    Geb. om tilburg
+            109    Den bosch+vught
+            110    Geb.om den bosch
+            111    Maaskant
+            112    Midden-meijerij
+            113    Eindhoven
+            114    Randgeb.eindhoven
+            115    Ind.geb.helmond
+            116    Kempenland
+            117    Valk.waard+o.rand
+            118    Brabantse peel
+            119    Land van cuyk
+            120    Noord limburg
+            121    Ind.geb.venlo
+            122    Midd.l.o-maas
+            123    Midd.l.w-maas
+            124    West.mijnstreek
+            125    Oost.mijnstreek
+            126    Maastricht
+            127    Z.limburg overig
+            128    N.o.p.
+            129    Z.ij.p.
+            130    C.p.r.
+            140    Buitenland
+
+VAR632C   D011 Corop-gebied                                                 214
+          Print Format: F5.2
+          Write Format: F5.2
+
+          Value    Label
+
+          -7.00    Uitgesloten
+          -6.00    Geen opgave
+          -5.00    N.v.t.
+          -3.00    Weet niet
+          -2.00    Wil niet zeggen
+           1.00    Oost-groningen
+           2.00    Delfzijl e.o.
+           3.00    Groningen overig
+           4.00    Noord-friesland
+           5.00    Z.w.-friesland
+           6.00    Z.o.-friesland
+           7.00    Noord-drente
+           8.00    Z.o.-drente
+           9.00    Z.w.-drente
+03 Jun 99                                                                Page 76
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+          10.00    Noord-overijssel
+          11.00    Z.w.-overijssel
+          12.00    Twente
+          13.00    Veluwe
+          14.00    Achterhoek
+          15.00    Aggl.arnhem+nijm.
+          16.00    Z.w.gelderland
+          17.00    Utrecht
+          18.00    Kop noord-holland
+          19.00    Alkmaar e.o.
+          20.00    Ijmond
+          21.00    Aggl.haarlem
+          22.00    Zaanstreek
+          23.01    Amsterdam
+          23.02    Ov amsterdam
+          24.00    Gooi en vechtstr.
+          25.00    Aggl.leiden+bollen
+          26.00    Aggl.den haag
+          27.00    Delft+westland
+          28.00    Oost zuid-holland
+          29.01    Rijnmond
+          29.02    Ov rijnmond
+          30.00    Z.o.zuid-holland
+          31.00    Zeeuws-vlaanderen
+          32.00    Zeeland overig
+          33.00    West n.brabant
+          34.00    Midden n.brabant
+          35.01    St.gewest den bosch
+          35.02    Ov no nb
+          36.00    Z.o. n.brabant
+          37.00    Noord-limburg
+          38.00    Midden-limburg
+          39.00    Zuid-limburg
+          40.00    Flevoland
+
+VAR632E   D010 Wgr-gebied                                                   215
+          Print Format: F2
+          Write Format: F2
+
+          Value    Label
+
+             -7    Uitgesloten
+             -6    Geen opgave
+             -5    N.v.t.
+             -3    Weet niet
+              0    Zijp, cpr, buitenland
+              1    Oost-groningen
+              2    Noord-groningen en eemsmond
+              3    Centraal en westelijk groninGEN
+              4    Friesland noord
+              5    Zuidwest friesland
+              6    Friesland oost
+              7    Noord en midden drenthe
+              8    Zuidoost drenthe
+              9    Zuidwest drenthe
+             10    Ijsseldelta
+             11    Midden-ijssel
+             12    Gemeentekring almelo
+             13    Hengelo
+03 Jun 99                                                                Page 77
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+             14    Enschede
+             15    Oost-gelderland
+             16    Regio arnhem
+             17    Regio nijmegen
+             18    Rivierenland
+             19    West-veluwe/valleigebied
+             20    Oost-veluwe
+             21    Noordwest-veluwe
+             22    Flevoland
+             23    Noordoost utrecht
+             24    Zuidoost utrecht
+             25    Midden en west utrecht
+             26    Gooi en vechtstreek
+             27    Agglomeratie amsterdam
+             28    Westfriesland
+             29    Kop van noord-holland
+             30    Noord kennemerland
+             31    Midden kennemerland
+             32    Zuid kennemerland
+             33    Duin- en bollenstreek
+             34    Rijnstreek
+             35    Leidse regio
+             36    Haagse regio
+             37    Delftse regio en westland
+             38    Midden-holland
+             39    Alblasserwaard;vijfherenland
+             40    Drechtsteden
+             41    Rotterdamse regio
+             42    Voorne-putten en rozenburg
+             43    Hoeksche waard
+             44    Goeree-overflakkee
+             45    De regio n- en z-beveland
+             46    Walcheren
+             47    Zeeuwsch-vlaanderen
+             48    Westelijk noord-brabant
+             49    Breda e.o.
+             50    Midden-brabant
+             51    Den bosch
+             52    Noordoost-brabant
+             53    Agglomeratie eindhoven;kempeNLAND
+             54    Helmond e.o.
+             55    Noord-limburg
+             56    Midden-limburg
+             57    Westelijke mijnstreek
+             58    Oostelijk zuid-limburg
+             59    Heuvelland
+
+03 Jun 99                                                                Page 78
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR632F   D014 Stedelijkheid                                                216
+          Print Format: F2
+          Write Format: F2
+
+          Value    Label
+
+             -7    Uitgesloten
+             -6    Geen opgave
+             -5    N.v.t.
+             -3    Weet niet
+              1    2500 of meer
+              2    1500-2500
+              3    1000-1500
+              4     500-2000
+              5       1- 500
+
+VAR632G   D015 Stedelijke agglomeratie                                      217
+          Print Format: F2
+          Write Format: F2
+
+          Value    Label
+
+             -7    Uitgesloten
+             -6    Geen opgave
+             -5    N.v.t.
+             -3    Weet niet
+              0    Buiten agglomeratie
+              1    Rotterdam
+              2    Amsterdam
+              3    Den-haag
+              4    Utrecht
+              5    Eindhoven
+              6    Arnhem
+              7    Enschede/hengelo
+              8    Heerlen/kerkrade
+              9    Haarlem
+             10    Tilburg
+             11    Nijmegen
+             12    Groningen
+             13    Dordrecht/zwijndrecht
+             14    Geleen/sittard
+             15    Den-bosch
+             16    Leiden
+             17    Breda
+             18    Maastricht
+             19    Zaanstreek
+             20    Velsen
+             21    Hilversum
+
+03 Jun 99                                                                Page 79
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR683B   M113 Woning: gezin gastarb - nederlands                           218
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Gezin gastarb
+              2    Nederl gezin
+              3    Geen verschil
+
+VAR684    M129 Samenstelling huishouden                                     219
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Echtp m kind
+              2    Echtp z kind
+              3    Ongeh-samenw m k
+              4    Ongeh-samenw z k
+              5    Vader m kind
+              6    Moeder m kind
+              7    Alleenstaande
+              8    Anders
+
+VAR687    M058 Misdadigheid in nederland                                    220
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Neemt toe
+              2    Blijft gelijk
+              3    Neemt af
+
+03 Jun 99                                                                Page 80
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR688    M059 Mate van af/toename misdadigheid                             221
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Sterk
+              2    Enigszins
+              3    Klein beetje
+
+VAR689    M060 Misdaad in nederl wordt echt probl                           222
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Echt probleem
+              2    Hoort erbij
+
+VAR711    M081 invloed regeringsbeslissingen                                223
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Veel
+              2    Weinig
+              3    Helemaal geen
+
+03 Jun 99                                                                Page 81
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR712    M082 regeringsbesl conform bevolkingswen                          224
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Te goed
+              2    Voldoende
+              3    Onvoldoende
+
+VAR713    M083 invloed gemeentebestuur dagelijks l                          225
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Veel
+              2    Weinig
+              3    Helemaal geen
+
+VAR714    M084 gemeente besl conform bevolkingswen                          226
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Veel
+              2    Weinig
+              3    Helemaal geen
+
+VAR715    M085 machtsverdeling gemeente en regerin                          227
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+03 Jun 99                                                                Page 82
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR723    M010 Aantal uren betaalde arbeid per wk                           228
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+
+VAR728B   M114 Ontslag: buitenlander - nederlander                          229
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Buitenlander
+              2    Nederlander
+              3    Geen verschil
+
+VAR729B   M115 Promotie: buitenlander - nederlande                          230
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Buitenlander
+              2    Nederlander
+              3    Geen verschil
+
+03 Jun 99                                                                Page 83
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR754    M048 Kind beslist verdere schoolkeuze                             231
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Kind mag zelf beslissen
+              2    Kind mag meebeslissen
+              3    Kind mag niet meebeslissen
+
+VAR755    M050 Oudere k bepaalt besteding bijbaan                           232
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Ja
+              2    Hangt ervan af
+              3    Neen
+
+VAR760    M049 Kind mag beslissen over afmaken opl                          233
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Kind mag zelf beslissen
+              2    Kind mag meebeslissen
+              3    Kind mag niet meebeslissen
+
+03 Jun 99                                                                Page 84
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR761    M051 Dochter van 17 zelfstandig wonen                             234
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Wel goed vinden
+              2    Hangt ervan af
+              3    Niet goed vinden
+
+VAR768    M052 Kinderopvang                                                 235
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Scheiding beter
+              2    Scheiding ongewenst, maar begrijpelijk
+              3    Scheiding ontoelaatbaar
+
+VAR773    M089 ex-psychi.pat:als onderwijzer kind                           236
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Ja
+              2    Nee
+
+03 Jun 99                                                                Page 85
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR774    M089 ex-psychi.pat:eigen problemen bepra                          237
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Ja
+              2    Nee
+
+VAR775    M089 ex-psychi.pat:als babysitter toesta                          238
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Ja
+              2    Nee
+
+VAR776    M089 ex-psychi.pat:aantrouwen toestaan?                           239
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Ja
+              2    Nee
+
+03 Jun 99                                                                Page 86
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR777    M090 gekken naar het gekkenhuis                                   240
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Sterk   eens
+              2    Mee eens
+              3    Noch,   noch
+              4    Mee     oneens
+              5    Sterk   oneens
+
+VAR844    M062 Man en vrouw huish werk gelijk verd                          241
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Geen mening
+             -2 M  Wil niet zeggen
+              1    Volkomen eens
+              2    Gr lijn  eens
+              3    Noch,    noch
+              4    Eigenl   oneens
+              5    Helem    oneens
+
+VAR846    M062 Man/vrouw betaald werk gelijk verde                          242
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Geen mening
+             -2 M  Wil niet zeggen
+              1    Volkomen eens
+              2    Gr lijn  eens
+              3    Noch,    noch
+              4    Eigenl   oneens
+              5    Helem    oneens
+
+03 Jun 99                                                                Page 87
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR848    M062 Behandelplicht overh verslaafden                             243
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Geen mening
+             -2 M  Wil niet zeggen
+              1    Volkomen eens
+              2    Gr lijn  eens
+              3    Noch,    noch
+              4    Eigenl   oneens
+              5    Helem    oneens
+
+VAR849    M162 Gratis verdovende midd verslaafden                           244
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Geen mening
+             -2 M  Wil niet zeggen
+              1    Volkomen eens
+              2    Gr lijn  eens
+              3    Noch,    noch
+              4    Eigenl   oneens
+              5    Helem    oneens
+
+VAR895    M054 Alleenstaande vrouw wil kind                                 245
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Acceptabel
+              2    Onverschillig
+              3    Onacceptabel
+
+03 Jun 99                                                                Page 88
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR896    M055 Ongeh samenw paar toch kind                                  246
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Acceptabel
+              2    Onverschillig
+              3    Onacceptabel
+
+VAR900A   M138 Duur van interview                                           247
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+
+VAR900B   M136 Interviewdag                                                 248
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+
+VAR900C   M136 Interviewmaand                                               249
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Januari   1998
+             10    Oktober   1997
+             11    November  1997
+             12    December  1997
+03 Jun 99                                                                Page 89
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+
+VAR900D   M00002 Bereidheid schriftelijk deel                               250
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+VAR900E   S037 Duur interview volgens respondent                            251
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Korter dan 30 minuten
+              2    30 tot 45 minuten
+              3    45 minuten tot 1 uur
+              4    1 uur tot 1 uur 15 minuten
+              5    1 uur 15 tot 1 uur 30 minuten
+              6    1 uur 30 tot 1 uur 45 minuten
+              7    1 uur 45 minuten tot 2 uur
+              8    2 uur of langer
+
+VAR900F   S038 Oordeel respondent over duur                                 252
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Te lang
+              2    Niet te lang
+
+VAR900G   S039 Maksimale duur volgens respondent                            253
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Korter dan 30 minuten
+              2    30 tot 45 minuten
+              3    45 minuten tot 1 uur
+              4    1 uur tot 1 uur 15 minuten
+              5    1 uur 15 tot 1 uur 30 minuten
+              6    1 uur 30 tot 1 uur 45 minuten
+              7    1 uur 45 minuten tot 2 uur
+              8    2 uur of langer
+03 Jun 99                                                                Page 90
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+
+VAR900H   S040 Interview interessant                                        254
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Zeer interessant
+              2    Tamelijk interessant
+              3    Niet zo interessant
+              4    Helemaal niet interessant
+
+VAR900J   D001 Enqu0teursnummer                                             255
+          Print Format: F8
+          Write Format: F8
+
+          Value    Label
+
+             -7    Uitgesloten
+             -6    Geen opgave
+             -5    N.v.t.
+             -3    Weet niet
+             -2    Wil niet zeggen
+
+VAR900K   M132 Moeilijkheidsgraad vraagstelling                             256
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Erg moeilijk
+              2    Nogal moeilijk
+              3    Noch, noch
+              4    Nogal makkelijk
+              5    Erg makkelijk
+
+03 Jun 99                                                                Page 91
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR900L   M133 Oordeel interviewer over duur                                257
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Veel te lang
+              2    Te lang
+              3    Niet te lang
+
+VAR900M   M137 Tijdstip einde interview                                     258
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+
+VAR900N   M000 Tijdstip begin interview                                     259
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+VAR900O   Vergoeding schriftelijk deel                                      260
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+              1    Boekenbon
+              2    Platenbon
+              3    Kado-bon
+              4    V.V.V.-bon
+              5    Artsen zonder Grenzen
+              6    Wereld Natuur Fonds
+              7    Amnesty International
+              8    Unicef
+              9    Geen voorkeur
+
+03 Jun 99                                                                Page 92
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR901    F001 Kleur omslagformulier                                        261
+          Print Format: F2
+          Write Format: F2
+
+          Value    Label
+
+             -7    Uitgesloten
+             -6    Geen opgave
+             -5    N.v.t.
+             -3    Weet niet
+             -2    Wil niet zeggen
+              1    Geel
+              2    Groen
+
+VAR902    F002 Resultaat op adres                                           262
+          Print Format: F2
+          Write Format: F2
+
+          Value    Label
+
+             -7    Uitgesloten
+             -6    Geen opgave
+             -5    N.v.t.
+             -3    Weet niet
+             -2    Wil niet zeggen
+              1    Enige
+              2    Een
+              3    Twee
+              4    Geen
+
+VAR903    F003 Interview met enige of 1e persoon                            263
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Geslaagd 1e b
+              2    Geslaagd 2e b
+              3    Geslaagd 3e b
+              4    Weigering
+              5    3x niet thuis
+
+03 Jun 99                                                                Page 93
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR904    F004 Interview met 2e persoon                                     264
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Geslaagd 1e b
+              2    Geslaagd 2e b
+              3    Geslaagd 3e b
+              4    Weigering
+              5    3x niet thuis
+              6    Niet nodig
+
+VAR905    F005 Reden geen interview                                         265
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Ad niet gebr.
+              2    Weigering
+              3    3x niet thuis
+
+VAR906    F006 Geslacht mannelijk gezinshoofd                               266
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Man-jongen
+
+03 Jun 99                                                                Page 94
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR907    F006 Leeftijd mannelijk gezinshoofd                               267
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+
+VAR908    F007 Geslacht vrouwelijk gezinshoofd                              268
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              2    Vrouw-meisje
+
+VAR909    F007 Leeftijd vrouwelijk gezinshoofd                              269
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+
+VAR910    F008 Geslacht 1e (oudste) kind                                    270
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Jongen
+              2    Meisje
+
+03 Jun 99                                                                Page 95
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR911    F008 Leeftijd 1e (oudste) kind                                    271
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+
+VAR912    F009 Geslacht 2e kind                                             272
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Jongen
+              2    Meisje
+
+VAR913    F009 Leeftijd 2e kind                                             273
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+
+VAR914    F010 Geslacht 3e kind                                             274
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Jongen
+              2    Meisje
+
+03 Jun 99                                                                Page 96
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR915    F010 Leeftijd 3e kind                                             275
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+
+VAR916    F011 Geslacht 4e kind                                             276
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Jongen
+              2    Meisje
+
+VAR917    F011 Leeftijd 4e kind                                             277
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+
+VAR918    F012 Geslacht 5e kind                                             278
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Jongen
+              2    Meisje
+
+03 Jun 99                                                                Page 97
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR919    F012 Leeftijd 5e kind                                             279
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+
+VAR920    F013 Geslacht 6e kind                                             280
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Jongen
+              2    Meisje
+
+VAR921    F013 Leeftijd 6e kind                                             281
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+
+VAR922    F014 Geslacht 7e kind                                             282
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Jongen
+              2    Meisje
+
+03 Jun 99                                                                Page 98
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR923    F014 Leeftijd 7e kind                                             283
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+
+VAR924    F015 Geslacht 8e kind                                             284
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Jongen
+              2    Meisje
+
+VAR925    F015 Leeftijd 8e kind                                             285
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+
+VAR926    F016 Geslacht 1e (oudste) ander gezinsld                          286
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Man-jongen
+              2    Vrouw-meisje
+
+03 Jun 99                                                                Page 99
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR927    F016 Leeftijd 1e (oudste) ander gezinsld                          287
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+
+VAR928    F017 Geslacht 2e ander gezinslid                                  288
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Man-jongen
+              2    Vrouw-meisje
+
+VAR929    F017 Leeftijd 2e ander gezinslid                                  289
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+
+VAR930A   M128 Eigen inkomen: man/vader                                     290
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Ja
+              2    Neen
+
+03 Jun 99                                                               Page 100
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR930B   M128 Eigen inkomen: vrouw/moeder                                  291
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Ja
+              2    Neen
+
+VAR930C   M128 Eigen inkomen: kinderen                                      292
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              0    Geen
+              1    Een
+              2    Twee
+              3    Drie of meer
+              4    Geen
+
+VAR930D   M128 Eigen inkomen: andere personen                               293
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              0    Geen
+              1    Een
+              2    Twee
+              3    Drie of meer
+              4    Geen
+
+03 Jun 99                                                               Page 101
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR932    M130 Geboorteland                                                 294
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Nederland
+              2    Duitsland
+              3    Indonesi0
+              4    Marokko
+              5    Antillen
+              6    Suriname
+              7    Turkije
+              8    Ander land
+
+VAR952    M020 Werkloosheid in komende 12 maanden                           295
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Toenemen
+              2    Gelijk
+              3    Afnemen
+
+VAR953    M061 Hoogte bestraffing misdaden in nl                            296
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Te zwaar
+              2    Juist    goed
+              3    Te licht
+
+03 Jun 99                                                               Page 102
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR1031   M116 Oordeel over aantal buitenlanders                            297
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Teveel
+              2    Acceptabel veel
+              3    Niet veel
+
+VAR1032A  M120 Aanwezigheid buitenlanders hinderli                          298
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+VAR1033   M121 Voorrang buitenlanders bij overheid                          299
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+VAR1046A  M080 Doel politiek: orde handhaven                                300
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    1e plaats
+              2    2e plaats
+             16    16e plaats
+
+VAR1046B  M080 Doel politiek: inspraak burgers                              301
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    1e plaats
+              2    2e plaats
+             16    16e plaats
+
+03 Jun 99                                                               Page 103
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR1046C  M080 Doel politiek: prijsstijging stoppn                          302
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    1e plaats
+              2    2e plaats
+             16    16e plaats
+
+VAR1046D  M080 Doel politiek: vrije mening bewaken                          303
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    1e plaats
+              2    2e plaats
+             16    16e plaats
+
+VAR1046E  M080 Doel politiek: hoge ekon groei                               304
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    1e plaats
+              2    2e plaats
+             16    16e plaats
+
+03 Jun 99                                                               Page 104
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR1046F  M080 Doel politiek: sterk leger                                   305
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    1e plaats
+              2    2e plaats
+             16    16e plaats
+
+VAR1046G  M080 Doel politiek: inspraak werk/woonpl                          306
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    1e plaats
+              2    2e plaats
+             16    16e plaats
+
+VAR1046H  M080 Doel politiek: steden verfraaien                             307
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    1e plaats
+              2    2e plaats
+             16    16e plaats
+
+03 Jun 99                                                               Page 105
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR1046I  M080 Doel politiek: stabiele economie                             308
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    1e plaats
+              2    2e plaats
+             16    16e plaats
+
+VAR1046J  M080 Doel politiek: strijd tegen misdaad                          309
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    1e plaats
+              2    2e plaats
+             16    16e plaats
+
+VAR1046K  M080 Doel politiek: persoonlijker samenl                          310
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    1e plaats
+              2    2e plaats
+             16    16e plaats
+
+03 Jun 99                                                               Page 106
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR1046L  M080 Doel politiek: idee0n boven geld                             311
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    1e plaats
+              2    2e plaats
+             16    16e plaats
+
+VAR1046M  M080 Doel politiek: werkloosheid vermind                          312
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    1e plaats
+              2    2e plaats
+             16    16e plaats
+
+VAR1046N  M080 Doel politiek: bestrijden milieu-ve                          313
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    1e plaats
+              2    2e plaats
+             16    16e plaats
+
+03 Jun 99                                                               Page 107
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR1046O  M080 Doel politiek: soc zekerh op peil                            314
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    1e plaats
+              2    2e plaats
+             16    16e plaats
+
+VAR1046P  M080 Doel politiek: opvang alloch immigr                          315
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    1e plaats
+              2    2e plaats
+             16    16e plaats
+
+VAR1060   M008 Terrein waarop opleiding gericht                             316
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Techniek
+              2    Economie/handel
+              3    Opvoeding
+              4    Zorgsector
+              5    Zachte sector
+              6    Algemeen
+              7    Overig
+
+03 Jun 99                                                               Page 108
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR1061   M018 Aantal uren vrijwilligerswerk p wk                           317
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+
+VAR1062   M019 Aantal uren hulp aan zieken per wk                           318
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+
+VAR1076   M094 Vrienden kunnen overtuigen belangr                           319
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Meestal
+              2    Af en toe
+              3    Zelden
+              4    Nooit
+
+VAR1077   M095 Onder vrienden politiek bespreken                            320
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Vaak
+              2    Af en toe
+              3    Nooit
+
+03 Jun 99                                                               Page 109
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR1082   M109 Drukte rond milieu overdreven                                321
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+              1    Helemaal oneens
+              2    Oneens
+              3    Noch, noch
+              4    Mee eens
+              5    Helemaal eens
+
+VAR1103   M118 Verblijfsvergunning:politieke situa                          322
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Zeer soepel
+              2    Enigszins soepel
+              3    Niet zo soepel
+              4    Helemaal niet afgeven
+
+VAR1104   M118 Verblijfsvergunning:ekon situatie                            323
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Zeer soepel
+              2    Enigszins soepel
+              3    Niet zo soepel
+              4    Helemaal niet afgeven
+
+03 Jun 99                                                               Page 110
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR1105   M118 Verblijfsvergunning:echtgenoot/-gen                          324
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Zeer soepel
+              2    Enigszins soepel
+              3    Niet zo soepel
+              4    Helemaal niet afgeven
+
+VAR1106   M118 Verblijfsvergunning: toekomstige vr                          325
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Zeer soepel
+              2    Enigszins soepel
+              3    Niet zo soepel
+              4    Helemaal niet afgeven
+
+VAR1129   M106 Trein: participatie milieugesprek                            326
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Zeer waarschijnlijk
+              2    Waarschijnlijk
+              3    Onwaarschijnlijk
+              4    Zeer onwaarschijnlijk
+
+03 Jun 99                                                               Page 111
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR1130   M107 Trein: drukte milieu overdreven                              327
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Ja
+              2    Nee
+
+VAR1131   M108 Trein: tegenspraak overdrijving                              328
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Zeer waarschijnlijk
+              2    Waarschijnlijk
+              3    Onwaarschijnlijk
+              4    Zeer onwaarschijnlijk
+              5    Weet het nog niet
+
+VAR1145A  M122 Cijfer: zorgbeleid                                           329
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Zeer slecht
+              6    Voldoende
+             10    Uitmuntend
+
+03 Jun 99                                                               Page 112
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR1145B  M122 Cijfer: cultuurbeleid                                        330
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Zeer slecht
+              6    Voldoende
+             10    Uitmuntend
+
+VAR1145C  M122 Cijfer: beleid op gebied vrije tijd                          331
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Zeer slecht
+              6    Voldoende
+             10    Uitmuntend
+
+VAR1145D  M122 Cijfer: beleid alg vorm onderwijs                            332
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Zeer slecht
+              6    Voldoende
+             10    Uitmuntend
+
+03 Jun 99                                                               Page 113
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR1145E  M122 Cijfer: beleid beroepsonderwijs                              333
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Zeer slecht
+              6    Voldoende
+             10    Uitmuntend
+
+VAR1145F  M122 Cijfer: ordehandhaving                                       334
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Zeer slecht
+              6    Voldoende
+             10    Uitmuntend
+
+VAR1145G  M122 Cijfer: sociale zekerheid                                    335
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Zeer slecht
+              6    Voldoende
+             10    Uitmuntend
+
+03 Jun 99                                                               Page 114
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR1145H  M122 Cijfer: werkgelegenheid                                      336
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Zeer slecht
+              6    Voldoende
+             10    Uitmuntend
+
+VAR1145I  M122 Cijfer: milieubeleid                                         337
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Zeer slecht
+              6    Voldoende
+             10    Uitmuntend
+
+VAR1145J  M122 Cijfer: beleid kosten levensonderho                          338
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Zeer slecht
+              6    Voldoende
+             10    Uitmuntend
+
+03 Jun 99                                                               Page 115
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR1145K  M122 Cijfer: beleid leefbaarheid steden                           339
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Zeer slecht
+              6    Voldoende
+             10    Uitmuntend
+
+VAR1145L  M122 Cijfer: beleid opvang buitenlanders                          340
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Zeer slecht
+              6    Voldoende
+             10    Uitmuntend
+
+VAR1146   M124 Tevreden met wat de regering doet                            341
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+              1    Zeer tevreden
+              2    Tevreden
+              3    Ontevreden
+              4    Zeer ontevreden
+
+03 Jun 99                                                               Page 116
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR1161   M090 Immigranten verrijking voor samenle                          342
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Sterk   eens
+              2    Mee eens
+              3    Noch,   noch
+              4    Mee     oneens
+              5    Sterk   oneens
+
+VAR1162A  M123 Oordeel: zorgbeleid                                          343
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Te veel
+              2    Juist genoeg
+              3    Te weinig
+
+VAR1162B  M123 Oordeel: cultuurbeleid                                       344
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Te veel
+              2    Juist genoeg
+              3    Te weinig
+
+03 Jun 99                                                               Page 117
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR1162C  M123 Oordeel: beleid vrije tijd                                   345
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Te veel
+              2    Juist genoeg
+              3    Te weinig
+
+VAR1162D  M123 Oordeel: beleid alg vorm onderwijs                           346
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Te veel
+              2    Juist genoeg
+              3    Te weinig
+
+VAR1162E  M123 Oordeel: beleid beroepsonderwijs                             347
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Te veel
+              2    Juist genoeg
+              3    Te weinig
+
+03 Jun 99                                                               Page 118
+09:32:13  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR1162F  M123 Oordeel: ordehandhaving                                      348
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Te veel
+              2    Juist genoeg
+              3    Te weinig
+
+VAR1162G  M123 Oordeel: sociale zekerheid                                   349
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Te veel
+              2    Juist genoeg
+              3    Te weinig
+
+VAR1162H  M123 Oordeel: werkgelegenheid                                     350
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Te veel
+              2    Juist genoeg
+              3    Te weinig
+
+03 Jun 99                                                               Page 119
+09:32:14  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR1162I  M123 Oordeel: milieubeleid                                        351
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Te veel
+              2    Juist genoeg
+              3    Te weinig
+
+VAR1162J  M123 Oordeel: beleid kosten levensonderh                          352
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Te veel
+              2    Juist genoeg
+              3    Te weinig
+
+VAR1162K  M123 Oordeel: beleid leefbaarheid steden                          353
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Te veel
+              2    Juist genoeg
+              3    Te weinig
+
+03 Jun 99                                                               Page 120
+09:32:14  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+VAR1162L  M123 Oordeel: beleid opvang buitenlander                          354
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Te veel
+              2    Juist genoeg
+              3    Te weinig
+
+VAR1163   M125 Nederlandse overheid funktioneert g                          355
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  Uitgesloten
+             -6 M  Geen opgave
+             -5 M  N.v.t.
+             -3 M  Weet niet
+             -2 M  Wil niet zeggen
+              1    Zeer mee eens
+              2    Mee eens
+              3    Oneens
+              4    Zeer oneens
+
+03 Jun 99                                                               Page 121
+09:32:14  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+  15  set listing 'p1417.doc'.

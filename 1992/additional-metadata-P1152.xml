@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codebook>
+<docDscr>
+<citation>
+<titlStmt>
+<IDNo><![CDATA[P1152]]></IDNo>
+</titlStmt>
+</citation>
+</docDscr>
+<stdyDescr>
+<citation>
+<titlStmt>
+<titl><![CDATA[-]]></titl>
+<parTitl><![CDATA[-]]></parTitl>
+<IDNo><![CDATA[P1152]]></IDNo>
+</titlStmt>
+<prodStmt>
+<prodPlac><![CDATA[NIWI]]></prodPlac>
+</prodStmt>
+<distStmt>
+<depDate><![CDATA[1994-01-01]]></depDate>
+</distStmt>
+</citation>
+<stdyInfo>
+<sumDscr>
+<timePrd><![CDATA[1992]]></timePrd>
+<timePrd><![CDATA[1992]]></timePrd>
+<timePrd><![CDATA[1992]]></timePrd>
+<collDate><![CDATA[1992-09-01]]></collDate>
+<collDate><![CDATA[1992-12-01]]></collDate>
+<nation><![CDATA[Netherlands]]></nation>
+<geoUnit><![CDATA[International]]></geoUnit>
+<anlyUnit><![CDATA[individuals]]></anlyUnit>
+<universe><![CDATA[Age limits: 16 years and older
+Location: national
+Name of country: Netherlands]]></universe>
+<dataKind><![CDATA[survey]]></dataKind>
+<dataKind><![CDATA[Survey Continuous Longitudinal International]]></dataKind>
+</sumDscr>
+</stdyInfo>
+<method>
+<dataColl>
+<timeMeth><![CDATA[longitudinal]]></timeMeth>
+<datacollector><![CDATA[NIPO * Amsterdam]]></datacollector>
+<frequenc><![CDATA[other repeated]]></frequenc>
+<sampProc><![CDATA[multi-stage]]></sampProc>
+<sampProc><![CDATA[Multi-stage sample: first stage: sampling of municipalities,  stratification by number of households in municipalities;:  second stage: selection of addresses;: third stage:  individuals  Number of unit original/losses: nr of cases obtained: 2146]]></sampProc>
+<actMin><![CDATA[other: gift: voucher of dfl. 15]]></actMin>
+<weight><![CDATA[no weighting]]></weight>
+<fileDescr>
+<fileTxt>
+<fileName><![CDATA[P1152]]></fileName>
+</fileTxt>
+<dimensns>
+<caseQnty><![CDATA[2146]]></caseQnty>
+<varQnty><![CDATA[700]]></varQnty>
+</dimensns>
+<fileType><![CDATA[spss-file labelled]]></fileType>
+<dataChck><![CDATA[complete study stored]]></dataChck>
+<verStmt>
+</verStmt>
+</fileDescr>
+</dataColl>
+</method>
+</stdyDescr>
+</codebook>

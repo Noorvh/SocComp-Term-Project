@@ -1,0 +1,8 @@
+2016 vragenlijst SLI variant A.pdf (application/pdf) 2402928 bytes.
+CV_SLI_2016_SCP_CCF.dta (application/x-stata-14) 1779694 bytes.
+Onderzoeksverantwoording CV SLI_2016.pdf (application/pdf) 916055 bytes.
+2016 vragenlijst CV.pdf (application/pdf) 791627 bytes.
+2016 vragenlijst SLI variant B.pdf (application/pdf) 2405823 bytes.
+CV_SLI_2016_SCP_CCF.POR (application/x-spss-por) 2578242 bytes.
+easy-migration.zip (application/zip) 26826 bytes.
+CV_SLI_2016_SCP_CCF.sav (application/x-spss-sav) 1457387 bytes.

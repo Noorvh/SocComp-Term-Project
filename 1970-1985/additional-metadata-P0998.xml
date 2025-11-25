@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codebook>
+<docDscr>
+<citation>
+<titlStmt>
+<IDNo><![CDATA[P0998]]></IDNo>
+</titlStmt>
+</citation>
+</docDscr>
+<stdyDescr>
+<citation>
+<titlStmt>
+<titl><![CDATA[-]]></titl>
+<parTitl><![CDATA[-]]></parTitl>
+<IDNo><![CDATA[P0998]]></IDNo>
+</titlStmt>
+<prodStmt>
+<prodPlac><![CDATA[NIWI]]></prodPlac>
+</prodStmt>
+<distStmt>
+<depDate><![CDATA[1990-01-01]]></depDate>
+</distStmt>
+</citation>
+<stdyInfo>
+<sumDscr>
+<timePrd><![CDATA[1970 * 1985]]></timePrd>
+<timePrd><![CDATA[1970]]></timePrd>
+<timePrd><![CDATA[1985]]></timePrd>
+<collDate><![CDATA[1970-01-01]]></collDate>
+<collDate><![CDATA[1985-12-31]]></collDate>
+<nation><![CDATA[Netherlands]]></nation>
+<anlyUnit><![CDATA[individuals]]></anlyUnit>
+<anlyUnit><![CDATA[individual]]></anlyUnit>
+<universe><![CDATA[Age limits: 16-75 years
+Location: national
+Name of country: Netherlands]]></universe>
+<dataKind><![CDATA[survey]]></dataKind>
+<dataKind><![CDATA[Survey Continuous Longitudinal]]></dataKind>
+</sumDscr>
+</stdyInfo>
+<method>
+<dataColl>
+<timeMeth><![CDATA[longitudinal]]></timeMeth>
+<datacollector><![CDATA[NIPO * Amsterdam, the Netherlands]]></datacollector>
+<frequenc><![CDATA[other repeated]]></frequenc>
+<sampProc><![CDATA[multi-stage sample.	Number of unit original/losses: nr. of cases, P0998A: 1905, 1803, 1859, 1791 * nr. of cases, P0998B: 1977, 2007]]></sampProc>
+<collMode><![CDATA[interview]]></collMode>
+<weight><![CDATA[no weighting]]></weight>
+<fileDescr>
+<fileTxt>
+<fileName><![CDATA[P0998a]]></fileName>
+<fileCont><![CDATA[Four point cumulative file: 1970, 1975, 1980 and 1985.]]></fileCont>
+<fileStrc><![CDATA[rectangular]]></fileStrc>
+</fileTxt>
+<dimensns>
+<caseQnty><![CDATA[7358]]></caseQnty>
+<varQnty><![CDATA[346]]></varQnty>
+</dimensns>
+<fileType><![CDATA[software dependent]]></fileType>
+<format><![CDATA[fixed length]]></format>
+<dataChck><![CDATA[complete study stored]]></dataChck>
+<software><![CDATA[spss]]></software>
+<verStmt>
+</verStmt>
+</fileDescr>
+<fileDescr>
+<fileTxt>
+<fileName><![CDATA[P0998b]]></fileName>
+<fileCont><![CDATA[Two point cumulative file: 1975 and 1980.]]></fileCont>
+<fileStrc><![CDATA[rectangular]]></fileStrc>
+</fileTxt>
+<dimensns>
+<caseQnty><![CDATA[3984]]></caseQnty>
+<varQnty><![CDATA[451]]></varQnty>
+</dimensns>
+<fileType><![CDATA[software dependent]]></fileType>
+<format><![CDATA[fixed length]]></format>
+<dataChck><![CDATA[complete study stored]]></dataChck>
+<software><![CDATA[spss]]></software>
+<verStmt>
+</verStmt>
+</fileDescr>
+</dataColl>
+</method>
+</stdyDescr>
+</codebook>

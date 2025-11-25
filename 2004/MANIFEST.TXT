@@ -1,0 +1,10 @@
+CV 2004 in STATA file format -dta/p1692a.dta (application/x-stata-13) 2067255 bytes.
+additional-metadata-P1692.xml (text/xml) 2732 bytes.
+CV 2004 in SPSS file format -por/p1692a.por (application/x-spss-por) 2858438 bytes.
+CV 2004 in STATA file format -dta/p1692b.dta (application/x-stata-13) 760012 bytes.
+easy-migration.zip (application/zip) 24028 bytes.
+CV 2004 in SPSS file format -sav/p1692b.sav (application/x-spss-sav) 705409 bytes.
+CV 2004 documentation/p1692.ovz.txt (text/plain) 87 bytes.
+CV 2004 in SPSS file format -por/p1692b.por (application/x-spss-por) 901836 bytes.
+CV 2004 documentation/p1692.pdf (application/pdf) 405554 bytes.
+CV 2004 in SPSS file format -sav/p1692a.sav (application/x-spss-sav) 2010585 bytes.

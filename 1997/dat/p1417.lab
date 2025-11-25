@@ -1,0 +1,388 @@
+
+  18  display labels.
+03 Jun 99                                                               Page 124
+09:32:14  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     p1417 culturele veranderingen 1997
+
+            List of variables on the working file
+
+Name     Position  Label
+
+RESPNR          1  M  0 Uniek respondentnummer
+HHNR            2  Huishoudnummer
+HHPNR           3  Volgnummer in Huishouden
+TYPE            4       Papier/Capi
+TYPEINTV        5  Type interview en capi-ervaring
+INTVNIV         6  Ervaringsniveau interviewer
+INT001          7  M004 Aantal jaar onderwijs vanaf 6e jaar
+INT004          8  M017 Aantal mensen waarover leiding
+INT137          9  S003 Gewenste tijd betaald werk
+INT138         10  S003 Gewenste tijd huishoudelijk werk
+INT139         11  S003 Gewenste tijd gezin
+INT140         12  S003 Gewenste tijd vrienden
+INT141         13  S003 Gewenste tijd vrijetijds-activiteit
+INT143         14  S004 Baan alleen om geld te verdienen
+INT144         15  S004 Wil graag, ook als geld niet nodig
+INT145         16  S004 Baan belangrijkste bezigheid
+INT146         17  S005 Verantwoord. voor huishoud. taken
+INT152         18  S006 Niet gauw werkeloos
+INT153         19  S006 Hoog inkomen
+INT154         20  S006 Goed mogelijkheden verder te komen
+INT156         21  S006 Interessante baan
+INT157         22  S006 Zelfstandigheid
+INT158         23  S006 Baan om andere mensen te helpen
+INT159         24  S006 Baan nuttig voor samenleving
+INT160         25  S006 Baan met flexibele werktijden
+INT164         26  S010 Keuze loondienst/zelfstandige
+INT165         27  S010 Keuze klein/groot bedrijf
+INT167         28  S010 Keuze bedrijfsleven/overheid
+INT172         29  S012 Makkelijk acceptabele baan vinden
+INT173         30  S014 Gevoelens baan
+INT174         31  S015 Gewenste werkuren en loon
+INT178         32  S016 Baan niet gauw werkeloos
+INT179         33  S016 Hoog inkomen
+INT180         34  S016 Goede vooruitzichten
+INT182         35  S016 Baan is interessant
+INT183         36  S016 Kan zelfstandig werken
+INT184         37  S016 Kan andere mensen helpen
+INT185         38  S016 Baan nuttig voor samenleving
+INT187         39  S017 Komt uitgeput thuis
+INT188         40  S017 Doet zwaar lichamelijk werk
+INT189         41  S017 Werkt onder grote spanning
+INT191         42  S017 Werkt onder gevaarlijke omstangigh.
+INT196         43  S023 Relatie management/employees
+INT197         44  S023 Relatie colleaga's onderling
+INT198         45  S024 Tevreden over baan
+INT256         46  M043 Deelname aktiviteiten van de kerk
+INT265         47  M021 Allerbelangrijkste in nederland
+INT266         48  M022 Op 00n na belangrijkste in nederlnd
+INT283         49  M111 Bereidheid hogere prijzen tbv milie
+INT284         50  M112 Bereidheid hogere belasting tbv mil
+INT285         51  M110 Bereidh lagere levensst tbv milieu
+INT319         52  M104 Lid groepering milieubescherming
+INT321         53  M105 Afgel 5 jr: geld v milieugroepering
+03 Jun 99                                                               Page 125
+09:32:14  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+INT461         54  S007 Keuze werknemers doet goed werk
+INT462         55  S007 Keuze werknemers heeft gezin
+INT463         56  S007 Keuze werknemers opleiding
+INT464         57  S007 Keuze werknemers hoe lang werkzaam
+INT465         58  S008 Toename werk nieuwe technologieen
+INT466         59  S009 Nwe technologieen werk interessant
+INT467         60  S011 Voorkeur werksituatie
+INT468         61  S013 Momenteel betaald werk
+INT469         62  S018 Beslist over werktijden
+INT470         63  S019 Plaats werkzaamheden
+INT471         64  S020 Werkplaats
+INT472         65  S021 Gebruik vroegere werkerv.\vaardighe
+INT473         66  S022 Vaardigheden school/hbo/universitei
+INT474         67  S022 Training/ervaring in huidige/vorige
+INT475         68  S025 Harder werken om bedr. laten slagen
+INT476         69  S025 Trots op bedrijf
+INT477         70  S025 Werk verruilen als mogelijk
+INT478         71  S025 Blijft bij bedr. ondanks betere baa
+INT479         72  S025 Trots op soort werk
+INT480         73  S026 Verzuim werk
+INT481         74  S027 Komende 12 mnd andere baan zoeken
+INT482         75  S028 Zorgen baan verliezen
+INT483         76  S029 Ooit betaalde baan voor >= 1 jaar
+INT484         77  S030 Betaalde baan beeindigde in jaar
+INT485         78  S031 Reden beeindigen baan
+INT486         79  S032 Wilt nu/in toekomst een baan
+INT487         80  S033 Waarschijnlijk baan vinden
+INT488         81  S034 Zoekt momenteel baan
+INT489         82  S035 Ingeschreven arbeidsbureau
+INT490         83  S035 Ingeschreven uitzendbureau
+INT491         84  S035 Reageren personeelsadvertenties
+INT492         85  S035 Advertentie voor baan
+INT493         86  S035 Open sollicitaties
+INT494         87  S035 Hulp gevraagd bij vinden baan
+INT495         88  S036 Belangrijkste bron inkomsten
+V040           89  M009 Doet op dit moment betaald werk
+V041           90  M012 Vroeger betaald werk gedaan
+V049           91  M016 Dienstverband
+V200           92  M006 Opleiding alg vormend onderwijs
+V201           93  M007 Opleiding beroepsonderwijs
+V202           94  M011 Aktiviteitenkategorie
+VAR000         95  M000 1e of 2e persoon
+VAR000S        96
+VAR001         97  M001 Geslacht
+VAR002         98  M002 Leeftijd
+VAR003         99  M003 Burgerlijke staat
+VAR006        100  M005 Laatst genoten opleiding
+VAR016        101  M014 Beroep
+VAR038        102  M066 Kijkt tweede kamer-zitting op tv
+VAR039        103  M067 Kijkt ander politiek tv-programma
+VAR040        104  M068 Leest over politiek in ons land
+VAR041        105  M069 Abonnement op landelijk dagblad
+VAR042        106  M137 Abonnement landelijk dagblad
+VAR042A       107  M070 Geabonneerd op Het Algemeen     01
+VAR042B       108  M070 Geabonneerd op Nederlands       02
+VAR042C       109  M070 Geabonneerd op NRC/Handelsblad  03
+VAR042D       110  M070 Geabonneerd op Het Parool       04
+VAR042E       111  M070 Geabonneerd op Reformatorisch   05
+VAR042F       112  M070 Geabonneerd op De Telegraaf     06
+03 Jun 99                                                               Page 126
+09:32:14  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+VAR042G       113  M070 Geabonneerd op Trouw            07
+VAR042H       114  M070 Geabonneerd op De Volkskrant    08
+VAR043        115  M071 Nieuws lezen over eigen woonplaats
+VAR065        116  M023 Economische crisis in nabije toekom
+VAR096        117  M024 Overheidsgeld voor openb voorzienin
+VAR100        118  M025 Overh moet: voldoende voorz huiswer
+VAR101        119  M025 Overh moet: veel meer studiebeurzen
+VAR103        120  M025 Overh moet: veel meer geld woningbw
+VAR107        121  M025 Overh moet: onderw tot 18e gratis
+VAR109        122  M025 Overh moet: ingr maatreg milieu-ver
+VAR121        123  M025 Overh moet: leerplicht tot 18e jaar
+VAR122        124  M025 Overh moet: meer kunstsubsidies
+VAR124        125  M025 Overh moet: meer goedkope cr0ches b
+VAR125        126  M026 Overheidsuitgaven in het algemeen
+VAR136        127  M027 Zich zorgen maken over eigen werklo
+VAR153        128  M036 Tevreden over sociale voorzieningen
+VAR154        129  M037 Oordeel algemene ouderdomswet AOW
+VAR154A       130  M037 Oordeel ziektewet
+VAR155        131  M037 Oordeel algemene bijstandswet
+VAR156        132  M037 Oordeel werkloosheidswet ww
+VAR157        133  M037 Oordeel alg weduwen- wezenwet AWW
+VAR157A       134  M037 Oordeel arb ongeschikthwet WAO/AAW
+VAR164        135  M038 Oordeel inkomensverschillen
+VAR165        136  M039 Gewenste inkomensverschillen
+VAR166        137  M040 Gewenste verschillen tussen bezit
+VAR198        138  M041 Grootgebracht in bepaald geloof
+VAR201        139  M044 Behorend tot kerkgenootschap
+VAR204        140  M042 Frequentie kerkgang
+VAR274        141  M064 Zou stemmen bij verkiezingen 2e kam
+VAR275        142  M065 Partij waarop men zou stemmen
+VAR318        143  M079 Mensen als ik geen invloed regering
+VAR319        144  M079 Kamerl geven niet om wat ik denk
+VAR320        145  M079 Kamerl letten op belang groepen
+VAR342        146  M090 Standsverschil moet kleiner zijn
+VAR347        147  M090 Abortus mogelijk als vrouw wenst
+VAR357        148  M090 Vrouw geschikter v opvoed kl kind
+VAR377        149  M086 Raadsleden luisteren niet naar ons
+VAR378        150  M086 Ons soort geen invloed op gem.polit
+VAR406        151  M100 hoogte van de belastingen
+VAR407        152  M101 redeijkheid loon- en inkomensbelast
+VAR408        153  M087 Aktiebereidh bij onrechtv wet
+VAR409        154  M088 Demonstrbereidh bij onrechtv wet
+VAR427        155  M102 Zorgen over milieuverontreiniging
+VAR428        156  M103 Oordeel over bestrijding vervuiling
+VAR433        157  M062 Misdadigers veranderen ipv straffen
+VAR461        158  M063 Links - rechts
+VAR462        159  M127 Bruto inkomen van huishouden
+VAR491        160  M072 Interesse in politiek
+VAR493        161  M073 Standpunt op bijeenkomst verdedigd
+VAR494        162  M074 Standpunt geschreven naar krant
+VAR495        163  M075 Bijeenkomsten politieke partij bez
+VAR496        164  M076 Wat gedaan voor politieke partij
+VAR497        165  M077 Lid (geweest) van politieke partij
+VAR498        166  M078 Partij waarvan lid (geweest)
+VAR499        167  M097 Lid van vakbond (inkl beroepsvere)
+VAR500        168  M098 Aantal jaren lid van vakbond
+VAR515        169  M046 Vrouw + schoolg k werkt naast huish
+VAR516        170  M047 Vrouw werkt,kind moet naar cr0che
+VAR517        171  M053 Scheiding bij echtpaar met kinderen
+03 Jun 99                                                               Page 127
+09:32:14  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+VAR542        172  M056 Avontuurtje in huwelijk geen kwaad
+VAR544        173  M126 Euthanasie op verzoek dmv spuitje
+VAR545        174  M057 homosexuelen zoveel mogelijk vrijla
+VAR546        175  M117 Mensen ander ras als buren krijgen
+VAR548        176  M134 Vraaggesprek door anderen gevolgd
+VAR550        177  M135 Respondent door anderen be0nvloed
+VAR555        178  M025 Overh moet: werkn bet verlof aanvul
+VAR556        179  M025 Overh moet: meer subsidie hoge huur
+VAR557        180  M025 Overh moet: werkgl v elk gehuwde vr
+VAR558        181  M025 Overh moet: m subsidie onderw oudrn
+VAR559        182  M025 Overh moet: betaalbb huisvst jongrn
+VAR560        183  M025 Overh moet: aangepast onderw kind b
+VAR567        184  M028 Verwachting inkomens
+VAR568        185  M029 Mate stijging/daling inkomens
+VAR569        186  M030 Oordeel inkomens gezien economie
+VAR570        187  M031 Mate stijg/daal ink gezien economie
+VAR571        188  M032 Verwachting soc uitkeringen
+VAR572        189  M033 Mate stijg/daal soc uitkeringen
+VAR573        190  M034 Oordeel soc uitk gezien economie
+VAR574        191  M035 Mate stijg/daal soc uitk gez econom
+VAR589A       192  M045 Katholieken doen/laten vrijlaten
+VAR589B       193  M045 Protestanten doen/laten vrijlaten
+VAR589C       194  M045 Mohammedanen doen/laten vrijlaten
+VAR589D       195  M045 Jehova's doen/laten vrijlaten
+VAR589E       196  M045 Humanisten doen/laten vrijlaten
+VAR589F       197  M045 Diverse groep doen/laten vrijlaten
+VAR592        198  M091 Meegedaan inspraakproc/hoorzitting
+VAR594        199  M090 Vrouwen voorrang vanwege
+VAR597        200  M096 Vergadering/bijeenkomst vakbond bez
+VAR598        201  M099 Lid werkgevers- of middenstandsorg
+VAR599        202  M092 Inspanning landelijk/wereldlijk niv
+VAR600        203  M093 Inspanning gemeentelijk niveau
+VAR603        204  M025 Overh moet: onbet verlof tbv verz k
+VAR625        205  M119 hoe zullen buitenlanders integreren
+VAR626        206  D012 Nielsen-gebied
+VAR627        207  D009 Cebuco verzorgingsgebied
+VAR628        208  D008 Nodaal gebied
+VAR629        209  D002 Provincie
+VAR630        210  D003 Gemeentegrootte
+VAR631        211  D013 Urbanisatiegraad cbs
+VAR632A       212  D005 Gemeentenummer cbs
+VAR632B       213  D007 Economisch-geografisch gebied
+VAR632C       214  D011 Corop-gebied
+VAR632E       215  D010 Wgr-gebied
+VAR632F       216  D014 Stedelijkheid
+VAR632G       217  D015 Stedelijke agglomeratie
+VAR683B       218  M113 Woning: gezin gastarb - nederlands
+VAR684        219  M129 Samenstelling huishouden
+VAR687        220  M058 Misdadigheid in nederland
+VAR688        221  M059 Mate van af/toename misdadigheid
+VAR689        222  M060 Misdaad in nederl wordt echt probl
+VAR711        223  M081 invloed regeringsbeslissingen
+VAR712        224  M082 regeringsbesl conform bevolkingswen
+VAR713        225  M083 invloed gemeentebestuur dagelijks l
+VAR714        226  M084 gemeente besl conform bevolkingswen
+VAR715        227  M085 machtsverdeling gemeente en regerin
+VAR723        228  M010 Aantal uren betaalde arbeid per wk
+VAR728B       229  M114 Ontslag: buitenlander - nederlander
+VAR729B       230  M115 Promotie: buitenlander - nederlande
+03 Jun 99                                                               Page 128
+09:32:14  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+VAR754        231  M048 Kind beslist verdere schoolkeuze
+VAR755        232  M050 Oudere k bepaalt besteding bijbaan
+VAR760        233  M049 Kind mag beslissen over afmaken opl
+VAR761        234  M051 Dochter van 17 zelfstandig wonen
+VAR768        235  M052 Kinderopvang
+VAR773        236  M089 ex-psychi.pat:als onderwijzer kind
+VAR774        237  M089 ex-psychi.pat:eigen problemen bepra
+VAR775        238  M089 ex-psychi.pat:als babysitter toesta
+VAR776        239  M089 ex-psychi.pat:aantrouwen toestaan?
+VAR777        240  M090 gekken naar het gekkenhuis
+VAR844        241  M062 Man en vrouw huish werk gelijk verd
+VAR846        242  M062 Man/vrouw betaald werk gelijk verde
+VAR848        243  M062 Behandelplicht overh verslaafden
+VAR849        244  M162 Gratis verdovende midd verslaafden
+VAR895        245  M054 Alleenstaande vrouw wil kind
+VAR896        246  M055 Ongeh samenw paar toch kind
+VAR900A       247  M138 Duur van interview
+VAR900B       248  M136 Interviewdag
+VAR900C       249  M136 Interviewmaand
+VAR900D       250  M00002 Bereidheid schriftelijk deel
+VAR900E       251  S037 Duur interview volgens respondent
+VAR900F       252  S038 Oordeel respondent over duur
+VAR900G       253  S039 Maksimale duur volgens respondent
+VAR900H       254  S040 Interview interessant
+VAR900J       255  D001 Enqu0teursnummer
+VAR900K       256  M132 Moeilijkheidsgraad vraagstelling
+VAR900L       257  M133 Oordeel interviewer over duur
+VAR900M       258  M137 Tijdstip einde interview
+VAR900N       259  M000 Tijdstip begin interview
+VAR900O       260  Vergoeding schriftelijk deel
+VAR901        261  F001 Kleur omslagformulier
+VAR902        262  F002 Resultaat op adres
+VAR903        263  F003 Interview met enige of 1e persoon
+VAR904        264  F004 Interview met 2e persoon
+VAR905        265  F005 Reden geen interview
+VAR906        266  F006 Geslacht mannelijk gezinshoofd
+VAR907        267  F006 Leeftijd mannelijk gezinshoofd
+VAR908        268  F007 Geslacht vrouwelijk gezinshoofd
+VAR909        269  F007 Leeftijd vrouwelijk gezinshoofd
+VAR910        270  F008 Geslacht 1e (oudste) kind
+VAR911        271  F008 Leeftijd 1e (oudste) kind
+VAR912        272  F009 Geslacht 2e kind
+VAR913        273  F009 Leeftijd 2e kind
+VAR914        274  F010 Geslacht 3e kind
+VAR915        275  F010 Leeftijd 3e kind
+VAR916        276  F011 Geslacht 4e kind
+VAR917        277  F011 Leeftijd 4e kind
+VAR918        278  F012 Geslacht 5e kind
+VAR919        279  F012 Leeftijd 5e kind
+VAR920        280  F013 Geslacht 6e kind
+VAR921        281  F013 Leeftijd 6e kind
+VAR922        282  F014 Geslacht 7e kind
+VAR923        283  F014 Leeftijd 7e kind
+VAR924        284  F015 Geslacht 8e kind
+VAR925        285  F015 Leeftijd 8e kind
+VAR926        286  F016 Geslacht 1e (oudste) ander gezinsld
+VAR927        287  F016 Leeftijd 1e (oudste) ander gezinsld
+VAR928        288  F017 Geslacht 2e ander gezinslid
+VAR929        289  F017 Leeftijd 2e ander gezinslid
+03 Jun 99                                                               Page 129
+09:32:14  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+VAR930A       290  M128 Eigen inkomen: man/vader
+VAR930B       291  M128 Eigen inkomen: vrouw/moeder
+VAR930C       292  M128 Eigen inkomen: kinderen
+VAR930D       293  M128 Eigen inkomen: andere personen
+VAR932        294  M130 Geboorteland
+VAR952        295  M020 Werkloosheid in komende 12 maanden
+VAR953        296  M061 Hoogte bestraffing misdaden in nl
+VAR1031       297  M116 Oordeel over aantal buitenlanders
+VAR1032A      298  M120 Aanwezigheid buitenlanders hinderli
+VAR1033       299  M121 Voorrang buitenlanders bij overheid
+VAR1046A      300  M080 Doel politiek: orde handhaven
+VAR1046B      301  M080 Doel politiek: inspraak burgers
+VAR1046C      302  M080 Doel politiek: prijsstijging stoppn
+VAR1046D      303  M080 Doel politiek: vrije mening bewaken
+VAR1046E      304  M080 Doel politiek: hoge ekon groei
+VAR1046F      305  M080 Doel politiek: sterk leger
+VAR1046G      306  M080 Doel politiek: inspraak werk/woonpl
+VAR1046H      307  M080 Doel politiek: steden verfraaien
+VAR1046I      308  M080 Doel politiek: stabiele economie
+VAR1046J      309  M080 Doel politiek: strijd tegen misdaad
+VAR1046K      310  M080 Doel politiek: persoonlijker samenl
+VAR1046L      311  M080 Doel politiek: idee0n boven geld
+VAR1046M      312  M080 Doel politiek: werkloosheid vermind
+VAR1046N      313  M080 Doel politiek: bestrijden milieu-ve
+VAR1046O      314  M080 Doel politiek: soc zekerh op peil
+VAR1046P      315  M080 Doel politiek: opvang alloch immigr
+VAR1060       316  M008 Terrein waarop opleiding gericht
+VAR1061       317  M018 Aantal uren vrijwilligerswerk p wk
+VAR1062       318  M019 Aantal uren hulp aan zieken per wk
+VAR1076       319  M094 Vrienden kunnen overtuigen belangr
+VAR1077       320  M095 Onder vrienden politiek bespreken
+VAR1082       321  M109 Drukte rond milieu overdreven
+VAR1103       322  M118 Verblijfsvergunning:politieke situa
+VAR1104       323  M118 Verblijfsvergunning:ekon situatie
+VAR1105       324  M118 Verblijfsvergunning:echtgenoot/-gen
+VAR1106       325  M118 Verblijfsvergunning: toekomstige vr
+VAR1129       326  M106 Trein: participatie milieugesprek
+VAR1130       327  M107 Trein: drukte milieu overdreven
+VAR1131       328  M108 Trein: tegenspraak overdrijving
+VAR1145A      329  M122 Cijfer: zorgbeleid
+VAR1145B      330  M122 Cijfer: cultuurbeleid
+VAR1145C      331  M122 Cijfer: beleid op gebied vrije tijd
+VAR1145D      332  M122 Cijfer: beleid alg vorm onderwijs
+VAR1145E      333  M122 Cijfer: beleid beroepsonderwijs
+VAR1145F      334  M122 Cijfer: ordehandhaving
+VAR1145G      335  M122 Cijfer: sociale zekerheid
+VAR1145H      336  M122 Cijfer: werkgelegenheid
+VAR1145I      337  M122 Cijfer: milieubeleid
+VAR1145J      338  M122 Cijfer: beleid kosten levensonderho
+VAR1145K      339  M122 Cijfer: beleid leefbaarheid steden
+VAR1145L      340  M122 Cijfer: beleid opvang buitenlanders
+VAR1146       341  M124 Tevreden met wat de regering doet
+VAR1161       342  M090 Immigranten verrijking voor samenle
+VAR1162A      343  M123 Oordeel: zorgbeleid
+VAR1162B      344  M123 Oordeel: cultuurbeleid
+VAR1162C      345  M123 Oordeel: beleid vrije tijd
+VAR1162D      346  M123 Oordeel: beleid alg vorm onderwijs
+VAR1162E      347  M123 Oordeel: beleid beroepsonderwijs
+VAR1162F      348  M123 Oordeel: ordehandhaving
+03 Jun 99                                                               Page 130
+09:32:14  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+VAR1162G      349  M123 Oordeel: sociale zekerheid
+VAR1162H      350  M123 Oordeel: werkgelegenheid
+VAR1162I      351  M123 Oordeel: milieubeleid
+VAR1162J      352  M123 Oordeel: beleid kosten levensonderh
+VAR1162K      353  M123 Oordeel: beleid leefbaarheid steden
+VAR1162L      354  M123 Oordeel: beleid opvang buitenlander
+VAR1163       355  M125 Nederlandse overheid funktioneert g
+03 Jun 99                                                               Page 131
+09:32:14  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+  19  set listing '18706.stp'.

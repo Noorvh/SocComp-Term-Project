@@ -1,0 +1,6 @@
+dat/p0828.pdf (application/pdf) 1698085 bytes.
+easy-migration.zip (application/zip) 30062 bytes.
+additional-metadata-P0828.xml (text/xml) 2307 bytes.
+dat/p0828.dat (text/x-fixed-field) 1439340 bytes.
+dat/p0828.cmd (application/octet-stream) 112111 bytes.
+dat/p0828.por (application/x-spss-por) 1634256 bytes.

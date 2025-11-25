@@ -1,0 +1,808 @@
+
+  18  display labels.
+15 Aug 97                                                               Page 274
+10:16:09  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+File:     P1290: Culturele Veranderingen in Nederland 1994
+
+            List of variables on the working file
+
+Name     Position  Label
+
+INT001          1  M  4 Aant onderwijsjaren vanaf 6 jaar
+INT004          2  M 17 Aant ondergeschikten
+INT009          3  S-04 Workng hours partner
+INT066          4  S-03 Present or last job
+INT069          5  S-05 Workng wife: warm relation child ok
+INT070          6  S-05 Workng wife: pre-school child suffe
+INT071          7  S-05 Workng wife: familylive suffers
+INT073          8  S-05 Workng wife: wishing home + childre
+INT074          9  S-05 Workng wife: household satisfies to
+INT075         10  S-05 Workng wife: best for independence
+INT076         11  S-06 Workng wife: both contribute income
+INT077         12  S-06 Workng wife: wife only household
+INT079         13  S-07 Workng wife if: married no children
+INT080         14  S-07 Workng wife if: child not to school
+INT081         15  S-07 Workng wife if: youngest to school
+INT082         16  S-07 Workng wife if: children left home
+INT087         17  M 85 Samenlevingsvorm (burg staat)
+INT090         18  S-08 Marriage: happier people
+INT092         19  S-08 Marriage: financial security
+INT093         20  S-08 Marriage: children main purpose
+INT094         21  S-08 Marriage: even bad better th single
+INT095         22  S-08 Marriage: a must if children wanted
+INT100         23  S-09 Ideal number of children
+INT107         24  S-10 Childrn: watching a joy forever
+INT108         25  S-10 Childrn: interfere with freedom
+INT111         26  S-10 Childrn: empty life without
+INT118         27  S-12 You under 14 mother ever working?
+INT119         28  S-15 Did you ever divorce?
+INT121         29  S-17 Cohabit (with) before marriage?
+INT126         30  S-28 Who earns more money
+INT209         31  S-20 Sex before marriage
+INT210         32  S-22 Sex with other than spouse
+INT211         33  S-23 Sex between two adults of same sex
+INT229         34  M 78 Godsbeleving
+INT254         35  S-30 Freq church at age 11-12
+INT255         36  S-31 Freq pray
+INT256         37  M 66 Deelname kerkelijke aktiviteit
+INT257         38  M 79 Religieusheid
+INT263         39  S-11 Important in upbringing children
+INT265         40  M 35 Belangrijkste in nederland
+INT266         41  M 35 Een na belangrijkst in nederland
+INT283         42  M179 Milieubewust: duurdere produkten
+INT284         43  M180 Milieubewust: hogere belastingen
+INT285         44  M181 Milieubewust: minder luxe
+INT286         45  M187 Milieu pers te grote opgave
+INT287         46  M187 Milieu staat bij mij voorop
+INT313         47  M184 Milieuverantwoording bij
+INT318         48  M173 Milieubewust auto laten staan
+INT319         49  M174 Lid milieubeweging?
+INT320         50  M175 Recent milieu-petitie getekend
+INT321         51  M175 Recent geld aan milieubeweging
+INT322         52  M175 Recente steun milieuprotest
+INT359         53  M188 Voor milieu: overheids voorlichting
+15 Aug 97                                                               Page 275
+10:16:09  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+INT360         54  M188 Voor milieu: belast schadelyke prod
+INT361         55  M188 Voor milieu: strenge wetten
+INT366         56  S-05 Workng wife: necessary for living
+INT367         57  S-06 Workng wife: man home not good
+INT368         58  S-06 Workng man: familylive suffers
+INT369         59  S-08 Marriage: single good parent
+INT370         60  S-08 Marriage: not necessary
+INT371         61  S-08 Marriage: proofperiod advisable
+INT372         62  S-08 Marriage: divorce if problems
+INT373         63  S-10 Childrn: couple stay together
+INT374         64  S-10 Childrn: together even without kids
+INT375         65  S-13 Mother still alive?
+INT376         66  S-14 Freq meeting mother
+INT377         67  S-16 Partner ever divorced?
+INT378         68  S-18 Ever cohabit no final marriage
+INT379         69  S-19 Workng wife: payed baby-leave
+INT380         70  S-19 Workng wife: allowance for creche
+INT381         71  S-19 Abortion allowed
+INT382         72  S-21 Sex tolerance between 12-16 yr
+INT383         73  S-24 Happended to sexual intimidation?
+INT384         74  S-26 Who is treasurer
+INT385         75  S-27 Emancipation: do the laundry
+INT386         76  S-27 Emancipation: home-reperations
+INT387         77  S-27 Emancipation: nursery family
+INT388         78  S-27 Emancipation: dayly shopping
+INT389         79  S-27 Emancipation: determine dinner
+INT390         80  S-29 Workhours: married, before kids
+INT391         81  S-29 Workhours: before school kids
+INT392         82  S-29 Workhours: after all at school
+INT393         83  S-29 Workhours: after all from home
+INT394         84  S-29 Workhours prt: married, before kids
+INT395         85  S-29 Workhours prt: before school kids
+INT396         86  S-29 Workhours prt: after all at school
+INT397         87  S-29 Workhours prt: after all from home
+RESPNR         88  M  0 Uniek respondentnummer
+V040           89  M  9 Doet o.p. betaald werk
+V041           90  M 12 Vroeger wel werkkring
+V049           91  M 16 Dienstverband o.p.
+V200           92  M  6 O.p. hoogste diploma avo
+V201           93  M  7 O.p. hoogste diploma beroepsondw
+V202           94  M 11 Eigen maatschappelijke indeling
+VAR000         95  M  0 Eerste of tweede ondervraagde
+VAR001         96  M  1 Sexe respondent
+VAR002         97  M  2 Leeftijd respondent
+VAR003         98  M  3 Burgerlijke staat
+VAR006         99  M  5 Laatst genoten opleiding
+VAR016        100  M 15 Respondent <vroeger> werkzaam als
+VAR020        101  M 20 Frekw bezoek aan fam|kenn afgl 7 dg
+VAR021        102  M 21 Ook bezoek aan buren
+VAR022        103  M 22 Frekw bezoek aan buren afgl 7 dg
+VAR023        104  M 23 Frekw bezoek van fam|kenn afgl 7 dg
+VAR024        105  M 24 Ook bezoek van buren
+VAR025        106  M 25 Frekw bezoek van buren afgl 7 dg
+VAR026        107  M 26 Houding tov andere mensen
+VAR038        108  M132 Ooit 2e kamer-zitting op tv gezien?
+VAR039        109  M133 Interesse politiek tv-programma
+VAR040        110  M138 Regelmaat landelijke politiek lezen
+VAR041        111  M136 Geabonneerd op landelijk dagblad?
+VAR042        112  M137 Abonnement landelijk dagblad
+15 Aug 97                                                               Page 276
+10:16:09  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+VAR042A       113  M137 Abonnement alg. dagblad
+VAR042B       114  M137 Abonnement ned. dagblad
+VAR042C       115  M137 Abonnement nrc-handelsblad
+VAR042D       116  M137 Abonnement het parool
+VAR042E       117  M137 Abonnement reformatorisch dagblad
+VAR042F       118  M137 Abonnement telegraaf
+VAR042G       119  M137 Abonnement trouw
+VAR042H       120  M137 Abonnement volkskrant
+VAR043        121  M139 Regelmaat lezen over eigen woonpl
+VAR058        122  M 28 Heerst er nu in ons land welvaart?
+VAR059        123  M 29 Is gezin welvarend?
+VAR063        124  M 30 Toekomstverw welvaart eig gezin
+VAR064        125  M 31 Regering brengt mij meer welvaart
+VAR065        126  M 34 Komt crisis of blijft welvaart
+VAR096        127  M 36 ++-- overheidsgeld v openb voorzien
+VAR097        128  M 37 Ingr overh.maatr: ieder gelijk kans
+VAR098        129  M 37 Ingr overh.maatr: ink.nivellering
+VAR099        130  M 37 Ingr overh.maatr: bezitnivellering
+VAR100        131  M 38 Overh moet: huiswerkvoorz
+VAR101        132  M 38 Overh moet: studiebeurs zw milieus
+VAR103        133  M 38 Overh moet: goede woning & goedkoop
+VAR107        134  M 38 Overh moet: onderw tot 18e gratis
+VAR109        135  M 38 Overh moet: milieu-verv bestrijden
+VAR110        136  M 38 Overh moet: belasting hogere ink
+VAR114        137  M 38 overh moet: belasting lagere ink
+VAR118        138  M 38 Overh moet: belasting winst en verm
+VAR121        139  M 38 Overh moet: leerplicht tot 18e jaar
+VAR122        140  M 38 Overh moet: meer kunstsubsidies
+VAR124        141  M 38 Overh moet: goedkope creches bouwen
+VAR125        142  M 39 Overheidsuitgaven omhoog of omlaag?
+VAR149        143  M 40 Mate van tevredenheid over inkomen
+VAR150        144  M 41 Oordeel eig ink tov landel ink.verd
+VAR151        145  M 42 Hoogte ink mbt opleiding en praktij
+VAR153        146  M 53 Tevreden met sociale voorzieningen?
+VAR154        147  M 54 Niv algemene ouderdomswet<aow> is
+VAR154A       148  M 54 Niv ziektewet is
+VAR155        149  M 54 Niv algemene bijstandswet is
+VAR156        150  M 54 Niv werkloosheidswet<ww> is
+VAR157        151  M 54 Niv alg weduwen- en wezenwet<aww>
+VAR157A       152  M 54 Niv arb.ongeschiktheidswet<wao,aaw>
+VAR159A       153  M 57 Misbruik ziektewet
+VAR160        154  M 57 Misbruik algemene bijstandswet
+VAR161        155  M 57 Misbruik werkloosheidswet<ww>
+VAR162A       156  M 57 Misbruik arb.ongeschiktheidswet
+VAR164        157  M 60 Hoogte inkomensverschillen
+VAR165        158  M 61 Gewenste inkomensverschillen
+VAR166        159  M 62 Gewenste verschillen in bezit
+VAR198        160  M 63 Geloof waarmee grootgebracht
+VAR201        161  M 66 Kerkgenootschap o.p.
+VAR204        162  M 65 Frekwentie kerkgang
+VAR205        163  M 64 Geloof in leven na de dood
+VAR206        164  M 64 Geloof in bestaan van een hemel?
+VAR207        165  M 64 Geloof in een vagevuur?
+VAR208        166  M 64 Geloof in een hel?
+VAR209        167  M 64 Geloof in een duivel?
+VAR210        168  M 64 Geloof in bestaan van adam en eva?
+VAR211        169  M 64 De bijbel is het woord van god?
+VAR212        170  M 64 Zinnig om voor zichzelf te bidden?
+VAR222        171  M 75 Schoolkeuze l.o. eigen kind
+15 Aug 97                                                               Page 277
+10:16:09  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+VAR223        172  M 76 Verhouding tussen politiek en godsd
+VAR224        173  M 77 Godsd principe: omroepvereniging?
+VAR225        174  M 77 Godsd principe: sportvereniging?
+VAR226        175  M 77 Godsd principe: vakvereniging?
+VAR227        176  M 77 Godsd principe: jeugdvereniging?
+VAR228        177  M 77 Godsd principe: politieke partij?
+VAR274        178  M130 Gaan stemmen bij verkiezing 2e kamr
+VAR275        179  M131 Huidige partijkeuze
+VAR318        180  M147 Mensen als ik geen invloed op reger
+VAR319        181  M147 Minister ed doof voor mensen als ik
+VAR320        182  M147 Kamerl dienen machtige gr ipv alg
+VAR321        183  M147 Verkiezingsbeloften vaak loos
+VAR342        184  M128 Standsverschillen moeten kleiner
+VAR346        185  M128 Roken marihuana-hash streng straffn
+VAR351        186  M128 Doodstr herinvoeren v bep misdaden
+VAR408        187  M148 Aktie tegen onrechtvaardige wet 2e
+VAR409        188  M149 Goedk onrechtv wet -> zitdemonstr
+VAR427        189  M159 Bezorgdheid milieuverontreiniging
+VAR428        190  M160 Bestrijding milieuverontreiniging
+VAR429        191  M161 0 bijdrage bestrijding vervuiling
+VAR433        192  M127 Misdadigers veranderen ipv straffen
+VAR445        193  M127 Sexuele misdadiger proberen genezen
+VAR461        194  M129 Politieke kleur: links - rechts
+VAR462        195  M210 Totaal bruto gezinsinkomen
+VAR491        196  M140 Politieke interesse o.p.
+VAR493        197  M141 Standpunt ooit openbaar vertolkt?
+VAR494        198  M142 Standpunt ooit via krant vertolkt?
+VAR495        199  M143 Recent politieke bijeenk bezocht
+VAR496        200  M144 Recent ingezet v politieke partij
+VAR497        201  M145 Lid van politieke partij
+VAR498        202  M146 Partijlidmaatschap <geweest>
+VAR499        203  M156 Vakbondslid <incl beroepsvere>
+VAR500        204  M157 Aantal jaren vakbondslid
+VAR515        205  M 86 Vrouw met schoolg k werkt naast hh
+VAR516        206  M 87 Vrouw werkt, k moet naar een creche
+VAR517        207  M 90 Scheiding bij echtpaar met kinderen
+VAR519        208  M 92 Echtpaar wil bewust geen kinderen
+VAR520        209  M 91 Ideaal kindertal
+VAR522        210  M 97 Kinderen tutoyeren ouders
+VAR529        211  M 98 Jongen/meisje 18j mogen alles lezen
+VAR530        212  M 99 Wie bepaalt tijdst th.komst d 20 jr
+VAR546        213  M195 Bezwaar tegen buren van ander ras
+VAR548        214  M216 Anderen aanwezig bij vraaggesprek
+VAR550        215  M217 Invloed anderen op vraakgesprek
+VAR567        216  M 43 Verwachting hoogte inkomens
+VAR568        217  M 44 Mate stijging-daling inkomens
+VAR569        218  M 45 Gezien econ situatie moeten inkomen
+VAR570        219  M 46 Mate +- inkomens gezien econ situat
+VAR571        220  M 47 Verwachting sociale uitkeringen
+VAR572        221  M 48 Mate +- sociale uitkeringen
+VAR573        222  M 49 Gezien econ situatie moeten soc uit
+VAR574        223  M 50 Mate +- soc uitk gez econ situatie
+VAR575        224  M 51 Allemaal stap terug in inkomen
+VAR576        225  M 52 Leren leven m minder sociale zekerh
+VAR577        226  M 55 Omvang misbruik soc verz
+VAR578        227  M 56 Kent persoonl geval misbruik soc vz
+VAR592        228  M150 Aktief bij inspraakproc laatste 2 j
+VAR593        229  M128 Sociale uitkeringen in geen geval m
+VAR594        230  M128 Vrouwen voorrang ivm achterstand
+15 Aug 97                                                               Page 278
+10:16:09  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+VAR596        231  M128 Inkomen moet minstens gelijk blijve
+VAR597        232  M155 Recent vakbondsbijeenkomst bezocht?
+VAR598        233  M158 Lid werkgevers- of middenstandsorga
+VAR599        234  M151 Inspanning landelijk,wereldlijk niv
+VAR600        235  M152 Inspanning op gemeentelijk niveau?
+VAR601        236  M134 Abonnement omroepgids
+VAR602        237  M135 Omroep waarvan tien gulden lid
+VAR611        238  M187 Milieuvervuiling neemt toe
+VAR626        239  M  0 Nielsen-distrikt
+VAR627        240  M  0 Cebuco-distrikt
+VAR628        241  M  0 Nodaal gebied
+VAR629        242  M  0 Provincie
+VAR630        243  M  0 Gemeentegrootte
+VAR631        244  M  0 Urbanisatiegraad cbs
+VAR632A       245  M  0 Gemeentenummer cbs
+VAR632B       246  M  0 Econ. geografisch gebied
+VAR632C       247  M  0 Coropgebied
+VAR632E       248  M  0 Wet gemeensch regelingen gebied
+VAR632F       249  M  0 Stedelijkheid: aant adressen/km2
+VAR632G       250  M  0 Stedelijke agglomeratie
+VAR648        251  M 27 Tevredenh met huidig leventje
+VAR683A       252  M189 Priori woning: met gezin
+VAR683B       253  M189 Priori woning: gastarbeider
+VAR683C       254  M189 Priori woning: jongere
+VAR683D       255  M189 Priori woning: surinaams gezin
+VAR683E       256  M189 Priori woning: andere huidskleur
+VAR683F       257  M189 Priori woning: groot gezin
+VAR683G       258  M189 Priori woning: gezin m kinderen
+VAR683H       259  M189 Priori woning: alleenstaande man
+VAR684        260  M211 Samenstelling van het huishouden
+VAR687        261  M114 Verwachting misdadigheid in nederl
+VAR688        262  M115 Mate van af-toename misdadigh in nl
+VAR689        263  M116 Misdaad in nl wordt echt probleem?
+VAR691        264  M117 Afgel jr in omg eigendom vernield
+VAR693        265  M118 Afgel jr in omg eigendom gestolen
+VAR696        266  M119 Afgel jr in omg serieus bedreigd
+VAR698        267  M120 In omg straatterreur
+VAR723        268  M 10 Aantal betaalde arbeidsuren per wk
+VAR725A       269  M109 Alt genezer bez,nl homeopaat
+VAR725B       270  M109 Alt genezer bez,nl acupuncturist
+VAR725C       271  M109 Alt genezer bez,nl kruidendokter
+VAR725F       272  M109 Alt genezer bez,nl osteopaat
+VAR725G       273  M109 Alt genezer bez,nl chiropraktikr
+VAR725H       274  M109 Alt genezer bez,nl gebedsgenezer
+VAR725J       275  M109 Alt genezer bez,nl handoplegger
+VAR725L       276  M109 Alt genezer bez,nl strijker
+VAR725M       277  M109 Alt genezer bez,nl magnetiseur
+VAR725O       278  M109 Alt genezer bez,nl iriscopist
+VAR725P       279  M109 Alt genezer bez,andere
+VAR725Q       280  M109 Alt genezer bez,nl haptonoom
+VAR725R       281  M109 Alt genezer bez afgel 12 mnd
+VAR726        282  M110 Baat bij alternatieve genezer gehad
+VAR727A       283  M111 Goed dat er altern genezers zijn
+VAR727B       284  M111 Alt genezers gevaar voor maatsch
+VAR727C       285  M111 Dankb zijn voor gaven alt genezer
+VAR727D       286  M111 Pol str optreden tegen alt genezer
+VAR727E       287  M111 Alt genezer geen baat geen schaad
+VAR727F       288  M111 Mensen naar alt genezer tegenhouden
+VAR727G       289  M111 Behand alt genezer moet in ziekenf
+15 Aug 97                                                               Page 279
+10:16:10  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+VAR728A       290  M190 Priori ontslag: met gezin
+VAR728B       291  M190 Priori ontslag: buitenlander
+VAR728C       292  M190 Priori ontslag: man
+VAR728D       293  M190 Priori ontslag: surinamer
+VAR728E       294  M190 Priori ontslag: jongere
+VAR728F       295  M190 Priori ontslag: blanke
+VAR729A       296  M191 Priori promotie: met gezin
+VAR729B       297  M191 Priori promotie: buitenlander
+VAR729C       298  M191 Priori promotie: man
+VAR729D       299  M191 Priori promotie: surinamer
+VAR729E       300  M191 Priori promotie: jongere
+VAR729F       301  M191 Priori promotie: blanke
+VAR753        302  M 89 Geh vr werkt man zorgt voor kind
+VAR754        303  M100 Beslissing schoolkeuze na lo
+VAR755        304  M102 Oud kind beslist besteding bijbaan
+VAR758        305  M196 Bezwaar kind gastarb in klas
+VAR759        306  M197 Bezwaar gastarb|surinamer als colle
+VAR760        307  M101 Beslissing opleiding afmaken
+VAR761        308  M103 Instemmng zelfst wonen dochter 17 j
+VAR76301      309  M104 Noodopv. k: in huis halen
+VAR76302      310  M104 Noodopv. k: gezinshulp
+VAR76303      311  M104 Noodopv. k: zelf helpen
+VAR76304      312  M104 Noodopv. k: opvang zoeken
+VAR76305      313  M104 Noodopv. k: familie of kennissen
+VAR76306      314  M104 Noodopv. k: ik verzorg wel
+VAR76307      315  M104 Noodopv. k: maatsch. werk
+VAR76308      316  M104 Noodopv. k: man thuisblijven
+VAR76309      317  M104 Noodopv. k: wijkverpleging
+VAR76310      318  M104 Noodopv. k: sociale dienst
+VAR76311      319  M104 Noodopv. k: kindertehuis
+VAR76312      320  M104 Noodopv. k: man bet. verlof
+VAR76313      321  M104 Noodopv. k: man ziek melden
+VAR76314      322  M104 Noodopv. k: kerkelijke instantie
+VAR76315      323  M104 Noodopv. k: huisarts vragen
+VAR76316      324  M104 Noodopv. k: kindertaak
+VAR76317      325  M104 Noodopv. k: buren kennissen
+VAR76318      326  M104 Noodopv. k: huish w overnemen
+VAR76319      327  M104 Noodopv. k: alg hulp zoeken
+VAR76320      328  M104 Noodopv. k: prof hulp zoeken
+VAR76321      329  M104 Noodopv. k: huish hulp zoeken
+VAR76322      330  M104 Noodopv. k: geen bemoeiing
+VAR76323      331  M104 Noodopv. k: nog anders
+VAR76324      332  M104 Noodopv. k: weet niet
+VAR76401      333  M105 Advies huw.probl: uitpraten
+VAR76402      334  M105 Advies huw.probl: bemiddelen
+VAR76403      335  M105 Advies huw.probl: huwelijksbureau
+VAR76404      336  M105 Advies huw.probl: scheiden
+VAR76405      337  M105 Advies huw.probl: maatsch. werk
+VAR76406      338  M105 Advies huw.probl: tolerantie
+VAR76407      339  M105 Advies huw.probl: deskundige rdpl
+VAR76408      340  M105 Advies huw.probl: gez.moeilijkh.bur
+VAR76409      341  M105 Advies huw.probl: aangewezen bureau
+VAR76410      342  M105 Advies huw.probl: neutraal persoon
+VAR76411      343  M105 Advies huw.probl: tijd uit elkaar
+VAR76412      344  M105 Advies huw.probl: huisarts
+VAR76413      345  M105 Advies huw.probl: psycholoog
+VAR76414      346  M105 Advies huw.probl: kerk. instantie
+VAR76415      347  M105 Advies huw.probl: sociaal raadsman
+VAR76416      348  M105 Advies huw.probl: bidden
+15 Aug 97                                                               Page 280
+10:16:10  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+VAR76417      349  M105 Advies huw.probl: riagg
+VAR76418      350  M105 Advies huw.probl: hulp zoeken
+VAR76419      351  M105 Advies huw.probl: vakantie
+VAR76422      352  M105 Advies huw.probl: geen bemoeienis
+VAR76423      353  M105 Advies huw.probl: anders
+VAR76424      354  M105 Advies huw.probl: weet niet
+VAR76501      355  M106 Advies dochterprbl: dialoog ouders
+VAR76502      356  M106 Advies dochterprbl: zelf praten
+VAR76503      357  M106 Advies dochterprbl: avondklok
+VAR76504      358  M106 Advies dochterprbl: stevige aanpak
+VAR76505      359  M106 Advies dochterprbl: overreding
+VAR76506      360  M106 Advies dochterprbl: gevolgen duiden
+VAR76507      361  M106 Advies dochterprbl: extra aandacht
+VAR76508      362  M106 Advies dochterprbl: bev instantie
+VAR76509      363  M106 Advies dochterprbl: slechterik aanp
+VAR76510      364  M106 Advies dochterprbl: geen aandacht
+VAR76511      365  M106 Advies dochterprbl: andere omgeving
+VAR76512      366  M106 Advies dochterprbl: gz.moeilykh.bur
+VAR76513      367  M106 Advies dochterprbl: maatsch. werk
+VAR76514      368  M106 Advies dochterprbl: meepraten
+VAR76515      369  M106 Advies dochterprbl: med.opv. bureau
+VAR76516      370  M106 Advies dochterprbl: huisarts
+VAR76517      371  M106 Advies dochterprbl: kinderbescherming
+VAR76518      372  M106 Advies dochterprbl: kerk. instantie
+VAR76519      373  M106 Advies dochterprbl: psycholoog
+VAR76520      374  M106 Advies dochterprbl: hulp zoeken
+VAR76521      375  M106 Advies dochterprbl: bidden
+VAR76522      376  M106 Advies dochterprbl: geen bemoeienis
+VAR76523      377  M106 Advies dochterprbl: anders
+VAR76524      378  M106 Advies dochterprbl: weet niet
+VAR76601      379  M107 Advies fin.prbl: sociale zaken
+VAR76602      380  M107 Advies fin.prbl: geld lenen
+VAR76603      381  M107 Advies fin.prbl: bijstandswet
+VAR76604      382  M107 Advies fin.prbl: geld geven
+VAR76605      383  M107 Advies fin.prbl: zelf helpen
+VAR76606      384  M107 Advies fin.prbl: banklening
+VAR76607      385  M107 Advies fin.prbl: familie lening
+VAR76608      386  M107 Advies fin.prbl: ergens lenen
+VAR76609      387  M107 Advies fin.prbl: wasmachine terug
+VAR76610      388  M107 Advies fin.prbl: een instantie
+VAR76611      389  M107 Advies fin.prbl: zal de was doen
+VAR76612      390  M107 Advies fin.prbl: betalingsregeling
+VAR76613      391  M107 Advies fin.prbl: maatsch. werk
+VAR76614      392  M107 Advies fin.prbl: kerk. instantie
+VAR76615      393  M107 Advies fin.prbl: huisarts
+VAR76616      394  M107 Advies fin.prbl: familie schenking
+VAR76617      395  M107 Advies fin.prbl: bezuinigen
+VAR76618      396  M107 Advies fin.prbl: rechtshulpbureau
+VAR76619      397  M107 Advies fin.prbl: voorsch ziektekost
+VAR76620      398  M107 Advies fin.prbl: lenen bij huisarts
+VAR76621      399  M107 Advies fin.prbl: vrouw uit werken
+VAR76622      400  M107 Advies fin.prbl: geen bemoeienis
+VAR76623      401  M107 Advies fin.prbl: anders
+VAR76624      402  M107 Advies fin.prbl: weet niet
+VAR76701      403  M108 Advies bej.bvr: zelf helpen
+VAR76702      404  M108 Advies bej.bvr: gezinshulp
+VAR76703      405  M108 Advies bej.bvr: bejaardenhulp
+VAR76704      406  M108 Advies bej.bvr: huish. hulp zoeken
+VAR76705      407  M108 Advies bej.bvr: bejaardentehuis
+15 Aug 97                                                               Page 281
+10:16:10  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+VAR76706      408  M108 Advies bej.bvr: man inzetten
+VAR76707      409  M108 Advies bej.bvr: wijkverpleging
+VAR76708      410  M108 Advies bej.bvr: maatsch. werk
+VAR76709      411  M108 Advies bej.bvr: fam of burenhulp
+VAR76710      412  M108 Advies bej.bvr: raadpl deskundige
+VAR76711      413  M108 Advies bej.bvr: sociale zaken
+VAR76712      414  M108 Advies bej.bvr: huisarts praten
+VAR76713      415  M108 Advies bej.bvr: burenhulp
+VAR76714      416  M108 Advies bej.bvr: huis aanpassen
+VAR76715      417  M108 Advies bej.bvr: bijstandswet
+VAR76716      418  M108 Advies bej.bvr: kerk. instantie
+VAR76717      419  M108 Advies bej.bvr: hulp zoeken
+VAR76718      420  M108 Advies bej.bvr: tafeltje dekje
+VAR76719      421  M108 Advies bej.bvr: riagg
+VAR76720      422  M108 Advies bej.bvr: kleiner wonen
+VAR76722      423  M108 Advies bej.bvr: geen bemoeienis
+VAR76723      424  M108 Advies bej.bvr: anders
+VAR76724      425  M108 Advies bej.bvr: weet niet
+VAR768        426  M 88 Aanvaardbaarheid kinderopvang
+VAR820        427  M 80 O.p.heeft kinderen jonger dan 21 jr
+VAR830        428  M 82 Voorkeur grondslag l.o.
+VAR831        429  M 83 Voorkeur grondslag v.o.
+VAR832        430  M121 Inbraakangst bij lange afwezigheid
+VAR833        431  M122 Thuis inbraakangst
+VAR834        432  M123 Aant onveilige buurten in gemeente
+VAR835A       433  M124 In donker alleen naar buiten?
+VAR835B       434  M125 Reden in donker niet alleen n buitn
+VAR836        435  M127 Vakbew verantw voor uitk.trekkers
+VAR837        436  M127 Bijverd werkl minderen op uitkering
+VAR838        437  M127 Geen sollicit.pl indien n passend
+VAR844        438  M127 Gelijke verd huish man en vr
+VAR845        439  M127 Zowel m als vr verantw voor huish
+VAR846        440  M127 Bet werk gelijk verd over m en vr
+VAR847        441  M127 Zowel m als vr verantw kinderverz
+VAR848        442  M127 Behandelplicht overh verslaafden
+VAR849        443  M127 Gratis verdovende midd verslaafden
+VAR895        444  M 93 Bewust ongehuwde moeder acceptabel
+VAR896        445  M 94 Samenwonen en kinderen krijgen
+VAR897        446  M 95 Reageerbuisbaby echtpaar acceptabel
+VAR898        447  M 96 Keuze achternaam kind  <pa of ma>
+VAR900A       448  M220 Duur vraaggesprek in minuten
+VAR900B       449  M218 Datum vraaggesprek: maanddag
+VAR900C       450  M218 Datum vraaggesprek: maand
+VAR900E       451  S-32 Tijdsduur vraaggesprek
+VAR900F       452  S-33 Duurde vraaggesprek te lang?
+VAR900G       453  S-34 Geoorloofde tijdsduur vraaggesprek
+VAR900H       454  S-35 Oordeel vraaggesprek
+VAR900J       455  M  0 Nipo enqueteursnummer
+VAR900K       456  M214 Indruk vraaggesprek
+VAR900L       457  M215 Duur vraaggesprek
+VAR900M       458  M219 Tijdstip einde gesprek
+VAR901        459  M  0 Kleur omslag formulier
+VAR902        460  M  0 Aantal bruikbare gesprekken
+VAR903        461  M  0 1e of enige te ondervragen persoon
+VAR904        462  M  0 2e te ondervragen persoon
+VAR905        463  M  0 Reden geen gesprek
+VAR906        464  M  0 Sexe mannelijk gezinshoofd
+VAR907        465  M  0 Leeftijd mannelijk gezinshoofd
+VAR908        466  M  0 Sexe vrouwelijk gezinshoofd
+15 Aug 97                                                               Page 282
+10:16:10  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+VAR909        467  M  0 Leeftijd vrouwelijk gezinshoofd
+VAR910        468  M  0 Sexe oudste kind
+VAR911        469  M  0 Leeftijd oudste kind
+VAR912        470  M  0 Sexe 2e kind
+VAR913        471  M  0 Leeftijd 2e kind
+VAR914        472  M  0 Sexe 3e kind
+VAR915        473  M  0 Leeftijd 3e kind
+VAR916        474  M  0 Sexe 4e kind
+VAR917        475  M  0 Leeftijd 4e kind
+VAR918        476  M  0 Sexe 5e kind
+VAR919        477  M  0 Leeftijd 5e kind
+VAR920        478  M  0 Sexe 6e kind
+VAR921        479  M  0 Leeftijd 6e kind
+VAR922        480  M  0 Sexe 7e kind
+VAR923        481  M  0 Leeftijd 7e kind
+VAR924        482  M  0 Sexe 8e kind
+VAR925        483  M  0 Leeftijd 8e kind
+VAR926        484  M  0 Sexe ander gezinslid <oudste>
+VAR927        485  M  0 Leeftijd ander gezinslid <oudste>
+VAR928        486  M  0 Sexe ander gezinslid
+VAR929        487  M  0 Leeftijd ander gezinslid
+VAR930A       488  M208 Eigen inkomen: man-vader?
+VAR930B       489  M208 Eigen inkomen: vrouw-moeder?
+VAR930C       490  M208 Eigen inkomen: aantal kinderen
+VAR930D       491  M208 Eigen inkomen: aantal anderen
+VAR931        492  M209 Netto gezinsinkomen
+VAR932        493  M212 Geboorteland
+VAR951        494  M 32 Verwachting economie over 12 mnd
+VAR952        495  M 33 Verwachting werkloosheid in 12 mnd
+VAR953        496  M126 Strafmaat in nl voor misdadigers
+VAR1017       497  M128 Vrouwenemancipatie voltooid
+VAR1031       498  M192 Allochtonen: hoeveelheid in nl
+VAR1032A      499  M193 Allochtonen: vr natio hinderlijk
+VAR1032B      500  M193 Allochtonen: vr ras hinderlijk
+VAR1033       501  M194 Allochtonen: soms voorrang job
+VAR1059A      502  M204 Belang voorz: voortgezet onderwijs
+VAR1059B      503  M204 Belang voorz: alg & acad ziekenhs
+VAR1059C      504  M204 Belang voorz: sportzalen en velden
+VAR1059D      505  M204 Belang voorz: gevangenis
+VAR1059E      506  M204 Belang voorz: middelb beroepsonderw
+VAR1059F      507  M204 Belang voorz: alg psych ziekenhuis
+VAR1059G      508  M204 Belang voorz: bibliotheken
+VAR1059H      509  M204 Belang voorz: politie
+VAR1059I      510  M204 Belang voorz: hoger onderwijs
+VAR1059J      511  M204 Belang voorz: kruiswerk + wijkverpl
+VAR1059K      512  M204 Belang voorz: museum
+VAR1059L      513  M204 Belang voorz: bureau rechtshulp
+VAR1059M      514  M204 Belang voorz: speciaal onderwijs
+VAR1059N      515  M204 Belang voorz: gezinsverzorging
+VAR1059O      516  M204 Belang voorz: toneel opera ballet
+VAR1059P      517  M204 Belang voorz: sociale werkplaats
+VAR1059Q      518  M204 Belang voorz: onderwijs volwassenen
+VAR1059R      519  M204 Belang voorz: bejaardenoord
+VAR1059S      520  M204 Belang voorz: club- en buurthuis
+VAR1059T      521  M204 Belang voorz: arbeidsbureau
+VAR1060       522  M  8 O.p. opleidingsrichting
+VAR1061       523  M 18 Aantal uren vrijwilligerswerk
+VAR1062       524  M 19 Aantal uren onbetaalde hulp naasten
+VAR1069       525  M 58 Koppeling soc uitkering aan lonen?
+15 Aug 97                                                               Page 283
+10:16:10  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+VAR1070       526  M 59 Koppeling soc uitk aan prijsindex?
+VAR1076       527  M153 Anderen overtuigen lukt
+VAR1077       528  M154 Frekw politiek gesprek m vrienden
+VAR1079       529  M183 Milieu: nu dreiging v gezondheid
+VAR1086       530  M177 Milieubewust: aankopen
+VAR1087       531  M178 Milieubewust: plastic tas weigeren
+VAR1089       532  M182 Milieu: huidige toestand
+VAR1091       533  M185 Milieu bijdr: industrie
+VAR1092       534  M185 Milieu bijdr: eigen huishouden
+VAR1093       535  M185 Milieu bijdr: landbouw en veeteelt
+VAR1094       536  M185 Milieu bijdr: andere huishoudens
+VAR1095       537  M185 Milieu bijdr: overheid
+VAR1096       538  M186 Milieu animo: industrie
+VAR1097       539  M186 Milieu animo: eigen huishouden
+VAR1098       540  M186 Milieu animo: landbouw en veeteelt
+VAR1099       541  M186 Milieu animo: andere huishoudens
+VAR1100       542  M186 Milieu animo: overheid
+VAR1103       543  M198 Verbl.verg: politiek asiel
+VAR1104       544  M198 Verbl.verg: economische redenen
+VAR1105       545  M198 Verbl.verg: gezinsvereniging
+VAR1106       546  M198 Verbl.verg: import eega v zoon
+VAR1107       547  M 38 Overh moet: vestigingstop buitenl
+VAR1108       548  M 67 Leeftijd afstap kerk
+VAR1109       549  M 68 Betrokken bij rk beweging
+VAR1110       550  M 69 Richting ned herv kerk
+VAR1111       551  M 70 Geloof veel invloed dagelijks leven
+VAR1112       552  M 70 Geloof veel invloed politieke opvat
+VAR1113       553  M 71 Lezen religieuze artikelen
+VAR1114       554  M 72 Lezen religieuze boeken
+VAR1115       555  M 73 Religieus mediaprogramma volgen
+VAR1116       556  M 74 Religieus gesprek voeren
+VAR1117       557  M 81 Inspanning religieuze opvoeding
+VAR1118A      558  M 84 Van gehoord: theosofie
+VAR1118B      559  M 84 Van gehoord: antroposofie
+VAR1118C      560  M 84 Van gehoord: humanisme
+VAR1118D      561  M 84 Van gehoord: vrijmetselarij
+VAR1118E      562  M 84 Van gehoord: jehova's
+VAR1118F      563  M 84 Van gehoord: unified family moon
+VAR1118G      564  M 84 Van gehoord: leger des heils
+VAR1118H      565  M 84 Van gehoord: hare krisjna
+VAR1118I      566  M 84 Van gehoord: pinksterbeweging
+VAR1118J      567  M 84 Van gehoord: spiritisme
+VAR1118K      568  M 84 Van gehoord: transcend meditatie
+VAR1118L      569  M 84 Van gehoord: soefi
+VAR1118M      570  M 84 Van gehoord: mormonen
+VAR1118N      571  M 84 Van gehoord: baghwan/osho/rajmeesh
+VAR1118O      572  M 84 Van gehoord: divine light mission
+VAR1118P      573  M 84 Van gehoord: scientology
+VAR1118Q      574  M 84 Van gehoord: kleine aarde
+VAR1118R      575  M 84 Van gehoord: vrije gedachte
+VAR1118S      576  M 84 Van gehoord: evangelische gem
+VAR1118T      577  M 84 Van gehoord: ov stroming
+VAR1119A      578  M 84 Betrokkenh: theosofie
+VAR1119B      579  M 84 Betrokkenh: antroposofie
+VAR1119C      580  M 84 Betrokkenh: humanisme
+VAR1119D      581  M 84 Betrokkenh: vrijmetselarij
+VAR1119E      582  M 84 Betrokkenh: jehova's
+VAR1119F      583  M 84 Betrokkenh: unified family moon
+VAR1119G      584  M 84 Betrokkenh: leger des heils
+15 Aug 97                                                               Page 284
+10:16:10  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+VAR1119H      585  M 84 Betrokkenh: hare krisjna
+VAR1119I      586  M 84 Betrokkenh: pinksterbeweging
+VAR1119J      587  M 84 Betrokkenh: spiritisme
+VAR1119K      588  M 84 Betrokkenh: transcend meditatie
+VAR1119L      589  M 84 Betrokkenh: soefi
+VAR1119M      590  M 84 Betrokkenh: mormonen
+VAR1119N      591  M 84 Betrokkenh: baghwan/osho/rajmeesh
+VAR1119O      592  M 84 Betrokkenh: divine light mission
+VAR1119P      593  M 84 Betrokkenh: scientology
+VAR1119Q      594  M 84 Betrokkenh: kleine aarde
+VAR1119R      595  M 84 Betrokkenh: vrije gedachte
+VAR1119S      596  M 84 Betrokkenh: evangelische gem
+VAR1119T      597  M 84 Betrokkenh: ov stroming
+VAR1120A      598  M112 Bijgeloof: afkloppen
+VAR1120B      599  M112 Bijgeloof: geluksgetallen
+VAR1120C      600  M112 Bijgeloof: onder ladder lopen
+VAR1120D      601  M112 Bijgeloof: zwarte kat
+VAR1120E      602  M112 Bijgeloof: vijdag 13e
+VAR1120F      603  M112 Bijgeloof: ongeluksgetal 13
+VAR1120G      604  M112 Bijgeloof: hoefijzergeluk
+VAR1120H      605  M112 Bijgeloof: klavertje vier geluk
+VAR1120I      606  M112 Bijgeloof: mascotte, munt
+VAR1121A      607  M113 Geloof in: yoga-leer
+VAR1121B      608  M113 Geloof in: reincarnatie
+VAR1121C      609  M113 Geloof in: astrologie
+VAR1121D      610  M113 Geloof in: ufo's
+VAR1121E      611  M113 Geloof in: parapsychologie
+VAR1121F      612  M113 Geloof in: macrobiotiek
+VAR1121G      613  M113 Geloof in: anthroposofie
+VAR1121H      614  M113 Geloof in: homeopathie
+VAR1121I      615  M113 Geloof in: new-age beweging
+VAR1121J      616  M113 Geloof in: boeddhisme
+VAR1121K      617  M113 Geloof in: zen
+VAR1121L      618  M113 Geloof in: holisme
+VAR1121M      619  M113 Geloof in: handlijnkunde
+VAR1121N      620  M113 Geloof in: telepathie
+VAR1121O      621  M113 Geloof in: spiritisme
+VAR1121P      622  M113 Geloof in: psychometrie
+VAR1121Q      623  M113 Geloof in: pendelen
+VAR1121R      624  M113 Geloof in: tarot
+VAR1121S      625  M113 Geloof in: zwarte magie
+VAR1121T      626  M113 Geloof in: witte magie
+VAR1121U      627  M113 Geloof in: bioritme
+VAR1121V      628  M113 Geloof in: geneeskr edelstenen
+VAR1121W      629  M113 Geloof in: gestaltpsychologie
+VAR1122A      630  M113 Verdiept in: yoga-leer
+VAR1122B      631  M113 Verdiept in: reincarnatie
+VAR1122C      632  M113 Verdiept in: astrologie
+VAR1122D      633  M113 Verdiept in: ufo's
+VAR1122E      634  M113 Verdiept in: parapsychologie
+VAR1122F      635  M113 Verdiept in: macrobiotiek
+VAR1122G      636  M113 Verdiept in: anthroposofie
+VAR1122H      637  M113 Verdiept in: homeopathie
+VAR1122I      638  M113 Verdiept in: new-age beweging
+VAR1122J      639  M113 Verdiept in: boeddhisme
+VAR1122K      640  M113 Verdiept in: zen
+VAR1122L      641  M113 Verdiept in: holisme
+VAR1122M      642  M113 Verdiept in: handlijnkunde
+VAR1122N      643  M113 Verdiept in: telepathie
+15 Aug 97                                                               Page 285
+10:16:10  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+VAR1122O      644  M113 Verdiept in: spiritisme
+VAR1122P      645  M113 Verdiept in: psychometrie
+VAR1122Q      646  M113 Verdiept in: pendelen
+VAR1122R      647  M113 Verdiept in: tarot
+VAR1122S      648  M113 Verdiept in: zwarte magie
+VAR1122T      649  M113 Verdiept in: witte magie
+VAR1122U      650  M113 Verdiept in: bioritme
+VAR1122V      651  M113 Verdiept in: geneeskr edelstenen
+VAR1122W      652  M113 Verdiept in: gestaltpsychologie
+VAR1123A      653  M113 Leeftijd: yoga-leer
+VAR1123B      654  M113 Leeftijd: reincarnatie
+VAR1123C      655  M113 Leeftijd: astrologie
+VAR1123D      656  M113 Leeftijd: ufo's
+VAR1123E      657  M113 Leeftijd: parapsychologie
+VAR1123F      658  M113 Leeftijd: macrobiotiek
+VAR1123G      659  M113 Leeftijd: anthroposofie
+VAR1123H      660  M113 Leeftijd: homeopathie
+VAR1123I      661  M113 Leeftijd: new-age beweging
+VAR1123J      662  M113 Leeftijd: boeddhisme
+VAR1123K      663  M113 Leeftijd: zen
+VAR1123L      664  M113 Leeftijd: holisme
+VAR1123M      665  M113 Leeftijd: handlijnkunde
+VAR1123N      666  M113 Leeftijd: telepathie
+VAR1123O      667  M113 Leeftijd: spiritisme
+VAR1123P      668  M113 Leeftijd: psychometrie
+VAR1123Q      669  M113 Leeftijd: pendelen
+VAR1123R      670  M113 Leeftijd: tarot
+VAR1123S      671  M113 Leeftijd: zwarte magie
+VAR1123T      672  M113 Leeftijd: witte magie
+VAR1123U      673  M113 Leeftijd: bioritme
+VAR1123V      674  M113 Leeftijd: geneeskr edelstenen
+VAR1123W      675  M113 Leeftijd: gestaltpsychologie
+VAR1124A      676  M113 Leidraad: yoga-leer
+VAR1124B      677  M113 Leidraad: reincarnatie
+VAR1124C      678  M113 Leidraad: astrologie
+VAR1124D      679  M113 Leidraad: ufo's
+VAR1124E      680  M113 Leidraad: parapsychologie
+VAR1124F      681  M113 Leidraad: macrobiotiek
+VAR1124G      682  M113 Leidraad: anthroposofie
+VAR1124H      683  M113 Leidraad: homeopathie
+VAR1124I      684  M113 Leidraad: new-age beweging
+VAR1124J      685  M113 Leidraad: boeddhisme
+VAR1124K      686  M113 Leidraad: zen
+VAR1124L      687  M113 Leidraad: holisme
+VAR1124M      688  M113 Leidraad: handlijnkunde
+VAR1124N      689  M113 Leidraad: telepathie
+VAR1124O      690  M113 Leidraad: spiritisme
+VAR1124P      691  M113 Leidraad: psychometrie
+VAR1124Q      692  M113 Leidraad: pendelen
+VAR1124R      693  M113 Leidraad: tarot
+VAR1124S      694  M113 Leidraad: zwarte magie
+VAR1124T      695  M113 Leidraad: witte magie
+VAR1124U      696  M113 Leidraad: bioritme
+VAR1124V      697  M113 Leidraad: geneeskr edelstenen
+VAR1124W      698  M113 Leidraad: gestaltpsychologie
+VAR1125A      699  M162 Afvalvoorziening: groenafval
+VAR1125B      700  M163 Afvalscheiding: groenafval
+VAR1126A      701  M164 Afvalvoorziening: oud papier
+VAR1126B      702  M165 Afvalscheiding: oud papier
+15 Aug 97                                                               Page 286
+10:16:10  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+VAR1127A      703  M166 Afvalvoorziening: glas
+VAR1127B      704  M167 Afvalscheiding: glas
+VAR1128A      705  M168 Afvalvoorziening: chemisch afval
+VAR1128B      706  M169 Afvalscheiding: chemisch afval
+VAR1129       707  M170 Participatie milieugesprek
+VAR1130       708  M171 Drukte over milieu overdreven
+VAR1131       709  M172 Milieuprobleem verkondigen
+VAR1132       710  M176 Sticker ongewenst drukwerk
+VAR1133       711  M183 Nieuwe technologie milieubedreiging
+VAR1134       712  M183 Nieuwe technologie milieuredding
+VAR1135       713  M183 Milieuredding voor werkgelegenheid
+VAR1136       714  M183 Welvaart voor milieu
+VAR1137       715  M183 Milieuredding voor bel.verhoging
+VAR1138       716  M183 Milieuredding voor alg autobezit
+VAR1139       717  M199 Acceptatie asielzoekerscentrum
+VAR1140       718  M200 Acceptatie allochtonen
+VAR1141       719  M201 Buitenlder moet nederlands leren
+VAR1142       720  M201 Buitenlder moet eigen cult loslaten
+VAR1143       721  M202 Integratieniveau buitenlanders
+VAR1144       722  M203 Begrip allochtone buurt verlaten
+VAR1145A      723  M205 Cyfer beleid: zorgsector
+VAR1145B      724  M205 Cyfer beleid: cultuur
+VAR1145C      725  M205 Cyfer beleid: sport
+VAR1145D      726  M205 Cyfer beleid: alg vormend onderwijs
+VAR1145E      727  M205 Cyfer beleid: beroepsonderwijs
+VAR1145F      728  M205 Cyfer beleid: ordehandhaving
+VAR1145G      729  M205 Cyfer beleid: sociale zekerheid
+VAR1145H      730  M205 Cyfer beleid: werkgelegenheid
+VAR1145I      731  M205 Cyfer beleid: milieu
+VAR1146       732  M206 Tevredenheid met regering
+VAR1147A      733  M207 Landsprobleem 1
+VAR1147B      734  M207 Landsprobleem 2
+VAR1147C      735  M207 Landsprobleem 3
+VAR1147D      736  M207 Landsprobleem 4
+VAR1147E      737  M207 Landsprobleem 5
+RC105901      738  M204 Belang voorz: VOORTGEZET ONDERWIJS
+RC105902      739  M204 Belang voorz: ALG EN ACAD ZIEKENHS
+RC105903      740  M204 Belang voorz: SPORTZALEN EN VELDEN
+RC105904      741  M204 Belang voorz: GEVANGENIS
+RC105905      742  M204 Belang voorz: MIDDELB BEROEPSONDERW
+RC105906      743  M204 Belang voorz: ALG PSYCH ZIEKENHUIS
+RC105907      744  M204 Belang voorz: BIBLIOTHEKEN
+RC105908      745  M204 Belang voorz: POLITIE
+RC105909      746  M204 Belang voorz: HOGER ONDERWIJS
+RC105910      747  M204 Belang voorz: KRUISWERK + WIJKVERPL
+RC105911      748  M204 Belang voorz: MUSEUM
+RC105912      749  M204 Belang voorz: BUREAU RECHTSHULP
+RC105913      750  M204 Belang voorz: SPECIAAL ONDERWIJS
+RC105914      751  M204 Belang voorz: GEZINSVERZORGING
+RC105915      752  M204 Belang voorz: TONEEL OPERA BALLET
+RC105916      753  M204 Belang voorz: SOCIALE WERKPLAATS
+RC105917      754  M204 Belang voorz: ONDERWIJS VOLWASSENEN
+RC105918      755  M204 Belang voorz: BEJAARDENOORD
+RC105919      756  M204 Belang voorz: CLUB- EN BUURTHUIS
+RC105920      757  M204 Belang voorz: ARBEIDSBUREAU
+15 Aug 97                                                               Page 287
+10:16:10  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+  19  set listing '6096.stp'.

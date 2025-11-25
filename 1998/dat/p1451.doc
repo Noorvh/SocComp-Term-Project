@@ -1,0 +1,49 @@
+
+  19  display documents.
+05 Jun 03                                                               Page 142
+16:07:29  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P1451: Culturele veranderingen in Nederland 1998
+
+documents
+****************************************************************
+* (Ongelabelde) VAR900 verwijderd: niet van belang volgens SCP *
+* dec. 2000                                                    *
+*                                                              *
+* The labels of VAR539 and VAR540 are corrected:               *
+* 1. Volkomen eens                                             *
+* 2. Gr lijn eens                                              *
+* 3. Eigenlijk niet mee eens                                   *
+* 4. Helemaal niet mee eens                                    *
+* -3. Geen mening                                              *
+*                                                              *
+* They were originally wrongly labelled as:                    *
+* Value labels VAR539 VAR540                                   *
+*  1. Volkomen eens                                            *
+*  2. Gr lijn eens                                             *
+*  3. Noch, noch                                               *
+*  4. Eigenl oneens                                            *
+*  5. Helem oneens                                             *
+*                                                              *
+* The original answer categories were:                         *
+* 1. Volkomen mee eens                                         *
+* 2. In grote lijnen mee eens                                  *
+* 3. Eigenlijk niet mee eens                                   *
+* 4. Helemaal niet mee eens                                    *
+* 5. Geen mening                                               *
+*                                                              *
+* The variable was already recoded by SCP as:                  *
+* 1. Volkomen eens                                             *
+* 2. Gr lijn eens                                              *
+* 3. Eigenlijk niet mee eens                                   *
+* 4. Helemaal niet mee eens                                    *
+* -3. Geen mening                                              *
+* but the value labels had not been corrected.                 *
+*                                                              *
+* HvG 26/3/2002                                                *
+****************************************************************.
+   (Entered 05 JUN 03)
+05 Jun 03                                                               Page 143
+16:07:29  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+  20  set listing 'p1451.lab'.

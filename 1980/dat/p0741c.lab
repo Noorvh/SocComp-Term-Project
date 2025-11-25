@@ -1,0 +1,183 @@
+
+  21  display labels.
+11 Apr 05                                                                Page 46
+15:51:14  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0741C: CULVER1980,Middendorp-schriftelijk
+
+            List of variables on the working file
+
+Name     Position  Label
+
+RESPNR          1
+MDD001          2  Response to drop-off questionnaire MIDDENDORP
+MDD002          3  Amount of talking about social position or class in family
+MDD003          4  Our country needs strong man
+MDD004          5  Coalition preference coming administration (CDA vote-intenti
+MDD005          6  Preferred position PvdA (Labour) in case no CDA-VVD mayority
+MDD006          7  Higher incomes have to sacrifice more than lower ones to sup
+MDD007          8  People nowadays need more law and order than in the past
+MDD008          9  Since increase of student-participation, quality of scientif
+MDD009         10  Difference between left- and rightwing parties in Netherland
+MDD010         11  Government's actions are mostly the best for the country
+MDD011         12  Degree of interest in women's emancipation and feminism
+MDD012         13  Extent to which one keeps informed about social developments
+MDD013         14  Extent to which social developments influence one's own opin
+MDD014         15  My opinions in various matters are: ..(progressive-conservat
+MDD015         16  Left -right rating of: CDA (Christian Democrats)
+MDD016         17  Left -right rating of:  PvdA (Labour Party)
+MDD017         18  Left -right rating of: VVD (+/-Conservatives)
+MDD018         19  Left -right rating of:  D66 (+/-Liberals)
+MDD019         20  Customs and traditions in society are essential for man
+MDD020         21  One should strive for maximum social change to realise ideal
+MDD021         22  Government intervention only leads to bureaucracy and econom
+MDD022         23  Flourishing economy only possible when govenment regulates p
+MDD023         24  Existing social differences are mainly caused by unequal edu
+MDD024         25  The existence of classes and ranks is necessary for the well
+MDD025         26  It's impossible to fight unemployment, maintain purchasing p
+MDD026         27  V16 Man is: good  -  bad
+MDD027         28  V16 Man is: weak  -  strong
+MDD028         29  V16 Man is: equal  -  unequal
+MDD029         30  V16 Man is: wise  -  unwise
+MDD030         31  V16 Man is: complicated  -  simple
+MDD031         32  V16 Man is: dependent  -  independent
+MDD032         33  V16 Man is: determined by natural endowment  - determined by
+MDD033         34  V16 Man is: egoistic  -  altruistic
+MDD034         35  V16 Man is: gentle  -  aggressive
+MDD035         36  V16 Man is: emotional  -  rational
+MDD036         37  V16 Man is: materialistic  -  idealistic
+MDD037         38  Society is a balanced whole. built of various groups
+MDD038         39  Social development is determined by the pursuit of interest
+MDD039         40  Social relationships are determined by the clash of intersts
+MDD040         41  Current society is shaped by and based on the wisdom of our
+MDD041         42  Society consists of groups with antagonistic intersts fighti
+MDD042         43  Social development is determined by the pursuit of personal
+MDD043         44  Current society is based mainly on obsolete ideas
+MDD044         45  Society is made of individuals looking after their personal
+MDD045         46  Social development is an automatic process, following it's o
+MDD046         47  Social relationships are determined by class-conflict
+MDD047         48  Current society is the result of the activities of  individu
+MDD048         49  Societal relationships show a high degree of harmony
+MDD049         50  A better society will not produce better people (vs. yes, it
+MDD050         51  Society should be more in accordance with general principles
+MDD051         52  Social change should be in the hands of wise men (vs. ordina
+MDD052         53  Social change  can be managed (vs. is a natural process not
+11 Apr 05                                                                Page 47
+15:51:14  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+MDD053         54  Social change should be brought about gradually and carefull
+MDD054         55  Social change needs to be brought about in various areas at
+MDD055         56  Social developments should be rerouted in a planned fashion
+MDD056         57  Social change should preserve the many good things in societ
+MDD057         58  Individual rights should be subordinate to the public intere
+MDD058         59  There are universal human rights (vs. human rights should be
+MDD059         60  Social duties should be fulfilled, before one can claim one'
+MDD060         61  Quality of society can be measured by universally valid prin
+MDD061         62  Lawfull public authority should be based on customs and trad
+MDD062         63  Public authority can only be accepted if the people accepts
+MDD063         64  Some countries are not ripe for democracy (vs. democracy fit
+MDD064         65  Important political decisions should be made by the joint po
+MDD065         66  Direct democracy - one man one vote - works specially well i
+MDD066         67  Private property should be abolished as far as it is in soci
+MDD067         68  Differences in income and property are not justified by diff
+MDD068         69  Differences in reward are necessary as stimulus for better p
+MDD069         70  Differences in wealth are due to the domination of the weak
+MDD070         71  Private property is essential for personal freedom (vs. pers
+MDD071         72  Government should intervene as little as possible in natural
+MDD072         73  Governement policy should be radical and energetic (vs. prud
+MDD073         74  Main government task is in socio-economic area (vs. is in mo
+MDD074         75  Government policy should mainly be determined by able and wi
+MDD075         76  Our economic system is in tune with human nature (vs. stimul
+MDD076         77  Government must divert private property to public use if nec
+MDD077         78  Citizens should take care of themselves as much as possible
+MDD078         79  Government care should be as widespread as possible (vs. as
+MDD246         80  Customs and traditions limit personal freedom (vs. customs a
+MDD248         81  Social change only when necessary (vs. social change as much
+MDD250         82  Social change should be oriented towards eradicating obsolet
+MDD252         83  Limiting freedom of enterprise does not lead to loss of othe
+MDD254         84  Much government intervention only leads to bureaucracy and e
+MDD255         85  Government regulation of private initiative is necessary for
+MDD258         86  Government care from cradle to grave leads to deterioration
+MDD260         87  Existing social differences caused by different inborn capab
+MDD261         88  Existence of classes and ranks is unfair (vs.is necessary fo
+MDD262         89  In current society differences in social class are no longer
+MDD263         90  All social groups can live in harmony without changing exist
+MDD264         91  Current distribution of power limits the freedom of many (vs
+MDD409         92  Approval of: sit-demonstrations, mass-gatherings, protest ma
+MDD410         93  Approval of: police arresting participants of demonstrations
+MDD411         94  Approval of: occupation of schools by parents disagreeing wi
+MDD412         95  Approval of: teachers participating in occupations being fir
+MDD413         96  Approval of: unofficial strike against the firing of fellow
+MDD414         97  Approval of: police clearing firms, occupied by strikers
+MDD079         98  V20 Cause current economic crisis: high energy prices
+MDD080         99  V20 Cause current economic crisis: high wages
+MDD081        100  V20 Cause current economic crisis: low productivity
+MDD082        101  V20 Cause current economic crisis: decreasing world trade
+MDD083        102  V20 Cause current economic crisis: high prices of raw materi
+MDD084        103  V20 Cause current economic crisis: too many people living on
+MDD085        104  V20 Cause current economic crisis: low profits
+MDD086        105  V20 Cause current economic crisis: competition of low-wage c
+MDD087        106  V20 Cause current economic crisis: insufficient investments
+MDD088        107  V20 Cause current economic crisis: insufficient willingnes t
+MDD089        108  V20 Cause current economic crisis: most people already have
+MDD090        109  V20 Cause current economic crisis: outdated production metho
+MDD091        110  V20 Cause current economic crisis: high government spending
+MDD092        111  V20 Cause current economic crisis: bad management in firms
+MDD093        112  Compared to 5-10 yrs ago: I think more that people should st
+11 Apr 05                                                                Page 48
+15:51:14  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+MDD094        113  Compared to 5-10 yrs ago: I have a stronger need to pamper m
+MDD095        114  Compared to 5-10 yrs ago: I'm more interested in the problem
+MDD096        115  Compared to 5-10 yrs ago: I'm more after my own interest
+MDD097        116  Compared to 5-10 yrs ago: I care more about others outside m
+MDD098        117  Compared to 5-10 yrs ago: I often more clearly express my op
+MDD099        118  Compared to 5-10 yrs ago: I stand up for myself more often
+MDD100        119  Compared to 5-10 yrs ago: I'm often getting jealous quicker
+MDD101        120  Compared to 5-10 yrs ago: I'm more after satisfying my own n
+MDD102        121  Compared to 5-10 yrs ago: I go my own way more
+MDD103        122  Compared to 5-10 yrs ago: I think more about my financial si
+MDD104        123  Compared to 5-10 yrs ago: I pay more attention to what other
+MDD105        124  Customs and traditions mostly limit people's freedom
+MDD106        125  One should change society only when it has been found to be
+MDD107        126  Large amount of governments interference leads to planning a
+MDD108        127  Private initiative is the motor of a blooming economy
+MDD109        128  Existing soxial differences are mainly due to inborn abiliti
+MDD110        129  Existence of classes and ranks is unjust
+MDD111        130  Evaluation of: pricecontrol by government
+MDD112        131  Evaluation of:sexual freedom
+MDD113        132  Evaluation of: aristocracy
+MDD114        133  Evaluation of: nationalizing big enterprises
+MDD115        134  Evaluation of: demonstrations
+MDD116        135  Evaluation of: equal chances
+MDD117        136  Evaluation of: freedom of speech
+MDD118        137  Evaluation of: private property
+MDD119        138  Evaluation of: government care
+MDD120        139  Evaluation of: capitalism
+MDD121        140  Evaluation of: employee participation
+MDD122        141  Evaluation of: respect for parents
+MDD123        142  Best solution for government to balance the budget
+MDD124        143  Last 5 years change in: freedom of speech
+MDD125        144  Last 5 years change in: employee participation in firms
+MDD126        145  Last 5 years change in: social security
+MDD127        146  Last 5 years change in: women's emancipation
+MDD128        147  Last 5 years change in: tolerance towards homosexuals
+MDD129        148  Last 5 years change in: development aid
+MDD130        149  Last 5 years change in: retaining traditional religion
+MDD131        150  Last 5 years change in: student democracy at universities
+MDD132        151  Last 5 years change in: differences in income and property
+MDD133        152  Last 5 years change in: municipal and regional democracy
+MDD134        153  Last 5 years change in: firmness of unions' policy
+MDD135        154  Last 5 years change in: subsidies for art
+MDD136        155  Government activity last 5 years regarding: raising minimum
+MDD137        156  Government activity last 5 years regarding: controlling pric
+MDD138        157  Government activity last 5 years regarding: reducing differe
+MDD139        158  Government activity last 5 years regarding: controlling busi
+MDD140        159  Government activity last 5 years regarding: starting day-car
+MDD141        160  Government activity last 5 years regarding: building afforda
+MDD142        161  Government activity last 5 years regarding:  creating educta
+MDD143        162  Government policy changes due to van Agt-den Uyl political d
+11 Apr 05                                                                Page 49
+15:51:14  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+  22  set listing '24420.stp'.

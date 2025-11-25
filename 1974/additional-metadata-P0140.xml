@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codebook>
+<docDscr>
+<citation>
+<titlStmt>
+<IDNo><![CDATA[P0140]]></IDNo>
+</titlStmt>
+</citation>
+</docDscr>
+<stdyDescr>
+<citation>
+<titlStmt>
+<titl><![CDATA[-]]></titl>
+<parTitl><![CDATA[-]]></parTitl>
+<IDNo><![CDATA[P0140]]></IDNo>
+</titlStmt>
+<prodStmt>
+<prodPlac><![CDATA[NIWI]]></prodPlac>
+</prodStmt>
+<distStmt>
+<depDate><![CDATA[1974-01-01]]></depDate>
+</distStmt>
+</citation>
+<stdyInfo>
+<sumDscr>
+<timePrd><![CDATA[1974]]></timePrd>
+<timePrd><![CDATA[1974]]></timePrd>
+<timePrd><![CDATA[1974]]></timePrd>
+<collDate><![CDATA[1970-05-01]]></collDate>
+<collDate><![CDATA[1974-06-30]]></collDate>
+<nation><![CDATA[Netherlands]]></nation>
+<anlyUnit><![CDATA[individuals]]></anlyUnit>
+<universe><![CDATA[Age limits: 19 years and older
+Location: national
+Name of country: Netherlands]]></universe>
+<dataKind><![CDATA[survey]]></dataKind>
+<dataKind><![CDATA[Survey]]></dataKind>
+</sumDscr>
+</stdyInfo>
+<method>
+<dataColl>
+<datacollector><![CDATA[Bureau Lagendijk * Apeldoorn]]></datacollector>
+<sampProc><![CDATA[quota-sample: mixture of random and quota. Exact procedures not disclosed by bureau lagendijk  Number of unit original/losses: nr. of cases, unweighed: 800]]></sampProc>
+<collMode><![CDATA[interview]]></collMode>
+<resInstru><![CDATA[structured quest.]]></resInstru>
+<fileDescr>
+<fileTxt>
+<fileName><![CDATA[P0140]]></fileName>
+</fileTxt>
+<dimensns>
+<caseQnty><![CDATA[800]]></caseQnty>
+<varQnty><![CDATA[26]]></varQnty>
+</dimensns>
+<fileType><![CDATA[spss-file labelled]]></fileType>
+<dataChck><![CDATA[complete study stored. Questions about other subjects, by order of other clients of bureau lagendijk, which were asked together with questionsin this study, were not stored * check on total numbers of cards, wild codes eliminated]]></dataChck>
+<verStmt>
+</verStmt>
+</fileDescr>
+</dataColl>
+</method>
+</stdyDescr>
+</codebook>

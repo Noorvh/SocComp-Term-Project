@@ -1,0 +1,596 @@
+->      display documents.
+15 Feb 95 SPSS Release 4.0 for Sun 4                                    Page 404
+11:40:51  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P1108  Culturele Veranderingen in Nederland 1991
+ 
+DOCUMENT        VARNM    VRAAG  VAR LABEL
+                ======   =====  ====================================
+ 
+                AE001     M  0  Mosaic type hh
+                INT001    M 04  Years of education since 6th birthday
+                INT004    M 17  Number of people under guidance
+                INT071    S 11  Fam. life suffers when wife full-time job
+                INT077    S 11  Husband's job earn money, wife's household
+                INT168    S 04  Gov should provide job everyone who wants
+                INT205    S 03  Happy life in general these days
+                INT206    S 04  Gov should reduce income diff rich poor
+                INT207    S 05  Stiffer sentences for whom break the law
+                INT208    S 05  Death penalty for convicts of murder
+                INT209    S 06  Sex between man and woman before marriage
+                INT210    S 07  Sex between married and other than spouse
+                INT211    S 08  Sex between two adults of same sex
+                INT212    S 09  Allow legal abortion if defect in baby
+                INT213    S 09  Allow legal abortion if income is too low
+                INT214    S 10  Abortion if defect in baby
+                INT215    S 10  Abortion if income is too low
+                INT216    S 12  Not reporting all income to pay less taxes
+                INT217    S 12  Giving incorrect info to get gov benefits
+                INT218    S 13  Confidence in government
+                INT219    S 13  Confidence in business and industry
+                INT220    S 13  Confidence in government agencies
+                INT221    S 13  Confidence in churches and religious org
+                INT222    S 13  Confidence in jurisdiction
+                INT223    S 13  Confidence in education
+                INT224    S 14  Politicians not believing in god are unfit
+                INT225    S 14  Rel. leaders should not influence election
+                INT226    S 14  Better when more religious in publ. office
+                INT227    S 14  Rel. leaders should not influence governm
+                INT228    S 15  Power of churches/religious organizations
+                INT229    S 16  Opinion about god
+                INT230    S 17  Close to god most of the time
+                INT231    S 18  Believe in god
+                INT232    S 19  Believe in life after death
+                INT233    S 19  Believe in the devil
+                INT234    S 19  Believe in heaven
+                INT235    S 19  Believe in hell
+                INT236    S 19  Believe in religious miracles
+                INT237    S 20  Opinion about the bible
+                INT238    S 21  God concerns with everybody personally
+                INT239    S 21  Little one can do to change course of life
+                INT240    S 21  Life is meaningful only because god exists
+                INT241    S 21  Life does not serve any purpose
+                INT242    S 21  Course of life is decided by god
+                INT243    S 21  Life meaningful by providing it yourself
+                INT244    S 21  Each makes his own fate
+                INT245    S 22  In touch with someone who had died
+                INT246    S 22  Close force that lift you out of yourself
+                INT247    S 23  Turning point in life made new commitment
+15 Feb 95 SPSS Release 4.0 for Sun 4                                    Page 405
+11:40:51  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+                INT248    S 24  Religious preference mother one was child
+                INT249    S 25  Religious preference father one was child
+                INT250    S 26  Religion raised in
+                INT251    S 27  Religious preference partner
+                INT252    S 28  Mother did attend services one was child
+                INT253    S 29  Father did attend services one was child
+                INT254    S 30  Did attend rel. servives when around 11-12
+                INT255    S 31  Pray
+                INT256    S 32  Take part in activities of church
+                INT257    S 33  Religious
+                INT258    S 34  Daily prayers in all public schools
+                INT259    S 35  Right/wrong should be based on god's laws
+                INT260    S 35  Right/wrong should be decided by society
+                INT261    S 35  Right/wrong should be personal conscience
+                INT262    S 36  Prohibit books/films that attack religions
+                POSCO1    M  0  Postcode cijfers
+                POSCO2
+                RESPNR    M  0  Uniek respondentnummer
+                V040      M  8  Doet o.p. betaald werk
+                V041      M 12  Vroeger wel werkkring
+                V049      M 16  Dienstverband o.p.
+                V200      M  6  O.p. hoogste diploma avo
+                V201      M  7  O.p. hoogste diploma beroepsondw
+                V202      M 10  Eigen maatschappelijke indeling
+                VAR000    M  0  Eerste of tweede ondervraagde
+                VAR001    M  1  Sexe respondent
+                VAR002    M  2  Leeftijd respondent
+                VAR003    M  3  Burgerlijke staat
+                VAR006    M  5  Laatst genoten opleiding
+                VAR016    M 15  Respondent <vroeger> werkzaam als
+                VAR017    M 18  Gezinshoofd <vroeger> werkzaam als
+                VAR038    M145  Ooit 2e kamer-zitting op tv gezien?
+                VAR039    M146  Interesse niet-politieke tv-program
+                VAR040    M147  Regelmaat landelijke politiek lezen
+                VAR043    M156  Regelmaat lezen over eigen woonplaats
+                VAR058    M 30  Heerst op ogenblik in ons land welvaart?
+                VAR059    M 31  Is gezin welvarend?
+                VAR062    M 32  Toekomstverwachting welvaart
+                VAR063    M 33  Toekomstverwachting welvaart eig gezin
+                VAR064    M 34  Regering doet voor welvaartvergroting
+                VAR065    M 37  Komt crisis of blijft welvaart
+                VAR093    M 38  Wenselijkheid andere samenleving
+                VAR096    M 39  ++-- overheidsgeld v openb voorzien
+                VAR097    M 40  Ingr overh.maatr: ieder gelijke kansen
+                VAR098    M 40  Ingr overh.maatr: inkomensnivellering
+                VAR099    M 40  Ingr overh.maatr: bezitnivellering
+                VAR100    M 41  Overh moet: huiswerkvoorz
+                VAR1001   M 72  Minimumloon 23+ omhoog/omlaag
+                VAR1002   M 73  Minimumjeugdloon omhoog/omlaag
+                VAR1003   M 74  Werklhuitk moet lager dan minimumloon
+                VAR1004   M 75  Mate oneigenlijk ziekteverzuim
+                VAR1005   M 76  Mate oneigenlijk arbeidsongeschikt
+                VAR1006   M 77  Aanpak arbeidsongeschiktheid
+                VAR1007   M 78  Arb.ongesch. door werk hogere uitk.
+15 Feb 95 SPSS Release 4.0 for Sun 4                                    Page 406
+11:40:51  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+                VAR1008   M 79  Arb.ongesch. lang gewerkt lang uitk.
+                VAR1009   M 80  Arb.ongesch. lang gewerkt hoger uitk
+                VAR101    M 41  Overh moet: veel meer studiebeurzen
+                VAR1010   M 81  Arb.ongesch. niveau andere baan
+                VAR1011   M 82  Moet bedrijf gehandicapten aannemen
+                VAR1012   M 83  Vut-leeftijd omhoog of omlaag
+                VAR1013   M 84  Vut-uitkering te hoog of te laag
+                VAR1014   M 85  Vut-regeling in eigen sector aanw
+                VAR1015   M 86  Vut-leeftijdsgrens
+                VAR1016   M139  Schooldag langer tbv huiswerk
+                VAR1017   M180  Vrouwenemancipatie verder niet nodig
+                VAR1018   M208  Balans huishoudtaken jongens/meisjes
+                VAR1019   M209  Balans zakgeld jongens/meisjes
+                VAR1020   M214  Transplantatie: acceptatie
+                VAR1021   M215  Transplantatie: reden tegen
+                VAR1022   M216  Transplantatie: toestemregeling
+                VAR1023   M217  Transplantatie: 2e beslisser
+                VAR1024A  M218  Transplantatie: antwoordkaart invullen
+                VAR1024B  M218  Transplantatie: donor bereidheid
+                VAR1024C  M218  Transplantatie: registratiebarriere
+                VAR1025   M219  Transplantatie: voor iedereen
+                VAR1026   M220  Transplantatie: wie uitzonderen
+                VAR1027   M221  Transplantatie: iets uitzonderen
+                VAR1028   M222  Transplantatie: wat uitzonderen
+                VAR1029   M223  Transplantatie: voor onderzoek
+                VAR103    M 41  Overh moet: goede woning & goedkoop
+                VAR1030   M224  Transplantatie: zorgvuldigheid ok
+                VAR1031   M228  Allochtonen: hoeveel in nl
+                VAR1032A  M229  Allochtonen: vr taal hinderlijk
+                VAR1032B  M229  Allochtonen: vr ras hinderlijk
+                VAR1033   M230  Allochtonen: soms voorrang
+                VAR107    M 41  Overh moet: onderw tot 18e gratis
+                VAR109    M 41  Overh moet: milieu-verv bestrijden
+                VAR110    M 41  Overh moet: belasting hogere inkomens
+                VAR112    M 41  Overh moet: defensieuitgaven
+                VAR113    M 41  Overh moet: uitgaven ontwikkelingshulp
+                VAR114    M 41  Overh moet: belasting lagere inkomens
+                VAR118    M 41  Overh moet: belasting winsten en vermoge
+                VAR121    M 41  Overh moet: leerplicht tot 18e jaar
+                VAR122    M 41  Overh moet: meer kunstsubsidies
+                VAR124    M 41  Overh moet: goedkope creches bouwen
+                VAR125    M 42  Overheidsuitgaven omhoog of omlaag?
+                VAR126    M 43  Zorgen hebben
+                VAR127    M 44  Vaak angsten hebben
+                VAR128    M 45  Drukkend gevoel
+                VAR129    M 46  Soms gevoel hebben dat het leven zi
+                VAR130    M 47  Zich soms eenzaam voelen
+                VAR131    M 48  Zich soms zorgen maken over geldzak
+                VAR132    M 48  Zich soms zorgen maken over politie
+                VAR133    M 48  Zich soms zorgen maken over gezondh
+                VAR134    M 48  Zich soms zorgen maken over het gez
+                VAR135    M 48  Bezorgt over de toekomst?
+                VAR149    M 49  Mate van tevredenheid over inkomen
+                VAR150    M 50  Oordeel eig ink tov landel ink.verd
+15 Feb 95 SPSS Release 4.0 for Sun 4                                    Page 407
+11:40:52  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+                VAR151    M 51  Hoogte ink mbt opleiding en praktij
+                VAR152    M 52  Gedachte over een maximum-inkomensgrens
+                VAR154    M 59  De algemene ouderdomswet<aow> is
+                VAR154A   M 59  De ziektewet is
+                VAR155    M 59  De algemene bijstandswet is
+                VAR156    M 59  De werkloosheidswet<ww> is
+                VAR157    M 59  De alg weduwen- en wezenwet<aww>
+                VAR157A   M 59  Arbeidsongeschiktheidswet<wao,aaw>
+                VAR159A   M 61  Misbruik ziektewet
+                VAR160    M 61  Misbruik algemene bijstandswet
+                VAR161    M 61  Misbruik werkloosheidswet<ww>
+                VAR162A   M 61  Misbruik arb.ongeschiktheidswet<wao,aaw>
+                VAR164    M 87  Hoogte inkomensverschillen
+                VAR165    M 88  Gewenste inkomensverschillen
+                VAR166    M 89  Gewenste verschillen in bezit
+                VAR167    M 90  Gewenste inspraak arbeider in bedr
+                VAR168    M 91  Zeggenschap in personeelsbeleid
+                VAR169    M 92  Zeggenschap besteding kosten en opbrengs
+                VAR170    M 93  Winstdeling werknemers
+                VAR171    M 95  Recht op financ stabiliteit v ink
+                VAR175    M 97  Gelijke kansen v universitaire studie
+                VAR176    M 94  Voldoende kans op geschikte baan krijgen
+                VAR179    M 96  Vrijheid tot demonstreren?
+                VAR180    M 96  Vrijheid tot kritiek op koningshuis
+                VAR181    M 96  Vrijheid tot staken voor loonsverho
+                VAR182    M 96  Vrijheid tot weigering militaire di
+                VAR183    M 96  Vrijheid tot bezetting van gebouwen
+                VAR184    M 96  Vrijheid tot publiceren wat men wil
+                VAR185    M 96  Vrijheid tot verkondigen wat men wi
+                VAR198    M105  Geloof waarmee opgevoed
+                VAR201    M110  Kerkgenootschap o.p.
+                VAR204    M109  Frekwentie kerkgang
+                VAR205    M107  Geloof in leven na de dood
+                VAR206    M107  Geloof in bestaan van een hemel?
+                VAR207    M107  Geloof in een vagevuur?
+                VAR208    M107  Geloof in een hel?
+                VAR209    M107  Geloof in een duivel?
+                VAR210    M107  Geloof in het bestaan van adam en eva?
+                VAR211    M107  De bijbel is het woord van god?
+                VAR212    M107  Zinnig om voor zichzelf te bidden?
+                VAR213    M108  Na dit leven komt alles in orde
+                VAR214    M108  Huidige maatsch conform gods wil!
+                VAR215    M108  Zonde blokkeert betere maatschappij!
+                VAR216    M108  Beslissingen aan god overlaten!
+                VAR217    M111  Acceptatie dochter trouwt andersgelovige
+                VAR218    M112  Acceptatie kind kiest ander geloof
+                VAR219    M113  Acceptatie kind niet gelovig
+                VAR220    M114  Strengheid kerkelijke voorschriften
+                VAR221    M115  Zich houden aan alle voorschriften kerk
+                VAR222    M116  Schoolkeuze l.o. eigen kind
+                VAR223    M117  Verhouding tussen politiek en godsd
+                VAR224    M118  Godsd principe: omroepvereniging?
+                VAR225    M118  Godsd principe: sportvereniging?
+                VAR226    M118  Godsd principe: vakvereniging?
+15 Feb 95 SPSS Release 4.0 for Sun 4                                    Page 408
+11:40:52  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+                VAR227    M118  Godsd principe: jeugdvereniging?
+                VAR228    M118  Godsd principe: politieke partij?
+                VAR229    M120  Allerbelangrijkst in het leven
+                VAR271    M140  Inspraak studenten op bestuur univ
+                VAR272    M140  Inspraak leerl midd scholen en p.a.
+                VAR273    M140  Inspraak burgers bestuur gem|prov
+                VAR274    M142  Gaan stemmen bij verkiezing 2e kamr
+                VAR275    M143  Huidige partijkeuze
+                VAR318    M152  Mensen als ik geen invloed op reger
+                VAR319    M152  Minister ed doof voor mensen als ik
+                VAR320    M152  Kamerl dienen machtige gr ipv alg
+                VAR321    M152  Komt weinig van verkiezingsbelofte
+                VAR342    M180  Standsverschillen moeten kleiner
+                VAR346    M180  Roken van marihuana-hash streng straffen
+                VAR347    M180  Abortus mogelijk als vrouw dit wenst
+                VAR351    M180  Doodstraf weer invoeren v bep misdaden
+                VAR353    M180  Voor eig bestwil teenagers doen ouders z
+                VAR354    M180  Belangrijkste v ouder is alg gehoorz kin
+                VAR355    M180  Vanzelfspr kinderen respect-eerbied oude
+                VAR357    M180  Vrouw geschikter v opvoeding klein kind
+                VAR358    M180  Vrouw leiding over man is onnatuurlijk
+                VAR359    M180  Goede schoolopl meisje minder belangrijk
+                VAR360    M180  Jongens kun je iha wat vrijer opvoeden
+                VAR363    M175  Oordeel huidige maatschappij
+                VAR364    M176  Verwachting betere maatschappij in nl
+                VAR365    M177  Positie mogelyk slechter in toekomst?
+                VAR366    M178  Verwachting financ zorgeloze oude dag?
+                VAR367    M179  Eigen indeling sociale klasse o.p.
+                VAR402    M180  De politie doet haar werk uitstekend
+                VAR403    M180  Overheid werkt zuinig genoeg
+                VAR404    M180  Overheid behandelt ons respectvol
+                VAR405    M180  Overheid te bemoeizuchtig
+                VAR406    M164  Hoogte van de belastingen
+                VAR407    M165  Redeijkheid loon- en inkomensbelasting
+                VAR408    M166  Aktie tegen onrechtvaardige wet 2e
+                VAR409    M167  Goedk onrechtv wet -> zitdemonstr
+                VAR410    M167  Goedk arrestatie demonstranten
+                VAR411    M167  Meer leerl p klas -> schoolbezetting
+                VAR412    M167  Bezettende onderwijzers ontslaan
+                VAR413    M167  Wilde staking bij ontslag aantal werkn
+                VAR414    M167  Politieontruiming van bezet bedrijf
+                VAR426    M173  Opl probleem van lucht- en watervervuili
+                VAR427    M171  Bezorgdheid over milieuverontreiniging
+                VAR428    M172  Bestrijding van milieuverontreiniging
+                VAR430    M139  Twee soorten mensen: sterken en zwakken
+                VAR431    M139  Meest mensen vallen tegen bij beter kenn
+                VAR433    M139  Misdadigers veranderen ipv straffen
+                VAR434    M139  Jong in opstand-ouder erbij neerleggen
+                VAR437    M139  Oplos soc probl verwijdering zwakke-misd
+                VAR439    M139  Behoefte aan sterke leiders
+                VAR445    M139  Sexuele misdadigers proberen te genezen
+                VAR446    M139  Vele opvattingen over goed en slecht
+                VAR454    M139  Verschil in omgangsvormen schept soc afs
+                VAR456    M139  Toename van inbreuk op privacy
+15 Feb 95 SPSS Release 4.0 for Sun 4                                    Page 409
+11:40:52  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+                VAR461    M141  Politieke kleur: links - rechts
+                VAR462    M236  Totaal bruto gezinsinkomen
+                VAR491    M144  Politieke interesse o.p.
+                VAR493    M154  Standpunt ooit openbaar verdedigt?
+                VAR494    M155  Standpunt ooit via krant verdedigt?
+                VAR495    M148  Recent politieke bijeenkomst bezoch
+                VAR496    M149  Recent ingezet v politieke partij
+                VAR497    M150  Lid <geweest> politieke partij
+                VAR498    M151  Partij waarvan men lid is <geweest>
+                VAR499    M161  Vakbondslid <incl beroepsvere>
+                VAR500    M162  Aantal jaren dat men vakbondslid is
+                VAR501    M174  Beweringen over ontwikkelingshulp
+                VAR503    M182  Getrouwd gelukkiger dan ongetrouwd
+                VAR504    M183  Meeste huwelijken leiden tot teleurstell
+                VAR505    M183  Beter minder goed huwelijk dan ongehuwd
+                VAR506    M183  Tegenwoordig minder goede huwelijken
+                VAR507    M183  Meeste huwelijken worden een sleur
+                VAR508    M183  Langer getrouwd meer waardering v elkaar
+                VAR515    M184  Vrouw met schoolg kind werkt naast huish
+                VAR516    M185  Vrouw werkt, kind moet naar een creche
+                VAR517    M188  Scheiding bij echtpaar met kinderen
+                VAR519    M190  Echtpaar wil bewust geen kinderen
+                VAR520    M189  Ideaal kindertal
+                VAR522    M195  Kinderen spreken ouders met jij aan
+                VAR529    M196  Jongen en meisje 18jr mogen alles lezen
+                VAR530    M197  Wie bepaalt tijdst th.komst dochter v 20
+                VAR531    M198  Meisje kan ook jongen ten huwelijk vrage
+                VAR532    M199  Ontrouw in huwelijk betekent:
+                VAR533    M200  Avontuurtje van een getrouwde man
+                VAR534    M202  Geslachtsverkeer tussen mens die wil tro
+                VAR539    M210  Meisje geslachtsverk veel voelt voor jon
+                VAR540    M210  Meisje geslachtsverk wein voelt voor jon
+                VAR542    M210  Enkel avont kan voor huwelijk geen kwaad
+                VAR544    M181  Euthanasie op verzoek dmv een spuitje
+                VAR545    M212  Homosexuelen zoveel mogelijk vrijlaten
+                VAR546    M231  Bezwaar tegen buren van ander ras
+                VAR547    M153  Politiek is mannenaangelegenheid
+                VAR555    M 41  Overh moet: werkn bet verlof aanvul onde
+                VAR556    M 41  Overh moet: meer subsidies op hoge huren
+                VAR557    M 41  Overh moet: werkgel voor elk gehuwde vro
+                VAR558    M 41  Overh moet: meer subsidie onderw ouderen
+                VAR559    M 41  Overh moet: goed en betaalb huisv jonger
+                VAR560    M 41  Overh moet: aangepast onderw kind buiten
+                VAR567    M 53  Verwachting hoogte inkomens
+                VAR569    M 54  Gezien econ situatie moeten inkomen
+                VAR571    M 55  Verwachting sociale uitkeringen
+                VAR573    M 56  Gezien econ situatie moeten soc uit
+                VAR575    M 57  Met ons inkomen allemaal stap terug
+                VAR576    M 58  Leren leven met minder sociale zeke
+                VAR577    M 60  Hoev mensen misbruik soc verzekeringen
+                VAR579A   M 62  Stelen in een winkel
+                VAR579B   M 62  Drank-sig meesmokkelen als toerist
+                VAR579C   M 62  Onterecht profiteren van soc verzekering
+                VAR579D   M 62  Zwart geld verdienen
+15 Feb 95 SPSS Release 4.0 for Sun 4                                    Page 410
+11:40:52  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+                VAR579E   M 62  Onterecht als werknemer ziek melden
+                VAR579F   M 62  Onterecht werkloosheidsuitkering innen
+                VAR579G   M 62  Winkeliers met vals geld betalen
+                VAR579H   M 62  Bezittingen collega op het werk stelen
+                VAR579I   M 62  Proberen gratis te reizen met de trein
+                VAR579J   M 62  Lenen aan behoeftigen met zeer hoge rent
+                VAR580    M 63  Onterechte uitkering werkloosheid
+                VAR581    M 63  Onterechte uitkering arbeidsongeschikthe
+                VAR582    M 63  Onterechte uitkering bijstandswet
+                VAR583    M 64  Men raakt gewend aan geld zonder werken
+                VAR588    M 65  Tolerantie vrijw.werk door werkeloz
+                VAR589A   M119  Katholieken in doen en laten vrijlaten
+                VAR589B   M119  Protestanten in doen en laten vrijlaten
+                VAR589C   M119  Mohammedanen in doen en laten vrijlaten
+                VAR589D   M119  Jehova's in doen en laten vrijlaten
+                VAR589E   M119  Humanisten in doen en laten vrijlaten
+                VAR589F   M119  Diverse groepen in doen en laten vrij
+                VAR591    M140  Inspraak ouders in schoolzaken
+                VAR592    M157  Aktief bij inspraakproc laatste 2 j
+                VAR593    M180  Sociale uitkeringen in geen geval m
+                VAR594    M180  Vrouwen voorrang vanwege achterstand
+                VAR595    M180  Rechter behandelt ieder onbevooroordeeld
+                VAR596    M180  Inkomen moet minstens gelijk blijve
+                VAR597    M160  Recent vakbondsbijeenkomst bezocht?
+                VAR598    M163  Lid werkgevers- of middenstandsorga
+                VAR599    M158  Inspanning landelijk,wereldlijk niv
+                VAR600    M159  Inspanning op gemeentelijk niveau?
+                VAR601    M 28  Omroepgids waarop geabonneerd
+                VAR602    M 29   omroep waarvan tientjeslid
+                VAR603    M 41  Overh moet: onbet verlof tbv verz kind
+                VAR604    M102  Beleid -a kennis -b ontplooiing
+                VAR605    M102  Beleid -a praktijkger -b vrije tijd ger
+                VAR606    M102  Beleid -a categoraal -b extra aandacht
+                VAR607    M139  Schoolvak korter tbv beter onderwijs
+                VAR608    M139  Ouders laten kinderen te vrij
+                VAR609    M139  School eist te weinig v kinderen
+                VAR610    M106  Opvatting over god en dergelijke
+                VAR626    M  0  Nielsen-distrikt
+                VAR627    M  0  Cebuco-distrikt
+                VAR628    M  0  Nodaal gebied
+                VAR629    M  0  Provincie
+                VAR630    M  0  Gemeentegrootte
+                VAR631    M  0  Urbanisatiegraad cbs
+                VAR632A   M  0  Gemeentenummer cbs
+                VAR632B   M  0  Econ. geografisch gebied
+                VAR632C   M  0  Coropgebied
+                VAR632D   M  0  Postcodegebied
+                VAR633    M  0  Wijkkode
+                VAR634    M167  Staken bij verlagen sociale uitkeringen
+                VAR635    M167  Woningzoekenden kraken leegstaand pand
+                VAR636    M167  Met geweld ontruimen van gekraakt pand
+                VAR637    M167  Blokkade door mensen bang v kernenergie
+                VAR638    M167  Op last burgerm demomstranten verwijderd
+                VAR641    M 22  Genoeg geleerd voor dagelijks werk
+15 Feb 95 SPSS Release 4.0 for Sun 4                                    Page 411
+11:40:52  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+                VAR642    M 23  Noodzakelijke dingen geleerd v dag. werk
+                VAR647    M 20  Respondent is wel-geen huisvrouw?
+                VAR648    M 26  Tevredenh met het leven op het ogenblik
+                VAR677    M168  Kans op confrontatie met energieproblem
+                VAR678    M169  Zelf energiebesparende maatr genomen?
+                VAR682    M180  Overh dw maatreg ivm energiebesparing
+                VAR683A   M225  Priori woning: met gezin
+                VAR683B   M225  Priori woning: gastarbeider
+                VAR683C   M225  Priori woning: jongere
+                VAR683D   M225  Priori woning: surinaams gezin
+                VAR683E   M225  Priori woning: andere huidskleur
+                VAR683F   M225  Priori woning: groot gezin
+                VAR683G   M225  Priori woning: gezin m kinderen
+                VAR683H   M225  Priori woning: alleenstaande man
+                VAR684    M237  Samenstelling van het huishouden
+                VAR687    M121  Verwachting misdadigheid in nederland
+                VAR688    M122  Mate van af-toename misdadigheid in nl
+                VAR689    M123  Misdaad in nl wordt echt probleem?
+                VAR691    M124  Afgelopen jaar is eigendom vernield
+                VAR692    M125  Hoe vaak is eigendom vernield
+                VAR693    M126  Algelopen jaar is iets gestolen
+                VAR694    M127  Hoe vaak is minder dan f 200,= gestolen
+                VAR695    M128  Hoe vaak is meer dan f 200,= gestolen
+                VAR696    M129  Afgelopen jaar serieus bedreigd-aangeval
+                VAR697    M130  Hoe vaak is bedreigd-aangevallen
+                VAR698    M131  Mensen in buurt door ander lastiggevalle
+                VAR699A   M137  Alt straf voor inbraak
+                VAR699B   M137  Alt straf voor vandalisme
+                VAR699C   M137  Alt straf voor wwuitk.fraude
+                VAR699D   M137  Alt straf voor letsel toebrengen
+                VAR699E   M137  Alt straf voor belastingontduiking
+                VAR699F   M137  Alt straf voor aanranding
+                VAR703    M 68  Verschil arbeidsinkomen en soc uitk
+                VAR704    M 69  Koers verschil arb.ink en soc uitk
+                VAR705    M 70  Rechtvrdhd koers arb.ink - soc uitk
+                VAR706    M 71  Kans op verzet van uitkeringstrekke
+                VAR722    M 11  Aantal maanden werkloos
+                VAR723    M  9  Aantal betaalde arbeidsuren per wk
+                VAR725    M 25  Bereidh onbetaald uur nablijven
+                VAR728A   M226  Priori ontslag: met gezin
+                VAR728B   M226  Priori ontslag: buitenlander
+                VAR728C   M226  Priori ontslag: man
+                VAR728D   M226  Priori ontslag: surinamer
+                VAR728E   M226  Priori ontslag: jongere
+                VAR728F   M226  Priori ontslag: blanke
+                VAR729A   M227  Priori promotie: met gezin
+                VAR729B   M227  Priori promotie: buitenlander
+                VAR729C   M227  Priori promotie: man
+                VAR729D   M227  Priori promotie: surinamer
+                VAR729E   M227  Priori promotie: jongere
+                VAR729F   M227  Priori promotie: blanke
+                VAR746    M211  Samenwonen als voorbereiding huwelijk
+                VAR747    M211  Ongehuwd samenwonen zonder bedoel trouwe
+                VAR748    M211  Commune
+15 Feb 95 SPSS Release 4.0 for Sun 4                                    Page 412
+11:40:52  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+                VAR749    M211  Centraal wonen
+                VAR750    M211  Samenwonen homosexueel of lesbisch paar
+                VAR751    M211  Als alleenstaande wonen
+                VAR752    M211  Duurzame rel tussen ongeh afzond wonend
+                VAR753    M187  Gehuwde vrouw werken man zorgt voor kind
+                VAR754    M203  Kind beslist over verdere schoolkeuze
+                VAR755    M205  Ouder kind bepaalt besteding bijbaan
+                VAR756    M201  Avontuurtje van een getrouwde vrouw
+                VAR757A   M213  Homo's gelijk recht woonruimte
+                VAR757B   M213  Homo's gelijk recht adoptiekinderen
+                VAR757C   M213  Homo's gelijk recht op erven van elkaar
+                VAR758    M232  Bezwaar kind gastarb bij eigen k in
+                VAR759    M233  Bezwaar gastarb|surinamer als colle
+                VAR760    M204  Kind beslist om opl. af te maken
+                VAR761    M206  Instemming zelfst wonen dochter 17 jr
+                VAR762    M207  Instemming zelfst wonen zoon 17 jr
+                VAR768    M186  Aanvaardbaarheid kinderopvang
+                VAR778    M 24  Blijven werken na miljoen uit loterij?
+                VAR805    M 21  Houd. huisvr tav werkkring buitenshuis
+                VAR806    M 27  Grote werklust na vrij weekend
+                VAR807    M 27  Weinig werklust na vrij weekend
+                VAR808    M 27  Indirekt: wie niet werkt zal niet eten
+                VAR813    M 66  Tolerantie vrijw.werk door wao-er
+                VAR814    M 67  Gaat partner werken zodra hkw werkl
+                VAR819    M 98  Gelijke kansen studie ouderen
+                VAR820    M 99  O.p.heeft kinderen jonger dan 21 jaar?
+                VAR821A   M100  Motief keuze lo: bereikbaarheid
+                VAR821B   M100  Motief keuze lo: oudercontact
+                VAR821C   M100  Motief keuze lo: aansl voortgez ondw
+                VAR821D   M100  Motief keuze lo: modern gebouw
+                VAR821E   M100  Motief keuze lo: vriendjes in de buurt
+                VAR821F   M100  Motief keuze lo: eig levensovertuiging
+                VAR821G   M100  Motief keuze lo: overblijfgelegenheid
+                VAR821H   M100  Motief keuze lo: extra activiteiten
+                VAR821I   M100  Motief keuze lo: aand creatieve vakken
+                VAR821J   M100  Motief keuze lo: opvoedk ideeen
+                VAR821K   M100  Motief keuze lo: havo/vwo stroom
+                VAR822A   M101  Motief keuze vo: bereikbaarheid
+                VAR822B   M101  Motief keuze vo: oudercontact
+                VAR822C   M101  Motief keuze vo: vakkenpakket
+                VAR822D   M101  Motief keuze vo: modern gebouw
+                VAR822E   M101  Motief keuze vo: vriendjes in de buurt
+                VAR822F   M101  Motief keuze vo: eig levensovertuiging
+                VAR822G   M101  Motief keuze vo: niet te groot
+                VAR822H   M101  Motief keuze vo: extra activiteiten
+                VAR822I   M101  Motief keuze vo: aand creatieve vakken
+                VAR822J   M101  Motief keuze vo: opvoedk ideeen
+                VAR823    M102  Beleid -a inspraak  -b deskundigen
+                VAR825    M102  Uitg.p -a versch godsd -b eigen godsdien
+                VAR827    M102  Samenst groepen -a homogeen -b heterogee
+                VAR828    M102  Vo -a veel schoolsrt -b kleine school
+                VAR829    M102  Nadruk -a vakkennis -b pedagogisch
+                VAR830    M103  Voorkeur grondslag l.o.
+                VAR831    M104  Voorkeur grondslag v.o.
+15 Feb 95 SPSS Release 4.0 for Sun 4                                    Page 413
+11:40:52  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+                VAR832    M132  Angst voor inbraak bij lange afwezigheid
+                VAR833    M133  Hoevaak thuis met angst voor inbraak
+                VAR834    M134  Aantal onveilige buurten in gemeente
+                VAR835A   M135  In donker alleen naar buiten?
+                VAR835B   M136  Reden in donker niet alleen naar buiten
+                VAR836    M139  Vakbew verantw voor uitk.trekkers
+                VAR837    M139  Bijverd werkl minderen op uitkering
+                VAR838    M139  Geen sollicit.pl indien n passend
+                VAR842    M139  Als m en vr werken meer bel betalen d nu
+                VAR843    M139  Soc uitk afh ink uit arbeid partner
+                VAR844    M139  Gelijke verd huish man en vr
+                VAR845    M139  Zowel m als vr verantw voor huish
+                VAR846    M139  Betaald werk gelijk verd over m en vr
+                VAR847    M139  Zowel m als vr verantw voor kinderverz
+                VAR848    M139  Behandelplicht verslaafden door overh
+                VAR849    M139  Gratis verdovende midd voor verslaafden
+                VAR850    M180  Pornografie beledigend voor vrouwen
+                VAR872    M170  Wanneer is de energie op
+                VAR895    M191  Bewust ongehuwde moeder acceptabel
+                VAR896    M192  Samenwonen en kinderen krijgen
+                VAR897    M193  Reageerbuisbaby bij echtpaar acceptabel
+                VAR898    M194  Keuze achternaam kind <pa of ma>
+                VAR900A   M240  Duur vraaggesprek in minuten
+                VAR900B   M239  Datum vraaggesprek: maanddag
+                VAR900C   M239  Datum vraaggesprek: maand
+                VAR900D   M241  Bereidheid schriftelijk deel
+                VAR900E   S 37  Tijdsduur vraaggesprek
+                VAR900F   S 38  Duurde vraaggesprek te lang?
+                VAR900G   S 39  Geoorloofde tijdsduur vraaggesprek
+                VAR900H   S 40  Oordeel vraaggesprek
+                VAR900J   M  0  Nipo enqueteursnummer
+                VAR901    M  0  Kleur omslag formulier
+                VAR902    M  0  Aantal bruikbare gesprekken
+                VAR903    M  0  1e of enige te ondervragen persoon
+                VAR904    M  0  2e te ondervragen persoon
+                VAR905    M  0  Reden geen gesprek
+                VAR906    M  0  Sexe mannelijk gezinshoofd
+                VAR907    M  0  Leeftijd mannelijk gezinshoofd
+                VAR908    M  0  Sexe vrouwelijk gezinshoofd
+                VAR909    M  0  Leeftijd vrouwelijk gezinshoofd
+                VAR910    M  0  Sexe oudste kind
+                VAR911    M  0  Leeftijd oudste kind
+                VAR912    M  0  Sexe 2e kind
+                VAR913    M  0  Leeftijd 2e kind
+                VAR914    M  0  Sexe 3e kind
+                VAR915    M  0  Leeftijd 3e kind
+                VAR916    M  0  Sexe 4e kind
+                VAR917    M  0  Leeftijd 4e kind
+                VAR918    M  0  Sexe 5e kind
+                VAR919    M  0  Leeftijd 5e kind
+                VAR920    M  0  Sexe 6e kind
+                VAR921    M  0  Leeftijd 6e kind
+                VAR922    M  0  Sexe 7e kind
+                VAR923    M  0  Leeftijd 7e kind
+15 Feb 95 SPSS Release 4.0 for Sun 4                                    Page 414
+11:40:52  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+                VAR924    M  0  Sexe 8e kind
+                VAR925    M  0  Leeftijd 8e kind
+                VAR926    M  0  Sexe ander gezinslid <oudste>
+                VAR927    M  0  Leeftijd ander gezinslid <oudste>
+                VAR928    M  0  Sexe ander gezinslid
+                VAR929    M  0  Leeftijd ander gezinslid
+                VAR930A   M234  Eigen inkomen: man-vader?
+                VAR930B   M234  Eigen inkomen: vrouw-moeder?
+                VAR930C   M234  Eigen inkomen: aantal kinderen
+                VAR930D   M234  Eigen inkomen: aantal anderen
+                VAR931    M235  Netto gezinsinkomen
+                VAR951    M 35  Verwachting economie over 12 mnd
+                VAR952    M 36  Verwachting werkloosheid in 12 mnd
+                VAR953    M138  Strafmaat in nl voor misdadigers
+ 
+ 
+ 
+   (Entered 13 Nov 92)
+15 Feb 95 SPSS Release 4.0 for Sun 4                                    Page 415
+11:40:52  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+->      set listing 'p1108.frq'.

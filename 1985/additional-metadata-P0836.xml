@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codebook>
+<docDscr>
+<citation>
+<titlStmt>
+<IDNo><![CDATA[P0836]]></IDNo>
+</titlStmt>
+</citation>
+</docDscr>
+<stdyDescr>
+<citation>
+<titlStmt>
+<titl><![CDATA[-]]></titl>
+<parTitl><![CDATA[-]]></parTitl>
+<IDNo><![CDATA[P0836]]></IDNo>
+</titlStmt>
+<prodStmt>
+<prodPlac><![CDATA[NIWI]]></prodPlac>
+</prodStmt>
+<distStmt>
+<depDate><![CDATA[1986-01-01]]></depDate>
+</distStmt>
+</citation>
+<stdyInfo>
+<sumDscr>
+<timePrd><![CDATA[1985]]></timePrd>
+<timePrd><![CDATA[1985]]></timePrd>
+<timePrd><![CDATA[1985]]></timePrd>
+<collDate><![CDATA[1985-01-01]]></collDate>
+<collDate><![CDATA[1985-02-28]]></collDate>
+<nation><![CDATA[Netherlands]]></nation>
+<anlyUnit><![CDATA[individuals]]></anlyUnit>
+<universe><![CDATA[Age limits: 16-74 years
+Location: national
+Name of country: Netherlands]]></universe>
+<dataKind><![CDATA[survey]]></dataKind>
+<dataKind><![CDATA[Survey Continuous Longitudinal]]></dataKind>
+</sumDscr>
+</stdyInfo>
+<method>
+<dataColl>
+<timeMeth><![CDATA[longitudinal]]></timeMeth>
+<datacollector><![CDATA[Nederlands instituut voor de publieke opinie en het marktonderzoek, NIPO * Amsterdam]]></datacollector>
+<frequenc><![CDATA[other repeated]]></frequenc>
+<sampProc><![CDATA[multi stage cluster sample: first stage sampling of municipalities / next stage selection of addresses from population register of dwellings / per address a cluster of three other addresses was determined and at these three addresses the respondent was selected  Number of unit original/losses: nr. of cases: 1966]]></sampProc>
+<collMode><![CDATA[interview]]></collMode>
+<resInstru><![CDATA[structured quest.]]></resInstru>
+<collSitu><![CDATA[duration of interview / other reasons of no-interview]]></collSitu>
+<actMin><![CDATA[follow up visits 2, then substitution by next address]]></actMin>
+<weight><![CDATA[no weighting]]></weight>
+<fileDescr>
+<fileTxt>
+<fileName><![CDATA[P0836]]></fileName>
+</fileTxt>
+<dimensns>
+<caseQnty><![CDATA[1966]]></caseQnty>
+<varQnty><![CDATA[473]]></varQnty>
+</dimensns>
+<fileType><![CDATA[spss-file labelled]]></fileType>
+<dataChck><![CDATA[complete study stored]]></dataChck>
+<verStmt>
+</verStmt>
+</fileDescr>
+</dataColl>
+</method>
+</stdyDescr>
+</codebook>

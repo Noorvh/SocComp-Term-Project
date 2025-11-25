@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codebook>
+<docDscr>
+<citation>
+<titlStmt>
+<IDNo><![CDATA[P1052]]></IDNo>
+</titlStmt>
+</citation>
+</docDscr>
+<stdyDescr>
+<citation>
+<titlStmt>
+<titl><![CDATA[-]]></titl>
+<parTitl><![CDATA[-]]></parTitl>
+<IDNo><![CDATA[P1052]]></IDNo>
+</titlStmt>
+<prodStmt>
+<prodPlac><![CDATA[NIWI]]></prodPlac>
+</prodStmt>
+<distStmt>
+<depDate><![CDATA[1991-01-01]]></depDate>
+</distStmt>
+</citation>
+<stdyInfo>
+<sumDscr>
+<timePrd><![CDATA[1989]]></timePrd>
+<timePrd><![CDATA[1989]]></timePrd>
+<timePrd><![CDATA[1989]]></timePrd>
+<collDate><![CDATA[1989-08-01]]></collDate>
+<collDate><![CDATA[1989-11-30]]></collDate>
+<nation><![CDATA[Netherlands]]></nation>
+<geoUnit><![CDATA[International]]></geoUnit>
+<anlyUnit><![CDATA[individuals]]></anlyUnit>
+<universe><![CDATA[Age limits: 16 years and older
+Location: national
+Name of country: Netherlands]]></universe>
+<dataKind><![CDATA[survey]]></dataKind>
+<dataKind><![CDATA[Survey Continuous International]]></dataKind>
+</sumDscr>
+</stdyInfo>
+<method>
+<dataColl>
+<datacollector><![CDATA[Nederlands instituut voor de publieke opinie en het marktonderzoek, NIPO * Amsterdam]]></datacollector>
+<frequenc><![CDATA[other repeated]]></frequenc>
+<sampProc><![CDATA[multi-stage sample: first stage: sampling of municipalities, stratification by number of households in minicipalities;: second stage: selection of addresses;: third stage: individuals  Number of unit original/losses: nr. of cases: 2008]]></sampProc>
+<collMode><![CDATA[interview]]></collMode>
+<resInstru><![CDATA[structured quest.]]></resInstru>
+<collSitu><![CDATA[duration of interview * appreciation of interview]]></collSitu>
+<actMin><![CDATA[gift: voucher of dfl.10.-]]></actMin>
+<weight><![CDATA[no weighting]]></weight>
+<fileDescr>
+<fileTxt>
+<fileName><![CDATA[P1052]]></fileName>
+</fileTxt>
+<dimensns>
+<caseQnty><![CDATA[2008]]></caseQnty>
+<varQnty><![CDATA[583]]></varQnty>
+</dimensns>
+<fileType><![CDATA[spss-file labelled]]></fileType>
+<verStmt>
+</verStmt>
+</fileDescr>
+</dataColl>
+</method>
+</stdyDescr>
+</codebook>

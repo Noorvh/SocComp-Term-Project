@@ -1,0 +1,1110 @@
+
+  17  display dictionary.
+21 Apr 04                                                                 Page 3
+13:19:09  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+            List of variables on the working file
+
+Name                                                                   Position
+
+WEGINGZ                                                                       1
+          Print Format: F1
+          Write Format: F1
+
+INT001    YEARS OF EDUCATION SINCE 6TH BIRTHDAY                               2
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+INT002    OCCUPATION <PRESENT OR LAST ONE>                                    3
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  NO ANSWER
+             -5 M  NEVER HAD OCC
+              1    MANAGER 10+
+              2    MANAGER 9-
+              3    PROFESSIONAL
+              4    FARMER
+              5    HIGHER EMPLOYEE
+              6    INTERMEDIATE EMP
+              7    LOWER EMPLOYEE
+              8    SKILLED LABOUR
+              9    UNSKILLED LABOUR
+
+INT003    OCCUPATIONAL STATUS                                                 4
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  NO ANSWER
+             -5 M  NEVER HAD OCC
+              1    SELF EMPLOYED
+              2    EMPL CIVIL SERV
+              3    OTHER EMPLOYEE
+
+INT004    NUMBER OF PEOPLE UNDER GUIDANCE                                     5
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+21 Apr 04                                                                 Page 4
+13:19:09  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT005    OCCUPATION FATHER <PRESENT OR LAST ONE>                             6
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  NO ANSWER
+             -5 M  NEVER HAD OCC
+              1    MANAGER 10+
+              2    MANAGER 9-
+              3    PROFESSIONAL
+              4    FARMER
+              5    HIGHER EMPLOYEE
+              6    INTERMEDIATE EMP
+              7    LOWER EMPLOYEE
+              8    SKILLED LABOUR
+              9    UNSKILLED LABOUR
+
+INT006    OCCUPATIONAL STATUS FATHER                                          7
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  NO ANSWER
+             -5 M  NEVER HAD OCC
+              1    SELF EMPLOYED
+              2    EMPL CIVIL SERV
+              3    OTHER EMPLOYEE
+
+INT007    NUMBER OF PEOPLE UNDER GUIDANCE FATHER                              8
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+INT008    EDUCATION PARTNER                                                   9
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  NO ANSWER
+             -5 M  NO PARTNER
+              1    ELEMENTARY
+              2    LOWER VOCATIONAL
+              3    ADVANCED ELEM
+              4    INTERMEDIATE VOC
+              5    SECONDARY
+              6    HIGHER VOC
+              7    UNIVERSITY
+
+21 Apr 04                                                                 Page 5
+13:19:09  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT009    PAID WORKING-HOURS PARTNER                                         10
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+INT010    GETTING AHEAD: FROM WEALTHY FAMILY                                 11
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  NO ANSWER
+             -3 M  DON'T KNOW
+              1    ESSENTIAL
+              2    VERY IMPORTANT
+              3    FAIRLY IMPORTANT
+              4    NOT VERY IMPORT
+              5    NOT IMPOR AT ALL
+
+INT011    GETTING AHEAD: WELL EDUCATED PARENTS                               12
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  NO ANSWER
+             -3 M  DON'T KNOW
+              1    ESSENTIAL
+              2    VERY IMPORTANT
+              3    FAIRLY IMPORTANT
+              4    NOT VERY IMPORT
+              5    NOT IMPOR AT ALL
+
+INT012    GETTING AHEAD: GOOD EDUCATION                                      13
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  NO ANSWER
+             -3 M  DON'T KNOW
+              1    ESSENTIAL
+              2    VERY IMPORTANT
+              3    FAIRLY IMPORTANT
+              4    NOT VERY IMPORT
+              5    NOT IMPOR AT ALL
+
+21 Apr 04                                                                 Page 6
+13:19:09  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT013    GETTING AHEAD: AMBITION                                            14
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  NO ANSWER
+             -3 M  DON'T KNOW
+              1    ESSENTIAL
+              2    VERY IMPORTANT
+              3    FAIRLY IMPORTANT
+              4    NOT VERY IMPORT
+              5    NOT IMPOR AT ALL
+
+INT014    GETTING AHEAD: TALENT                                              15
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  NO ANSWER
+             -3 M  DON'T KNOW
+              1    ESSENTIAL
+              2    VERY IMPORTANT
+              3    FAIRLY IMPORTANT
+              4    NOT VERY IMPORT
+              5    NOT IMPOR AT ALL
+
+INT015    GETTING AHEAD: HARD WORK                                           16
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  NO ANSWER
+             -3 M  DON'T KNOW
+              1    ESSENTIAL
+              2    VERY IMPORTANT
+              3    FAIRLY IMPORTANT
+              4    NOT VERY IMPORT
+              5    NOT IMPOR AT ALL
+
+21 Apr 04                                                                 Page 7
+13:19:09  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT016    GETTING AHEAD: KNOWING THE RIGHT PEOPLE                            17
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  NO ANSWER
+             -3 M  DON'T KNOW
+              1    ESSENTIAL
+              2    VERY IMPORTANT
+              3    FAIRLY IMPORTANT
+              4    NOT VERY IMPORT
+              5    NOT IMPOR AT ALL
+
+INT017    GETTING AHEAD: RELATIONS IN POLITICS                               18
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  NO ANSWER
+             -3 M  DON'T KNOW
+              1    ESSENTIAL
+              2    VERY IMPORTANT
+              3    FAIRLY IMPORTANT
+              4    NOT VERY IMPORT
+              5    NOT IMPOR AT ALL
+
+INT018    GETTING AHEAD: MATTERS LIKE RACE OR COLO                           19
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  NO ANSWER
+             -3 M  DON'T KNOW
+              1    ESSENTIAL
+              2    VERY IMPORTANT
+              3    FAIRLY IMPORTANT
+              4    NOT VERY IMPORT
+              5    NOT IMPOR AT ALL
+
+21 Apr 04                                                                 Page 8
+13:19:09  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT019    GETTING AHEAD: RELIGION                                            20
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  NO ANSWER
+             -3 M  DON'T KNOW
+              1    ESSENTIAL
+              2    VERY IMPORTANT
+              3    FAIRLY IMPORTANT
+              4    NOT VERY IMPORT
+              5    NOT IMPOR AT ALL
+
+INT020    GETTING AHEAD: REGION COMING FROM                                  21
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  NO ANSWER
+             -3 M  DON'T KNOW
+              1    ESSENTIAL
+              2    VERY IMPORTANT
+              3    FAIRLY IMPORTANT
+              4    NOT VERY IMPORT
+              5    NOT IMPOR AT ALL
+
+INT021    GETTING AHEAD: BEING A MAN OR A WOMAN                              22
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  NO ANSWER
+             -3 M  DON'T KNOW
+              1    ESSENTIAL
+              2    VERY IMPORTANT
+              3    FAIRLY IMPORTANT
+              4    NOT VERY IMPORT
+              5    NOT IMPOR AT ALL
+
+21 Apr 04                                                                 Page 9
+13:19:09  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT022    GETTING AHEAD: POLITICAL BELIEFS                                   23
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  NO ANSWER
+             -3 M  DON'T KNOW
+              1    ESSENTIAL
+              2    VERY IMPORTANT
+              3    FAIRLY IMPORTANT
+              4    NOT VERY IMPORT
+              5    NOT IMPOR AT ALL
+
+INT023    GOOD CHANCE IMPROVING STANDARD OF LIVING                           24
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  NO ANSWER
+             -3 M  DON'T KNOW
+              1    STRONGLY AGREE
+              2    AGREE
+              3    NEITHER A OR D
+              4    DISAGREE
+              5    STRONGLY DISAGR
+
+INT024    LARGE DIFF IN PAY NECESSARY TO WORK HARD                           25
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  NO ANSWER
+             -3 M  DON'T KNOW
+              1    ABSOLUTELY
+              2    PROBABLY
+              3    PROBABLY NOT
+              4    DEFINITELY NOT
+
+21 Apr 04                                                                Page 10
+13:19:09  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT025    NO EXTRA RESPONSABILITY UNLESS EXTRA PAI                           26
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  NO ANSWER
+             -3 M  DON'T KNOW
+              1    STRONGLY AGREE
+              2    AGREE
+              3    NEITHER A OR D
+              4    DISAGREE
+              5    STRONGLY DISAGR
+
+INT026    NO EXTRA GUALIFICATIONS UNLESS EXTRA PAI                           27
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  NO ANSWER
+             -3 M  DON'T KNOW
+              1    STRONGLY AGREE
+              2    AGREE
+              3    NEITHER A OR D
+              4    DISAGREE
+              5    STRONGLY DISAGR
+
+INT027    INEQUALITY REMAINS: BENEFITS RICH!POWERF                           28
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  NO ANSWER
+             -3 M  DON'T KNOW
+              1    STRONGLY AGREE
+              2    AGREE
+              3    NEITHER A OR D
+              4    DISAGREE
+              5    STRONGLY DISAGR
+
+21 Apr 04                                                                Page 11
+13:19:09  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT028    NO LONG STUDY UNLESS EARNING A LOT MORE                            29
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  NO ANSWER
+             -3 M  DON'T KNOW
+              1    STRONGLY AGREE
+              2    AGREE
+              3    NEITHER A OR D
+              4    DISAGREE
+              5    STRONGLY DISAGR
+
+INT029    LARGE DIFF IN INCOME NECESSARY FOR PROSP                           30
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  NO ANSWER
+             -3 M  DON'T KNOW
+              1    STRONGLY AGREE
+              2    AGREE
+              3    NEITHER A OR D
+              4    DISAGREE
+              5    STRONGLY DISAGR
+
+INT030    ALLOW PROFIT TO IMPROVE STANDARD OF LIVI                           31
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  NO ANSWER
+             -3 M  DON'T KNOW
+              1    STRONGLY AGREE
+              2    AGREE
+              3    NEITHER A OR D
+              4    DISAGREE
+              5    STRONGLY DISAGR
+
+21 Apr 04                                                                Page 12
+13:19:09  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT031    INEQUALITY REMAINS: P DON'T JOIN TOGETHE                           32
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  NO ANSWER
+             -3 M  DON'T KNOW
+              1    STRONGLY AGREE
+              2    AGREE
+              3    NEITHER A OR D
+              4    DISAGREE
+              5    STRONGLY DISAGR
+
+INT032A   BRICKLAYER ACTUALLY EARNS                                          33
+          Print Format: F3
+          Write Format: F3
+          Missing Values: -9 thru -1
+
+INT032B   BRICKLAYER SHOULD EARN                                             34
+          Print Format: F3
+          Write Format: F3
+          Missing Values: -9 thru -1
+
+INT033A   DOCTOR IN GENERAL PRACTICE ACTUALLY EARN                           35
+          Print Format: F3
+          Write Format: F3
+          Missing Values: -9 thru -1
+
+INT033B   DOCTOR IN GENERAL PRACTICE SHOULD EARN                             36
+          Print Format: F3
+          Write Format: F3
+          Missing Values: -9 thru -1
+
+INT034A   BANK CLERK ACTUALLY EARNS                                          37
+          Print Format: F3
+          Write Format: F3
+          Missing Values: -9 thru -1
+
+INT034B   BANK CLERK SHOULD EARN                                             38
+          Print Format: F3
+          Write Format: F3
+          Missing Values: -9 thru -1
+
+INT035A   OWNER SMALL SHOP ACTUALLY EARNS                                    39
+          Print Format: F3
+          Write Format: F3
+          Missing Values: -9 thru -1
+
+INT035B   OWNER SMALL SHOP SHOULD EARN                                       40
+          Print Format: F3
+          Write Format: F3
+          Missing Values: -9 thru -1
+
+21 Apr 04                                                                Page 13
+13:19:09  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT036A   MANAGER LARGE DUTCH CO ACTUALLY EARNS                              41
+          Print Format: F3
+          Write Format: F3
+          Missing Values: -9 thru -1
+
+INT036B   MANAGER LARGE DUTCH CO SHOULD EARN                                 42
+          Print Format: F3
+          Write Format: F3
+          Missing Values: -9 thru -1
+
+INT037A   SKILLED FACTORY-WORKER ACTUALLY EARNS                              43
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+INT037B   SKILLED FACTORY-WORKER SHOULD EARN                                 44
+          Print Format: F3
+          Write Format: F3
+          Missing Values: -9 thru -1
+
+INT038A   FARMER ACTUALLY EARNS                                              45
+          Print Format: F3
+          Write Format: F3
+          Missing Values: -9 thru -1
+
+INT038B   FARMER SHOULD EARN                                                 46
+          Print Format: F3
+          Write Format: F3
+          Missing Values: -9 thru -1
+
+INT039A   SECRETARY ACTUALLY EARNS                                           47
+          Print Format: F3
+          Write Format: F3
+          Missing Values: -9 thru -1
+
+INT039B   SECRETARY SHOULD EARN                                              48
+          Print Format: F3
+          Write Format: F3
+          Missing Values: -9 thru -1
+
+INT040A   BUS DRIVER ACTUALLY EARNS                                          49
+          Print Format: F3
+          Write Format: F3
+          Missing Values: -9 thru -1
+
+INT040B   BUS DRIVER SHOULD EARN                                             50
+          Print Format: F3
+          Write Format: F3
+          Missing Values: -9 thru -1
+
+INT041A   UNSKILLED FACTORY-WORKER ACTUALLY EARNS                            51
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+21 Apr 04                                                                Page 14
+13:19:09  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT041B   UNSKILLED FACTORY-WORKER SHOULD EARN                               52
+          Print Format: F3
+          Write Format: F3
+          Missing Values: -9 thru -1
+
+INT042A   MINISTER ACTUALLY EARNS                                            53
+          Print Format: F3
+          Write Format: F3
+          Missing Values: -9 thru -1
+
+INT042B   MINISTER SHOULD EARN                                               54
+          Print Format: F3
+          Write Format: F3
+          Missing Values: -9 thru -1
+
+INT043    DIFFERENCES IN INCOME ARE TOO BIG                                  55
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+             -6 M  NO ANSWER
+             -3 M  DON'T KNOW
+              1    STRONGLY AGREE
+              2    AGREE
+              3    NEITHER A OR D
+              4    DISAGREE
+              5    STRONGLY DISAGR
+
+INT044    GOV SHOULD: REDUCE DIFFERENCES IN INCOME                           56
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  NO ANSWER
+             -3 M  DON'T KNOW
+              1    STRONGLY AGREE
+              2    AGREE
+              3    NEITHER A OR D
+              4    DISAGREE
+              5    STRONGLY DISAGR
+
+21 Apr 04                                                                Page 15
+13:19:09  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT045    GOV SHOULD: MORE HIGHER EDUC POOR CHILDR                           57
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  NO ANSWER
+             -3 M  DON'T KNOW
+              1    STRONGLY AGREE
+              2    AGREE
+              3    NEITHER A OR D
+              4    DISAGREE
+              5    STRONGLY DISAGR
+
+INT046    GOV SHOULD: JOB FOR EVERY WILLING WORKER                           58
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  NO ANSWER
+             -3 M  DON'T KNOW
+              1    STRONGLY AGREE
+              2    AGREE
+              3    NEITHER A OR D
+              4    DISAGREE
+              5    STRONGLY DISAGR
+
+INT047    GOV SHOULD: LESS SOC SECURITY UNEMPLOYED                           59
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  NO ANSWER
+             -3 M  DON'T KNOW
+              1    STRONGLY AGREE
+              2    AGREE
+              3    NEITHER A OR D
+              4    DISAGREE
+              5    STRONGLY DISAGR
+
+21 Apr 04                                                                Page 16
+13:19:09  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT048    GOV SHOULD: DECENT ST OF LIVING UNEMPLOY                           60
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  NO ANSWER
+             -3 M  DON'T KNOW
+              1    STRONGLY AGREE
+              2    AGREE
+              3    NEITHER A OR D
+              4    DISAGREE
+              5    STRONGLY DISAGR
+
+INT049    GOV SHOULD: EVERYONE MINIMUM BASIC INCOM                           61
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  NO ANSWER
+             -3 M  DON'T KNOW
+              1    STRONGLY AGREE
+              2    AGREE
+              3    NEITHER A OR D
+              4    DISAGREE
+              5    STRONGLY DISAGR
+
+INT050    TAXES FOR THOSE WITH HIGH INCOMES                                  62
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  NO ANSWER
+             -3 M  DON'T KNOW
+              1    MUCH TOO HIGH
+              2    TOO HIGH
+              3    ABOUT RIGHT
+              4    TOO LOW
+              5    MUCH TOO LOW
+
+21 Apr 04                                                                Page 17
+13:19:09  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT051    TAXES FOR THOSE WITH MIDDLE INCOMES                                63
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  NO ANSWER
+             -3 M  DON'T KNOW
+              1    MUCH TOO HIGH
+              2    TOO HIGH
+              3    ABOUT RIGHT
+              4    TOO LOW
+              5    MUCH TOO LOW
+
+INT052    TAXES FOR THOSE WITH LOW INCOMES                                   64
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  NO ANSWER
+             -3 M  DON'T KNOW
+              1    MUCH TOO HIGH
+              2    TOO HIGH
+              3    ABOUT RIGHT
+              4    TOO LOW
+              5    MUCH TOO LOW
+
+INT053    SHARE OF INCOME IN TAX HIGH VS LOW INCOM                           65
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  NO ANSWER
+             -3 M  DON'T KNOW
+              1    MUCH LARGER
+              2    LARGER
+              3    SAME SHARE
+              4    SMALLER
+              5    MUCH SMALLER
+
+21 Apr 04                                                                Page 18
+13:19:09  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT054    CONTRAST: POOR PEOPLE AND RICH PEOPLE                              66
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  NO ANSWER
+             -3 M  DON'T KNOW
+              1    VERY LARGE
+              2    LARGE
+              3    NOT VERY LARGE
+              4    NOT LARGE AT ALL
+
+INT055    CONTRAST: WORKING CLASS AND MIDDLE CLASS                           67
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  NO ANSWER
+             -3 M  DON'T KNOW
+              1    VERY LARGE
+              2    LARGE
+              3    NOT VERY LARGE
+              4    NOT LARGE AT ALL
+
+INT056    CONTRAST: UNEMPLOYED AND PEOPLE WITH JOB                           68
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  NO ANSWER
+             -3 M  DON'T KNOW
+              1    VERY LARGE
+              2    LARGE
+              3    NOT VERY LARGE
+              4    NOT LARGE AT ALL
+
+INT057    CONTRAST: EMPLOYERS AND EMPLOYED                                   69
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  NO ANSWER
+             -3 M  DON'T KNOW
+              1    VERY LARGE
+              2    LARGE
+              3    NOT VERY LARGE
+              4    NOT LARGE AT ALL
+
+21 Apr 04                                                                Page 19
+13:19:09  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT058    CONTRAST: COUNTRYPEOPLE AND TOWNSPEOPLE                            70
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  NO ANSWER
+             -3 M  DON'T KNOW
+              1    VERY LARGE
+              2    LARGE
+              3    NOT VERY LARGE
+              4    NOT LARGE AT ALL
+
+INT059    CONTRAST: YOUNG PEOPLE AND OLDER PEOPLE                            71
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  NO ANSWER
+             -3 M  DON'T KNOW
+              1    VERY LARGE
+              2    LARGE
+              3    NOT VERY LARGE
+              4    NOT LARGE AT ALL
+
+INT060    RUNG OF SOCIAL LADDER                                              72
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  NO ANSWER
+              1    1 BOTTOM
+              2    2
+              3    3
+              4    4
+              5    5
+              6    6
+              7    7
+              8    8
+              9    9
+             10    10 TOP
+
+21 Apr 04                                                                Page 20
+13:19:09  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT061    ACHIEVED COMP WITH JOB FATHER RESP WAS 1                           73
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  NEVER HAD JOB
+             -6 M  NO ANSWER
+             -5 M  NO <JOB> FATHER
+              1    MUCH MORE
+              2    MORE
+              3    ABOUT EQUAL
+              4    LESS
+              5    MUCH LESS
+
+INT062    OCCUPATION FATHER WHEN RESP WAS 16                                 74
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  NO ANSWER
+             -5 M  NO <JOB> FATHER
+              1    PROF OR TECHN
+              2    HIGHER ADMIN
+              3    CLERICAL
+              4    SALES
+              5    SERVICE
+              6    SKILLED WORKER
+              7    SEMI-SKILLED
+              8    UNSKILLED
+              9    FARM
+
+INT063    OCCUPATIONAL STATUS FATHER RESP WAS 16                             75
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  NO ANSWER
+             -5 M  NO <JOB> FATHER
+              1    SELF-EMPLOYED
+              2    WORK FOR SOMEONE
+
+21 Apr 04                                                                Page 21
+13:19:09  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT064    FIRST JOB AFTER FINISHING EDUCATION                                76
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  NO ANSWER
+             -5 M  NEVER HAD JOB
+              1    PROF OR TECHN
+              2    HIGHER ADMIN
+              3    CLERICAL
+              4    SALES
+              5    SERVICE
+              6    SKILLED WORKER
+              7    SEMI-SKILLED
+              8    UNSKILLED
+              9    FARM
+
+INT065    OCCUPATIONAL STATUS OF FIRST JOB                                   77
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  NO ANSWER
+             -5 M  NEVER HAD JOB
+              1    SELF-EMPLOYED
+              2    WORK FOR SOMEONE
+
+INT066    PRESENT OR LAST JOB                                                78
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  NO ANSWER
+             -5 M  NEVER HAD JOB
+              1    PROF OR TECHN
+              2    HIGHER ADMIN
+              3    CLERICAL
+              4    SALES
+              5    SERVICE
+              6    SKILLED WORKER
+              7    SEMI-SKILLED
+              8    UNSKILLED
+              9    FARM
+
+21 Apr 04                                                                Page 22
+13:19:09  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT067    OCCUPATIONAL STATUS OF PRESENT OR LAST J                           79
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  NO ANSWER
+             -5 M  NEVER HAD JOB
+              1    SELF-EMPLOYED
+              2    WORK FOR SOMEONE
+
+INT068    ANNUAL NET INCME OF HOUSEHOLD                                      80
+          Print Format: F3
+          Write Format: F3
+          Missing Values: -9 thru -1
+
+INT901    TIJDSDUUR VRAAGGESPREK                                             81
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+              1    MINDER 30 MIN
+              2    30 - 45  MIN
+              3    45 - 60  MIN
+              4    60 - 75  MIN
+              5    75 - 90  MIN
+              6    90 -105  MIN
+              7    105-120  MIN
+              8    120-135  MIN
+              9    135-150  MIN
+             10    MEER 150 MIN
+
+INT902    OORDEEL GESPREKSDUUR                                               82
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+              1    TE LANG
+              2    NIET TE LANG
+
+21 Apr 04                                                                Page 23
+13:19:09  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT903    WENSELIJKE GESPREKSDUUR                                            83
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+              1    MINDER 30 MIN
+              2    30 - 45  MIN
+              3    45 - 60  MIN
+              4    60 - 75  MIN
+              5    75 - 90  MIN
+              6    90 -105  MIN
+              7    105-120  MIN
+              8    120-135  MIN
+              9    135-150  MIN
+             10    MEER 150 MIN
+
+INT904    HOE INTERESSANT WAS GESPREK?                                       84
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+              1    ZEER INTERESSANT
+              2    TAMELIJK INTERESSANT
+              3    NIET ZO INTERESSANT
+              4    ONINTERESSANT
+
+INT905    HOE LEERZAAM WAS GESPREK?                                          85
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+              1    ZEER LEERZAAM
+              2    TAMELIJK LEERZAAM
+              3    NIET ZO LEERZAAM
+              4    NIET LEERZAAM
+
+21 Apr 04                                                                Page 24
+13:19:09  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+  18  set listing 'p0947s.doc'.

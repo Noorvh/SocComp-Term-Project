@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codebook>
+<docDscr>
+<citation>
+<titlStmt>
+<IDNo><![CDATA[P0216]]></IDNo>
+</titlStmt>
+</citation>
+</docDscr>
+<stdyDescr>
+<citation>
+<titlStmt>
+<titl><![CDATA[-]]></titl>
+<parTitl><![CDATA[-]]></parTitl>
+<IDNo><![CDATA[P0216]]></IDNo>
+</titlStmt>
+<prodStmt>
+<prodPlac><![CDATA[NIWI]]></prodPlac>
+</prodStmt>
+<distStmt>
+<depDate><![CDATA[1975-01-01]]></depDate>
+</distStmt>
+</citation>
+<stdyInfo>
+<sumDscr>
+<timePrd><![CDATA[1975]]></timePrd>
+<timePrd><![CDATA[1975]]></timePrd>
+<timePrd><![CDATA[1975]]></timePrd>
+<collDate><![CDATA[1975-11-17]]></collDate>
+<collDate><![CDATA[1975-12-31]]></collDate>
+<nation><![CDATA[Netherlands]]></nation>
+<anlyUnit><![CDATA[individuals]]></anlyUnit>
+<universe><![CDATA[Age limits: 18-75 years
+Location: national
+Name of country: Netherlands
+Other: additional data-set based on the responses of the 146 interviewers]]></universe>
+<dataKind><![CDATA[survey]]></dataKind>
+<dataKind><![CDATA[Survey Continuous Longitudinal]]></dataKind>
+</sumDscr>
+</stdyInfo>
+<method>
+<dataColl>
+<timeMeth><![CDATA[longitudinal]]></timeMeth>
+<datacollector><![CDATA[NIPO * Amsterdam, the Netherlands]]></datacollector>
+<frequenc><![CDATA[other repeated]]></frequenc>
+<sampProc><![CDATA[multi-stage sample: first, self-selective municipalities were determined on the basis of the formula hi / h* 1750 ge 6;:hi=no of households in municipality;: h=total no of households, 1750= total no of households to be approached;: cluster -size=3;: other municipalities selected at random, taking into account their size selection of respondents at fixed addresses within household: 50-50 chance with a maximum of two;: details are availableon the questionnaire;: no of call backs= three  Number of unit original/losses: 2328 addresses * 511+23=534;: during processing their appeared 54 additional lost cases * 237 second interviews in large families * 1977]]></sampProc>
+<collMode><![CDATA[interview]]></collMode>
+<resInstru><![CDATA[structured quest.]]></resInstru>
+<collSitu><![CDATA[data-collector identification, call back number, characteristics of data-collector-filled out complete questionnaire as part of instruction, presence of other people, special events: reaction of those attending interview]]></collSitu>
+<actMin><![CDATA[Other: fieldwork controlled by mail and some personal revisits]]></actMin>
+<weight><![CDATA[criteria: age * sex * marital status * district, based on data from P0079;: coefficients: max=2;: min=0.5]]></weight>
+<fileDescr>
+<fileTxt>
+<fileName><![CDATA[P0216]]></fileName>
+</fileTxt>
+<dimensns>
+<caseQnty><![CDATA[1977]]></caseQnty>
+<varQnty><![CDATA[591]]></varQnty>
+</dimensns>
+<fileType><![CDATA[spss-file labelled]]></fileType>
+<dataChck><![CDATA[complete study stored * check on total no of cards, wild codes eliminated]]></dataChck>
+<verStmt>
+</verStmt>
+</fileDescr>
+</dataColl>
+</method>
+</stdyDescr>
+</codebook>

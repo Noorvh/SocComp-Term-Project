@@ -1,0 +1,525 @@
+->      frequencies / variables = all / format limit(40).
+
+There are 8,385,200 bytes of memory available.
+The largest contiguous area has 8,385,200 bytes.
+
+Memory allows a total of 299,471 values accumulated across all variables.
+There may be up to 37,434 value labels for each variable.
+31 Oct 94 SPSS Release 4.0 for Sun 4                                      Page 4
+10:53:14  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+
+RESPNR
+
+
+Valid cases     800      Missing cases      0
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR001    RESIDENCE
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+                               11        31      3.9      3.9      3.9
+                               12        19      2.4      2.4      6.3
+                               14        18      2.3      2.3      8.5
+                               15        15      1.9      1.9     10.4
+                               21        52      6.5      6.5     16.9
+                               22        17      2.1      2.1     19.0
+                               23        30      3.8      3.8     22.8
+                               24        32      4.0      4.0     26.8
+                               25        29      3.6      3.6     30.4
+                               31        17      2.1      2.1     32.5
+                               32        85     10.6     10.6     43.1
+                               33        28      3.5      3.5     46.6
+                               34        32      4.0      4.0     50.6
+                               35        38      4.8      4.8     55.4
+                               41        65      8.1      8.1     63.5
+                               42        81     10.1     10.1     73.6
+                               43        30      3.8      3.8     77.4
+                               44        46      5.8      5.8     83.1
+                               45        15      1.9      1.9     85.0
+                               55       120     15.0     15.0    100.0
+                                     -------  -------  -------
+                            Total       800    100.0    100.0
+
+Valid cases     800      Missing cases      0
+31 Oct 94 SPSS Release 4.0 for Sun 4                                      Page 5
+10:53:14  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+
+VAR002    AGE CATEGORIZED
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+18-20                           1        73      9.1      9.1      9.1
+21-24                           2        71      8.9      8.9     18.0
+25-34                           3       183     22.9     22.9     40.9
+35-49                           4       212     26.5     26.5     67.5
+50-64                           5       153     19.1     19.1     86.6
+65 AND OLDER                    6       107     13.4     13.4    100.0
+NO ANSWER                       9         1       .1   Missing
+                                     -------  -------  -------
+                            Total       800    100.0    100.0
+
+Valid cases     799      Missing cases      1
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR003    SEX AND MARITAL STATUS-SEE VAR025,VAR026
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+                                1       100     12.5     12.5     12.5
+                                2       286     35.8     35.8     48.3
+                                3        18      2.3      2.3     50.5
+                                4        80     10.0     10.0     60.5
+                                5       266     33.3     33.3     93.8
+                                6        48      6.0      6.0     99.8
+NO ANSWER                       9         2       .3       .3    100.0
+                                     -------  -------  -------
+                            Total       800    100.0    100.0
+
+Valid cases     800      Missing cases      0
+31 Oct 94 SPSS Release 4.0 for Sun 4                                      Page 6
+10:53:14  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+
+VAR004    DEMONSTRATING
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+MUST BE FREE                    1       509     63.6     64.0     64.0
+MUST BE RESTRICTED              2       286     35.8     36.0    100.0
+NO ANSWER                       9         5       .6   Missing
+                                     -------  -------  -------
+                            Total       800    100.0    100.0
+
+Valid cases     795      Missing cases      5
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR005    CRITICISM OF ROYAL FAMILY
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+MUST BE FREE                    1       428     53.5     54.2     54.2
+MUST BE RESTRICTED              2       361     45.1     45.8    100.0
+NO ANSWER                       9        11      1.4   Missing
+                                     -------  -------  -------
+                            Total       800    100.0    100.0
+
+Valid cases     789      Missing cases     11
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR006    STRIKING FOR PAY-RISE
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+MUST BE FREE                    1       333     41.6     42.2     42.2
+MUST BE RESTRICTED              2       457     57.1     57.8    100.0
+NO ANSWER                       9        10      1.3   Missing
+                                     -------  -------  -------
+                            Total       800    100.0    100.0
+
+Valid cases     790      Missing cases     10
+31 Oct 94 SPSS Release 4.0 for Sun 4                                      Page 7
+10:53:14  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+
+VAR007    CONSCIENTIOUS OBJECTION
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+MUST BE FREE                    1       379     47.4     47.7     47.7
+MUST BE RESTRICTED              2       415     51.9     52.3    100.0
+NO ANSWER                       9         6       .8   Missing
+                                     -------  -------  -------
+                            Total       800    100.0    100.0
+
+Valid cases     794      Missing cases      6
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR008    PUBLICLY WRITING WHAT ONE WANTS
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+MUST BE FREE                    1       500     62.5     62.9     62.9
+MUST BE RESTRICTED              2       295     36.9     37.1    100.0
+NO ANSWER                       9         5       .6   Missing
+                                     -------  -------  -------
+                            Total       800    100.0    100.0
+
+Valid cases     795      Missing cases      5
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR009    MAY CHILDREN SAY "JY" TO THEIR PARENTS
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+FOR                             1       379     47.4     47.6     47.6
+NOT IMPORTANT                   2       178     22.3     22.4     70.0
+AGAINST                         3       239     29.9     30.0    100.0
+NO ANSWER                       9         4       .5   Missing
+                                     -------  -------  -------
+                            Total       800    100.0    100.0
+
+Valid cases     796      Missing cases      4
+31 Oct 94 SPSS Release 4.0 for Sun 4                                      Page 8
+10:53:14  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+
+VAR010    COUPLE DONT WANT CHILDREN,NO MED.OBJCTN
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+APPROVE                         1       497     62.1     62.8     62.8
+IT DEPENDS                      2       164     20.5     20.7     83.6
+DISAPPROVE                      3       130     16.3     16.4    100.0
+NO ANSWER                       9         9      1.1   Missing
+                                     -------  -------  -------
+                            Total       800    100.0    100.0
+
+Valid cases     791      Missing cases      9
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR011    MOTHER WITH SCHOOLGOING CHILDRN HAS WORK
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+OBJECTION                       1       270     33.8     33.9     33.9
+NO OBJECTION                    2       398     49.8     50.0     83.9
+APPROVE                         3       128     16.0     16.1    100.0
+NO ANSWER                       9         4       .5   Missing
+                                     -------  -------  -------
+                            Total       800    100.0    100.0
+
+Valid cases     796      Missing cases      4
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR012    MARRIED WOMAN HAS AFFAIR WITH OTHER MAN
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+INADMISSIBLE                    1       439     54.9     55.5     55.5
+SOMETMS JUSTIFIABLE             2       352     44.0     44.5    100.0
+NO ANSWER                       9         9      1.1   Missing
+                                     -------  -------  -------
+                            Total       800    100.0    100.0
+
+Valid cases     791      Missing cases      9
+31 Oct 94 SPSS Release 4.0 for Sun 4                                      Page 9
+10:53:14  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+
+VAR013    GIRL MUST STAY VIRGIN UNTIL MARRIAGE
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+AGREE FULLY                     1       108     13.5     13.7     13.7
+AGREE                           2       198     24.8     25.0     38.7
+DISAGREE                        3       196     24.5     24.8     63.5
+DISAGREE FULLY                  4       289     36.1     36.5    100.0
+NO ANSWER                       9         9      1.1   Missing
+                                     -------  -------  -------
+                            Total       800    100.0    100.0
+
+Valid cases     791      Missing cases      9
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR014    IS ABORTION SOMETIMES JUSTIFIABLE
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+SOME CIRCUMSTANCES              1       668     83.5     83.5     83.5
+UNDER NO CIRCUMST               2       132     16.5     16.5    100.0
+                                     -------  -------  -------
+                            Total       800    100.0    100.0
+
+Valid cases     800      Missing cases      0
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR015    MAY HOMOSEXUALS LIVE THEIR OWN LIFE
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+OWN LIFE                        1       653     81.6     82.3     82.3
+TRY TO RESTRICT IT              2       140     17.5     17.7    100.0
+NO ANSWER                       9         7       .9   Missing
+                                     -------  -------  -------
+                            Total       800    100.0    100.0
+
+Valid cases     793      Missing cases      7
+31 Oct 94 SPSS Release 4.0 for Sun 4                                     Page 10
+10:53:14  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+
+VAR016    MARRIED MAN HAS AFFAIR WITH OTHER WOMAN
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+INADMISSIBLE                    1       420     52.5     52.8     52.8
+SOMETMS JUSTIFIABLE             2       376     47.0     47.2    100.0
+NO ANSWER                       9         4       .5   Missing
+                                     -------  -------  -------
+                            Total       800    100.0    100.0
+
+Valid cases     796      Missing cases      4
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR017    SUPRANATIONAL EUR.GOVT.OR NETH.INDEPNDNT
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+EUROPEAN GOVT                   1       244     30.5     30.9     30.9
+STAY INDEPENDENT                2       545     68.1     69.1    100.0
+NO ANSWER                       9        11      1.4   Missing
+                                     -------  -------  -------
+                            Total       800    100.0    100.0
+
+Valid cases     789      Missing cases     11
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR018    MAY WORKERS OCCUPY FIRM IF DISAGR.W.POLC
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+ADMISSIBLE                      1        47      5.9      5.9      5.9
+SOMETIMES ADM                   2       575     71.9     71.9     77.8
+NEVER ADMISSIBLE                3       178     22.3     22.3    100.0
+                                     -------  -------  -------
+                            Total       800    100.0    100.0
+
+Valid cases     800      Missing cases      0
+31 Oct 94 SPSS Release 4.0 for Sun 4                                     Page 11
+10:53:14  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+
+VAR019    GROUPS REFUSE TO FOLLOW GOVT.ORDERS
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+ADMISSIBLE                      1        45      5.6      5.6      5.6
+SOMETIMES ADM                   2       536     67.0     67.2     72.8
+NEVER ADMISSIBLE                3       217     27.1     27.2    100.0
+NO ANSWER                       9         2       .3   Missing
+                                     -------  -------  -------
+                            Total       800    100.0    100.0
+
+Valid cases     798      Missing cases      2
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR020    TAKING HOSTAGES,HIJACKING FOR POL.AIMS
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+ADMISSIBLE                      1         7       .9       .9       .9
+SOMETIMES ADM                   2        54      6.8      6.8      7.6
+NEVER ADMISSIBLE                3       738     92.3     92.4    100.0
+NO ANSWER                       9         1       .1   Missing
+                                     -------  -------  -------
+                            Total       800    100.0    100.0
+
+Valid cases     799      Missing cases      1
+31 Oct 94 SPSS Release 4.0 for Sun 4                                     Page 12
+10:53:14  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+
+VAR021    PARTY VOTED FOR IF PARL.ELECTIONS NOW
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+PVDA                            1       260     32.5     33.2     33.2
+KVP                             2       101     12.6     12.9     46.2
+VVD                             3       149     18.6     19.1     65.2
+ARP                             4        46      5.8      5.9     71.1
+CHU                             5        38      4.8      4.9     76.0
+CPN                             6        21      2.6      2.7     78.6
+PPR                             7        46      5.8      5.9     84.5
+D'66                            8         5       .6       .6     85.2
+DS'70                           9         8      1.0      1.0     86.2
+SGP                            10        17      2.1      2.2     88.4
+BP                             11        10      1.3      1.3     89.6
+PSP                            12        14      1.8      1.8     91.4
+GPV                            13         5       .6       .6     92.1
+RKPN                           14         5       .6       .6     92.7
+CDA                            15         8      1.0      1.0     93.7
+DON'T WANT TO SAY              16        22      2.8      2.8     96.5
+WILL NOT VOTE                  17        27      3.4      3.5    100.0
+WILD CODE                      97         3       .4   Missing
+DONT KNOW                      98        15      1.9   Missing
+                                     -------  -------  -------
+                            Total       800    100.0    100.0
+
+Valid cases     782      Missing cases     18
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR022    CHURCH AFFILIATION
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+NONE                            1       366     45.8     45.9     45.9
+ROMAN CATHOLIC                  2       227     28.4     28.5     74.4
+DUTCH REFORMED                  3       127     15.9     15.9     90.3
+REFORMED                        4        51      6.4      6.4     96.7
+OTHER                           5        26      3.3      3.3    100.0
+NO ANSWER                       9         3       .4   Missing
+                                     -------  -------  -------
+                            Total       800    100.0    100.0
+
+Valid cases     797      Missing cases      3
+31 Oct 94 SPSS Release 4.0 for Sun 4                                     Page 13
+10:53:14  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+
+VAR023    EDUCATION OF RESP.
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+PRIMARY                         1       201     25.1     25.3     25.3
+LOWER PROFESSIONAL              2       206     25.8     25.9     51.1
+SECONDARY,MIDDLE PRF            3       238     29.8     29.9     81.0
+GRAMMAR,HIGHER PROF             4       125     15.6     15.7     96.7
+UNIVERSITY                      5        26      3.3      3.3    100.0
+NO ANSWER                       9         4       .5   Missing
+                                     -------  -------  -------
+                            Total       800    100.0    100.0
+
+Valid cases     796      Missing cases      4
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR024    GROSS ANNUAL INCOME OF HEAD OF FAMILY
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+UP TO F10000                    1       107     13.4     16.6     16.6
+F10000-F15000                   2       134     16.8     20.8     37.5
+F15000-F20000                   3       137     17.1     21.3     58.8
+F20000-F25000                   4       101     12.6     15.7     74.5
+F25000-F30000                   5        65      8.1     10.1     84.6
+F30000-F35000                   6        41      5.1      6.4     91.0
+F35000-F40000                   7        22      2.8      3.4     94.4
+F40000-F50000                   8        26      3.3      4.0     98.4
+MORE THAN F50000                9        10      1.3      1.6    100.0
+NO ANSWER                      99       157     19.6   Missing
+                                     -------  -------  -------
+                            Total       800    100.0    100.0
+
+Valid cases     643      Missing cases    157
+31 Oct 94 SPSS Release 4.0 for Sun 4                                     Page 14
+10:53:14  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+
+VAR025    SEX
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+MALE                            1       404     50.5     50.6     50.6
+FEMALE                          2       394     49.3     49.4    100.0
+NO ANSWER                       9         2       .3   Missing
+                                     -------  -------  -------
+                            Total       800    100.0    100.0
+
+Valid cases     798      Missing cases      2
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR026    MARITAL STATUS
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+MARRIED                         1       552     69.0     69.2     69.2
+NOT MARRIED                     2       180     22.5     22.6     91.7
+HAS BEEN MARRIED                3        66      8.3      8.3    100.0
+NO ANSWER                       9         2       .3   Missing
+                                     -------  -------  -------
+                            Total       800    100.0    100.0
+
+Valid cases     798      Missing cases      2
+31 Oct 94 SPSS Release 4.0 for Sun 4                                     Page 15
+10:53:14  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+
+Preceding task required 2.91 seconds CPU time;  8.38 seconds elapsed.
+
+->      set listing 'p0140.dic'.

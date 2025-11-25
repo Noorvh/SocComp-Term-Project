@@ -1,0 +1,7 @@
+dat/p1205.pdf (application/pdf) 2962326 bytes.
+dat/p1205.por (application/x-spss-por) 2669274 bytes.
+dat/p1205.frq (application/octet-stream) 606101 bytes.
+dat/p1205.dic (text/x-c) 274783 bytes.
+easy-migration.zip (application/zip) 35432 bytes.
+dat/p1205.lab (application/octet-stream) 43077 bytes.
+additional-metadata-P1205.xml (text/xml) 2072 bytes.

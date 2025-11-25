@@ -1,0 +1,4565 @@
+->      display dictionary.
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 164
+16:16:22  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+            List of variables on the active file
+
+Name                                                                   Position
+
+RESPNR                                                                        1
+          Print Format: F5
+          Write Format: F5
+ 
+VAR901    KLEUR OMSLAG FORMULIER                                              2
+          Print Format: F1
+          Write Format: F1
+          Missing Values: * thru *
+
+          Value    Label
+
+              1    GEEL
+              2    GROEN
+ 
+VAR902    AANTAL BRUIKBARE GESPREKKEN                                         3
+          Print Format: F1
+          Write Format: F1
+          Missing Values: * thru *
+
+          Value    Label
+
+              1    ENIGE
+              2    EEN
+              3    TWEE
+              4    GEEN
+ 
+VAR903    1E OF ENIGE TE ONDERVRAGEN PERSOON                                  4
+          Print Format: F1
+          Write Format: F1
+          Missing Values: * thru *
+
+          Value    Label
+
+              1    GESLAAGD 1E B
+              2    GESLAAGD 2E B
+              3    GESLAAGD 3E B
+              4    WEIGERING
+              5    3X NIET THUIS
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 165
+16:16:22  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR904    2E TE ONDERVRAGEN PERSOON                                           5
+          Print Format: F1
+          Write Format: F1
+          Missing Values: * thru *
+
+          Value    Label
+
+              1    GESLAAGD 1E B
+              2    GESLAAGD 2E B
+              3    GESLAAGD 3E B
+              4    WEIGERING
+              5    3X NIET THUIS
+              6    NIET NODIG
+ 
+VAR905    REDEN GEEN GESPREK                                                  6
+          Print Format: F1
+          Write Format: F1
+          Missing Values: * thru *
+
+          Value    Label
+
+              1    AD NIET GEBR.
+              2    WEIGERING
+              3    3X NIET THUIS
+ 
+VAR906    SEXE MANNELIJK GEZINSHOOFD                                          7
+          Print Format: F1
+          Write Format: F1
+          Missing Values: * thru *
+
+          Value    Label
+
+              1    MAN_JONGEN
+ 
+VAR907    LEEFTIJD MANNELIJK GEZINSHOOFD                                      8
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+ 
+VAR908    SEXE VROUWELIJK GEZINSHOOFD                                         9
+          Print Format: F1
+          Write Format: F1
+          Missing Values: * thru *
+
+          Value    Label
+
+              2    VROUW_MEISJE
+ 
+VAR909    LEEFTIJD VROUWELIJK GEZINSHOOFD                                    10
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 166
+16:16:22  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+ 
+VAR910    SEXE OUDSTE KIND                                                   11
+          Print Format: F1
+          Write Format: F1
+          Missing Values: * thru *
+
+          Value    Label
+
+              1    JONGEN
+              2    MEISJE
+ 
+VAR911    LEEFTIJD OUDSTE KIND                                               12
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+ 
+VAR912    SEXE 2E KIND                                                       13
+          Print Format: F1
+          Write Format: F1
+          Missing Values: * thru *
+
+          Value    Label
+
+              1    JONGEN
+              2    MEISJE
+ 
+VAR913    LEEFTIJD 2E KIND                                                   14
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+ 
+VAR914    SEXE 3E KIND                                                       15
+          Print Format: F1
+          Write Format: F1
+          Missing Values: * thru *
+
+          Value    Label
+
+              1    JONGEN
+              2    MEISJE
+ 
+VAR915    LEEFTIJD 3E KIND                                                   16
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 167
+16:16:23  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR916    SEXE 4E KIND                                                       17
+          Print Format: F1
+          Write Format: F1
+          Missing Values: * thru *
+
+          Value    Label
+
+              1    JONGEN
+              2    MEISJE
+ 
+VAR917    LEEFTIJD 4E KIND                                                   18
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+ 
+VAR918    SEXE 5E KIND                                                       19
+          Print Format: F1
+          Write Format: F1
+          Missing Values: * thru *
+
+          Value    Label
+
+              1    JONGEN
+              2    MEISJE
+ 
+VAR919    LEEFTIJD 5E KIND                                                   20
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+ 
+VAR920    SEXE 6E KIND                                                       21
+          Print Format: F1
+          Write Format: F1
+          Missing Values: * thru *
+
+          Value    Label
+
+              1    JONGEN
+              2    MEISJE
+ 
+VAR921    LEEFTIJD 6E KIND                                                   22
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 168
+16:16:23  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR922    SEXE 7E KIND                                                       23
+          Print Format: F1
+          Write Format: F1
+          Missing Values: * thru *
+
+          Value    Label
+
+              1    JONGEN
+              2    MEISJE
+ 
+VAR923    LEEFTIJD 7E KIND                                                   24
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+ 
+VAR924    SEXE 8E KIND                                                       25
+          Print Format: F1
+          Write Format: F1
+          Missing Values: * thru *
+
+          Value    Label
+
+              1    JONGEN
+              2    MEISJE
+ 
+VAR925    LEEFTIJD 8E KIND                                                   26
+          Print Format: F1
+          Write Format: F1
+          Missing Values: * thru *
+ 
+VAR926    SEXE ANDER GEZINSLID <OUDSTE>                                      27
+          Print Format: F1
+          Write Format: F1
+          Missing Values: * thru *
+
+          Value    Label
+
+              1    MAN_JONGEN
+              2    VROUW_MEISJE
+ 
+VAR927    LEEFTIJD ANDER GEZINSLID <OUDSTE>                                  28
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 169
+16:16:23  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR928    SEXE ANDER GEZINSLID                                               29
+          Print Format: F1
+          Write Format: F1
+          Missing Values: * thru *
+
+          Value    Label
+
+              1    MAN_JONGEN
+              2    VROUW_MEISJE
+ 
+VAR929    LEEFTIJD ANDER GEZINSLID                                           30
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+ 
+VAR629    PROVINCIE                                                          31
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+              1    GRONINGEN
+              2    FRIESLAND
+              3    DRENTE
+              4    OVERIJSSEL
+              5    GELDERLAND
+              6    UTRECHT
+              7    NOORD-HOLLAND
+              8    ZUID-HOLLAND
+              9    ZEELAND
+             10    NOORD-BRABANT
+             11    LIMBURG
+ 
+VAR630    GEMEENTEGROOTTE                                                    32
+          Print Format: F1
+          Write Format: F1
+          Missing Values: * thru *
+
+          Value    Label
+
+              1    > 400000 INW.
+              2    100-400000
+              3    50-100000
+              4    20-50000
+              5    10-20000
+              6    5-10000
+              7    < 5000 INW.
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 170
+16:16:23  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR631    URBANISATIEGRAAD CBS                                               33
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+              1    C5
+              2    C4
+              3    C3
+              4    C2
+              5    C1
+              6    B3
+              7    B2
+              8    B1
+              9    A4
+             10    A3
+             11    A2
+             12    A1
+ 
+VAR632A   GEMEENTENUMMER CBS                                                 34
+          Print Format: F3
+          Write Format: F3
+          Missing Values: -9 thru -1
+ 
+VAR633    WIJKKODE                                                           35
+          Print Format: F1
+          Write Format: F1
+          Missing Values: * thru *
+ 
+VAR001    SEXE RESPONDENT                                                    36
+          Print Format: F1
+          Write Format: F1
+          Missing Values: * thru *
+
+          Value    Label
+
+              1    MAN_JONGEN
+              2    VROUW_MEISJE
+ 
+VAR002    LEEFTIJD RESPONDENT                                                37
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 171
+16:16:23  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR003    BURGERLIJKE STAAT                                                  38
+          Print Format: F1
+          Write Format: F1
+          Missing Values: * thru *
+
+          Value    Label
+
+              1    GEHUWD
+              2    GEHUWD,EERDER
+              3    ONGEHUWD
+              4    GESCHEIDEN
+              5    WEDUWE_-NAAR
+ 
+VAR004    WELSTAND                                                           39
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+              1    WELGESTELD
+              2    MIDDENKLASSE
+              3    MINDER GESIT.
+              4    MINST GESIT
+ 
+VAR005    JEUGD VOORNAMELIJK DOORGEBRACHT IN                                 40
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  KN ZEGGEN
+              1    AMS_ROT_DH_UT
+              2    ST. >100000
+              3    ST. 50-100000
+              4    PLATTEL._DORP
+              5    NIET IN NED.
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 172
+16:16:23  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR006    LAATST GENOTEN OPLEIDING                                           41
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+              1    LO
+              2    LO+VAKOND
+              3    VAO
+              4    VAO+VAKOND.
+              5    MO_HBO
+              6    MO_HBO+VAKOND
+              7    WO
+ 
+VAR007    LAATST GENOTEN OPLEIDING VOLTOOID                                  42
+          Print Format: F1
+          Write Format: F1
+          Missing Values: * thru *
+
+          Value    Label
+
+              1    JA
+              2    NEEN
+ 
+VAR008    LAATST VOLTOOIDE OPLEIDING                                         43
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -5 M  VR NIET GEST
+              1    LO
+              2    LO+VAKOND
+              3    VAO
+              4    VAO+VAKOND.
+              5    MO_HBO
+              6    MO_HBO+VAKOND
+              7    WO
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 173
+16:16:23  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR009    LAATST VOLTOOIDE OPLEIDING HOOFD VH GEZI                           44
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -5 M  VR NIET GEST
+             -3 M  WEET NIET
+              1    LO
+              2    LO+VAKOND
+              3    VAO
+              4    VAO+VAKOND.
+              5    MO_HBO
+              6    MO_HBO+VAKOND
+              7    WO
+ 
+VAR010    LAATST VOLTOOIDE OPLEIDING VADER                                   45
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -5 M  VR NIET GEST
+             -3 M  WEET NIET
+              1    LO
+              2    LO+VAKOND
+              3    VAO
+              4    VAO+VAKOND.
+              5    MO_HBO
+              6    MO_HBO+VAKOND
+              7    WO
+ 
+VAR012    AANTAL UREN AAN HET WERK PER WEEK                                  46
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+              1    MINDER DAN 15
+              2    15 TOT 25
+              3    25 OF MEER
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 174
+16:16:23  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR013    HUIDIG BEROEP RESPONDENT                                           47
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -5 M  VR NIET GEST
+              1    GEEN BEROEP
+              2    OVERHEID
+              3    LOONDIENST
+              4    MW GEZINSLID
+              5    ZELFSTANDIG
+ 
+VAR014    RESPONDENT REKENT ZICH TOT VOLG. GROEP                             48
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -5 M  VR NIET GEST
+              1    HUISVROUW
+              2    WERKLOOS
+              3    GEPENSIONEERD
+              4    MILITAIR
+              5    ZOEK VH EERST
+              6    SCHOLIER_STUD
+              7    WAO_AAW
+              8    ANDERS
+ 
+VAR015    VROEGER BEROEP RESPONDENT                                          49
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -5 M  VR NIET GEST
+              1    GEEN BEROEP
+              2    OVERHEID
+              3    LOONDIENST
+              4    MW GEZINSLID
+              5    ZELFSTANDIG
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 175
+16:16:23  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR016    RESPONDENT VROEGER WERKZAAM ALS                                    50
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -5 M  VR NIET GEST
+              1    DIREKT. > 10
+              2    DIREKT. < 10
+              3    ZELFST. HVB
+              4    ZELFST. BOER
+              5    HOG. EMPLOYE
+              6    MID. EMPLOYE
+              7    LAG. EMPLOYE
+              8    GESCH. ARB
+              9    ONG._LANDARB.
+ 
+VAR017    GEZINSHOOFD <VROEGER> WERKZAAM ALS                                 51
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -5 M  VR NIET GEST
+              1    DIREKT. > 10
+              2    DIREKT. < 10
+              3    ZELFST. HVB
+              4    ZELFST. BOER
+              5    HOG. EMPLOYE
+              6    MID. EMPLOYE
+              7    LAG. EMPLOYE
+              8    GESCH. ARB
+              9    ONG._LANDARB.
+             10    OVERIG Z BER
+             11    STUDEREND
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 176
+16:16:23  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR018    VADER RESPONDENT <VROEGER> WERKZAAM ALS                            52
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -5 M  VR NIET GEST
+              1    DIREKT. > 10
+              2    DIREKT. < 10
+              3    ZELFST. HVB
+              4    ZELFST. BOER
+              5    HOG. EMPLOYE
+              6    MID. EMPLOYE
+              7    LAG. EMPLOYE
+              8    GESCH. ARB
+              9    ONG._LANDARB.
+             10    OVERIG Z BER
+             11    STUDEREND
+ 
+VAR640    HUIDIGE WERKKRING RESPONDENT                                       53
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+              1    GEEN WERKKR.
+              2    PART-TIME WK
+              3    VOLLEDIGE WK
+ 
+VAR647    RESPONDENT IS WEL_GEEN HUISVROUW                                   54
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -5 M  VR NIET GEST
+              1    WEL
+              2    GEEN
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 177
+16:16:23  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR641    GELEERD OM DAGELIJKS WERK GOED TE DOEN                             55
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -5 M  VR NIET GEST
+             -3 M  WEET NIET
+              1    VEEL MEER
+              2    GENOEG
+              3    TE WEINIG
+ 
+VAR642    DINGEN GELEERD VOOR DAGELIJKS WERK NODIG                           56
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -5 M  VR NIET GEST
+             -3 M  WEET NIET
+              1    VOORAL
+              2    ENKELE
+              3    VEEL
+ 
+VAR643    WANNEER GELEGENHEID TOT KORTER WERKEN                              57
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -5 M  VR NIET GEST
+              1    KORTER, <INK.
+              2    KORTER, =INK
+              3    NIET KORTER
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 178
+16:16:23  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR644    : NETTO INK. OPOFFEREN BIJ KORTER WERKEN                           58
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -5 M  VR NIET GEST
+              1    MINDER DAN 3:
+              2    3 A 4:
+              3    5 A 6:
+              4    7 A 8:
+              5    9 A 10:
+              6    11 A 12:
+              7    13 A 14:
+              8    15: OF MEER
+ 
+VAR645    WANNEER GELEGENHEID TOT LANGER VAKANTIE                            59
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -5 M  VR NIET GEST
+              1    LANGER, <INK.
+              2    LANGER, =INK
+              3    NIET LANGER
+ 
+VAR646    : NETTO INK. OPOFFEREN BIJ LANGER VAKANT                           60
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -5 M  VR NIET GEST
+              1    MINDER DAN 3:
+              2    3 A 4:
+              3    5 A 6:
+              4    7 A 8:
+              5    9 A 10:
+              6    11 A 12:
+              7    13 A 14:
+              8    15: OF MEER
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 179
+16:16:23  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR046    PLEZIER IN HET WERK                                                61
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -5 M  VR NIET GEST
+             -3 M  WEET NIET
+              1    JA
+              2    NEEN
+ 
+VAR047    DRUK IN HET WERK                                                   62
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -5 M  VR NIET GEST
+             -3 M  WEET NIET
+              1    JA
+              2    NEEN
+ 
+VAR048    MEER VRIJE TIJD KRIJGEN IN DE TOEKOMST                             63
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -5 M  VR NIET GEST
+              1    JA,ZEKER
+              2    MISSCHIEN
+              3    NEEN
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 180
+16:16:24  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR049    S AVONDS AAN HET WERK DENKEN                                       64
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -5 M  VR NIET GEST
+             -3 M  WEET NIET
+              1    VAAK
+              2    SOMS
+              3    ZELDEN
+              4    NOOIT
+ 
+VAR050    NIET SLAPEN DOOR GEDACHTE AAN HET WERK                             65
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -5 M  VR NIET GEST
+             -3 M  WEET NIET
+              1    JA
+              2    NEEN
+ 
+VAR051    RESP. OF MAN IN KOMENDE JAREN WERKLOOS                             66
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -5 M  VR NIET GEST
+             -3 M  WEET NIET
+              1    JA
+              2    NEEN
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 181
+16:16:24  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR052    IN TOEKOMST WERK KRIJGEN MEER NAAR DE ZI                           67
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  GEEN BEHOEFTE
+             -6 M  GEEN OPGAVE
+             -5 M  VR NIET GEST
+             -3 M  WEET NIET
+              1    JA
+              2    WAARSCH WEL
+              3    WAARSCH NIET
+              4    NEEN
+ 
+VAR053    TEVREDEN MET BEROEP OF WIL WAT ANDERS                              68
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -5 M  VR NIET GEST
+             -3 M  GEEN MENING
+              1    TEVREDEN
+              2    WAT ANDERS
+ 
+VAR054    TEVREDEN OVER IN HET LEVEN BEREIKTE                                69
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    JA
+              2    NEEN
+ 
+VAR055    KANSEN OM IN LEVEN VOORUIT TE KOMEN                                70
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    JA
+              2    NEEN
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 182
+16:16:24  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+ 
+VAR648    TEVREDEN MET HET LEVEN OP HET OGENBLIK                             71
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    BUITENGEWOON
+              2    ZEER
+              3    TEVREDEN
+              4    TAMELIJK
+              5    NIET ZO
+ 
+VAR651    BELANGRIJKSTE INTERESSES IN VT VERSUS WE                           72
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+              1    VEEL MEER VT
+              2    MEER VT
+              3    EVENVEEL
+              4    MEER W
+              5    VEEL MEER W
+ 
+VAR652    VOLDOENING IN VT VERSUS WERK                                       73
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -5 M  HEEFT GEEN W
+             -3 M  WEET NIET
+              1    W VEEL MEER
+              2    W IETS MEER
+              3    EVENVEEL
+              4    VT VEEL MEER
+              5    VT IETS MEER
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 183
+16:16:24  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR030    LUISTERT GEWOONLIJK NAAR HET NIEUWS                                74
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+              1    WEL
+              2    NIET
+ 
+VAR031    LUISTERT GEWOONLIJK NAAR REPORTAGES                                75
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+              1    WEL
+              2    NIET
+ 
+VAR032    LUISTER GEW. NAAR COMMENTAAR OP NIEUWS                             76
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+              1    WEL
+              2    NIET
+ 
+VAR033    LUISTERT GEW. NAAR LEZINGEN OVER INTER O                           77
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+              1    WEL
+              2    NIET
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 184
+16:16:24  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR036    KIJKT GEMIDDELD PER DAG NAAR DE TELEVISI                           78
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+              1    MINDER 15 MIN
+              2    15 T_M 30 MIN
+              3    30 T_M 60 MIN
+              4    1 T_M 2 UUR
+              5    2 T_M 3 UUR
+              6    MEER D 3 UUR
+ 
+VAR037    KIJKT NAAR AKTUALITEITEN-PROGRAMMA'S                               79
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  KIJK NOOIT TV
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    <BIJNA>ALTIJD
+              2    VAAK
+              3    ZO NU EN DAN
+              4    ZELDEN _NOOIT
+ 
+VAR038    KIJKT WEL EENS 2E KAMER-ZITTING OP TV                              80
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    JA
+              2    NEEN
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 185
+16:16:24  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR039    KIJKT WEL EENS AND. TV-PROG. OVER POLITI                           81
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    JA
+              2    NEEN
+ 
+VAR040    LEEST WEL EENS OVER POLITIEK IN ONS LAND                           82
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+              1    REGELMATIG
+              2    AF EN TOE
+              3    ENKELE KEER
+              4    NIET
+ 
+VAR041    GEABONNEERD OP LANDELIJK DAGBLAD                                   83
+          Print Format: F1
+          Write Format: F1
+          Missing Values: * thru *
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    JA
+              2    NEEN
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 186
+16:16:24  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR042    LANDELIJK DAGBLAD WAAROP GEABONNEERD                               84
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -5 M  VR NIET GEST
+              1    NRC_HANDELSB.
+              2    HET PAROOL
+              3    VRIJE VOLK
+              4    VOLKSKRANT
+              5    TELEGRAAF_CND
+              6    ALG. DAGBLAD
+              7    TROUW
+              8    DE WAARHEID
+              9    MEER DAN EEN
+ 
+VAR685A   WELZIJN IS ...ROYALE LEVENSSTANDAARD                               85
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+              0    NIET GENOEMD
+              1    WEL GENOEMD
+ 
+VAR685B   WELZIJN IS ...REDELIJKE LEVENSSTANDAARD                            86
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+              0    NIET GENOEMD
+              1    WEL GENOEMD
+ 
+VAR685C   WELZIJN IS ...GEEN WERKLOOSHEID                                    87
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+              0    NIET GENOEMD
+              1    WEL GENOEMD
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 187
+16:16:24  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR685D   WELZIJN IS ...GEZONDHEID                                           88
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+              0    NIET GENOEMD
+              1    WEL GENOEMD
+ 
+VAR685E   WELZIJN IS ...TEVREDENHEID                                         89
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+              0    NIET GENOEMD
+              1    WEL GENOEMD
+ 
+VAR685F   WELZIJN IS ...GELUK                                                90
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+              0    NIET GENOEMD
+              1    WEL GENOEMD
+ 
+VAR685G   WELZIJN IS ...HET GOED HEBBEN                                      91
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+              0    NIET GENOEMD
+              1    WEL GENOEMD
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 188
+16:16:25  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR685H   WELZIJN IS ...GOEDE MENS. VERSTANDH.                               92
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+              0    NIET GENOEMD
+              1    WEL GENOEMD
+ 
+VAR685I   WELZIJN IS ...SOCIALE VOORZIENINGEN                                93
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+              0    NIET GENOEMD
+              1    WEL GENOEMD
+ 
+VAR685J   WELZIJN IS ...GEEN MILIEU-VERONTREINIGIN                           94
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+              0    NIET GENOEMD
+              1    WEL GENOEMD
+ 
+VAR685K   WELZIJN IS ...REKREATIE-RUIMTE                                     95
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+              0    NIET GENOEMD
+              1    WEL GENOEMD
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 189
+16:16:25  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR685L   WELZIJN IS ...DIVERSE ANDERE ANTWOORDEN                            96
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+              0    NIET GENOEMD
+              1    WEL GENOEMD
+ 
+VAR685M   WELZIJN IS ...WEET NIET                                            97
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+              0    NIET GENOEMD
+              1    WEL GENOEMD
+ 
+VAR058    IN ONS LAND HEERST OP OGENBLIK WELVAART                            98
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    JA
+              2    NEEN
+ 
+VAR059    IN GEZIN HEERST WELVAART                                           99
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    WEL
+              2    NIET
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 190
+16:16:25  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR060    ANDERE DINGEN BELANGRIJKER DAN EIGEN WEL                          100
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  GEEN OORDEEL
+              1    HEL NIET EENS
+              2    NIET ERG EENS
+              3    TAMELIJK EENS
+              4    GEHEEL EENS
+ 
+VAR061    MOG. ZELF ANDERE DINGEN BEZIG DAN EIG WE                          101
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    JA
+              2    NEEN
+ 
+VAR653    OORDEEL TERMIJNBET._LENEN V DUURDERE ART                          102
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  GEEN OORDEEL
+              1    +++++
+              2    ++++
+              3    +++
+              4    ++
+              5    +
+              6    -
+              7    --
+              8    ---
+              9    ----
+             10    -----
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 191
+16:16:25  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR093    BESTAANDE SAMENLEVING MOET OVER HET GEHE                          103
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  GEEN MENING
+              1    BLIJVEN ZOALS
+              2    BEETJE VERAND
+              3    VEEL VERAND
+ 
+VAR094    BESTAANDE MAATSCHAPPIJ MOET OHG VERANDER                          104
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  GEEN MENING
+              1    ZEER SNEL
+              2    TAMELIJK SNEL
+              3    LANGZAAM
+              4    NIET
+ 
+VAR095    OVERHEID MOET NED. SAMENLEVING VERANDERE                          105
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  GEEN MENING
+              1    VEEL
+              2    EEN BEETJE
+              3    NIET
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 192
+16:16:25  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR096    OVERHEIDSGELD VOOR OPENB. VOORZIENINGEN                           106
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  GEEN MENING
+              1    VEEL MEER
+              2    BEETJE MEER
+              3    ZO LATEN
+              4    BEETJE MINDER
+              5    VEEL MINDER
+ 
+VAR100    OVERH MOET: VOLD.VOORZ. VOOR HUISWERK                             107
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  GEEN MENING
+              1    STERK EENS
+              2    MEE EENS
+              3    NOCH,NOCH
+              4    MEE ONEENS
+              5    STERK ONEENS
+ 
+VAR101    OVERH MOET: VEEL MEER STUDIEBEURZEN                               108
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  GEEN MENING
+              1    STERK EENS
+              2    MEE EENS
+              3    NOCH,NOCH
+              4    MEE ONEENS
+              5    STERK ONEENS
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 193
+16:16:25  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR103    OVERH MOET: VEEL MEER GELD GOED WONINGBO                          109
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  GEEN MENING
+              1    STERK EENS
+              2    MEE EENS
+              3    NOCH,NOCH
+              4    MEE ONEENS
+              5    STERK ONEENS
+ 
+VAR105    OVERH MOET: MIN.LOON STERKER STIJGEN DAN                          110
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  GEEN MENING
+              1    STERK EENS
+              2    MEE EENS
+              3    NOCH,NOCH
+              4    MEE ONEENS
+              5    STERK ONEENS
+ 
+VAR107    OVERH MOET: ONDERW TOT 18E GEHEEL GRATIS                          111
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  GEEN MENING
+              1    STERK EENS
+              2    MEE EENS
+              3    NOCH,NOCH
+              4    MEE ONEENS
+              5    STERK ONEENS
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 194
+16:16:25  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR109    OVERH MOET: INGR MAATREG MILIEU-VERONTR.                          112
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  GEEN MENING
+              1    STERK EENS
+              2    MEE EENS
+              3    NOCH,NOCH
+              4    MEE ONEENS
+              5    STERK ONEENS
+ 
+VAR110    OVERH MOET: BELASTING HOGERE INKOMENS                             113
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  GEEN MENING
+              1    STERK VERHOG
+              2    BEETJE VERHOG
+              3    ZO LATEN
+              4    BEETJE VERLAG
+              5    STERK VERLAG
+ 
+VAR111    OVERH MOET: SUCCESSIERECHTEN                                      114
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  GEEN MENING
+              1    STERK VERHOG
+              2    BEETJE VERHOG
+              3    ZO LATEN
+              4    BEETJE VERLAG
+              5    STERK VERLAG
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 195
+16:16:25  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR114    OVERH MOET: BELASTING LAGERE INKOMENS                             115
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  GEEN MENING
+              1    STERK VERHOG
+              2    BEETJE VERHOG
+              3    ZO LATEN
+              4    BEETJE VERLAG
+              5    STERK VERLAG
+ 
+VAR116    OVERH MOET: BELASTING MIDDENGROEP INKOME                          116
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  GEEN MENING
+              1    STERK VERHOG
+              2    BEETJE VERHOG
+              3    ZO LATEN
+              4    BEETJE VERLAG
+              5    STERK VERLAG
+ 
+VAR118    OVERH MOET: BELASTING WINSTEN EN VERMOGE                          117
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  GEEN MENING
+              1    STERK VERHOG
+              2    BEETJE VERHOG
+              3    ZO LATEN
+              4    BEETJE VERLAG
+              5    STERK VERLAG
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 196
+16:16:25  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR121    OVERH MOET: LEERPLICHT TOT 18E JAAR INV                           118
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  GEEN MENING
+              1    STERK EENS
+              2    MEE EENS
+              3    NOCH,NOCH
+              4    MEE ONEENS
+              5    STERK ONEENS
+ 
+VAR122    OVERH MOET: KUNSTSUBSIDIES UITBREIDEN                             119
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  GEEN MENING
+              1    STERK EENS
+              2    MEE EENS
+              3    NOCH,NOCH
+              4    MEE ONEENS
+              5    STERK ONEENS
+ 
+VAR124    OVERH MOET: MEER GOEDKOPE CRECHES BOUWEN                          120
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  GEEN MENING
+              1    STERK EENS
+              2    MEE EENS
+              3    NOCH,NOCH
+              4    MEE ONEENS
+              5    STERK ONEENS
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 197
+16:16:25  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR125    OVERHEIDSUITGAVEN                                                 121
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  GEEN MENING
+              1    OMHOOG
+              2    ZO BLIJVEN
+              3    OMLAAG
+ 
+VAR126    ZORGEN HEBBEN                                                     122
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  GEEN MENING
+              1    VEEL
+              2    NIET ZO VEEL
+              3    WEINIG
+              4    GEEN
+ 
+VAR019    VOLDOENDE VRIJE TIJD HEBBEN                                       123
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    JA
+              2    NEEN
+ 
+VAR127    VAAK ANGSTEN HEBBEN                                               124
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    JA
+              2    NEEN
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 198
+16:16:25  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR128    NU IETS HEBBEN WAT DRUKT                                          125
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    JA
+              2    NEEN
+ 
+VAR129    SOMS GEVOEL HEBBEN DAT HET LEVEN ZINL. I                          126
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    JA
+              2    NEEN
+ 
+VAR130    ZICH SOMS EENZAAM VOELEN                                          127
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    JA
+              2    NEEN
+ 
+VAR131    ZICH SOMS ZORGEN MAKEN OVER GELDZAKEN                             128
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    JA
+              2    NEEN
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 199
+16:16:25  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR132    ZICH SOMS ZORGEN MAKEN OVER POLITIEK                              129
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    JA
+              2    NEEN
+ 
+VAR133    ZICH SOMS ZORGEN MAKEN OVER GEZONDHEID                            130
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    JA
+              2    NEEN
+ 
+VAR134    ZICH SOMS ZORGEN MAKEN OVER HET GEZIN                             131
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    JA
+              2    NEEN
+ 
+VAR135    ZICH SOMS ZORGEN MAKEN OVER DE TOEKOMST                           132
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    JA
+              2    NEEN
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 200
+16:16:25  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR136    ZICH ZORGEN MAKEN OVER EIGEN WERKLOOSHEI                          133
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -5 M  VR NIET GEST
+             -3 M  GEEN MENING
+              1    VEEL
+              2    ENIGE
+              3    GEEN
+ 
+VAR137    BIJ VERLIES VERANTW: ONTSLAG PERSONEEL                            134
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  GEEN OORDEEL
+              1    WEL
+              2    NIET
+ 
+VAR138    BIJ VERLIES VERANTW: NIEUWE DIREKTIE                              135
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  GEEN OORDEEL
+              1    WEL
+              2    NIET
+ 
+VAR139    BIJ VERLIES VERANTW: LONEN VERLAGEN                               136
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  GEEN OORDEEL
+              1    WEL
+              2    NIET
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 201
+16:16:25  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR140    BIJ VERLIES VERANTW: OVERHEIDSSUBSIDIES                           137
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  GEEN OORDEEL
+              1    WEL
+              2    NIET
+ 
+VAR141    TEVREDENHEID OVER WONING EN HUISVESTING                           138
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  GEEN MENING
+              1    TEVREDEN
+              2    MATIG
+              3    ONTEVREDEN
+ 
+VAR142    DENKT IN DE TOEKOMST <NOG> BETER TE WONE                          139
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    JA,ZEKER
+              2    MISSCHIEN WEL
+              3    WAARSCH NIET
+              4    ZEKER NIET
+ 
+VAR143    TEVREDENHEID OVER GEZONDHEID_LICH.TOESTA                          140
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  GEEN MENING
+              1    TEVREDEN
+              2    MATIG
+              3    ONTEVREDEN
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 202
+16:16:25  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR144    AANTAL DAGEN ZIEK TE BED AFGEL. 3 MAAAND                          141
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    GEEN ENKELE
+              2    ENKELE
+              3    EEN WEEK
+              4    1 A 2 WEKEN
+              5    2 WK A 1 MND
+              6    1 A 3 MAANDEN
+              7    AFG 3 MAANDEN
+ 
+VAR145    MATE VAN GELUK                                                    142
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  GEEN MENING
+              1    GELUKKIG
+              2    TAMELIJK GEL
+              3    ONGELUKKIG
+ 
+VAR146    MATE V TEVREDENHEID OVER HUW.-_GEZINSLEV                          143
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  GEEN MENING
+              1    TEVREDEN
+              2    TAMELIJK TEVR
+              3    ONTEVREDEN
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 203
+16:16:25  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR147    MATE V TEVR OVER MOG. V GEN. ONDERWIJS_O                          144
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    ZEER TEVREDEN
+              2    TEVREDEN
+              3    MATIG TEVR
+              4    NIET TEVREDEN
+ 
+VAR148    KINDEREN KRIJGEN KANS OP BETER ONDERWIJS                          145
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -5 M  VR NIET GEST
+             -3 M  GEEN MENING
+              1    JA,ZEKER
+              2    MISSCHIEN WEL
+              3    WAARSCH NIET
+              4    ZEKER NIET
+ 
+VAR149    MATE VAN TEVREDENHEID OVER INKOMEN                                146
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  GEEN MENING
+              1    TEVREDEN
+              2    TAMELIJK TEVR
+              3    NIET TEVREDEN
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 204
+16:16:25  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR150    BEOORDELING EIGEN INK TOV LAND INK.VERDE                          147
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  GEEN MENING
+              1    ZEER GOED
+              2    GOED
+              3    MATIG
+              4    SLECHT
+              5    ZEER SLECHT
+ 
+VAR151    INKOMEN TOV EIGEN OPLEIDING,PRAKTIJKERV.                          148
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -7 M  GEEN INKOMEN
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    TE HOOG
+              2    VOLDOENDE
+              3    TE LAAG
+ 
+VAR152    GEDACHTE OVER EEN MAXIMUM-INKOMENSGRENS                           149
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  GEEN OORDEEL
+              1    GOED IDEE
+              2    SLECHT IDEE
+ 
+VAR153    MATE VAN TEVREDENHEID OVER SOC.VOORZ.                             150
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  GEEN OORDEEL
+              1    TEVREDEN
+              2    ONTEVREDEN
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 205
+16:16:25  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+ 
+VAR154    DE ALGEMENE OUDERDOMSWET<AOW>                                     151
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              0    TE GOED
+              1    VOLDOENDE
+              2    ONVOLDOENDE
+ 
+VAR155    DE ALGEMENE BIJSTANDSWET                                          152
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              0    TE GOED
+              1    VOLDOENDE
+              2    ONVOLDOENDE
+ 
+VAR156    DE WERKLOOSHEIDSWET<WW>                                           153
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              0    TE GOED
+              1    VOLDOENDE
+              2    ONVOLDOENDE
+ 
+VAR157    DE ALGEMENE WEDUWEN- EN WEZENWET<AWW>                             154
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              0    TE GOED
+              1    VOLDOENDE
+              2    ONVOLDOENDE
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 206
+16:16:26  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR157A   DE ARBEIDSONGESCHIKTHEIDSWET<WAO,AAW>                             155
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              0    TE GOED
+              1    VOLDOENDE
+              2    ONVOLDOENDE
+ 
+VAR154A   DE ZIEKTEWET                                                      156
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              0    TE GOED
+              1    VOLDOENDE
+              2    ONVOLDOENDE
+ 
+VAR159    MISBRUIK ALGEMENE OUDERDOMSWET<AOW>                               157
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    VEEL
+              2    WEINIG
+              3    GEEN
+ 
+VAR160    MISBRUIK ALGEMENE BIJSTANDSWET                                    158
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    VEEL
+              2    WEINIG
+              3    GEEN
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 207
+16:16:26  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR161    MISBRUIK WERKLOOSHEIDSWET<WW>                                     159
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    VEEL
+              2    WEINIG
+              3    GEEN
+ 
+VAR162    MISBRUIK ALG. WEDUWEN- EN WEZENWET<AWW>                           160
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    VEEL
+              2    WEINIG
+              3    GEEN
+ 
+VAR162A   MISBRUIK ARB.ONGESCHIKTHEIDSWET<WAO,AAW>                          161
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    VEEL
+              2    WEINIG
+              3    GEEN
+ 
+VAR159A   MISBRUIK ZIEKTEWET                                                162
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    VEEL
+              2    WEINIG
+              3    GEEN
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 208
+16:16:26  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR165    VERSCHIL TUSSEN HOGE EN LAGE INKOMENS                             163
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  GEEN OORDEEL
+              1    VEEL GROTER
+              2    BEETJE GROTER
+              3    ZO BLIJVEN
+              4    BEETJE KL
+              5    VEEL KLEINER
+ 
+VAR166    VERSCHIL TUSSEN VEEL EN MINDER BEZIT                              164
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  GEEN OORDEEL
+              1    VEEL GROTER
+              2    BEETJE GROTER
+              3    ZO BLIJVEN
+              4    BEETJE KL
+              5    VEEL KLEINER
+ 
+VAR167    MEDEZEGGENSCHAP VAN ARBEIDERS IN BEDRIJV                          165
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  GEEN OORDEEL
+              1    VEEL GROTER
+              2    BEETJE GROTER
+              3    ZO BLIJVEN
+              4    BEETJE KL
+              5    VEEL KLEINER
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 209
+16:16:26  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR171    RECHT OP FINANCIEEL NIET ACHTERUIT GAAN                           166
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    JA
+              2    NEEN
+ 
+VAR172    RECHT OP WERK WAARIN MEN Z KAN ONTPLOOIE                          167
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    JA
+              2    NEEN
+ 
+VAR173    RECHT OP ONDERWIJS ZOVEEL MEN WIL                                 168
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    JA
+              2    NEEN
+ 
+VAR174    RECHT OP COMFORTABEL WONEN                                        169
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    JA
+              2    NEEN
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 210
+16:16:26  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR179    VRIJHEID TOT DEMONSTREREN                                         170
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    JA
+              2    NEEN
+ 
+VAR180    VRIJHEID TOT OPEN KRITIEK OP KONINGSHUIS                          171
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    JA
+              2    NEEN
+ 
+VAR181    VRIJHEID TOT STAKEN VOOR LOONSVERHOGING                           172
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    JA
+              2    NEEN
+ 
+VAR182    VRIJHEID TOT WEIGERING MILITAIRE DIENST                           173
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    JA
+              2    NEEN
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 211
+16:16:26  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR183    VRIJHEID TOT BEZETTING VAN GEBOUWEN                               174
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    JA
+              2    NEEN
+ 
+VAR184    VRIJHEID TOT OPENB SCHRIJVEN WAT MEN WIL                          175
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    JA
+              2    NEEN
+ 
+VAR185    VRIJHEID TOT OPENB ZEGGEN WAT MEN WIL                             176
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    JA
+              2    NEEN
+ 
+VAR188    LEVENSBESCHOUWING                                                 177
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+              1    SOCIALIST
+              2    HUMANIST
+              3    ROOMS-KATH.
+              4    LIBERAAL
+              5    PROTESTANT
+              6    COMMUNIST
+              7    ANDERS
+              8    GEEN VAN DEZE
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 212
+16:16:26  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+ 
+VAR198    GROOTGEBRACHT IN EEN BEPAALD GELOOF                               178
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+              1    NEEN
+              2    RK
+              3    NH
+              4    GEREFORMEERD
+              5    ANDER KERKGEN
+ 
+VAR201    BEHOREND TOT EEN KERKGENOOTSCHAP                                  179
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+              1    NEEN
+              2    RK
+              3    NH
+              4    GEREFORMEERD
+              5    ANDER KERKGEN
+ 
+VAR204    FREQUENTIE KERKGANG                                               180
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -5 M  VR NIET GEST
+             -3 M  WEET NIET
+              1    1X PW OF MEER
+              2    1X PER 2 WEK
+              3    1X PER MAAND
+              4    MINDER 1X PM
+              5    NOOIT
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 213
+16:16:26  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR222    KIEST ALS KIND NAAR LAGERE SCHOOL GAAT                            181
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    OPENB SCHOOL
+              2    MAAKT N UIT
+              3    GODSD GRONDSL
+ 
+VAR223    SAMENGAAN VAN POLITIEK EN GODSDIENST                              182
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    LOS V ELKAAR
+              2    H ERVAN AF
+              3    NIET LOS
+ 
+VAR224    OMROEPVERENIGING UITGAAN V GODSD PRINCIP                          183
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    JA
+              2    HOEFT NIET
+ 
+VAR225    SPORTVERENIGING UITGAAN V GODSD PRINCIPE                          184
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    JA
+              2    HOEFT NIET
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 214
+16:16:26  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR226    VAKVERENIGING UITGAAN V GODSD PRINCIPES                           185
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    JA
+              2    HOEFT NIET
+ 
+VAR227    JEUGDVERENIGING UITGAAN V GODSD PRINCIPE                          186
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    JA
+              2    HOEFT NIET
+ 
+VAR228    POLITIEKE PARTIJ UITGAAN V GODSD PRINCIP                          187
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    JA
+              2    HOEFT NIET
+ 
+VAR229    BELANGRIJKST IN HET LEVEN                                         188
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+              1    GOED INKOMEN
+              2    LEUK GEZIN
+              3    GOEDE GEZONDH
+              4    VEEL VT
+              5    GOED HUWELIJK
+              6    STERK GELOOF
+              7    PRETTIG WERK
+              8    VEEL VRIENDEN
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 215
+16:16:26  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+ 
+VAR230    OP EEN NA BELANGRIJKST IN HET LEVEN                               189
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+              1    GOED INKOMEN
+              2    LEUK GEZIN
+              3    GOEDE GEZONDH
+              4    VEEL VT
+              5    GOED HUWELIJK
+              6    STERK GELOOF
+              7    PRETTIG WERK
+              8    VEEL VRIENDEN
+ 
+VAR231    MINST BELANGRIJK IN HET LEVEN                                     190
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+              1    GOED INKOMEN
+              2    LEUK GEZIN
+              3    GOEDE GEZONDH
+              4    VEEL VT
+              5    GOED HUWELIJK
+              6    STERK GELOOF
+              7    PRETTIG WERK
+              8    VEEL VRIENDEN
+ 
+VAR233    SAMENL OVERZ GENOEG OM JE WEG TE VINDEN                           191
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    EENS
+              2    ONEENS
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 216
+16:16:26  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR234    VOLD VOORL OVER RECHTEN EN PLICHTEN IN S                          192
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    EENS
+              2    ONEENS
+ 
+VAR235    IHA WORD JE RECHTV BEHANDELD IN SAMENL                            193
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    EENS
+              2    ONEENS
+ 
+VAR654    DE ENERGIE WORDT SCHAARS                                          194
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -3 M  WEET NIET
+              0    IS NIET WAAR
+              1    Z ERN PROBL
+              2    ERNSTIG PROBL
+              3    PROBL,NIET ER
+              4    GEEN PROBLEEM
+ 
+VAR655    TOENEM VERSLECHTERING VD ECON TOESTAND                            195
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -3 M  WEET NIET
+              0    IS NIET WAAR
+              1    Z ERN PROBL
+              2    ERNSTIG PROBL
+              3    PROBL,NIET ER
+              4    GEEN PROBLEEM
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 217
+16:16:26  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR656    TOENEM VERVUILING V LUCHT,WATER EN GROND                          196
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -3 M  WEET NIET
+              0    IS NIET WAAR
+              1    Z ERN PROBL
+              2    ERNSTIG PROBL
+              3    PROBL,NIET ER
+              4    GEEN PROBLEEM
+ 
+VAR657    VERSLECHTERENDE SIT IN ONTWIKKELINGSLAND                          197
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -3 M  WEET NIET
+              0    IS NIET WAAR
+              1    Z ERN PROBL
+              2    ERNSTIG PROBL
+              3    PROBL,NIET ER
+              4    GEEN PROBLEEM
+ 
+VAR658    STEEDS SCHAARSER WORDENDE GRONDSTOFFEN                            198
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -3 M  WEET NIET
+              0    IS NIET WAAR
+              1    Z ERN PROBL
+              2    ERNSTIG PROBL
+              3    PROBL,NIET ER
+              4    GEEN PROBLEEM
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 218
+16:16:26  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR659    NOG STEEDS AANWEZIGE WONINGNOOD                                   199
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -3 M  WEET NIET
+              0    IS NIET WAAR
+              1    Z ERN PROBL
+              2    ERNSTIG PROBL
+              3    PROBL,NIET ER
+              4    GEEN PROBLEEM
+ 
+VAR660    TOEPASSING VAN KERNENERGIECENTRALES                               200
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -3 M  WEET NIET
+              0    IS NIET WAAR
+              1    Z ERN PROBL
+              2    ERNSTIG PROBL
+              3    PROBL,NIET ER
+              4    GEEN PROBLEEM
+ 
+VAR661    GROTE INKOMENSVERSCHILLEN                                         201
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -3 M  WEET NIET
+              0    IS NIET WAAR
+              1    Z ERN PROBL
+              2    ERNSTIG PROBL
+              3    PROBL,NIET ER
+              4    GEEN PROBLEEM
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 219
+16:16:26  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR662    GELD DAT STEEDS MINDER WAARD WORDT                                202
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -3 M  WEET NIET
+              0    IS NIET WAAR
+              1    Z ERN PROBL
+              2    ERNSTIG PROBL
+              3    PROBL,NIET ER
+              4    GEEN PROBLEEM
+ 
+VAR663    TOENEM MISDAAD EN ONVEILIGHEID OP STRAAT                          203
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -3 M  WEET NIET
+              0    IS NIET WAAR
+              1    Z ERN PROBL
+              2    ERNSTIG PROBL
+              3    PROBL,NIET ER
+              4    GEEN PROBLEEM
+ 
+VAR664    TE HOGE BELASTINGDRUK                                             204
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -3 M  WEET NIET
+              0    IS NIET WAAR
+              1    Z ERN PROBL
+              2    ERNSTIG PROBL
+              3    PROBL,NIET ER
+              4    GEEN PROBLEEM
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 220
+16:16:26  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR665    TOENEMEND DRUGGEBRUIK                                             205
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -3 M  WEET NIET
+              0    IS NIET WAAR
+              1    Z ERN PROBL
+              2    ERNSTIG PROBL
+              3    PROBL,NIET ER
+              4    GEEN PROBLEEM
+ 
+VAR666    HOGE WERKLOOSHEID                                                 206
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -3 M  WEET NIET
+              0    IS NIET WAAR
+              1    Z ERN PROBL
+              2    ERNSTIG PROBL
+              3    PROBL,NIET ER
+              4    GEEN PROBLEEM
+ 
+VAR667    HOGE PREMIES VOOR SOCIALE VOORZIENINGEN                           207
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -3 M  WEET NIET
+              0    IS NIET WAAR
+              1    Z ERN PROBL
+              2    ERNSTIG PROBL
+              3    PROBL,NIET ER
+              4    GEEN PROBLEEM
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 221
+16:16:26  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR668    GERINGE MEDEZEGGENSCHAP IN BEDRIJVEN                              208
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -3 M  WEET NIET
+              0    IS NIET WAAR
+              1    Z ERN PROBL
+              2    ERNSTIG PROBL
+              3    PROBL,NIET ER
+              4    GEEN PROBLEEM
+ 
+VAR669    STEEDS INGEWIKKELDER WORDENDE MAATSCHAPP                          209
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -3 M  WEET NIET
+              0    IS NIET WAAR
+              1    Z ERN PROBL
+              2    ERNSTIG PROBL
+              3    PROBL,NIET ER
+              4    GEEN PROBLEEM
+ 
+VAR670    ER WORDT MINDER HARD GEWERKT DAN VROEGER                          210
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -3 M  WEET NIET
+              0    IS NIET WAAR
+              1    Z ERN PROBL
+              2    ERNSTIG PROBL
+              3    PROBL,NIET ER
+              4    GEEN PROBLEEM
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 222
+16:16:26  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR671    EMANCIPATIE V VROUW GAAT NIET SNEL GENOE                          211
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -3 M  WEET NIET
+              0    IS NIET WAAR
+              1    Z ERN PROBL
+              2    ERNSTIG PROBL
+              3    PROBL,NIET ER
+              4    GEEN PROBLEEM
+ 
+VAR672    VEEL MENSEN MOETEN NOG EENTONIG WERK DOE                          212
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -3 M  WEET NIET
+              0    IS NIET WAAR
+              1    Z ERN PROBL
+              2    ERNSTIG PROBL
+              3    PROBL,NIET ER
+              4    GEEN PROBLEEM
+ 
+VAR673    VEEL MENSEN MOETEN NOG LICH ZW WERK DOEN                          213
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -3 M  WEET NIET
+              0    IS NIET WAAR
+              1    Z ERN PROBL
+              2    ERNSTIG PROBL
+              3    PROBL,NIET ER
+              4    GEEN PROBLEEM
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 223
+16:16:26  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR674    VEEL MINDERH KEN NED GEWOONTEN NIET_ONVO                          214
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -3 M  WEET NIET
+              0    IS NIET WAAR
+              1    Z ERN PROBL
+              2    ERNSTIG PROBL
+              3    PROBL,NIET ER
+              4    GEEN PROBLEEM
+ 
+VAR675    NOG STEEDS TOENEMENDE BEVOLKINGSGROEI                             215
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -3 M  WEET NIET
+              0    IS NIET WAAR
+              1    Z ERN PROBL
+              2    ERNSTIG PROBL
+              3    PROBL,NIET ER
+              4    GEEN PROBLEEM
+ 
+VAR676    TOENEMEND AANTAL AUTO'S IN NEDERLAND                              216
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -3 M  WEET NIET
+              0    IS NIET WAAR
+              1    Z ERN PROBL
+              2    ERNSTIG PROBL
+              3    PROBL,NIET ER
+              4    GEEN PROBLEEM
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 224
+16:16:26  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR677    KANS TE MAKEN KRIJGEN MET ENERGIEPROBLEM                          217
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    ZEER GROOT
+              2    GROOT
+              3    GROOT N KLEIN
+              4    NIET ZO GROOT
+              5    KLEIN
+ 
+VAR678    ZELF MAATREG GENOM OM ENERGIE TE BESPARE                          218
+          Print Format: F1
+          Write Format: F1
+          Missing Values: * thru *
+
+          Value    Label
+
+              1    JA
+              2    NEE,NOG NIET
+ 
+VAR679A   HEEFT DUBBELE RAMEN LATEN AANBRENGEN                              219
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -5 M  VR NIET GEST
+              0    NIET GENOEMD
+              1    WEL GENOEMD
+ 
+VAR679B   HEEFT SPOUWMUUR LATEN ISOLEREN                                    220
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -5 M  VR NIET GEST
+              0    NIET GENOEMD
+              1    WEL GENOEMD
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 225
+16:16:27  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR679C   RIJDT MINDER AUTO                                                 221
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -5 M  VR NIET GEST
+              0    NIET GENOEMD
+              1    WEL GENOEMD
+ 
+VAR679D   STOOKT MINDER                                                     222
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -5 M  VR NIET GEST
+              0    NIET GENOEMD
+              1    WEL GENOEMD
+ 
+VAR679E   DOET VAKER DE GORDIJNEN DICHT                                     223
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -5 M  VR NIET GEST
+              0    NIET GENOEMD
+              1    WEL GENOEMD
+ 
+VAR679F   GEBRUIKT MINDER WARM WATER                                        224
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -5 M  VR NIET GEST
+              0    NIET GENOEMD
+              1    WEL GENOEMD
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 226
+16:16:27  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR679G   HEEFT BEWUST ZUINIGER APPARATUUR GEKOCHT                          225
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -5 M  VR NIET GEST
+              0    NIET GENOEMD
+              1    WEL GENOEMD
+ 
+VAR679H   GEBRUIKT MINDER VAAK ELEK HUISH APP                               226
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -5 M  VR NIET GEST
+              0    NIET GENOEMD
+              1    WEL GENOEMD
+ 
+VAR679I   HEEFT NOG ANDERE MAATREGELEN GENOMEN                              227
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -5 M  VR NIET GEST
+              0    NIET GENOEMD
+              1    WEL GENOEMD
+ 
+VAR680A   OVERH KAN:AUTOLOZE DAG INVOEREN                                   228
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+              0    NIET GENOEMD
+              1    WEL GENOEMD
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 227
+16:16:27  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR680B   OVERH KAN:HOGERE SUBSIDIE WONINGISOLATIE                          229
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+              0    NIET GENOEMD
+              1    WEL GENOEMD
+ 
+VAR680C   OVERH KAN:PRIJS ELEK,GAS OF BENZINE VERH                          230
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+              0    NIET GENOEMD
+              1    WEL GENOEMD
+ 
+VAR680D   OVERH KAN:BENZINEDISTRIBUTIE INVOEREN                             231
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+              0    NIET GENOEMD
+              1    WEL GENOEMD
+ 
+VAR680E   OVERH KAN:STRAATVERLICHTING VERMINDEREN                           232
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+              0    NIET GENOEMD
+              1    WEL GENOEMD
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 228
+16:16:27  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR680F   OVERH KAN:HOGE BELAST AUTO HOOG BENZINEV                          233
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+              0    NIET GENOEMD
+              1    WEL GENOEMD
+ 
+VAR680G   OVERH KAN:MEER CONTROLE OP SNELHEID                               234
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+              0    NIET GENOEMD
+              1    WEL GENOEMD
+ 
+VAR680H   WEET NIET WAT DE OVERHEID KAN DOEN                                235
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+              0    NIET GENOEMD
+              1    WEL GENOEMD
+ 
+VAR271    INSPRAAK STUDENTEN OP BESTUUR UNIVERSITE                          236
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  GEEN MENING
+              1    VEEL GROTER
+              2    BEETJE GROTER
+              3    ZO BLIJVEN
+              4    BEETJE MINDER
+              5    VEEL MINDER
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 229
+16:16:27  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR272    INSPRAAK LEERLINGEN MIDD SCHOLEN EN PA                            237
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  GEEN MENING
+              1    VEEL GROTER
+              2    BEETJE GROTER
+              3    ZO BLIJVEN
+              4    BEETJE MINDER
+              5    VEEL MINDER
+ 
+VAR273    INSPRAAK BURGERS OP BESTUUR GEMEENTE_PRO                          238
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  GEEN MENING
+              1    VEEL GROTER
+              2    BEETJE GROTER
+              3    ZO BLIJVEN
+              4    BEETJE MINDER
+              5    VEEL MINDER
+ 
+VAR342    STANDSVERSCHILLEN MOETEN KLEINER ZIJN                             239
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  GEEN MENING
+              1    STERK EENS
+              2    MEE EENS
+              3    NOCH,NOCH
+              4    MEE ONEENS
+              5    STERK ONEENS
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 230
+16:16:27  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR343    ARB NOG STEEDS STRIJDEN V GELIJKW POSITI                          240
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  GEEN MENING
+              1    STERK EENS
+              2    MEE EENS
+              3    NOCH,NOCH
+              4    MEE ONEENS
+              5    STERK ONEENS
+ 
+VAR347    ABORTUS MOGELIJK ALS VROUW DIT WENST                              241
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  GEEN MENING
+              1    STERK EENS
+              2    MEE EENS
+              3    NOCH,NOCH
+              4    MEE ONEENS
+              5    STERK ONEENS
+ 
+VAR357    VROUW GESCHIKTER VOOR OPVOEDING KLEIN KI                          242
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  GEEN MENING
+              1    STERK EENS
+              2    MEE EENS
+              3    NOCH,NOCH
+              4    MEE ONEENS
+              5    STERK ONEENS
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 231
+16:16:27  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR358    VROUW LEIDING OVER MANNEN IS ONNATUURLIJ                          243
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  GEEN MENING
+              1    STERK EENS
+              2    MEE EENS
+              3    NOCH,NOCH
+              4    MEE ONEENS
+              5    STERK ONEENS
+ 
+VAR359    GOEDE SCHOOLOPL MEISJE NIET ZO BEL ALS J                          244
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  GEEN MENING
+              1    STERK EENS
+              2    MEE EENS
+              3    NOCH,NOCH
+              4    MEE ONEENS
+              5    STERK ONEENS
+ 
+VAR360    JONGENS KUN JE IHA WAT VRIJER OPVOEDEN                            245
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  GEEN MENING
+              1    STERK EENS
+              2    MEE EENS
+              3    NOCH,NOCH
+              4    MEE ONEENS
+              5    STERK ONEENS
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 232
+16:16:27  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR681    GOEDE KIJK OP LEVEN ALS WERK BEL ALS VT                           246
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  GEEN MENING
+              1    STERK EENS
+              2    MEE EENS
+              3    NOCH,NOCH
+              4    MEE ONEENS
+              5    STERK ONEENS
+ 
+VAR682    OVERH DW MAATREG IVM ENERGIEBESPARING                             247
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  GEEN MENING
+              1    STERK EENS
+              2    MEE EENS
+              3    NOCH,NOCH
+              4    MEE ONEENS
+              5    STERK ONEENS
+ 
+VAR406    DE BELASTINGEN                                                    248
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  GEEN MENING
+              1    OMHOOG
+              2    ZO BLIJVEN
+              3    OMLAAG
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 233
+16:16:27  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR407    DE LOON- EN INKOMENSBELASTING                                     249
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  GEEN OORDEEL
+              1    TE HOOG
+              2    REDELIJK
+              3    TE LAAG
+ 
+VAR409    WET ONRECHTV: ZITDEMONSTR,PROTESTOPT,ENZ                          250
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    KEURT GOED
+              2    KN SCHELEN
+              3    KEURT AF
+ 
+VAR410    POLITIE ARRESTEERT DEELNEMERS PROTEST                             251
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    KEURT GOED
+              2    KN SCHELEN
+              3    KEURT AF
+ 
+VAR411    AANTAL LEERL PK OMHOOG: SCHOOLBEZETTING                           252
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    KEURT GOED
+              2    KN SCHELEN
+              3    KEURT AF
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 234
+16:16:27  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR412    ONTSLAG BEZETTENDE ONDERWIJZERS                                   253
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    KEURT GOED
+              2    KN SCHELEN
+              3    KEURT AF
+ 
+VAR413    WILDE STAKING BIJ ONTSLAG AANTAL WERKN                            254
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    KEURT GOED
+              2    KN SCHELEN
+              3    KEURT AF
+ 
+VAR414    POLITIEONTRUIMING VAN BEZET BEDRIJF                               255
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    KEURT GOED
+              2    KN SCHELEN
+              3    KEURT AF
+ 
+VAR683A   VRIJKOMENDE WONING BIJ WONINGSCHAARSTE                            256
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    IEM MET GEZIN
+              2    ONGEHUWDE
+              3    GEEN VERSCHIL
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 235
+16:16:27  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR683B   VRIJKOMENDE WONING BIJ WONINGSCHAARSTE                            257
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    GEZIN GASTARB
+              2    NEDERL GEZIN
+              3    GEEN VERSCHIL
+ 
+VAR683C   VRIJKOMENDE WONING BIJ WONINGSCHAARSTE                            258
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    JONGERE
+              2    OUDERE
+              3    GEEN VERSCHIL
+ 
+VAR683D   VRIJKOMENDE WONING BIJ WONINGSCHAARSTE                            259
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    SURINAAMS GEZ
+              2    NEDERL GEZIN
+              3    GEEN VERSCHIL
+ 
+VAR683E   VRIJKOMENDE WONING BIJ WONINGSCHAARSTE                            260
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    ANDER HUIDSKL
+              2    BLANKE
+              3    GEEN VERSCHIL
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 236
+16:16:27  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR683F   VRIJKOMENDE WONING BIJ WONINGSCHAARSTE                            261
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    GROOT GEZIN
+              2    KLEIN GEZIN
+              3    GEEN VERSCHIL
+ 
+VAR683G   VRIJKOMENDE WONING BIJ WONINGSCHAARSTE                            262
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    GEZIN M KIND
+              2    GEZIN Z KIND
+              3    GEEN VERSCHIL
+ 
+VAR683H   VRIJKOMENDE WONING BIJ WONINGSCHAARSTE                            263
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    MAN ALLEEN
+              2    VROUW ALLEEN
+              3    GEEN VERSCHIL
+ 
+VAR728A   ONTSLAG WERKNEMER ALS BEDRIJF SLECHT GAA                          264
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    IEM MET GEZIN
+              2    ONGEHUWDE
+              3    GEEN VERSCHIL
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 237
+16:16:27  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR728B   ONTSLAG WERKNEMER ALS BEDRIJF SLECHT GAA                          265
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    BUITENLANDER
+              2    NEDERLANDER
+              3    GEEN VERSCHIL
+ 
+VAR728C   ONTSLAG WERKNEMER ALS BEDRIJF SLECHT GAA                          266
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    MAN
+              2    VROUW
+              3    GEEN VERSCHIL
+ 
+VAR728D   ONTSLAG WERKNEMER ALS BEDRIJF SLECHT GAA                          267
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    SURINAMER
+              2    NEDERLANDER
+              3    GEEN VERSCHIL
+ 
+VAR728E   ONTSLAG WERKNEMER ALS BEDRIJF SLECHT GAA                          268
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    JONGERE
+              2    OUDERE
+              3    GEEN VERSCHIL
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 238
+16:16:27  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR728F   ONTSLAG WERKNEMER ALS BEDRIJF SLECHT GAA                          269
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    BLANKE
+              2    ANDER HUIDSKL
+              3    GEEN VERSCHIL
+ 
+VAR729A   WERKNEMER IN AANMERKING VOOR PROMOTIE                             270
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    IEM MET GEZIN
+              2    ONGEHUWDE
+              3    GEEN VERSCHIL
+ 
+VAR729B   WERKNEMER IN AANMERKING VOOR PROMOTIE                             271
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    BUITENLANDER
+              2    NEDERLANDER
+              3    GEEN VERSCHIL
+ 
+VAR729C   WERKNEMER IN AANMERKING VOOR PROMOTIE                             272
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    MAN
+              2    VROUW
+              3    GEEN VERSCHIL
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 239
+16:16:27  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR729D   WERKNEMER IN AANMERKING VOOR PROMOTIE                             273
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    SURINAMER
+              2    NEDERLANDER
+              3    GEEN VERSCHIL
+ 
+VAR729E   WERKNEMER IN AANMERKING VOOR PROMOTIE                             274
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    JONGERE
+              2    OUDERE
+              3    GEEN VERSCHIL
+ 
+VAR729F   WERKNEMER IN AANMERKING VOOR PROMOTIE                             275
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    BLANKE
+              2    ANDER HUIDSKL
+              3    GEEN VERSCHIL
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 240
+16:16:27  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR430    TWEE SOORTEN MENSEN: STERKEN EN ZWAKKEN                           276
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  GEEN MENING
+              1    VOLKOMEN EENS
+              2    G LIJNEN EENS
+              3    NOCH,NOCH
+              4    EIG NIET EENS
+              5    HEL NIET EENS
+ 
+VAR431    MEEST MENSEN VALLEN TEGEN BIJ BETER KENN                          277
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  GEEN MENING
+              1    VOLKOMEN EENS
+              2    G LIJNEN EENS
+              3    NOCH,NOCH
+              4    EIG NIET EENS
+              5    HEL NIET EENS
+ 
+VAR434    JONG IN OPSTAND_OUDER ERBIJ NEERLEGGEN                            278
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  GEEN MENING
+              1    VOLKOMEN EENS
+              2    G LIJNEN EENS
+              3    NOCH,NOCH
+              4    EIG NIET EENS
+              5    HEL NIET EENS
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 241
+16:16:27  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR437    OPLOS SOC PROBL VERWIJDERING ZWAKKE_MISD                          279
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  GEEN MENING
+              1    VOLKOMEN EENS
+              2    G LIJNEN EENS
+              3    NOCH,NOCH
+              4    EIG NIET EENS
+              5    HEL NIET EENS
+ 
+VAR439    BEHOEFTE AAN STERKE LEIDERS                                       280
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  GEEN MENING
+              1    VOLKOMEN EENS
+              2    G LIJNEN EENS
+              3    NOCH,NOCH
+              4    EIG NIET EENS
+              5    HEL NIET EENS
+ 
+VAR454    VERSCHIL IN OMGANGSVORMEN SCHEPT SOC AFS                          281
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  GEEN MENING
+              1    VOLKOMEN EENS
+              2    G LIJNEN EENS
+              3    NOCH,NOCH
+              4    EIG NIET EENS
+              5    HEL NIET EENS
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 242
+16:16:27  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR456    TOENAME VAN INBREUK OP PRIVACY                                    282
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  GEEN MENING
+              1    VOLKOMEN EENS
+              2    G LIJNEN EENS
+              3    NOCH,NOCH
+              4    EIG NIET EENS
+              5    HEL NIET EENS
+ 
+VAR491    INTERESSE IN POLITIEK                                             283
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  GEEN MENING
+              1    STERK
+              2    GEWOON
+              3    MATIG
+              4    WEINIG
+              5    GEEN
+ 
+VAR495    L JAREN VERGAD_BIJEENK POL PARTIJ BEZOCH                          284
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    JA
+              2    NEEN
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 243
+16:16:28  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR496    LAATSTE JAREN EENS WAT GEDAAN V POL PART                          285
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    JA
+              2    NEEN
+ 
+VAR274    ZOU NU GAAN STEMMEN BIJ VERKIEZINGEN 2E                           286
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -2 M  WIL N ZEGGEN
+              1    JA
+              2    MISSCHIEN
+              3    NEEN
+ 
+VAR275    PARTIJ WAAROP MEN ZOU GAAN STEMMEN                                287
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -2 M  WIL N ZEGGEN
+              1    PVDA
+              2    VVD
+              6    CDA
+              7    PPR
+              8    D'66
+              9    PSP
+             10    CPN
+             11    DS'70
+             12    BOERENPARTIJ
+             13    SGP
+             14    GPV
+             18    WEET NOG NIET
+             19    BLANCO STEM
+             20    NIET STEMGER
+             21    ANDERE PARTIJ
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 244
+16:16:28  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR497    LID <GEWEEST> VAN EEN POLITIEKE PARTIJ                            288
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -2 M  WIL N ZEGGEN
+              1    JA
+              2    NEEN,GEWEEST
+              3    NEEN,NOOIT
+ 
+VAR498    PARTIJ WAARVAN MEN LID IS <GEWEEST>                               289
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -2 M  WIL N ZEGGEN
+              1    PVDA
+              2    VVD
+              3    ARP
+              4    KVP
+              5    CHU
+              6    CDA
+              7    PPR
+              8    D'66
+              9    PSP
+             10    CPN
+             11    DS'70
+             12    BOERENPARTIJ
+             13    SGP
+             14    GPV
+             21    ANDERE PARTIJ
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 245
+16:16:28  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR499    LID VAN EEN VAKBOND <INCL BEROEPSVER.>                            290
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+             -2 M  WIL N ZEGGEN
+              1    NEEN
+              2    NVV
+              3    NKV
+              4    CNV
+              5    ANDERE
+              6    FNV
+ 
+VAR500    AANTAL JAREN DAT MEN LID IS VAN VAKBOND                           291
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -5 M  VR NIET GEST
+             -3 M  WEET NIET
+              1    KORTER DAN 1
+              2    1 - 3
+              3    3 - 5
+              4    5 -10
+              5    LANGER DAN 10
+ 
+VAR515    VROUW MET SCHOOLG KIND WERKT NAAST HUISH                          292
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    AAN T BEVELEN
+              2    NIET BEZWAARL
+              3    BEZWAARLIJK
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 246
+16:16:28  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR516    VROUW WERKT, KIND MOET NAAR EEN CRECHE                            293
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -5 M  VR NIET GEST
+             -3 M  WEET NIET
+              1    AAN T BEVELEN
+              2    NIET BEZWAARL
+              3    BEZWAARLIJK
+ 
+VAR544    EUTHANASIE OP VERZOEK DMV EEN SPUITJE                             294
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    WEL GEVEN
+              2    H ERVAN AF
+              3    NIET GEVEN
+ 
+VAR546    MENSEN VAN EEN ANDER RAS ALS BUREN KRIJG                          295
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    GEEN BEZWAAR
+              2    H ERVAN AF
+              3    MIND PRETTIG
+              4    VERZET
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 247
+16:16:28  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR547    POLITIEK IS EEN MANNENAANGELEGENHEID                              296
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -3 M  WEET NIET
+              1    ZO BLIJVEN
+              2    NIET BELANGR
+              3    VERANDEREN
+ 
+VAR649A   VAAK ONTEVREDEN OF MOPPERIG ZIJN                                  297
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+              1    JA
+              2    ?
+              3    NEEN
+ 
+VAR649B   VAAK OVER HET VERLEDEN PIEKEREN                                   298
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+              1    JA
+              2    ?
+              3    NEEN
+ 
+VAR649C   ZICH VAAK EENZAAM VOELEN                                          299
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+              1    JA
+              2    ?
+              3    NEEN
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 248
+16:16:28  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR649D   VAAK TE LAAT TOT EEN BESLUIT KOMEN                                300
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+              1    JA
+              2    ?
+              3    NEEN
+ 
+VAR649E   IN GESPREK VAAK MET GEDACHTEN ER NIET BI                          301
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+              1    JA
+              2    ?
+              3    NEEN
+ 
+VAR649F   ZICH WEL EENS DOODONGELUKKIG V,N W WAARO                          302
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+              1    JA
+              2    ?
+              3    NEEN
+ 
+VAR649G   VAAK HUMEURIG ZIJN                                                303
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+              1    JA
+              2    ?
+              3    NEEN
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 249
+16:16:28  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR649H   VAAK DOOR ZORGEN UIT SLAAP GEHOUDEN                               304
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+              1    JA
+              2    ?
+              3    NEEN
+ 
+VAR649I   TELEURSTELLINGEN MEESTAL ZWAAR OPNEMEN                            305
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+              1    JA
+              2    ?
+              3    NEEN
+ 
+VAR649J   WEL EENS LAST HEBBEN VAN NACHTMERRIES                             306
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+              1    JA
+              2    ?
+              3    NEEN
+ 
+VAR649K   WEL EENS UITSTELLEN TOT MORGEN WAT VAND                           307
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+              1    JA
+              2    ?
+              3    NEEN
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 250
+16:16:28  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR649L   ALTIJD VRIENDELIJK EN BELEEFD ZIJN                                308
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+              1    JA
+              2    ?
+              3    NEEN
+ 
+VAR649M   WEL EENS EEN BEETJE OPSCHEPPEN                                    309
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+              1    JA
+              2    ?
+              3    NEEN
+ 
+VAR649N   WEL EENS PRATEN O D WAARVAN GEEN VERSTAN                          310
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+              1    JA
+              2    ?
+              3    NEEN
+ 
+VAR649O   WEL EENS RODDELEN                                                 311
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+              1    JA
+              2    ?
+              3    NEEN
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 251
+16:16:28  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR649P   KENNISSEN, WAARAAN BESLIST EEN HEKEL                              312
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+              1    JA
+              2    ?
+              3    NEEN
+ 
+VAR649Q   ALTIJD HEEL GOED NADENKEN MBT EEN OORDEE                          313
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+              1    JA
+              2    ?
+              3    NEEN
+ 
+VAR649R   EEN PERSOONLIJKE BRIEF ZO VLUG MOG BEANT                          314
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+              1    JA
+              2    ?
+              3    NEEN
+ 
+VAR649S   ALLES AANGEVEN,OOK WANNEER NIET GESNAPT                           315
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+              1    JA
+              2    ?
+              3    NEEN
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 252
+16:16:28  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+
+VAR462    TOTAAL BRUTO GEZINSINKOMEN                                        316
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+             -5 M  GEEN INKOMEN
+             -2 M  WIL N ZEGGEN
+              1    MINDER 6.000
+              2    6.000-12.000
+              3    12.000-18.000
+              4    18.000-24.000
+              5    24.000-30.000
+              6    30.000-40.000
+              7    40.000-50.000
+              8    MEER 50.000
+ 
+VAR684    SAMENSTELLING VAN HET HUISHOUDEN                                  317
+          Print Format: F1
+          Write Format: F1
+          Missing Values: * thru *
+
+          Value    Label
+
+              1    ECHTP M KIND
+              2    ECHTP Z KIND
+              3    VADER M KIND
+              4    MOEDER M KIND
+              5    ALLEENSTAANDE
+              6    ONGEH_SAMENW
+ 
+VAR686    WELSTAND                                                          318
+          Print Format: F2
+          Write Format: F2
+          Missing Values: -9 thru -1
+
+          Value    Label
+
+             -6 M  GEEN OPGAVE
+              1    AB
+              2    C1
+              3    C2
+              4    D1
+              5    D2
+ 
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 253
+16:16:28  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+->      display documents.
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 254
+16:16:28  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0740, Culturele Veranderingen in Nederland, 1979.
+ 
+document       P0740   CULTURELE VERANDERINGEN 1979
+   (Entered 23 NOV 94)
+23 Nov 94 SPSS Release 4.0 for Sun 4                                    Page 255
+16:16:28  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+->      set listing 'p0740.sav'.

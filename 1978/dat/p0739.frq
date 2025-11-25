@@ -1,0 +1,1769 @@
+->      frequencies variables = all / format limit(40).
+
+There are 8,383,184 bytes of memory available.
+The largest contiguous area has 8,383,152 bytes.
+
+Memory allows a total of 299,398 values accumulated across all variables.
+There may be up to 37,424 value labels for each variable.
+25 Apr 95 SPSS Release 4.0 for Sun 4                                      Page 2
+17:38:37  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0739  CULTURELE VERANDERINGEN IN NEDERLAND 1978
+
+GEWICHT
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+                                1       985    100.0    100.0    100.0
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     985      Missing cases      0
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+RESPNR    RESPONDENT-NUMMER
+
+
+Valid cases     985      Missing cases      0
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR001    GESLACHT
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+MAN                             1       472     47.9     47.9     47.9
+VROUW                           2       513     52.1     52.1    100.0
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     985      Missing cases      0
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR002    LEEFTIJD EXACT
+
+
+Valid cases     985      Missing cases      0
+25 Apr 95 SPSS Release 4.0 for Sun 4                                      Page 3
+17:38:37  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0739  CULTURELE VERANDERINGEN IN NEDERLAND 1978
+
+VAR171    RECHT OP: FINANCIEEL NIET ACHTERUIT
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+JA                              1       582     59.1     60.5     60.5
+JA ONDER VOORW                  2       235     23.9     24.4     84.9
+NEE                             3       145     14.7     15.1    100.0
+                               -6         1       .1   Missing
+                               -3        22      2.2   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     962      Missing cases     23
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR172    RECHT OP: ONTPLOOIING IN WERK
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+JA                              1       836     84.9     86.5     86.5
+JA ONDER VOORW                  2       117     11.9     12.1     98.6
+NEE                             3        14      1.4      1.4    100.0
+                               -6         2       .2   Missing
+                               -3        16      1.6   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     967      Missing cases     18
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR173    RECHT OP: ONBEPERKT ONDERWIJS
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+JA                              1       819     83.1     84.4     84.4
+JA ONDER VOORW                  2       125     12.7     12.9     97.3
+NEE                             3        26      2.6      2.7    100.0
+                               -6         2       .2   Missing
+                               -3        13      1.3   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     970      Missing cases     15
+25 Apr 95 SPSS Release 4.0 for Sun 4                                      Page 4
+17:38:37  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0739  CULTURELE VERANDERINGEN IN NEDERLAND 1978
+
+VAR174    RECHT OP: COMFORTABEL WONEN
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+JA                              1       855     86.8     88.4     88.4
+JA ONDER VOORW                  2       100     10.2     10.3     98.8
+NEE                             3        12      1.2      1.2    100.0
+                               -6         3       .3   Missing
+                               -3        15      1.5   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     967      Missing cases     18
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR154A   SOCIALE VOORZIENING: ZIEKTEWET
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+TEHOOG                          0        61      6.2      7.6      7.6
+VOLDOENDE                       1       667     67.7     83.1     90.7
+ONVOLDOENDE                     2        75      7.6      9.3    100.0
+                               -6         1       .1   Missing
+                               -3       181     18.4   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     803      Missing cases    182
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR154    SOCIALE VOORZIENING: OUDERDOMSWET
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+TEHOOG                          0         8       .8      1.0      1.0
+VOLDOENDE                       1       579     58.8     68.9     69.9
+ONVOLDOENDE                     2       253     25.7     30.1    100.0
+                               -3       145     14.7   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     840      Missing cases    145
+25 Apr 95 SPSS Release 4.0 for Sun 4                                      Page 5
+17:38:37  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0739  CULTURELE VERANDERINGEN IN NEDERLAND 1978
+
+VAR155    SOCIALE VOORZIENING: BIJSTANDSWET
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+TEHOOG                          0       102     10.4     16.5     16.5
+VOLDOENDE                       1       384     39.0     61.9     78.4
+ONVOLDOENDE                     2       134     13.6     21.6    100.0
+                               -6         2       .2   Missing
+                               -3       363     36.9   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     620      Missing cases    365
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR156    SOCIALE VOORZIENING: WERKELOOSHEIDSWET
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+TEHOOG                          0       235     23.9     31.3     31.3
+VOLDOENDE                       1       426     43.2     56.7     88.0
+ONVOLDOENDE                     2        90      9.1     12.0    100.0
+                               -6         6       .6   Missing
+                               -3       228     23.1   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     751      Missing cases    234
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR157    SOCIALE VOORZIENING: WEDUW EN WEZENWET
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+TEHOOG                          0         4       .4       .6       .6
+VOLDOENDE                       1       367     37.3     59.5     60.1
+ONVOLDOENDE                     2       246     25.0     39.9    100.0
+                               -3       368     37.4   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     617      Missing cases    368
+25 Apr 95 SPSS Release 4.0 for Sun 4                                      Page 6
+17:38:37  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0739  CULTURELE VERANDERINGEN IN NEDERLAND 1978
+
+VAR157A   SOCIALE VOORZIENING: W.A.O.
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+TEHOOG                          0        48      4.9      6.6      6.6
+VOLDOENDE                       1       458     46.5     63.2     69.8
+ONVOLDOENDE                     2       219     22.2     30.2    100.0
+                               -6         1       .1   Missing
+                               -3       259     26.3   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     725      Missing cases    260
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR158    SOCIALE VOORZIENING: ZIEKENFONDS
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+TEHOOG                          0       114     11.6     14.8     14.8
+VOLDOENDE                       1       573     58.2     74.3     89.1
+ONVOLDOENDE                     2        84      8.5     10.9    100.0
+                               -6         1       .1   Missing
+                               -3       213     21.6   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     771      Missing cases    214
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR159A   MISBRUIK: ZIEKTEWET
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+VEEL MISBRUIK                   1       474     48.1     55.2     55.2
+WEINIG MISBRUIK                 2       309     31.4     36.0     91.2
+GEEN MISBRUIK                   3        76      7.7      8.8    100.0
+                               -6         6       .6   Missing
+                               -3       120     12.2   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     859      Missing cases    126
+25 Apr 95 SPSS Release 4.0 for Sun 4                                      Page 7
+17:38:37  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0739  CULTURELE VERANDERINGEN IN NEDERLAND 1978
+
+VAR159    MISBRUIK: OUDERDOMSWET
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+VEEL MISBRUIK                   1         8       .8       .9       .9
+WEINIG MISBRUIK                 2        57      5.8      6.5      7.5
+GEEN MISBRUIK                   3       806     81.8     92.5    100.0
+                               -6         5       .5   Missing
+                               -3       109     11.1   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     871      Missing cases    114
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR160    MISBRUIK: BIJSTANDSWET
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+VEEL MISBRUIK                   1       426     43.2     52.5     52.5
+WEINIG MISBRUIK                 2       280     28.4     34.5     86.9
+GEEN MISBRUIK                   3       106     10.8     13.1    100.0
+                               -6         5       .5   Missing
+                               -3       168     17.1   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     812      Missing cases    173
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR161    MISBRUIK: WERKELOOSHEIDSWET
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+VEEL MISBRUIK                   1       609     61.8     70.1     70.1
+WEINIG MISBRUIK                 2       208     21.1     23.9     94.0
+GEEN MISBRUIK                   3        52      5.3      6.0    100.0
+                               -6        10      1.0   Missing
+                               -3       106     10.8   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     869      Missing cases    116
+25 Apr 95 SPSS Release 4.0 for Sun 4                                      Page 8
+17:38:37  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0739  CULTURELE VERANDERINGEN IN NEDERLAND 1978
+
+VAR162    MISBRUIK: WEDUW EN WEZENWET
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+VEEL MISBRUIK                   1        11      1.1      1.4      1.4
+WEINIG MISBRUIK                 2        65      6.6      8.2      9.6
+GEEN MISBRUIK                   3       718     72.9     90.4    100.0
+                               -6         6       .6   Missing
+                               -3       185     18.8   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     794      Missing cases    191
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR162A   MISBRUIK: WET ARBEIDSONGESCHIKTHEID
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+VEEL MISBRUIK                   1       278     28.2     33.3     33.3
+WEINIG MISBRUIK                 2       333     33.8     39.9     73.3
+GEEN MISBRUIK                   3       223     22.6     26.7    100.0
+                               -6         9       .9   Missing
+                               -3       142     14.4   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     834      Missing cases    151
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR163    MISBRUIK: ZIEKENFONDS
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+VEEL MISBRUIK                   1        80      8.1     11.1     11.1
+WEINIG MISBRUIK                 2       190     19.3     26.4     37.4
+GEEN MISBRUIK                   3       451     45.8     62.6    100.0
+                               -6         7       .7   Missing
+                               -3       257     26.1   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     721      Missing cases    264
+25 Apr 95 SPSS Release 4.0 for Sun 4                                      Page 9
+17:38:37  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0739  CULTURELE VERANDERINGEN IN NEDERLAND 1978
+
+VAR100    OVERHEID: GESCHIKTE HUISWERKVOORZIENING
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+STERK MEE EENS                  1       162     16.4     17.4     17.4
+EENS                            2       339     34.4     36.5     53.9
+NOCH NOCH                       3       169     17.2     18.2     72.0
+ONEENS                          4       201     20.4     21.6     93.7
+STERK ONEENS                    5        59      6.0      6.3    100.0
+                               -6         6       .6   Missing
+                               -3        49      5.0   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     930      Missing cases     55
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR101    OVERHEID: MEER STUDIEBEURZEN
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+STERK MEE EENS                  1       270     27.4     28.8     28.8
+EENS                            2       416     42.2     44.3     73.1
+NOCH NOCH                       3       133     13.5     14.2     87.3
+ONEENS                          4        96      9.7     10.2     97.5
+STERK ONEENS                    5        23      2.3      2.5    100.0
+                               -6         7       .7   Missing
+                               -3        40      4.1   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     938      Missing cases     47
+25 Apr 95 SPSS Release 4.0 for Sun 4                                     Page 10
+17:38:37  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0739  CULTURELE VERANDERINGEN IN NEDERLAND 1978
+
+VAR103    OVERHEID: MEER GOEDE EN GOEDKOPE WONINGE
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+STERK MEE EENS                  1       384     39.0     40.1     40.1
+EENS                            2       406     41.2     42.4     82.5
+NOCH NOCH                       3       108     11.0     11.3     93.8
+ONEENS                          4        49      5.0      5.1     99.0
+STERK ONEENS                    5        10      1.0      1.0    100.0
+                               -6         8       .8   Missing
+                               -3        20      2.0   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     957      Missing cases     28
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR105    OVERHEID: MINIMUMLOON STERKER STIJGEN
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+STERK MEE EENS                  1       193     19.6     20.6     20.6
+EENS                            2       254     25.8     27.1     47.7
+NOCH NOCH                       3       201     20.4     21.4     69.1
+ONEENS                          4       210     21.3     22.4     91.5
+STERK ONEENS                    5        80      8.1      8.5    100.0
+                               -6         9       .9   Missing
+                               -3        38      3.9   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     938      Missing cases     47
+25 Apr 95 SPSS Release 4.0 for Sun 4                                     Page 11
+17:38:37  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0739  CULTURELE VERANDERINGEN IN NEDERLAND 1978
+
+VAR107    OVERHEID: ONDERWIJS TOT 18 JAAR GRATIS
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+STERK MEE EENS                  1       250     25.4     26.6     26.6
+EENS                            2       371     37.7     39.4     66.0
+NOCH NOCH                       3       154     15.6     16.4     82.4
+ONEENS                          4       134     13.6     14.2     96.6
+STERK ONEENS                    5        32      3.2      3.4    100.0
+                               -6         7       .7   Missing
+                               -3        37      3.8   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     941      Missing cases     44
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR109    OVERHEID: BESTRIJDING MILIEUVERONTREINIG
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+STERK MEE EENS                  1       419     42.5     44.0     44.0
+EENS                            2       397     40.3     41.7     85.6
+NOCH NOCH                       3        86      8.7      9.0     94.6
+ONEENS                          4        30      3.0      3.1     97.8
+STERK ONEENS                    5        21      2.1      2.2    100.0
+                               -6         6       .6   Missing
+                               -3        26      2.6   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     953      Missing cases     32
+25 Apr 95 SPSS Release 4.0 for Sun 4                                     Page 12
+17:38:37  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0739  CULTURELE VERANDERINGEN IN NEDERLAND 1978
+
+VAR121    OVERHEID: LEERPLICHT TOT 18 JAAR
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+STERK MEE EENS                  1       117     11.9     12.5     12.5
+EENS                            2       228     23.1     24.4     36.9
+NOCH NOCH                       3       199     20.2     21.3     58.1
+ONEENS                          4       275     27.9     29.4     87.5
+STERK ONEENS                    5       117     11.9     12.5    100.0
+                               -6        10      1.0   Missing
+                               -3        39      4.0   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     936      Missing cases     49
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR122    OVERHEID: MEER SUBSIDIE KUNST
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+STERK MEE EENS                  1        18      1.8      2.0      2.0
+EENS                            2       115     11.7     12.6     14.6
+NOCH NOCH                       3       202     20.5     22.1     36.7
+ONEENS                          4       339     34.4     37.1     73.8
+STERK ONEENS                    5       239     24.3     26.2    100.0
+                               -6         7       .7   Missing
+                               -3        65      6.6   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     913      Missing cases     72
+25 Apr 95 SPSS Release 4.0 for Sun 4                                     Page 13
+17:38:37  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0739  CULTURELE VERANDERINGEN IN NEDERLAND 1978
+
+VAR124    OVERHEID: MEER GOEDKOPE CRECHES
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+STERK MEE EENS                  1       112     11.4     12.0     12.0
+EENS                            2       245     24.9     26.3     38.3
+NOCH NOCH                       3       165     16.8     17.7     55.9
+ONEENS                          4       237     24.1     25.4     81.4
+STERK ONEENS                    5       174     17.7     18.6    100.0
+                               -6         6       .6   Missing
+                               -3        46      4.7   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     933      Missing cases     52
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR137    PERSONEEL ONTSLAAN BIJ VERLIES
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+WEL VERANTWOORD                 1       387     39.3     55.2     55.2
+NIET VERANTWOORD                2       314     31.9     44.8    100.0
+                               -6         5       .5   Missing
+                               -5       164     16.6   Missing
+                               -3       115     11.7   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     701      Missing cases    284
+25 Apr 95 SPSS Release 4.0 for Sun 4                                     Page 14
+17:38:37  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0739  CULTURELE VERANDERINGEN IN NEDERLAND 1978
+
+VAR138    NIEUWE DIREKTIE BIJ VERLIES
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+WEL VERANTWOORD                 1       425     43.1     68.2     68.2
+NIET VERANTWOORD                2       198     20.1     31.8    100.0
+                               -6         5       .5   Missing
+                               -5       164     16.6   Missing
+                               -3       193     19.6   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     623      Missing cases    362
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR139    LOONSVERLAGING BIJ VERLIES
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+WEL VERANTWOORD                 1       173     17.6     24.2     24.2
+NIET VERANTWOORD                2       542     55.0     75.8    100.0
+                               -6         8       .8   Missing
+                               -5       164     16.6   Missing
+                               -3        98      9.9   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     715      Missing cases    270
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR140    TIJDELIJKE OVERHEIDSSUBSIDIES BIJ VERLIE
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+WEL VERANTWOORD                 1       681     69.1     91.0     91.0
+NIET VERANTWOORD                2        67      6.8      9.0    100.0
+                               -6         5       .5   Missing
+                               -5       164     16.6   Missing
+                               -3        68      6.9   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     748      Missing cases    237
+25 Apr 95 SPSS Release 4.0 for Sun 4                                     Page 15
+17:38:38  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0739  CULTURELE VERANDERINGEN IN NEDERLAND 1978
+
+VAR515    WERKKRING HUISVROUW
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+AANBEVELENSWAARD                1       144     14.6     15.6     15.6
+GEEN BEZWAAR                    2       373     37.9     40.5     56.1
+BEZWAAR                         3       404     41.0     43.9    100.0
+                               -6        10      1.0   Missing
+                               -3        54      5.5   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     921      Missing cases     64
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR737    HERWEGINGSGEWICHTEN
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+                                5         7       .7       .7       .7
+                                6        59      6.0      6.0      6.7
+                                7       106     10.8     10.8     17.5
+                                8       143     14.5     14.5     32.0
+                                9       108     11.0     11.0     42.9
+                               10       136     13.8     13.8     56.8
+                               11       133     13.5     13.5     70.3
+                               12        53      5.4      5.4     75.6
+                               13        88      8.9      8.9     84.6
+                               14        81      8.2      8.2     92.8
+                               15        23      2.3      2.3     95.1
+                               16        12      1.2      1.2     96.3
+                               17        22      2.2      2.2     98.6
+                               18        12      1.2      1.2     99.8
+                               20         1       .1       .1     99.9
+                               21         1       .1       .1    100.0
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     985      Missing cases      0
+25 Apr 95 SPSS Release 4.0 for Sun 4                                     Page 16
+17:38:38  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0739  CULTURELE VERANDERINGEN IN NEDERLAND 1978
+
+VAR728A   ONTSLAG: WERKNEMER GEZIN - ONGEHUWD
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+MET GEZIN                       1        25      2.5      2.6      2.6
+ZONDER GEZIN                    2       632     64.2     66.5     69.2
+GEEN VERSCHIL                   3       293     29.7     30.8    100.0
+                               -6         1       .1   Missing
+                               -3        34      3.5   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     950      Missing cases     35
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR728B   ONTSLAG: BUITENLANDER - HOLLANDER
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+BUITENLANDER                    1       379     38.5     40.0     40.0
+HOLLANDER                       2        26      2.6      2.7     42.7
+GEEN VERSCHIL                   3       543     55.1     57.3    100.0
+                               -6         1       .1   Missing
+                               -3        36      3.7   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     948      Missing cases     37
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR728C   ONTSLAG: MAN - VROUW
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+MAN                             1        21      2.1      2.2      2.2
+VROUW                           2       481     48.8     50.5     52.7
+GEEN VERSCHIL                   3       450     45.7     47.3    100.0
+                               -6         1       .1   Missing
+                               -3        32      3.2   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     952      Missing cases     33
+25 Apr 95 SPSS Release 4.0 for Sun 4                                     Page 17
+17:38:38  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0739  CULTURELE VERANDERINGEN IN NEDERLAND 1978
+
+VAR728D   ONTSLAG: SURINAMER - HOLLANDER
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+SURINAMER                       1       283     28.7     30.3     30.3
+HOLLANDER                       2        16      1.6      1.7     32.0
+GEEN VERSCHIL                   3       636     64.6     68.0    100.0
+                               -6         1       .1   Missing
+                               -3        49      5.0   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     935      Missing cases     50
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR728E   ONTSLAG: JONGERE - OUDERE
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+JONGERE                         1       252     25.6     28.2     28.2
+OUDERE                          2       299     30.4     33.4     61.6
+GEEN VERSCHIL                   3       343     34.8     38.4    100.0
+                               -6         1       .1   Missing
+                               -3        90      9.1   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     894      Missing cases     91
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR728F   ONTSLAG: BLANKE - NIET BLANKE
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+BLANKE                          1        14      1.4      1.5      1.5
+NIET BLANKE                     2       128     13.0     13.8     15.3
+GEEN VERSCHIL                   3       787     79.9     84.7    100.0
+                               -6         2       .2   Missing
+                               -3        54      5.5   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     929      Missing cases     56
+25 Apr 95 SPSS Release 4.0 for Sun 4                                     Page 18
+17:38:38  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0739  CULTURELE VERANDERINGEN IN NEDERLAND 1978
+
+VAR729A   PROMOTIE: WERKNEMER GEZIN - ONGEHUWD
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+MET GEZIN                       1       389     39.5     41.4     41.4
+ZONDER GEZIN                    2        22      2.2      2.3     43.8
+GEEN VERSCHIL                   3       528     53.6     56.2    100.0
+                               -6         3       .3   Missing
+                               -3        43      4.4   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     939      Missing cases     46
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR729B   PROMOTIE: BUITENLANDER - HOLLANDER
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+BUITENLANDER                    1        15      1.5      1.6      1.6
+HOLLANDER                       2       283     28.7     30.2     31.8
+GEEN VERSCHIL                   3       640     65.0     68.2    100.0
+                               -6         3       .3   Missing
+                               -3        44      4.5   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     938      Missing cases     47
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR729C   PROMOTIE: MAN - VROUW
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+MAN                             1       324     32.9     34.3     34.3
+VROUW                           2        23      2.3      2.4     36.7
+GEEN VERSCHIL                   3       598     60.7     63.3    100.0
+                               -6         3       .3   Missing
+                               -3        37      3.8   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     945      Missing cases     40
+25 Apr 95 SPSS Release 4.0 for Sun 4                                     Page 19
+17:38:38  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0739  CULTURELE VERANDERINGEN IN NEDERLAND 1978
+
+VAR729D   PROMOTIE: SURINAMER - HOLLANDER
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+SURINAMER                       1        13      1.3      1.4      1.4
+HOLLANDER                       2       229     23.2     24.4     25.7
+GEEN VERSCHIL                   3       698     70.9     74.3    100.0
+                               -6         4       .4   Missing
+                               -3        41      4.2   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     940      Missing cases     45
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR729E   PROMOTIE: JONGERE - OUDERE
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+JONGERE                         1       197     20.0     21.5     21.5
+OUDERE                          2       217     22.0     23.7     45.2
+GEEN VERSCHIL                   3       502     51.0     54.8    100.0
+                               -6         4       .4   Missing
+                               -3        65      6.6   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     916      Missing cases     69
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR729F   PROMOTIE: BLANKE - NIET BLANKE
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+BLANKE                          1       137     13.9     14.7     14.7
+NIET BLANKE                     2        18      1.8      1.9     16.7
+GEEN VERSCHIL                   3       775     78.7     83.3    100.0
+                               -6         3       .3   Missing
+                               -3        52      5.3   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     930      Missing cases     55
+25 Apr 95 SPSS Release 4.0 for Sun 4                                     Page 20
+17:38:38  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0739  CULTURELE VERANDERINGEN IN NEDERLAND 1978
+
+VAR546    ANDER RAS ALS BUREN
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+GEEN BEZWAAR                    1       584     59.3     60.6     60.6
+HANGT ER VAN AF                 2       145     14.7     15.1     75.7
+MINDER PRETTIG                  3       221     22.4     22.9     98.7
+VERZET                          4        13      1.3      1.3    100.0
+                               -6         2       .2   Missing
+                               -3        20      2.0   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     963      Missing cases     22
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR730    BESCHOUWING OVER ANDERE HUIDSKLEUR
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+MINDERE                         2        33      3.4      3.6      3.6
+GELIJKE                         3       883     89.6     96.4    100.0
+                               -6         8       .8   Missing
+                               -3        61      6.2   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     916      Missing cases     69
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR725A   BEZOEK HOMEOPAAT
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+HOMEOPAAT                       1        10      1.0    100.0    100.0
+                               -5       949     96.3   Missing
+                               -2        26      2.6   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases      10      Missing cases    975
+25 Apr 95 SPSS Release 4.0 for Sun 4                                     Page 21
+17:38:38  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0739  CULTURELE VERANDERINGEN IN NEDERLAND 1978
+
+VAR725B   BEZOEK ACUPUNCTURIST
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+ACUPUNCTURIST                   1         6       .6    100.0    100.0
+                               -5       949     96.3   Missing
+                               -2        30      3.0   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases       6      Missing cases    979
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR725C   BEZOEK KRUIDENDOKTER
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+KRUIDENDOKTER                   1         5       .5    100.0    100.0
+                               -5       949     96.3   Missing
+                               -2        31      3.1   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases       5      Missing cases    980
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR725F   BEZOEK OSTEOPAAT GEEN ARTS
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+                               -5       949     96.3   Missing
+                               -2        36      3.7   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases       0      Missing cases    985
+25 Apr 95 SPSS Release 4.0 for Sun 4                                     Page 22
+17:38:38  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0739  CULTURELE VERANDERINGEN IN NEDERLAND 1978
+
+VAR725G   BEZOEK CHIROPRAKTIKER
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+CHIROPRAKTIKER                  1         3       .3    100.0    100.0
+                               -5       949     96.3   Missing
+                               -2        33      3.4   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases       3      Missing cases    982
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR725H   BEZOEK GEBEDSGENEZER
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+                               -5       949     96.3   Missing
+                               -2        36      3.7   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases       0      Missing cases    985
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR725J   BEZOEK HANDOPLEGGER
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+HANDOPLEGGER                    1         1       .1    100.0    100.0
+                               -5       949     96.3   Missing
+                               -2        35      3.6   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases       1      Missing cases    984
+25 Apr 95 SPSS Release 4.0 for Sun 4                                     Page 23
+17:38:38  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0739  CULTURELE VERANDERINGEN IN NEDERLAND 1978
+
+VAR725L   BEZOEK STRIJKER
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+STRIJKER                        1         2       .2    100.0    100.0
+                               -5       949     96.3   Missing
+                               -2        34      3.5   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases       2      Missing cases    983
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR725M   BEZOEK MAGNETISEUR
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+MAGNETISEUR                     1         2       .2    100.0    100.0
+                               -5       949     96.3   Missing
+                               -2        34      3.5   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases       2      Missing cases    983
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR725O   BEZOEK IRISCOPIST
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+IRISCOPIST                      1         3       .3    100.0    100.0
+                               -5       949     96.3   Missing
+                               -2        33      3.4   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases       3      Missing cases    982
+25 Apr 95 SPSS Release 4.0 for Sun 4                                     Page 24
+17:38:38  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0739  CULTURELE VERANDERINGEN IN NEDERLAND 1978
+
+VAR725P   BEZOEK ANDERE GENEZER
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+ANDERE GENEZER                  1         7       .7    100.0    100.0
+                               -5       949     96.3   Missing
+                               -2        29      2.9   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases       7      Missing cases    978
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR725Q
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+                               -5       985    100.0   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases       0      Missing cases    985
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR726    BAAT BIJ ALTERNATIEVE GENEZER GEHAD
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+JA                              1        30      3.0     85.7     85.7
+NEE                             2         2       .2      5.7     91.4
+                                3         3       .3      8.6    100.0
+                               -6         1       .1   Missing
+                               -5       949     96.3   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases      35      Missing cases    950
+25 Apr 95 SPSS Release 4.0 for Sun 4                                     Page 25
+17:38:38  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0739  CULTURELE VERANDERINGEN IN NEDERLAND 1978
+
+VAR727A   GOED DAT ER ALTERNATIEVE GENEZERS ZIJN
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+STERK MEE EENS                  1        91      9.2     10.8     10.8
+MEE EENS                        2       376     38.2     44.5     55.3
+NOCH NOCH                       3       202     20.5     23.9     79.3
+ONEENS                          4       115     11.7     13.6     92.9
+STERK ONEENS                    5        60      6.1      7.1    100.0
+                               -6        12      1.2   Missing
+                               -3       129     13.1   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     844      Missing cases    141
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR727B   ALTERNATIEVE GENEZERS GEVAAR VOOR MAATSC
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+STERK MEE EENS                  1        39      4.0      4.8      4.8
+MEE EENS                        2        99     10.1     12.1     16.9
+NOCH NOCH                       3       208     21.1     25.5     42.4
+ONEENS                          4       338     34.3     41.4     83.8
+STERK ONEENS                    5       132     13.4     16.2    100.0
+                               -6        10      1.0   Missing
+                               -3       159     16.1   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     816      Missing cases    169
+25 Apr 95 SPSS Release 4.0 for Sun 4                                     Page 26
+17:38:38  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0739  CULTURELE VERANDERINGEN IN NEDERLAND 1978
+
+VAR727C   KUNNEN NIET DANKBAAR GENOEG ZIJN
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+STERK MEE EENS                  1        54      5.5      6.7      6.7
+MEE EENS                        2       199     20.2     24.6     31.2
+NOCH NOCH                       3       300     30.5     37.0     68.3
+ONEENS                          4       193     19.6     23.8     92.1
+STERK ONEENS                    5        64      6.5      7.9    100.0
+                               -6        12      1.2   Missing
+                               -3       163     16.5   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     810      Missing cases    175
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR727D   POLITIE STRENG OPTREDEN TEGEN GENEZERS
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+STERK MEE EENS                  1        34      3.5      4.1      4.1
+MEE EENS                        2       101     10.3     12.2     16.3
+NOCH NOCH                       3       163     16.5     19.7     35.9
+ONEENS                          4       351     35.6     42.3     78.3
+STERK ONEENS                    5       180     18.3     21.7    100.0
+                               -6        12      1.2   Missing
+                               -3       144     14.6   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     829      Missing cases    156
+25 Apr 95 SPSS Release 4.0 for Sun 4                                     Page 27
+17:38:38  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0739  CULTURELE VERANDERINGEN IN NEDERLAND 1978
+
+VAR727E   BAAT NIET SCHAADT NIET
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+STERK MEE EENS                  1        60      6.1      7.2      7.2
+MEE EENS                        2       357     36.2     42.8     50.0
+NOCH NOCH                       3       189     19.2     22.7     72.7
+ONEENS                          4       181     18.4     21.7     94.4
+STERK ONEENS                    5        47      4.8      5.6    100.0
+                               -6        12      1.2   Missing
+                               -3       139     14.1   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     834      Missing cases    151
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR727F   MENSEN VOOR BEHANDELING ADVIES TEGENH.
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+STERK MEE EENS                  1        32      3.2      3.8      3.8
+MEE EENS                        2        95      9.6     11.4     15.2
+NOCH NOCH                       3       177     18.0     21.2     36.4
+ONEENS                          4       385     39.1     46.1     82.4
+STERK ONEENS                    5       147     14.9     17.6    100.0
+                               -6        10      1.0   Missing
+                               -3       139     14.1   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     836      Missing cases    149
+25 Apr 95 SPSS Release 4.0 for Sun 4                                     Page 28
+17:38:38  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0739  CULTURELE VERANDERINGEN IN NEDERLAND 1978
+
+VAR727G   BEHANDELING DOOR ZIEKENFONDS VERGOEDEN
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+STERK MEE EENS                  1        53      5.4      6.4      6.4
+MEE EENS                        2       156     15.8     18.9     25.3
+NOCH NOCH                       3       190     19.3     23.0     48.4
+ONEENS                          4       256     26.0     31.0     79.4
+STERK ONEENS                    5       170     17.3     20.6    100.0
+                               -6        10      1.0   Missing
+                               -3       150     15.2   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     825      Missing cases    160
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR003    BURGELIJKE STAAT
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+GEHUWD                          1       804     81.6     82.2     82.2
+ONGEHUWD                        2       118     12.0     12.1     94.3
+GESCHEIDEN                      3        20      2.0      2.0     96.3
+WEDUWSTAAT                      4        36      3.7      3.7    100.0
+                               -6         7       .7   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     978      Missing cases      7
+25 Apr 95 SPSS Release 4.0 for Sun 4                                     Page 29
+17:38:38  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0739  CULTURELE VERANDERINGEN IN NEDERLAND 1978
+
+VAR006    OPLEIDING
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+LAGER+ VGLO-LAVO                1       298     30.3     30.5     30.5
+LAGER + VAKSCH                  2       242     24.6     24.8     55.3
+VOORTGEZ.ONDERWY                3       119     12.1     12.2     67.5
+VOORTGEZ+ VAKSCH                4       112     11.4     11.5     79.0
+MIDDELB.ONDERWYS                5        46      4.7      4.7     83.7
+HBO OF MIDVAKSCH                6       121     12.3     12.4     96.1
+UNIV OF MO                      7        38      3.9      3.9    100.0
+                               -6         9       .9   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     976      Missing cases      9
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR007    OPLEIDING WEL - NIET VOLTOOID
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+WEL VOLTOOID                    1       600     60.9     80.1     80.1
+NIET VOLTOOID                   2        99     10.1     13.2     93.3
+MEE BEZIG                       3        50      5.1      6.7    100.0
+                               -6         2       .2   Missing
+                               -5       234     23.8   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     749      Missing cases    236
+25 Apr 95 SPSS Release 4.0 for Sun 4                                     Page 30
+17:38:38  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0739  CULTURELE VERANDERINGEN IN NEDERLAND 1978
+
+VAR012    GEMIDDELD UREN WERKEN PER WEEK
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+TOT 15 UUR                      1       161     16.3     17.4     17.4
+15 TOT 25 UUR                   2        75      7.6      8.1     25.5
+25 UUR EN MEER                  3       689     69.9     74.5    100.0
+                               -2        60      6.1   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     925      Missing cases     60
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR013    WERKZAAMHEID
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+GEEN BEROEP                     1       527     53.5     53.8     53.8
+LOONDIENST OVERH                2       123     12.5     12.6     66.4
+LNDNST NIETOVERH                3       275     27.9     28.1     94.5
+MEEWERK GEZINLID                4        24      2.4      2.5     96.9
+ZELFSTANDIGE                    5        30      3.0      3.1    100.0
+                               -6         6       .6   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     979      Missing cases      6
+25 Apr 95 SPSS Release 4.0 for Sun 4                                     Page 31
+17:38:38  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0739  CULTURELE VERANDERINGEN IN NEDERLAND 1978
+
+VAR014    REKENT ZICH TOT GROEP
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+HUISVROUW                       1       346     35.1     66.4     66.4
+WERKLOOS                        2        17      1.7      3.3     69.7
+GEPENSIONEERD                   3        70      7.1     13.4     83.1
+MILITAIRE DIENST                4         1       .1       .2     83.3
+ZOEKT EERSTEWERK                5         2       .2       .4     83.7
+SCHOLIER-STUDENT                6        47      4.8      9.0     92.7
+ANDERS                          7        38      3.9      7.3    100.0
+                               -6         6       .6   Missing
+                               -5       458     46.5   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     521      Missing cases    464
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR015    VROEGERE WERKZAAMHEID
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+HAD GEEN BEROEP                 1        99     10.1     23.5     23.5
+LOONDIENST OVERH                2        69      7.0     16.4     39.8
+LNDNST NIETOVERH                3       216     21.9     51.2     91.0
+MEEWERK GEZINLID                4        23      2.3      5.5     96.4
+ZELFSTANDIGE                    5        15      1.5      3.6    100.0
+                               -6        11      1.1   Missing
+                               -5       552     56.0   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     422      Missing cases    563
+25 Apr 95 SPSS Release 4.0 for Sun 4                                     Page 32
+17:38:38  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0739  CULTURELE VERANDERINGEN IN NEDERLAND 1978
+
+VAR016    BEROEP
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+DIREKT. >=10 MAN                1         3       .3       .4       .4
+DIREKT. <=9  MAN                2        31      3.1      4.3      4.7
+HOGER VRY BEROEP                3         3       .3       .4      5.1
+BOEREN + TUINDER                4         7       .7      1.0      6.1
+HOGERE EMPLOYE                  5        24      2.4      3.3      9.4
+MIDDELB EMPLOYE                 6       141     14.3     19.5     28.9
+LAGERE EMPLOYE                  7       238     24.2     33.0     61.9
+GESCHOOLDE ARBEID               8       154     15.6     21.3     83.2
+ONGESCH. ARBEIDER               9       121     12.3     16.8    100.0
+                               -5       205     20.8   Missing
+                               -3        58      5.9   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     722      Missing cases    263
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR200    GELOVIG ZONDER KERKBEZOEK
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+JA, DAT KAN                     1       857     87.0     92.6     92.6
+NEE, DAT KAN NIET               2        68      6.9      7.4    100.0
+                               -6         9       .9   Missing
+                               -3        51      5.2   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     925      Missing cases     60
+25 Apr 95 SPSS Release 4.0 for Sun 4                                     Page 33
+17:38:38  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0739  CULTURELE VERANDERINGEN IN NEDERLAND 1978
+
+VAR201    GODSDIENST
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+GEEN                            1       369     37.5     37.8     37.8
+ROOMS KATHOLIEK                 2       316     32.1     32.4     70.2
+NED. HERVORMD                   3       171     17.4     17.5     87.7
+GEREFORMEERD                    4        94      9.5      9.6     97.3
+ANDERS                          5        26      2.6      2.7    100.0
+                               -6         9       .9   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     976      Missing cases      9
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR462    INKOMEN BRUTO PER JAAR
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+MINDER DAN 15000                1        71      7.2     10.2     10.2
+15000 TOT 19000                 2        69      7.0      9.9     20.0
+19000 TOT 24000                 3       119     12.1     17.0     37.1
+24000 TOT 29000                 4       140     14.2     20.0     57.1
+29000 TOT 33500                 5       104     10.6     14.9     72.0
+33500 TOT 42000                 6        94      9.5     13.4     85.4
+42000 TOT 50000                 7        50      5.1      7.2     92.6
+50000 TOT 60000                 8        26      2.6      3.7     96.3
+60000 EN MEER                   9        26      2.6      3.7    100.0
+                               -3        88      8.9   Missing
+                               -2       198     20.1   Missing
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     699      Missing cases    286
+25 Apr 95 SPSS Release 4.0 for Sun 4                                     Page 34
+17:38:38  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0739  CULTURELE VERANDERINGEN IN NEDERLAND 1978
+
+VAR736    LEEFTIJD HUISVROUW
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+13 TM 17 JAAR                   1         2       .2       .2       .2
+18 TM 24 JAAR                   2        79      8.0      8.0      8.2
+25 TM 29 JAAR                   3       147     14.9     14.9     23.1
+30 TM 34 JAAR                   4       143     14.5     14.5     37.7
+35 TM 39 JAAR                   5       102     10.4     10.4     48.0
+40 TM 44 JAAR                   6        98      9.9      9.9     58.0
+45 TM 49 JAAR                   7       101     10.3     10.3     68.2
+50 TM 54 JAAR                   8        81      8.2      8.2     76.4
+55 TM 59 JAAR                   9        80      8.1      8.1     84.6
+60 TM 64 JAAR                  10        68      6.9      6.9     91.5
+65 JAAR EO.                    11        84      8.5      8.5    100.0
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     985      Missing cases      0
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR009    OPLEIDING HOOFDKOSTWINNER
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+LAGER+ VGLO-LAVO                1       265     26.9     26.9     26.9
+LAGER + VAKSCH                  2       268     27.2     27.2     54.1
+VOORTGEZ.ONDERWY                3        93      9.4      9.4     63.6
+VOORTGEZ+ VAKSCH                4       125     12.7     12.7     76.2
+MIDDELB.ONDERWYS                5        33      3.4      3.4     79.6
+HBO OF MIDVAKSCH                6       140     14.2     14.2     93.8
+UNIV OF MO                      7        61      6.2      6.2    100.0
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     985      Missing cases      0
+25 Apr 95 SPSS Release 4.0 for Sun 4                                     Page 35
+17:38:38  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0739  CULTURELE VERANDERINGEN IN NEDERLAND 1978
+
+VAR734    WELSTAND
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+HOOG                            1       101     10.3     10.3     10.3
+                                2       141     14.3     14.3     24.6
+                                3       198     20.1     20.1     44.7
+                                4       420     42.6     42.6     87.3
+LAAG                            5       125     12.7     12.7    100.0
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     985      Missing cases      0
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR733    GROOTTE HUISHOUDING
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+1 PERSOON                       1        64      6.5      6.5      6.5
+                                2       310     31.5     31.5     38.0
+                                3       198     20.1     20.1     58.1
+                                4       266     27.0     27.0     85.1
+                                5        84      8.5      8.5     93.6
+                                6        38      3.9      3.9     97.5
+                                7        10      1.0      1.0     98.5
+                                8         7       .7       .7     99.2
+9 PERS. EN MEER                 9         8       .8       .8    100.0
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     985      Missing cases      0
+25 Apr 95 SPSS Release 4.0 for Sun 4                                     Page 36
+17:38:38  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0739  CULTURELE VERANDERINGEN IN NEDERLAND 1978
+
+VAR732    SAMENSTELLING HUISHOUDING
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+1PERS. <=34 JR                  1        18      1.8      1.8      1.8
+1PERS. >=35 JR                  2        46      4.7      4.7      6.5
+PAAR,VROUW<=34JR                3       101     10.3     10.3     16.8
+PAAR,VROUW>=35JR                4       284     28.8     28.8     45.6
+GEZIN,KIND 0-5JR                5       137     13.9     13.9     59.5
+GEZ.,KIND 6-12JR                6       113     11.5     11.5     71.0
+GEZ.,KIND13-17JR                7       109     11.1     11.1     82.0
+GEZ.,KIND 0-12JR                8        80      8.1      8.1     90.2
+GEZKIND0-5,13-17                9         3       .3       .3     90.5
+GEZ.,KIND 6-17JR               10        90      9.1      9.1     99.6
+GEZ.,KIND 0-17JR               11         4       .4       .4    100.0
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     985      Missing cases      0
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+VAR629    PROVINCIE
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+GRONINGEN                       1        46      4.7      4.7      4.7
+FRIESLAND                       2        44      4.5      4.5      9.1
+DRENTHE                         3        19      1.9      1.9     11.1
+OVERIJSSEL                      4        86      8.7      8.7     19.8
+GELDERLAND                      5       103     10.5     10.5     30.3
+UTRECHT                         6        49      5.0      5.0     35.2
+NOORD-HOLLAND                   7       159     16.1     16.1     51.4
+ZUID-HOLLAND                    8       205     20.8     20.8     72.2
+ZEELAND                         9        43      4.4      4.4     76.5
+NOORD-BRABANT                  10       140     14.2     14.2     90.8
+LIMBURG                        11        91      9.2      9.2    100.0
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     985      Missing cases      0
+25 Apr 95 SPSS Release 4.0 for Sun 4                                     Page 37
+17:38:38  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+File:     P0739  CULTURELE VERANDERINGEN IN NEDERLAND 1978
+
+VAR631    URBANISATIEGRAAD
+
+
+                                                        Valid     Cum
+Value Label                 Value  Frequency  Percent  Percent  Percent
+
+PLATTELAND GEM.                 1       103     10.5     10.5     10.5
+VERST.PLATLGEM                  2       245     24.9     24.9     35.3
+FORENSENGEM.                    3       119     12.1     12.1     47.4
+KLEINE STEDEN                   4        94      9.5      9.5     57.0
+MIDDLGRTE STEDEN                5       191     19.4     19.4     76.3
+GROTE STEDEN                    6       233     23.7     23.7    100.0
+                                     -------  -------  -------
+                            Total       985    100.0    100.0
+
+Valid cases     985      Missing cases      0
+25 Apr 95 SPSS Release 4.0 for Sun 4                                     Page 38
+17:38:39  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+
+Preceding task required 2.98 seconds CPU time;  6.21 seconds elapsed.
+
+->      set listing 'p0739.dic'.

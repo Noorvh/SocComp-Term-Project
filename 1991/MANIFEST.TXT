@@ -1,0 +1,7 @@
+dat/p1108.doc (application/msword) 37498 bytes.
+dat/p1108.pdf (application/pdf) 2006936 bytes.
+dat/p1108.frq (application/octet-stream) 528222 bytes.
+easy-migration.zip (application/zip) 33994 bytes.
+additional-metadata-P1108.xml (text/xml) 1877 bytes.
+dat/p1108.dic (text/x-c) 271762 bytes.
+dat/p1108.por (application/x-spss-por) 2474712 bytes.

@@ -1,0 +1,361 @@
+->      display dictionary.
+31 Oct 94 SPSS Release 4.0 for Sun 4                                     Page 16
+10:53:15  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+
+            List of variables on the active file
+
+Name                                                                   Position
+
+RESPNR                                                                        1
+          Print Format: F6
+          Write Format: F6
+ 
+VAR001    RESIDENCE                                                           2
+          Print Format: F2
+          Write Format: F2
+ 
+VAR002    AGE CATEGORIZED                                                     3
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 9
+
+          Value    Label
+
+              1    18-20
+              2    21-24
+              3    25-34
+              4    35-49
+              5    50-64
+              6    65 AND OLDER
+              9 M  NO ANSWER
+ 
+VAR003    SEX AND MARITAL STATUS-SEE VAR025,VAR026                            4
+          Print Format: F1
+          Write Format: F1
+
+          Value    Label
+
+              9    NO ANSWER
+ 
+VAR004    DEMONSTRATING                                                       5
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 9
+
+          Value    Label
+
+              1    MUST BE FREE
+              2    MUST BE RESTRICTED
+              9 M  NO ANSWER
+ 
+31 Oct 94 SPSS Release 4.0 for Sun 4                                     Page 17
+10:53:15  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+
+VAR005    CRITICISM OF ROYAL FAMILY                                           6
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 9
+
+          Value    Label
+
+              1    MUST BE FREE
+              2    MUST BE RESTRICTED
+              9 M  NO ANSWER
+ 
+VAR006    STRIKING FOR PAY-RISE                                               7
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 9
+
+          Value    Label
+
+              1    MUST BE FREE
+              2    MUST BE RESTRICTED
+              9 M  NO ANSWER
+ 
+VAR007    CONSCIENTIOUS OBJECTION                                             8
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 9
+
+          Value    Label
+
+              1    MUST BE FREE
+              2    MUST BE RESTRICTED
+              9 M  NO ANSWER
+ 
+VAR008    PUBLICLY WRITING WHAT ONE WANTS                                     9
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 9
+
+          Value    Label
+
+              1    MUST BE FREE
+              2    MUST BE RESTRICTED
+              9 M  NO ANSWER
+ 
+31 Oct 94 SPSS Release 4.0 for Sun 4                                     Page 18
+10:53:15  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+
+VAR009    MAY CHILDREN SAY "JY" TO THEIR PARENTS                             10
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 9
+
+          Value    Label
+
+              1    FOR
+              2    NOT IMPORTANT
+              3    AGAINST
+              9 M  NO ANSWER
+ 
+VAR010    COUPLE DONT WANT CHILDREN,NO MED.OBJCTN                            11
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 9
+
+          Value    Label
+
+              1    APPROVE
+              2    IT DEPENDS
+              3    DISAPPROVE
+              9 M  NO ANSWER
+ 
+VAR011    MOTHER WITH SCHOOLGOING CHILDRN HAS WORK                           12
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 9
+
+          Value    Label
+
+              1    OBJECTION
+              2    NO OBJECTION
+              3    APPROVE
+              9 M  NO ANSWER
+ 
+VAR012    MARRIED WOMAN HAS AFFAIR WITH OTHER MAN                            13
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 9
+
+          Value    Label
+
+              1    INADMISSIBLE
+              2    SOMETMS JUSTIFIABLE
+              9 M  NO ANSWER
+ 
+31 Oct 94 SPSS Release 4.0 for Sun 4                                     Page 19
+10:53:15  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+
+VAR013    GIRL MUST STAY VIRGIN UNTIL MARRIAGE                               14
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 9
+
+          Value    Label
+
+              1    AGREE FULLY
+              2    AGREE
+              3    DISAGREE
+              4    DISAGREE FULLY
+              9 M  NO ANSWER
+ 
+VAR014    IS ABORTION SOMETIMES JUSTIFIABLE                                  15
+          Print Format: F1
+          Write Format: F1
+
+          Value    Label
+
+              1    SOME CIRCUMSTANCES
+              2    UNDER NO CIRCUMST
+              9    NO ANSWER
+ 
+VAR015    MAY HOMOSEXUALS LIVE THEIR OWN LIFE                                16
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 9
+
+          Value    Label
+
+              1    OWN LIFE
+              2    TRY TO RESTRICT IT
+              9 M  NO ANSWER
+ 
+VAR016    MARRIED MAN HAS AFFAIR WITH OTHER WOMAN                            17
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 9
+
+          Value    Label
+
+              1    INADMISSIBLE
+              2    SOMETMS JUSTIFIABLE
+              9 M  NO ANSWER
+ 
+31 Oct 94 SPSS Release 4.0 for Sun 4                                     Page 20
+10:53:15  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+
+VAR017    SUPRANATIONAL EUR.GOVT.OR NETH.INDEPNDNT                           18
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 9
+
+          Value    Label
+
+              1    EUROPEAN GOVT
+              2    STAY INDEPENDENT
+              9 M  NO ANSWER
+ 
+VAR018    MAY WORKERS OCCUPY FIRM IF DISAGR.W.POLC                           19
+          Print Format: F1
+          Write Format: F1
+
+          Value    Label
+
+              1    ADMISSIBLE
+              2    SOMETIMES ADM
+              3    NEVER ADMISSIBLE
+              9    NO ANSWER
+ 
+VAR019    GROUPS REFUSE TO FOLLOW GOVT.ORDERS                                20
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 9
+
+          Value    Label
+
+              1    ADMISSIBLE
+              2    SOMETIMES ADM
+              3    NEVER ADMISSIBLE
+              9 M  NO ANSWER
+ 
+VAR020    TAKING HOSTAGES,HIJACKING FOR POL.AIMS                             21
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 9
+
+          Value    Label
+
+              1    ADMISSIBLE
+              2    SOMETIMES ADM
+              3    NEVER ADMISSIBLE
+              9 M  NO ANSWER
+ 
+31 Oct 94 SPSS Release 4.0 for Sun 4                                     Page 21
+10:53:15  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+
+VAR021    PARTY VOTED FOR IF PARL.ELECTIONS NOW                              22
+          Print Format: F2
+          Write Format: F2
+          Missing Values: 97, 98
+
+          Value    Label
+
+              1    PVDA
+              2    KVP
+              3    VVD
+              4    ARP
+              5    CHU
+              6    CPN
+              7    PPR
+              8    D'66
+              9    DS'70
+             10    SGP
+             11    BP
+             12    PSP
+             13    GPV
+             14    RKPN
+             15    CDA
+             16    DON'T WANT TO SAY
+             17    WILL NOT VOTE
+             97 M  WILD CODE
+             98 M  DONT KNOW
+ 
+VAR022    CHURCH AFFILIATION                                                 23
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 9
+
+          Value    Label
+
+              1    NONE
+              2    ROMAN CATHOLIC
+              3    DUTCH REFORMED
+              4    REFORMED
+              5    OTHER
+              9 M  NO ANSWER
+ 
+31 Oct 94 SPSS Release 4.0 for Sun 4                                     Page 22
+10:53:15  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+
+VAR023    EDUCATION OF RESP.                                                 24
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 9
+
+          Value    Label
+
+              1    PRIMARY
+              2    LOWER PROFESSIONAL
+              3    SECONDARY,MIDDLE PRF
+              4    GRAMMAR,HIGHER PROF
+              5    UNIVERSITY
+              9 M  NO ANSWER
+ 
+VAR024    GROSS ANNUAL INCOME OF HEAD OF FAMILY                              25
+          Print Format: F2
+          Write Format: F2
+          Missing Values: 99
+
+          Value    Label
+
+              1    UP TO F10000
+              2    F10000-F15000
+              3    F15000-F20000
+              4    F20000-F25000
+              5    F25000-F30000
+              6    F30000-F35000
+              7    F35000-F40000
+              8    F40000-F50000
+              9    MORE THAN F50000
+             99 M  NO ANSWER
+ 
+VAR025    SEX                                                                26
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 9
+
+          Value    Label
+
+              1    MALE
+              2    FEMALE
+              9 M  NO ANSWER
+ 
+31 Oct 94 SPSS Release 4.0 for Sun 4                                     Page 23
+10:53:15  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+
+VAR026    MARITAL STATUS                                                     27
+          Print Format: F1
+          Write Format: F1
+          Missing Values: 9
+
+          Value    Label
+
+              1    MARRIED
+              2    NOT MARRIED
+              3    HAS BEEN MARRIED
+              9 M  NO ANSWER
+ 
+31 Oct 94 SPSS Release 4.0 for Sun 4                                     Page 24
+10:53:15  SPSS for Unix -- STAR          Sun-4            SunOS 4.x.x
+
+->      set listing 'p0140.doc'.

@@ -1,0 +1,467 @@
+
+  21  display labels.
+05 Jun 03                                                               Page 144
+16:07:29  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P1451: Culturele veranderingen in Nederland 1998
+
+            List of variables on the working file
+
+Name     Position  Label
+
+ARESPNR         1  M  0 Uniek respondentnummer
+RESPNR          2  Respondent identificatienummer
+HHNR            3  Huishoudnummer  (=adrescluster)
+HHPNR           4  Eerste of tweede persoon op adres
+ISCO            5  Occupation ISCO 88
+V040            6  M008 Doet op dit moment betaald werk
+V041            7  M011 Vroeger betaald werk gedaan
+V049            8  M015 Dienstverband
+V103            9  M220 Voornaamste bron eigen inkomen
+V200           10  M006 Opleiding alg vormend onderwijs
+V201           11  M007 Opleiding beroepsonderwijs
+V202           12  M011 Aktiviteitenkategorie
+VAR000         13  M00001 1e of 2e persoon
+VAR001         14  M001 Geslacht respondent
+VAR002         15  M002 Leeftijd respondent
+VAR003         16  M003 Burgerlijke staat
+VAR006         17  M005 Laatst genoten opleiding
+VAR016         18  M013 Beroep
+VAR019         19  M019 Voldoende vrije tijd of niet
+VAR040         20  M084 Leest over politiek in ons land
+VAR046         21  M020 Hebt u plezier in uw werk
+VAR047         22  M021 Hebt u het druk in uw werk
+VAR048         23  M024 Werk in toekomst meer vrije tijd
+VAR049         24  M022 Denkt u ook
+VAR050         25  M023 Niet slapen omdat aan werk denkt
+VAR060         26  M036 Andere dingen dan eigen welvaart
+VAR061         27  M037 Met andere dingen bezig zijn
+VAR062         28  M028 Toekomstverwachting voor mensen
+VAR064         29  M055 Vergroot regering welvaart mensen
+VAR065         30  M032 Economische crisis nabije toekomst
+VAR092         31  M035 Opvattingen over gedrag en zeden
+VAR093         32  M034 Maatschappij blijft zoals zij is
+VAR096         33  M033 Overheidsgeld openb voorzieningen
+VAR126         34  M038 Mate waarin men zelf zorgen heeft
+VAR131         35  M039 Zorgen over: geldzaken
+VAR132         36  M040 Zorgen over: politieke toestanden
+VAR133         37  M041 Zorgen over: uw gezondheid
+VAR134         38  M042 Zorgen over: gezin/kinderen
+VAR135         39  M043 Zorgen over: toekomst
+VAR136         40  M044 Zorgen over eigen werkloosheid
+VAR149         41  M053 Tevredenheid met inkomen
+VAR151         42  M054 Inkomen in overeenstemming opl
+VAR153         43  M056 Tevreden over sociale voorzieningen
+VAR154         44  M057 Oordeel AOW
+VAR154A        45  M057 Oordeel Ziektewet
+VAR155         46  M057 Oordeel Algemene Bijstandswet
+VAR156         47  M057 Oordeel Werkloosheidswet (WW)
+VAR157         48  M057 Oordeel Nabestaandenwet
+VAR157A        49  M057 Oordeel Arbeidsongeschikthwet
+VAR164         50  M058 Oordeel inkomensverschillen
+VAR165         51  M059 Gewenste inkomensverschillen
+VAR166         52  M060 Gewenste verschillen bezit
+VAR167         53  M101 Medezeggenschap arbeiders
+05 Jun 03                                                               Page 145
+16:07:29  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+VAR198         54  M061 Grootgebracht in bepaald geloof
+VAR201         55  M063 Behorend tot kerkgenootschap
+VAR204         56  M062 Frequentie kerkgang
+VAR205         57  M066 Geloof in leven na de dood
+VAR220         58  M064 Strengheid voorschriften kerk
+VAR222         59  M067 Keuze voor openbare school
+VAR223         60  M068 Politiek los van godsdienst
+VAR228         61  M069 Politieke partij godsdienstig
+VAR229         62  M065 Allerbelangrijkste in het leven
+VAR239         63  M087 Regering weinig nut dagelijks leven
+VAR271         64  M080 Inspraak studenten moet
+VAR272         65  M080 Inspraak leerlingen MO/PA moet
+VAR273         66  M080 Inspraak burgers moet
+VAR274         67  M082 Zou stemmen verkiezingen 2e kamer
+VAR275         68  M083 Partij waarop men zou stemmen
+VAR318         69  M087 Mensen als ik geen invloed regering
+VAR320         70  M088 Kamerleden letten op belang groepen
+VAR347         71  M097 Abortus mogelijk als vrouw wenst
+VAR408         72  M091 Actiebereidheid bij onrechtv wet
+VAR409         73  M092 Demonstrbereidh bij onrechtv wet
+VAR427         74  M102 Zorgen over milieuverontreiniging
+VAR428         75  M103 Oordeel over bestrijding vervuiling
+VAR433         76  M079 Misdadigers veranderen ipv straffen
+VAR461         77  M081 Links - rechts indeling
+VAR462         78  M127 BRUTO inkomen van huishouden
+VAR491         79  M085 Interesse in politiek
+VAR497         80  M086 Lid (geweest) van politieke partij
+VAR499         81  M100 Lid van vakbond
+VAR501         82  M107 Financi0le bijdrage ontwikkelingsl
+VAR502         83  M108 1% van inkomen afstaan
+VAR539         84  M076 Sex als meisje voor jongen voelt
+VAR540         85  M076 Ooksex als meisje weinig voelt
+VAR544         86  M123 Euthanasie op verzoek dmv spuitje
+VAR546         87  M116 Mensen ander ras als buren
+VAR548         88  M133 Vraaggesprek door anderen gevolgd
+VAR550         89  M134 Respondent be0nvloed
+VAR567         90  M045 Verwachting inkomens
+VAR568         91  M046 Mate stijging/daling inkomens
+VAR569         92  M047 Oordeel inkomens gezien economie
+VAR570         93  M048 Mate stijg/daal ink gezien economie
+VAR571         94  M049 Verwachting soc uitkeringen
+VAR572         95  M050 Mate stijg/daal soc uitkeringen
+VAR573         96  M051 Oordeel soc uitk gezien economie
+VAR574         97  M052 Mate stijg/daal soc uitk gezien econ
+VAR591         98  M080 Inspraak ouders op school moet
+VAR599         99  M098 Inspanning landelijk/wereldl nivo
+VAR600        100  M099 Inspanning gemeentelijk nivo
+VAR624        101  M029 Wereld over 15 jaar er uitzien
+VAR626        102  D012 Nielsen-gebied
+VAR627        103  D009 Cebuco verzorgingsgebied
+VAR628        104  D008 Nodaal gebied
+VAR629        105  D002 Provincie
+VAR630        106  D003 Gemeentegrootte
+VAR631        107  D013 Urbanisatiegraad cbs
+VAR632A       108  D005 Gemeentenummer cbs
+VAR632B       109  D007 Economisch-geografisch gebied
+VAR632C       110  D011 Corop-gebied
+VAR632E       111  D010 Wgr-gebied
+VAR632F       112  D014 Stedelijkheid
+05 Jun 03                                                               Page 146
+16:07:29  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+VAR632G       113  D015 Stedelijke agglomeratie
+VAR683B       114  M113 Woning: gastarb - nederlands
+VAR684        115  M129 Samenstelling huishouden
+VAR699A       116  M077 Werkstraf bij inbraak woning
+VAR699B       117  M077 Werkstraf bij vandalisme
+VAR699C       118  M077 Werkstraf bij uitkeringsfraude
+VAR699D       119  M077 Werkstraf bij letsel toebrengen
+VAR699E       120  M077 Werkstraf bij belasting-ontduiking
+VAR699F       121  M077 Werkstraf bij aanranding
+VAR700A       122  M078 Keuze rechter: overtreder jong
+VAR700B       123  M078 Keuze rechter: eerste keer
+VAR700C       124  M078 Keuze rechter: indien vaste baan
+VAR700D       125  M078 Keuze rechter: indien gezin
+VAR700E       126  M078 Keuze rechter: tekort celruimte
+VAR723        127  M009 Aantal uren betaald werk p\week
+VAR725        128  M025 Langer werken zonder betaling
+VAR728B       129  M114 Ontslag: buitenl - nederlander
+VAR729B       130  M115 Promotie: buitenl - nederlander
+VAR76301      131  M109 NOODOPV. K: IN HUIS HALEN
+VAR76302      132  M109 NOODOPV. K: GEZINSHULP
+VAR76303      133  M109 NOODOPV. K: ZELF HELPEN
+VAR76304      134  M109 NOODOPV. K: OPVANG ZOEKEN
+VAR76305      135  M109 NOODOPV. K: FAMILIE OF KENNISSEN
+VAR76306      136  M109 NOODOPV. K: IK VERZORG WEL
+VAR76307      137  M109 NOODOPV. K: MAATSCH. WERK
+VAR76308      138  M109 NOODOPV. K: MAN THUISBLIJVEN
+VAR76309      139  M109 NOODOPV. K: WIJKVERPLEGING
+VAR76310      140  M109 NOODOPV. K: SOCIALE DIENST
+VAR76311      141  M109 NOODOPV. K: KINDERTEHUIS
+VAR76312      142  M109 NOODOPV. K: MAN BET. VERLOF
+VAR76313      143  M109 NOODOPV. K: MAN ZIEK MELDEN
+VAR76314      144  M109 NOODOPV. K: KERKELIJKE INSTANTIE
+VAR76315      145  M109 NOODOPV. K: HUISARTS VRAGEN
+VAR76316      146  M109 NOODOPV. K: KINDERTAAK
+VAR76317      147  M109 NOODOPV. K: BUREN KENNISSEN
+VAR76318      148  M109 NOODOPV. K: HUISH W OVERNEMEN
+VAR76319      149  M109 NOODOPV. K: HULP ZOEKEN
+VAR76320      150  M104 NOODOPV. K: PROF HULP ZOEKEN
+VAR76321      151  M104 NOODOPV. K: HUISH HULP ZOEKEN
+VAR76322      152  M109 NOODOPV. K: DAAR BEMOEI IK ME NIET MEE
+VAR76323      153  M109 NOODOPV. K: NOG ANDERS
+VAR76324      154  M109 NOODOPV. K: WEET NIET
+VAR76325      155  M109 NOODOPV. K: INSTANTIES INSCHAKELEN(ALGEMEEN)
+VAR76326      156  M109 NOODOPV. K: MANTELZORG
+VAR76401      157  M110 ADVIES HUW.PROBL: UITPRATEN
+VAR76402      158  M110 ADVIES HUW.PROBL: BEMIDDELEN
+VAR76403      159  M110 ADVIES HUW.PROBL: HUWELIJKSBUREAU
+VAR76404      160  M110 ADVIES HUW.PROBL: SCHEIDEN
+VAR76405      161  M110 ADVIES HUW.PROBL: MAATSCH. WERK
+VAR76406      162  M110 ADVIES HUW.PROBL: TOLERANTIE
+VAR76407      163  M110 ADVIES HUW.PROBL: DESKUNDIGE RDPL
+VAR76408      164  M110 ADVIES HUW.PROBL: GEZ.MOEILIJKH.BUREAU
+VAR76409      165  M110 ADVIES HUW.PROBL: AANGEWEZEN BUREAU
+VAR76410      166  M110 ADVIES HUW.PROBL: NEUTRAAL PERSOON
+VAR76411      167  M110 ADVIES HUW.PROBL: TIJD UIT ELKAAR
+VAR76412      168  M110 ADVIES HUW.PROBL: HUISARTS
+VAR76413      169  M110 ADVIES HUW.PROBL: PSYCHOLOOG
+VAR76414      170  M110 ADVIES HUW.PROBL: KERK. INSTANTIE
+VAR76415      171  M110 ADVIES HUW.PROBL: SOCIAAL RAADSMAN
+05 Jun 03                                                               Page 147
+16:07:29  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+VAR76416      172  M110 ADVIES HUW.PROBL: BIDDEN
+VAR76417      173  M110 ADVIES HUW.PROBL: RIAGG
+VAR76418      174  M110 ADVIES HUW.PROBL: HULP ZOEKEN
+VAR76419      175  M110 ADVIES HUW.PROBL: VAKANTIE
+VAR76420      176  M110 ADVIES HUW.PROBL: NADENKEN
+VAR76421      177  M110 ADVIES HUW.PROBL: VERTROUWENSPERS INSCHAKELEN
+VAR76422      178  M110 ADVIES HUW.PROBL: GEEN BEMOEIENIS
+VAR76423      179  M110 ADVIES HUW.PROBL: ANDERS
+VAR76424      180  M110 ADVIES HUW.PROBL: WEET NIET
+VAR76425      181  M110 ADVIES HUW.PROBL: IN THERAPIE GAAN
+VAR76426      182  M110 ADVIES HUW.PROBL: STOPPEN MET RUZIE
+VAR76501      183  M111 ADVIES DOCHTERPRBL: DIALOOG OUDERS
+VAR76502      184  M111 ADVIES DOCHTERPRBL: ZELF PRATEN
+VAR76503      185  M111 ADVIES DOCHTERPRBL: AVONDKLOK
+VAR76504      186  M111 ADVIES DOCHTERPRBL: STEVIGE AANPAK
+VAR76505      187  M111 ADVIES DOCHTERPRBL: OVERREDING
+VAR76506      188  M111 ADVIES DOCHTERPRBL: GEVOLGEN DUIDEN
+VAR76507      189  M111 ADVIES DOCHTERPRBL: EXTRA AANDACHT
+VAR76508      190  M111 ADVIES DOCHTERPRBL: BEVOEGDE INSTANTIE
+VAR76509      191  M111 ADVIES DOCHTERPRBL: SLECHTERIK BEPRATEN
+VAR76510      192  M111 ADVIES DOCHTERPRBL: GEEN AANDACHT
+VAR76511      193  M111 ADVIES DOCHTERPRBL: ANDERE OMGEVING
+VAR76512      194  M111 ADVIES DOCHTERPRBL: GEZ.MOEILIJKH.BUREAU
+VAR76513      195  M111 ADVIES DOCHTERPRBL: MAATSCH. WERK
+VAR76514      196  M111 ADVIES DOCHTERPRBL: PRATEN M OUDERE EN DOCHTE
+VAR76515      197  M111 ADVIES DOCHTERPRBL: MED.OPV. BUREAU
+VAR76516      198  M111 ADVIES DOCHTERPRBL: HUISARTS
+VAR76517      199  M111 ADVIES DOCHTERPRBL: KINDERBESCHERMING
+VAR76518      200  M111 ADVIES DOCHTERPRBL: KERK. INSTANTIE
+VAR76519      201  M111 ADVIES DOCHTERPRBL: PSYCHOLOOG
+VAR76520      202  M111 ADVIES DOCHTERPRBL: HULP ZOEKEN
+VAR76521      203  M111 ADVIES DOCHTERPRBL: BIDDEN
+VAR76522      204  M111 ADVIES DOCHTERPRBL: GEEN BEMOEIENIS
+VAR76523      205  M111 ADVIES DOCHTERPRBL: ANDERS
+VAR76524      206  M111 ADVIES DOCHTERPRBL: WEET NIET
+VAR76525      207  M111 ADVIES DOCHTERPRBL: INSTANTIE INSCHAKELEN
+VAR76526      208  M111 ADVIES DOCHTERPRBL: RIAGG
+VAR76527      209  M111 ADVIES DOCHTERPRBL: VERTROUWENSPERSOON ERBIJ
+VAR76528      210  M111 ADVIES DOCHTERPRBL: VERTROUWEN SCHENKEN\WINN
+VAR76529      211  M111 ADVIES DOCHTERPRBL: SCHOOL INSCHAKELEN
+VAR76701      212  M112 ADVIES BEJ.BVR: ZELF HELPEN
+VAR76702      213  M112 ADVIES BEJ.BVR: GEZINSHULP
+VAR76703      214  M112 ADVIES BEJ.BVR: BEJAARDENHULP
+VAR76704      215  M112 ADVIES BEJ.BVR: HUISH. HULP ZOEKEN
+VAR76705      216  M112 ADVIES BEJ.BVR: BEJAARDENTEHUIS
+VAR76706      217  M112 ADVIES BEJ.BVR: MAN INZETTEN
+VAR76707      218  M112 ADVIES BEJ.BVR: WIJKVERPLEGING
+VAR76708      219  M112 ADVIES BEJ.BVR: MAATSCH. WERK
+VAR76709      220  M112 ADVIES BEJ.BVR: FAM OF BURENHULP
+VAR76710      221  M112 ADVIES BEJ.BVR: DESKUNDIGE RAADPLEGEN
+VAR76711      222  M112 ADVIES BEJ.BVR: SOCIALE ZAKEN
+VAR76712      223  M112 ADVIES BEJ.BVR: HUISARTS PRATEN
+VAR76713      224  M112 ADVIES BEJ.BVR: BURENHULP
+VAR76714      225  M112 ADVIES BEJ.BVR: HUIS AANPASSEN
+VAR76715      226  M112 ADVIES BEJ.BVR: BIJSTANDSWET
+VAR76716      227  M112 ADVIES BEJ.BVR: KERK. INSTANTIE
+VAR76717      228  M112 ADVIES BEJ.BVR: HULP ZOEKEN
+VAR76718      229  M112 ADVIES BEJ.BVR: TAFELTJE DEKJE
+VAR76719      230  M112 ADVIES BEJ.BVR: RIAGG
+05 Jun 03                                                               Page 148
+16:07:29  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+VAR76722      231  M112 ADVIES BEJ.BVR: GEEN BEMOEIENIS
+VAR76723      232  M112 ADVIES BEJ.BVR: ANDERS
+VAR76724      233  M112 ADVIES BEJ.BVR: WEET NIET
+VAR76725      234  M112 ADVIES BEJ.BVR: HULPPMIDDELEN AANSCHAFFEN
+VAR76726      235  M112 ADVIES BEJ.BVR: INSTANTIES INSCHAKELEN(ALG)
+VAR76727      236  M112 ADVIES BEJ.BVR: VRIJWILLIGERS(ORGANISATIES)
+VAR76728      237  M112 ADVIES BEJ.BVR: MANTELZORG
+VAR806        238  M026 Na weekend zin aan werk te gaan
+VAR807        239  M027 Jammer dat weekend voorbij is
+VAR895        240  M074 Alleenstaande vrouw wil kind
+VAR896        241  M075 Ongeh samenw paar toch kind
+VAR900A       242  M154 Duur interview
+VAR900B       243  M151 Interviewdag
+VAR900C       244  M151 Interviewmaand
+VAR900D       245  M00002 Bereidheid schriftelijk deel
+VAR900E       246  S041   Duur interview volgens respondent
+VAR900F       247  S042   Oordeel respondent over duur
+VAR900G       248  S043   Maximale duur volgens respondent
+VAR900H       249  S044   Interview interessant
+VAR900K       250  M131 Moeilijkheidsgraad vraagstelling
+VAR900L       251  M132 Oordeel interviewer over duur
+VAR900M       252  M153 Eindtijd interview
+VAR900N       253  M152 Starttijd interview
+VAR900O       254  Vergoeding schriftelijk deel
+VAR901        255  F001 Kleur omslagformulier
+VAR902        256  F002 Resultaat op adres
+VAR903        257  F003 Interview met enige of 1e persoon
+VAR904        258  F004 Interview met 2e persoon
+VAR905        259  F005 Reden geen interview
+VAR906        260  F006 Geslacht mannelijk gezinshoofd
+VAR907        261  F006 Leeftijd mannelijk gezinshoofd
+VAR908        262  F007 Geslacht vrouwelijk gezinshoofd
+VAR909        263  F007 Leeftijd vrouwelijk gezinshoofd
+VAR910        264  F008 Geslacht 1e (oudste) kind
+VAR911        265  F008 Leeftijd 1e (oudste) kind
+VAR912        266  F009 Geslacht 2e kind
+VAR913        267  F009 Leeftijd 2e kind
+VAR914        268  F010 Geslacht 3e kind
+VAR915        269  F010 Leeftijd 3e kind
+VAR916        270  F011 Geslacht 4e kind
+VAR917        271  F011 Leeftijd 4e kind
+VAR918        272  F012 Geslacht 5e kind
+VAR919        273  F012 Leeftijd 5e kind
+VAR920        274  F013 Geslacht 6e kind
+VAR921        275  F013 Leeftijd 6e kind
+VAR922        276  F014 Geslacht 7e kind
+VAR923        277  F014 Leeftijd 7e kind
+VAR924        278  F015 Geslacht 8e kind
+VAR925        279  F015 Leeftijd 8e kind
+VAR926        280  F016 Geslacht 1e (oudste) ander gezinsld
+VAR927        281  F016 Leeftijd 1e (oudste) ander gezinsld
+VAR928        282  F017 Geslacht 2e ander gezinslid
+VAR929        283  F017 Leeftijd 2e ander gezinslid
+VAR930A       284  M1281 Eigen inkomen: man/vader
+VAR930B       285  M1282 Eigen inkomen: vrouw/moeder
+VAR930C       286  M1283 Eigen inkomen: kinderen
+VAR930D       287  M1284 Eigen inkomen: andere personen
+VAR931        288  M126 NETTO inkomen huishouden
+VAR956        289  M093 Ouderen behoorlijk rondkomen
+05 Jun 03                                                               Page 149
+16:07:29  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+VAR957        290  M094 Ouderen op zichzelf wonen
+VAR958        291  M095 Ouderen huishouding zelf doen
+VAR959        292  M096 Ouderen niet meer meekomen
+VAR963        293  M097 Lid worden van ouderenbonden
+VAR964        294  M097 Weinig oog voor noden ouderen
+VAR965        295  M097 Met opa/oma in zelfde gezin leven
+VAR966        296  M097 Ouderen plaats afstaan jongeren
+VAR967        297  M097 Ouderen betaald werk doen
+VAR968        298  M097 Ouderen iets doen voor jongeren
+VAR969        299  M097 Ouderen recht op hulp jongeren
+VAR1046A      300  M090 Doel politiek: orde handhaven
+VAR1046B      301  M090 Doel politiek: inspraak burgers
+VAR1046C      302  M090 Doel politiek: prijsstijging stoppen
+VAR1046D      303  M090 Doel politiek: vrije mening
+VAR1046E      304  M090 Doel politiek: hoge econ groei
+VAR1046F      305  M090 Doel politiek: sterk leger
+VAR1046G      306  M090 Doel politiek: inspraak werk/woonpl
+VAR1046H      307  M090 Doel politiek: steden verfraaien
+VAR1046I      308  M090 Doel politiek: stabiele economie
+VAR1046J      309  M090 Doel politiek: strijd tegen misdaad
+VAR1046K      310  M090 Doel politiek: persoonlijker samenl
+VAR1046L      311  M090 Doel politiek: idee0n boven geld
+VAR1046M      312  M090 Doel politiek: werkloosh verminder
+VAR1046N      313  M090 Doel politiek: bestrijden milieuver
+VAR1046O      314  M090 Doel politiek: soc zekerh op peil
+VAR1046P      315  M090 Doel politiek: opvang alloch imigr
+VAR1061       316  M017 Aantal uren vrijwilligerswerk p\wk
+VAR1062       317  M018 Aantal uren hulp zieken p\wk
+VAR1113       318  M070 Lezen godsdienstige onderwerpen
+VAR1114       319  M071 Lezen godsdienstige boeken
+VAR1115       320  M072 Volgen programma
+VAR1116       321  M073 Voeren gesprekken godsdienst
+VAR1145A      322  M117 Cijfer: zorgbeleid
+VAR1145B      323  M117 Cijfer: cultuurbeleid
+VAR1145C      324  M117 Cijfer: beleid vrije tijd
+VAR1145D      325  M117 Cijfer: beleid alg vorm onderwijs
+VAR1145E      326  M117 Cijfer: beleid beroepsonderwijs
+VAR1145F      327  M117 Cijfer: ordehandhaving
+VAR1145G      328  M117 Cijfer: sociale zekerheid
+VAR1145H      329  M117 Cijfer: werkgelegenheid
+VAR1145I      330  M117 Cijfer: milieubeleid
+VAR1145J      331  M117 Cijfer: kosten levensonderhoud
+VAR1145K      332  M117 Cijfer: leefbaarheid steden
+VAR1145L      333  M117 Cijfer: opvang buitenlanders
+VAR1146       334  M121 Tevredenheid over regering
+VAR1162A      335  M118 Oordeel: zorgbeleid
+VAR1162B      336  M118 Oordeel: cultuurbeleid
+VAR1162C      337  M118 Oordeel: beleid vrije tijd
+VAR1162D      338  M118 Oordeel: beleid alg vorm onderw
+VAR1162E      339  M118 Oordeel: beleid beroepsonderwijs
+VAR1162F      340  M118 Oordeel: ordehandhaving
+VAR1162G      341  M118 Oordeel: sociale zekerheid
+VAR1162H      342  M118 Oordeel: werkgelegenheid
+VAR1162I      343  M118 Oordeel: milieubeleid
+VAR1162J      344  M118 Oordeel: kosten levensonderhoud
+VAR1162K      345  M118 Oordeel: leefbaarheid steden
+VAR1162L      346  M118 Oordeel: opvang buitenlanders
+VAR1163       347  M122 Nederl overh functioneert goed
+VAR1204       348  M119 Oordeel beleid in algemeen
+05 Jun 03                                                               Page 150
+16:07:29  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+VAR1205       349  M120 Meer/minder beleid in algemeen
+VAR1206       350  M089 Premier rechtstreeks kiezen
+VAR1207       351  M089 Kamerleden kiezen per district
+VAR1208       352  M089 Nederland moet Republiek worden
+VAR1209       353  M089 Gekozen Burgemeester
+VAR1210       354  M089 Referendum
+VAR1211       355  M089 Koningin weet beter dan Politici
+VAR3000       356  Beroepencode CBS
+INT000        357  S000   Schriftelijke deel ingevuld
+INT001        358  M004 Aantal jaar onderwijs vanaf 6e jaar
+INT004        359  M016 Aantal mensen waarover leiding
+INT071        360  S009   Gezinsleven lijdt als vrouw  baan
+INT077        361  S009   Man geld verdienen, vrouw thuis
+INT087        362  M124 Samenlevingsvorm
+INT168        363  S004   Werk voor iedereen die wil
+INT205        364  S003   Hoe gelukkig bent u
+INT206        365  S004   Inkomensverschillen verkleinen
+INT209        366  S005   Sexuele relatie v00r huwelijk
+INT210        367  S006   Getrouwd en relatie met ander
+INT211        368  S007   Sexuele relatie zelfde geslacht
+INT214        369  S008   Abortus: als kind ernstig gebrek
+INT215        370  S008   Abortus: ouders laag inkomen
+INT216        371  S011   Acceptabel: belastingfraude
+INT217        372  S011   Acceptabel: uitkeringsfraude
+INT218        373  S014   Vertrouwen in: regering
+INT219        374  S014   Vertrouwen in: bedrijfsleven
+INT221        375  S014   Vertrouwen in: kerken/relig org
+INT222        376  S014   Vertrouwen in: rechtspraak
+INT223        377  S014   Vertrouwen in: onderwijs
+INT225        378  S015   Invloed relig.leiders verkiezing
+INT227        379  S015   Invloed relig.leiders overheid
+INT228        380  S018   Oordeel macht kerken/relig org
+INT229        381  S019   Geloof in God
+INT231        382  S020   Beschrijving geloof in God
+INT232        383  S021   Bestaan: leven na de dood
+INT234        384  S021   Bestaan: hemel
+INT235        385  S021   Bestaan: hel
+INT236        386  S021   Bestaan: religieuze wonderen
+INT237        387  S022   Mening over de Bijbel
+INT238        388  S023   God met mens persoonlijk bezig
+INT239        389  S023   Weinig veranderen levensloop
+INT240        390  S023   Bestaan God maakt leven zinvol
+INT241        391  S023   Leven dient geen enkel doel
+INT243        392  S023   Leven alleen zin zelf betekenis
+INT244        393  S023   Ieder bepaalt eigen lot
+INT247        394  S024   Ooit in leven keerpunt geweest
+INT248        395  S025   Geloofsovertuiging moeder
+INT249        396  S026   Geloofsovertuiging vader
+INT250        397  S027   In welk geloof zelf grootgebracht
+INT251        398  S029   Geloofsovertuiging partner
+INT252        399  S030   Kerkgang moeder
+INT253        400  S031   Kerkgang vader
+INT254        401  S032   Kerkgang zelf (11-12 jaar)
+INT255        402  S033   Hoe vaak bidt u
+INT256        403  S034   Deelname activiteiten kerk
+INT257        404  S035   Geloofsintensiteit
+INT265        405  M030 Allerbelangrijkste in Nederland
+INT266        406  M031 Op een na belangrijkste
+INT283        407  M105 Bereidh hogere prijzen tbv milieu
+05 Jun 03                                                               Page 151
+16:07:29  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+INT284        408  M106 Bereidh hogere belasting tbv mil
+INT285        409  M104 Bereidh lagere levensst tbv milieu
+INT370        410  S010   Samenwonen zonder trouwen
+INT371        411  S010   Samenwonen v00r huwelijk goed
+INT501        412  S012   Mensen proberen u te bedriegen
+INT502        413  S013   Kan men mensen vertrouwen
+INT503        414  S016   Wetenschap meer kwaad dan goed
+INT504        415  S016   Vertrouwen te veel op wetenschap
+INT505        416  S016   Religies meer conflicten dan vrede
+INT506        417  S016   Religie vaak te intolerant
+INT507        418  S016   Minder invloed religie beter land
+INT508        419  S017   Vrijwilligerswerk: in politiek
+INT509        420  S017   Vrijwilligerswerk: liefdadigheid
+INT510        421  S017   Vrijwilligerswerk: relig/kerk act
+INT511        422  S017   Vrijwilligerswerk: ander soort
+INT512        423  S036   Oordeel waarheid in godsdienst
+INT513        424  S037   Verwachting vriend getuigenis
+INT514        425  S038   Wat zou u doen in situatie
+INT515        426  S028   Eigen geloofsovertuiging nu
+INT516        427  S039   Geloof in: mascotte
+INT517        428  S039   Geloof in: waarzeggers
+INT518        429  S039   Geloof in: gebedsgenezers
+INT519        430  S039   Geloof in: sterrenbeeld
+INT520        431  S040   Wet strijdig met relig beginselen
+05 Jun 03                                                               Page 152
+16:07:29  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+  22  set listing '28292.stp'.

@@ -1,0 +1,574 @@
+
+  19  display documents.
+21 Apr 04                                                               Page 161
+13:20:03  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0947: Culturele veranderingen 1987, compleet
+
+document
+ 09/12/88      CULTURELE VERANDERINGEN 1987:  VARNAME -> VRAAGNUMMER
+ -
+               VARNAME:                                        VRAAGNR:
+ -
+               POSCO1  postcode cijfers                             000
+               POSCO2  postcode letters                             000
+               VAR001  sexe respondent                              001
+               VAR002  leeftijd respondent                          002
+               VAR003  burgelijke staat                             003
+               VAR006  laatst genoten opleiding                     004
+               VAR007  laatst genoten opleiding voltooid?           006
+               VAR008  laatst voltooide opleiding                   007
+               VAR012  aantal uren aan het werk per week            008
+               VAR013  huidig beroep respondent                     009
+               VAR014  respondent rekent zich tot volg. groep       010
+               VAR015  vroeger beroep respondent                    012
+               VAR016  respondent <vroeger> werkzaam als            013
+               VAR019  voldoende vrije tijd?                        032
+               VAR036  gemiddelde tijdbesteding tv p dag            033
+               VAR037  regelmaat aktualiteiten op tv kijken         034
+               VAR038  ooit 2e kamer-zitting op tv gezien?          035
+               VAR039  interesse niet-politieke tv-programma's?     036
+               VAR040  regelmaat landelijke politiek lezen          039
+               VAR041  geabonneerd op landelijk dagblad?            040
+               VAR042  landelijk dagblad waarop geabonneerd         041
+               VAR043  regelmaat lezen over eigen woonplaats        042
+               VAR044  regelmaat binnenlands nieuws lezen           043
+               VAR045  regelmaat buitenlands nieuws lezen           044
+               VAR051  O.P. of man in komende jaren werkloos?       028
+               VAR052  toekomstperspectief leuker werk?             029
+               VAR058  heerst op ogenblik in ons land welvaart?     046
+               VAR059  is gezin welvarend?                          047
+               VAR060  welvaart is niet het belangrijkste!          048
+               VAR061  zelf potentieel onzelfzuchtig?               049
+               VAR062  toekomstverwachting welvaart                 050
+               VAR063  toekomstverwachting welvaart eig gezin       051
+               VAR065  komt crisis of blijft welvaart               052
+               VAR076  in 2000 +- materialistische mensen           053
+               VAR077  in 2000 +- maatschappelijk voelenden         053
+               VAR078  in 2000 +- hechting aan gezinsband           053
+               VAR082  in 2000 +- gebruik verslavende middelen      053
+               VAR086  in 2000 +- echtscheidingen                   053
+               VAR087  in 2000 +- misdadigheid                      053
+               VAR091  wie of wat bepaald de toekomst               054
+               VAR093  wenselijkheid andere samenleving             057
+               VAR094  gewenst tempo maatsch verranderingen         058
+               VAR095  mate overheid moet NL samenl veranderen      059
+               VAR096  ++-- overheidsgeld v openb voorzieningen     060
+               VAR097  ingr overh.maatr: ieder gelijke kansen       061
+               VAR098  ingr overh.maatr: inkomensnivellering        061
+               VAR099  ingr overh.maatr: bezitnivellering           061
+               VAR100  overh moet: vold.voorz. voor huiswerk        062
+               VAR101  overh moet: veel meer studiebeurzen          062
+               VAR103  overh moet: veel meer geld goed woningbo     062
+               VAR105  overh moet: min.loon sterker stijgen dan     062
+               VAR107  overh moet: onderw tot 18e geheel gratis     062
+21 Apr 04                                                               Page 162
+13:20:03  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+               VAR109  overh moet: ingr maatreg milieu-verontr.     062
+               VAR110  overh moet: belasting hogere inkomens        062
+               VAR111  overh moet: successierechten                 062
+               VAR113  overh moet: uitgaven ontwikkelingshulp       062
+               VAR118  overh moet: belasting winsten en vermoge     062
+               VAR121  overh moet: leerplicht tot 18e jaar inv      062
+               VAR122  overh moet: kunstsubsidies uitbreiden        062
+               VAR124  overh moet: meer goedkope creches bouwen     062
+               VAR125  overheidsuitgaven omhoog of omlaag?          063
+               VAR135  bezorgt over de toekomst?                    064
+               VAR136  angst voor eigen werkloosheid                065
+               VAR142  toekomstverwachting <nog> betere woning      066
+               VAR143  tevredenheid met gezondheid en lichaam       067
+               VAR149  mate van tevredenheid over inkomen           068
+               VAR150  oordeel eig ink tov landel ink.verdeling     069
+               VAR151  hoogte ink mbt opleiding en praktijkerv.     070
+               VAR153  tevreden met sociale voorzieningen?          081
+               VAR154  de algemene ouderdomswet<AOW> is             082
+               VAR154A de ziektewet is                              082
+               VAR155  de algemene bijstandswet is                  082
+               VAR156  de werkloosheidswet<WW> is                   082
+               VAR157  de algemene weduwen- en wezenwet<AWW> is     082
+               VAR157A de arbeidsongeschiktheidswet<WAO,AAW> is     082
+               VAR164  hoogte inkomensverschillen                   094
+               VAR165  gewenste inkomensverschillen                 095
+               VAR166  gewenste verschillen in bezit                096
+               VAR167  gewenste inspraak arbeider in bedrijf        097
+               VAR171  recht op financiele stabiliteit v ieder?     098
+               VAR179  vrijheid tot demonstreren?                   099
+               VAR180  vrijheid tot kritiek op koningshuis?         099
+               VAR181  vrijheid tot staken voor loonsverhoging?     099
+               VAR182  vrijheid tot weigering militaire dienst?     099
+               VAR183  vrijheid tot bezetting van gebouwen?         099
+               VAR184  vrijheid tot publiceren wat men wil?         099
+               VAR185  vrijheid tot verkondigen wat men wil?        099
+               VAR189  levensbeschouwing a priori                   105
+               VAR190  levensbeschouwing vader a priori             106
+               VAR193  levensbeschouwing weleens ter sprake?        107
+               VAR194  regelm levensbesch O.P. vr th t sprake       108
+               VAR195  regelm levensbesch vader vr th t sprake      108
+               VAR198  geloof waarmee opgevoed                      109
+               VAR201  kerkgenootschap O.P.                         113
+               VAR204  frekwentie kerkgang                          112
+               VAR205  geloof in leven na de dood?                  110
+               VAR206  geloof in bestaan van een hemel?             110
+               VAR207  geloof in een vagevuur?                      110
+               VAR208  geloof in een hel?                           110
+               VAR209  geloof in een duivel?                        110
+               VAR210  geloof in het bestaan van adam en eva?       110
+               VAR211  de bijbel is het woord van god?              110
+               VAR212  zinnig om voor zichzelf te bidden?           110
+               VAR213  na dit leven komt alles in orde              111
+               VAR214  huidige maatsch conform gods wil!            111
+               VAR215  zonde blokkeert betere maatschappij!         111
+               VAR216  beslissingen aan god overlaten!              111
+               VAR217  acceptatie dochter trouwt andersgelovige     114
+               VAR218  acceptatie kind kiest ander geloof           115
+               VAR219  acceptatie kind niet gelovig                 116
+               VAR220  strengheid kerkelijke voorschriften          117
+21 Apr 04                                                               Page 163
+13:20:03  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+               VAR222  schoolkeuze l.o. eigen kind                  118
+               VAR223  verhouding tussen politiek en godsdienst     119
+               VAR224  godsd principe: omroepvereniging?            120
+               VAR225  godsd principe: sportvereniging?             120
+               VAR226  godsd principe: vakvereniging?               120
+               VAR227  godsd principe: jeugdvereniging?             120
+               VAR228  godsd principe: politieke partij?            120
+               VAR229  allerbelangrijkst in het leven               121
+               VAR271  inspraak studenten op bestuur universite     133
+               VAR272  inspraak leerlingen midd scholen en p.a.     133
+               VAR273  inspraak burgers op bestuur gem|prov         133
+               VAR274  nu gaan stemmen bij verkiezing 2e kamer?     136
+               VAR275  huidige partijkeuze                          137
+               VAR342  standsverschillen moeten kleiner zijn        154
+               VAR343  arb nog steeds strijden v gelijkw positi     154
+               VAR346  roken van marihuana-hash streng straffen     154
+               VAR347  abortus mogelijk als vrouw dit wenst         154
+               VAR351  doodstraf weer invoeren v bep misdaden       154
+               VAR357  vrouw geschikter v opvoeding klein kind      154
+               VAR358  vrouw leiding over man is onnatuurlijk       154
+               VAR359  goede schoolopl meisje minder belangrijk     154
+               VAR360  jongens kun je iha wat vrijer opvoeden       154
+               VAR364  verwachting betere maatschappij in NL        150
+               VAR365  positie mogelyk slechter in toekomst?        151
+               VAR366  verwachting financ zorgeloze oude dag?       152
+               VAR367  eigen indeling sociale klasse O.P.           153
+               VAR402  de politie doet haar werk uitstekend         154
+               VAR403  overheid werkt zuinig genoeg                 154
+               VAR404  overheid behandelt ons respectvol            154
+               VAR405  overheid te bemoeizuchtig                    154
+               VAR406  hoogte van de belastingen                    155
+               VAR407  redelijkheid loon- en inkomensbelasting      156
+               VAR408  aktie tegen onrechtvaardige wet 2e kamer     157
+               VAR409  goedk onrechtv wet -> zitdemonstr etc        158
+               VAR410  goedk arrestatie demonstranten               158
+               VAR411  meer leerl p klas -> schoolbezetting         158
+               VAR412  bezettende onderwijzers ontslaan             158
+               VAR413  wilde staking bij ontslag aantal werkn       158
+               VAR414  politieontruiming van bezet bedrijf          158
+               VAR427  bezorgdheid over milieuverontreiniging       148
+               VAR428  bestrijding van milieuverontreiniging        149
+               VAR433  misdadigers veranderen ipv straffen          132
+               VAR445  sexuele misdadigers proberen te genezen      132
+               VAR461  politieke kleur: links - rechts              134
+               VAR462  totaal bruto gezinsinkomen                   231
+               VAR491  politieke interesse O.P.                     160
+               VAR492  politieke interesse vader                    161
+               VAR493  standpunt ooit openbaar verdedigt?           162
+               VAR494  standpunt ooit via krant verdedigt?          163
+               VAR495  recent politieke bijeenkomst bezocht?        164
+               VAR496  recent ingezet voor politieke partij?        165
+               VAR497  lid <geweest> van een politieke partij?      166
+               VAR498  partij waarvan men lid is <geweest>          167
+               VAR499  vakbondslidmaatschap <incl beroepsver.>      169
+               VAR500  aantal jaren dat men vakbondslid is          170
+               VAR503  getrouwd gelukkiger dan ongetrouwd           177
+               VAR505  beter minder goed huwelijk dan ongehuwd      178
+               VAR508  langer getrouwd meer waardering v elkaar     178
+               VAR509  belangrijkste voor een vrouw                 179
+21 Apr 04                                                               Page 164
+13:20:03  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+               VAR511  minst belangrijke voor een vrouw             179
+               VAR512  belangrijkste voor een man                   180
+               VAR514  minst belangrijke voor een man               180
+               VAR515  vrouw met schoolg kind werkt naast huish     182
+               VAR516  vrouw werkt, kind moet naar een creche       183
+               VAR517  scheiding bij echtpaar met kinderen          188
+               VAR519  echtpaar wil bewust geen kinderen            189
+               VAR522  kinderen spreken ouders met jij aan          194
+               VAR529  jongen en meisje 18jr mogen alles lezen      195
+               VAR530  wie bepaalt tijdst th.komst dochter v 20     196
+               VAR544  euthanasie op verzoek dmv een spuitje        201
+               VAR545  homosexuelen zoveel mogelijk vrijlaten       202
+               VAR546  bezwaar tegen buren van ander ras            211
+               VAR551  regelmaat nieuws lezen over misdaden         045
+               VAR567  verwachting hoogte inkomens                  071
+               VAR568  mate stijging-daling inkomens                072
+               VAR569  gezien econ situatie moeten inkomens         073
+               VAR570  mate +- inkomens gezien econ situatie        074
+               VAR571  verwachting sociale uitkeringen              075
+               VAR572  mate stijging-daling sociale uitkeringen     076
+               VAR573  gezien econ situatie moeten soc uitk +-      077
+               VAR574  mate +- soc uitk gez econ situatie           078
+               VAR575  met ons inkomen allemaal stap terug          079
+               VAR576  leren leven met minder sociale zekerheid     080
+               VAR577  hoev mensen misbruik soc verzekeringen       083
+               VAR578  kent persoonl geval misbruik soc verzek      084
+               VAR584A eigenschap werker<>loze: ijverig             085
+               VAR584B eigenschap werker<>loze: oud                 085
+               VAR584C eigenschap werker<>loze: flink               085
+               VAR584D eigenschap werker<>loze: eerlijk             085
+               VAR584E eigenschap werker<>loze: betrouwbaar         085
+               VAR584F eigenschap werker<>loze: verantw.gevoel      085
+               VAR584G eigenschap werker<>loze: futloos             085
+               VAR584H eigenschap werker<>loze: bekwaam             085
+               VAR584I eigenschap werker<>loze: luiheid             085
+               VAR584J eigenschap werker<>loze: slim                085
+               VAR584K eigenschap werker<>loze: doorzetten          085
+               VAR584L eigenschap werker<>loze: maatsch waarde      085
+               VAR584M eigenschap werker<>loze: slap karakter       085
+               VAR584N eigenschap werker<>loze: weinig aktief       085
+               VAR585A eigenschap werker<>WAOr: ijverig             086
+               VAR585B eigenschap werker<>WAOr: oud                 086
+               VAR585C eigenschap werker<>WAOr: flink               086
+               VAR585D eigenschap werker<>WAOr: eerlijk             086
+               VAR585E eigenschap werker<>WAOr: betrouwbaar         086
+               VAR585F eigenschap werker<>WAOr: verantw.gevoel      086
+               VAR585G eigenschap werker<>WAOr: futloos             086
+               VAR585H eigenschap werker<>WAOr: bekwaam             086
+               VAR585I eigenschap werker<>WAOr: geneigd tot lui     086
+               VAR585J eigenschap werker<>WAOr: slim                086
+               VAR585K eigenschap werker<>WAOr: doorzetten          086
+               VAR585L eigenschap werker<>WAOr: maatsch waarde      086
+               VAR585M eigenschap werker<>WAOr: slap karakter       086
+               VAR585N eigenschap werker<>WAOr: weinig aktief       086
+               VAR588  tolerantie vrijw.werk door werkeloze         087
+               VAR591  inspraak ouders in gang van zaken school     133
+               VAR592  aktief bij inspraakproc laatste 2 jr?        135
+               VAR593  sociale uitkeringen in geen geval minder     154
+               VAR594  vrouwen voorrang vanwege achterstand         154
+21 Apr 04                                                               Page 165
+13:20:03  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+               VAR595  rechter behandelt ieder onbevooroordeeld     154
+               VAR596  inkomen moet minstens gelijk blijven         154
+               VAR597  recent vakbondsbijeenkomst bezocht?          168
+               VAR598  lid werkgevers- of middenstandsorga?         171
+               VAR599  inspanning landelijk,wereldlijk niveau?      172
+               VAR600  inspanning op gemeentelijk niveau?           173
+               VAR601  omroepgids waarop geabonneerd                037
+               VAR602  omroep waarvan tientjeslid                   038
+               VAR611  milieuvervuiling neemt toe                   175
+               VAR612  werkloosheid blijft altijd bestaan           175
+               VAR613  zet privatisering door                       175
+               VAR614  computer in alle beroepen noodzakelijk       175
+               VAR615  bijscholing structureel                      175
+               VAR616  arbeidstijden steeds korter                  175
+               VAR617  ontslagprocedure versimpelt                  175
+               VAR618  huwelijk wordt schaars                       175
+               VAR619  invloed kerk neemt toe                       175
+               VAR620  geloof als hoofdleidraad                     175
+               VAR621  homotolerantie neemt toe                     175
+               VAR622  kloof arm-rijk neemt toe                     175
+               VAR623  verhouding grootmachten verbetert            175
+               VAR624  vaak nadenken wereldbeeld over 15 jaar       176
+               VAR625  hoe zullen buitenlanders integreren          174
+               VAR626  Nielsen-distrikt                             000
+               VAR627  Cebuco-distrikt                              000
+               VAR628  Nodaal gebied                                000
+               VAR629  provincie                                    000
+               VAR630  gemeentegrootte                              000
+               VAR631  urbanisatiegraad CBS                         000
+               VAR632A gemeentenummer CBS                           000
+               VAR632B econ. geografisch gebied                     000
+               VAR632C coropgebied                                  000
+               VAR633  wijkkode                                     000
+               VAR634  staken bij verlagen sociale uitkeringen      158
+               VAR635  woningzoekenden kraken leegstaand pand       158
+               VAR636  met geweld ontruimen van gekraakt pand       158
+               VAR637  blokkade door mensen bang v kernenergie      158
+               VAR638  op last burgerm demomstranten verwijderd     158
+               VAR640  huidige werkkring respondent                 014
+               VAR641  genoeg geleerd voor dagelijks werk           017
+               VAR642  noodzakelijke dingen geleerd v dag. werk     018
+               VAR643  bereidh tot half uur ADV p dag               022
+               VAR644  geldoffer % net ink by half uur ADV p dg     023
+               VAR645  bereidh extra wk vak als ADV                 024
+               VAR646  geldoffer % net ink by extra wk vak ADV      025
+               VAR647  respondent is wel-geen huisvrouw?            015
+               VAR648  tevredenh met het leven op het ogenblik      030
+               VAR677  kans op confrontatie met energieproblem      145
+               VAR678  zelf energiebesparende maatr genomen?        146
+               VAR683A priori woning: met gezin                     208
+               VAR683B priori woning: gastarbeider                  208
+               VAR683C priori woning: jongere                       208
+               VAR683D priori woning: Surinaams gezin               208
+               VAR683E priori woning: andere huidskleur             208
+               VAR683F priori woning: groot gezin                   208
+               VAR683G priori woning: gezin m kinderen              208
+               VAR683H priori woning: alleenstaande man             208
+               VAR684  samenstelling van het huishouden             233
+               VAR687  verwachting misdadigheid in Nederland        122
+21 Apr 04                                                               Page 166
+13:20:03  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+               VAR688  mate van af-toename misdadigheid in NL       123
+               VAR689  misdaad in NL wordt echt probleem?           124
+               VAR699A alt straf voor inbraak                       130
+               VAR699B alt straf voor vandalisme                    130
+               VAR699C alt straf voor WWuitk.fraude                 130
+               VAR699D alt straf voor letsel toebrengen             130
+               VAR699E alt straf voor belastingontduiking           130
+               VAR699F alt straf voor aanranding                    130
+               VAR703  verschil arbeidsinkomen en soc uitkering     090
+               VAR704  koers verschil arbeidsink en soc uitk        091
+               VAR705  rechtv.heid koers arb.ink en soc uitk        092
+               VAR706  kans op verzet van uitkeringstrekkers        093
+               VAR711  invloed regeringsbeslissingen                138
+               VAR712  regeringsbesl conform bevolkingswensen?      139
+               VAR713  invloed gemeentebestuur dagelijks leven      140
+               VAR714  gemeente besl conform bevolkingswensen?      141
+               VAR715  machtsverdeling gemeente en regering         142
+               VAR721  leeftijd bij einde opleiding                 005
+               VAR722  aantal maanden werkloos                      011
+               VAR723  aantal betaalde arbeidsuren per week         019
+               VAR725  bereidh onbetaald uur nablijven              027
+               VAR728A priori ontslag: met gezin                    209
+               VAR728B priori ontslag: buitenlander                 209
+               VAR728C priori ontslag: man                          209
+               VAR728D priori ontslag: Surinamer                    209
+               VAR728E priori ontslag: jongere                      209
+               VAR728F priori ontslag: blanke                       209
+               VAR729A priori promotie: met gezin                   210
+               VAR729B priori promotie: buitenlander                210
+               VAR729C priori promotie: man                         210
+               VAR729D priori promotie: Surinamer                   210
+               VAR729E priori promotie: jongere                     210
+               VAR729F priori promotie: blanke                      210
+               VAR746  samenwonen als voorbereiding huwelijk        181
+               VAR747  ongehuwd samenwonen zonder bedoel trouwe     181
+               VAR748  commune                                      181
+               VAR749  centraal wonen                               181
+               VAR750  samenwonen homosexueel of lesbisch paar      181
+               VAR751  als alleenstaande wonen                      181
+               VAR752  duurzame rel tussen ongeh afzond wonend      181
+               VAR753  gehuwde vrouw werken man zorgt voor kind     185
+               VAR754  kind beslist over verdere schoolkeuze        197
+               VAR757A homo's gelijk recht woonruimte               203
+               VAR757B homo's gelijk recht adoptiekinderen          203
+               VAR757C homo's gelijk recht op erven van elkaar      203
+               VAR758  bezwaar kind gastarb bij eigen k in klas     212
+               VAR759  bezwaar gastarb|Surinamer als collega        213
+               VAR760  kind beslist om opl. af te maken             198
+               VAR761  instemming zelfst wonen dochter 17 jr        199
+               VAR762  instemming zelfst wonen zoon 17 jr           200
+               VAR768  aanvaardbaarheid kinderopvang                184
+               VAR769  ex-psychi.pat: kontakt nog gewenst?          100
+               VAR770  ex-psychi.pat: regelm vriendenbezoek ok?     100
+               VAR771  ex-psychi.pat: samenwerken bezwaarlijk?      100
+               VAR772  ex-psychi.pat: als naaste buur gewenst?      100
+               VAR773  ex-psychi.pat: als onderwijzer kind ok?      100
+               VAR774  ex-psychi.pat: eigen problemen bepraten?     100
+               VAR775  ex-psychi.pat: als babysitter toestaan?      100
+               VAR776  ex-psychi.pat: aantrouwen toestaan?          100
+21 Apr 04                                                               Page 167
+13:20:03  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+               VAR777  gekken naar het gekkenhuis                   154
+               VAR778  blijven werken na miljoen uit loterij?       026
+               VAR805  houd. huisvr tav werkkring buitenshuis       016
+               VAR806  grote werklust na vrij weekend               031
+               VAR807  weinig werklust na vrij weekend              031
+               VAR808  indirekt: wie niet werkt zal niet eten       031
+               VAR809  direkt:   wie niet werkt zal niet eten       031
+               VAR810  bereidh tot halve dg ADV p wk                020
+               VAR811  geldoffer % net ink by halve dg ADV p wk     021
+               VAR813  tolerantie vrijw.werk door WAO-er            088
+               VAR814  gaat partner werken zodra hkw werkloos?      089
+               VAR820  O.P.heeft kinderen jonger dan 21 jaar?       101
+               VAR821A motief keuze lo: bereikbaarheid              102
+               VAR821B motief keuze lo: oudercontact                102
+               VAR821C motief keuze lo: aansl voortgez ondw         102
+               VAR821D motief keuze lo: modern gebouw               102
+               VAR821E motief keuze lo: vriendjes in de buurt       102
+               VAR821F motief keuze lo: eig levensovertuiging       102
+               VAR821G motief keuze lo: overblijfgelegenheid        102
+               VAR821H motief keuze lo: extra activiteiten          102
+               VAR821I motief keuze lo: aand creatieve vakken       102
+               VAR821J motief keuze lo: opvoedk ideeen              102
+               VAR830  voorkeur grondslag l.o.                      103
+               VAR831  voorkeur grondslag v.o.                      104
+               VAR832  angst voor inbraak bij lange afwezigheid     125
+               VAR833  hoevaak thuis met angst voor inbraak         126
+               VAR834  aantal onveilige buurten in gemeente         127
+               VAR835A in donker alleen naar buiten?                128
+               VAR835B reden in donker niet alleen naar buiten      129
+               VAR836  vakbew verantw voor uitk.trekkers            132
+               VAR837  bijverd werkl minderen op uitkering          132
+               VAR838  geen sollicit.pl indien niet passend         132
+               VAR839  meer geld overhebben voor openb.vv           132
+               VAR840  openbaar vv moet gratis                      132
+               VAR842  als m en vr werken meer bel betalen d nu     132
+               VAR843  soc uitk afh ink uit arbeid partner          132
+               VAR844  gelijke verd huish man en vr                 132
+               VAR845  zowel m als vr verantw voor huish            132
+               VAR846  betaald werk gelijk verd over m en vr        132
+               VAR847  zowel m als vr verantw voor kinderverz       132
+               VAR848  behandelplicht verslaafden door overh        132
+               VAR849  gratis verdovende midd voor verslaafden      132
+               VAR850  pornografie beledigend voor vrouwen          154
+               VAR876  houding tav kerncentrales: uitbr-sluiten     147
+               VAR877  tegenst: eigen arbeider - gastarbeider       159
+               VAR880  tegenst: werkenden - niet werkenden          159
+               VAR888  frekw huishoudelijk werk                     186
+               VAR889  prbl hh wrk: overbelast,te zwaar,te druk     187
+               VAR890  prbl hh wrk: lange werktijden                187
+               VAR891  prbl hh wrk: geestdodend                     187
+               VAR892  prbl hh wrk: ondankbaar                      187
+               VAR893  prbl hh wrk: te eenvoudig                    187
+               VAR894  prbl hh wrk: eenzaamheid                     187
+               VAR895  Bewust Ongehuwde Moeder acceptabel           190
+               VAR896  samenwonen en kinderen krijgen               191
+               VAR897  reageerbuisbaby bij echtpaar acceptabel      192
+               VAR898  keuze achternaam kind <pa of ma>             193
+               VAR900A duur vraaggesprek in minuten                 000
+               VAR900B maanddag vraaggesprek                        000
+21 Apr 04                                                               Page 168
+13:20:03  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+               VAR900C maand vraaggesprek                           000
+               VAR900D bereidheid schriftelijk deel                 000
+               VAR901  kleur omslag formulier                       000
+               VAR902  aantal bruikbare gesprekken                  000
+               VAR903  1e of enige te ondervragen persoon           000
+               VAR904  2e te ondervragen persoon                    000
+               VAR905  reden geen gesprek                           000
+               VAR906  sexe mannelijk gezinshoofd                   000
+               VAR907  leeftijd mannelijk gezinshoofd               000
+               VAR908  sexe vrouwelijk gezinshoofd                  000
+               VAR909  leeftijd vrouwelijk gezinshoofd              000
+               VAR910  sexe oudste kind                             000
+               VAR911  leeftijd oudste kind                         000
+               VAR912  sexe 2e kind                                 000
+               VAR913  leeftijd 2e kind                             000
+               VAR914  sexe 3e kind                                 000
+               VAR915  leeftijd 3e kind                             000
+               VAR916  sexe 4e kind                                 000
+               VAR917  leeftijd 4e kind                             000
+               VAR918  sexe 5e kind                                 000
+               VAR919  leeftijd 5e kind                             000
+               VAR920  sexe 6e kind                                 000
+               VAR921  leeftijd 6e kind                             000
+               VAR922  sexe 7e kind                                 000
+               VAR923  leeftijd 7e kind                             000
+               VAR924  sexe 8e kind                                 000
+               VAR925  leeftijd 8e kind                             000
+               VAR926  sexe ander gezinslid <oudste>                000
+               VAR927  leeftijd ander gezinslid <oudste>            000
+               VAR928  sexe ander gezinslid                         000
+               VAR929  leeftijd ander gezinslid                     000
+               VAR930  inbrengers van inkomen                       232
+               VAR931  netto gezinsinkomen                          231
+               VAR951  verwachte ekonomische situatie 12 mnd        055
+               VAR952  verwachte werkloosheidssituatie 12 mnd       056
+               VAR953  strafmaat in NL voor misdadigers             131
+               VAR954  discussie met gemeenteambtenaar zinvol?      143
+               VAR955  tevredenheid met gem dienstverlening         144
+               VAR956  pensioen goed <> ouderen arm                 204
+               VAR957  zelfst wonen ok <> bejaardenoor beter        204
+               VAR958  eigen huih ok <> huish hulp noodz            204
+               VAR959  raken achterop <> maatsch aktief ok          204
+               VAR960  hulpbehoevend <> versch hulpbehoefte         204
+               VAR961  oud verkiest oud voor omgang                 205
+               VAR962  inwonen bij kinderen goede zaak              205
+               VAR963  bond voor ouderen goede zaak                 205
+               VAR964  ouderen stiefkind vd samenleving             205
+               VAR965  opa en oma in huis slecht v kinderen         205
+               VAR966  ouderen moeten plaatsmaken voor jong         205
+               VAR967  jongeren geen voorrang op betaald werk       205
+               VAR968  ouderen moeten jongeren ondersteunen         205
+               VAR969  jongeren moeten ouderen ondersteunen         205
+               VAR970  opzien tegen ouder worden                    205
+               VAR971  oud worden meer voor- dan nadelen            205
+               VAR972A eigenschap: eigenwijs                        206
+               VAR972B eigenschap: futloos                          206
+               VAR972C eigenschap: waardevol v samenleving          206
+               VAR972D eigenschap: betrouwbaar                      206
+               VAR972E eigenschap: verantwoordelijkheidsgevoel      206
+21 Apr 04                                                               Page 169
+13:20:03  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+               VAR972F eigenschap: zwak                             206
+               VAR972G eigenschap: ongeduldig                       206
+               VAR972H eigenschap: aktief                           206
+               VAR972I eigenschap: goede manieren                   206
+               VAR972J eigenschap: egoistisch                       206
+               VAR972K eigenschap: tevreden                         206
+               VAR973  oplossing als zelfst wonen oudere onm        206
+               VAR974  weet u wat Aids is                           214
+               VAR975  nadere omschrijving van Aids                 215
+               VAR976  wie kan Aids krijgen                         216
+               VAR977A Aidsrisicogr: sexuele kontaktwisselaars      217
+               VAR977B Aidsrisicogr: homosexuelen                   217
+               VAR977C Aidsrisicogr: prostituees                    217
+               VAR977D Aidsrisicogr: hoerenlopers                   217
+               VAR977E Aidsrisicogr: bij bloedtranfusie             217
+               VAR977F Aidsrisicogr: drugsverslaafden               217
+               VAR977G Aidsrisicogr: artsen en verplegers           217
+               VAR977H Aidsrisicogr: nog anderen                    217
+               VAR977I Aidsrisicogr: iedereen evenveel              217
+               VAR977J Aidsrisicogr: weet niet                      217
+               VAR978A Aidsverspr: sexueel kontakt                  218
+               VAR978B Aidsverspr: wisselende sex kontakten         218
+               VAR978C Aidsverspr: homosexueel kontakt              218
+               VAR978D Aidsverspr: anale sex                        218
+               VAR978E Aidsverspr: sperma                           218
+               VAR978F Aidsverspr: vaginaal vocht                   218
+               VAR978G Aidsverspr: bloedtransfusie                  218
+               VAR978H Aidsverspr: drugs spuiten                    218
+               VAR978I Aidsverspr: slijmvliezen speeksel            218
+               VAR978J Aidsverspr: zoenen                           218
+               VAR978K Aidsverspr: ieder lichamelijk kontakt        218
+               VAR978L Aidsverspr: voorwerpen                       218
+               VAR978M Aidsverspr: besmetting moeder op vrucht      218
+               VAR978N Aidsverspr: insekten                         218
+               VAR978O Aidsverspr: nog anders                       218
+               VAR978P Aidsverspr: weet niet                        218
+               VAR979A Aidsprev: sexueel kontakt mijden             219
+               VAR979B Aidsprev: geen wisselende partners           219
+               VAR979C Aidsprev: geen homosexueel kontakt           219
+               VAR979D Aidsprev: gebruik condooms                   219
+               VAR979E Aidsprev: andere voorbehoedsmiddelen         219
+               VAR979F Aidsprev: zorgvuldigheid bij transfusie      219
+               VAR979G Aidsprev: eigen injectiespuit                219
+               VAR979H Aidsprev: niet iedereen zoenen               219
+               VAR979I Aidsprev: goede hygiene                      219
+               VAR979J Aidsprev: risikogroepen mijden               219
+               VAR979K Aidsprev: goede voorlichting                 219
+               VAR979L Aidsprev: nog anders                         219
+               VAR979M Aidsprev: niet te voorkomen                  219
+               VAR979N Aidsprev: weet niet                          219
+               VAR980  aantal echte Aids-patienten                  220
+               VAR981  aantal echte Aids-patienten over 5 jaar      221
+               VAR982  risico om zelf Aids te krijgen               222
+               VAR983  zelf Aids-preventie gedaan                   223
+               VAR984  kans op Aids-vaccin binnen 5 jaar            224
+               VAR985  kans op Aids-medicijn binnen 5 jaar          225
+               VAR986  kans op Aids-remmend gedrag binnen 5 jr      226
+               VAR987  Aidsprev mtrgl: vrpl bloedproef              227
+               VAR988  Aidsprev mtrgl: verbod opnb gelegenheid      227
+21 Apr 04                                                               Page 170
+13:20:03  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+               VAR989  Aidsprev mtrgl: keuring prostituees          227
+               VAR990  Aidsprev mtrgl: zelfdiscipline               227
+               VAR991  niveau Aids-voorlichting                     228
+               VAR992  niveau Aids-onderzoek                        229
+               VAR993  niveau overheidsaanpak Aids-probleem         230
+.
+   (Entered 14 JAN 94)
+21 Apr 04                                                               Page 171
+13:20:03  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+  20  set listing 'p0947ms.lab'.

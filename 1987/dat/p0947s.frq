@@ -1,0 +1,2292 @@
+UNWEIGHTED FREQUENCIES                                              Page 1
+ Steinmetz Archive              SUN SPARC        Solaris 2.3     21 Apr 04
+ 
+ File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+WEGINGZ
+ 
+
+                                                        Valid     Cum
+ Value Label                 Value  Frequency  Percent  Percent  Percent
+ 
+                                 1      1990    100.0    100.0    100.0
+                                      -------  -------  -------
+                             Total      1990    100.0    100.0
+
+Valid cases    1990      Missing cases      0
+UNWEIGHTED FREQUENCIES                                              Page 2
+ Steinmetz Archive              SUN SPARC        Solaris 2.3     21 Apr 04
+ 
+ File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT001    YEARS OF EDUCATION SINCE 6TH BIRTHDAY
+ 
+
+                                                        Valid     Cum
+ Value Label                 Value  Frequency  Percent  Percent  Percent
+ 
+                                 0         4       .2       .2       .2
+                                 1         1       .1       .1       .3
+                                 2         1       .1       .1       .4
+                                 3         1       .1       .1       .4
+                                 4         2       .1       .1       .6
+                                 5        12       .6       .7      1.3
+                                 6        78      3.9      4.8      6.1
+                                 7        84      4.2      5.2     11.4
+                                 8       139      7.0      8.6     20.0
+                                 9       126      6.3      7.8     27.8
+                                10       218     11.0     13.5     41.3
+                                11       192      9.6     11.9     53.3
+                                12       154      7.7      9.6     62.8
+                                13       111      5.6      6.9     69.7
+                                14       128      6.4      7.9     77.7
+                                15        84      4.2      5.2     82.9
+                                16        59      3.0      3.7     86.5
+                                17        54      2.7      3.4     89.9
+                                18        48      2.4      3.0     92.9
+                                19        24      1.2      1.5     94.4
+                                20        34      1.7      2.1     96.5
+                                21        16       .8      1.0     97.5
+                                22        15       .8       .9     98.4
+                                23         8       .4       .5     98.9
+                                24         9       .5       .6     99.4
+                                25         3       .2       .2     99.6
+                                26         1       .1       .1     99.7
+                                27         1       .1       .1     99.8
+                                29         1       .1       .1     99.8
+                                30         1       .1       .1     99.9
+                                33         1       .1       .1     99.9
+                                35         1       .1       .1    100.0
+                                -7       352     17.7   Missing
+                                -6        27      1.4   Missing
+                                      -------  -------  -------
+                             Total      1990    100.0    100.0
+
+Valid cases    1611      Missing cases    379
+UNWEIGHTED FREQUENCIES                                              Page 3
+ Steinmetz Archive              SUN SPARC        Solaris 2.3     21 Apr 04
+ 
+ File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT002    OCCUPATION <PRESENT OR LAST ONE>
+ 
+
+                                                        Valid     Cum
+ Value Label                 Value  Frequency  Percent  Percent  Percent
+ 
+ MANAGER 10+                     1        34      1.7      2.5      2.5
+ MANAGER 9-                      2        55      2.8      4.0      6.5
+ PROFESSIONAL                    3        32      1.6      2.3      8.8
+ FARMER                          4        28      1.4      2.0     10.9
+ HIGHER EMPLOYEE                 5       143      7.2     10.4     21.3
+ INTERMEDIATE EMP                6       516     25.9     37.7     59.0
+ LOWER EMPLOYEE                  7       240     12.1     17.5     76.6
+ SKILLED LABOUR                  8       218     11.0     15.9     92.5
+ UNSKILLED LABOUR                9       103      5.2      7.5    100.0
+                                -7       352     17.7   Missing
+ NO ANSWER                      -6        29      1.5   Missing
+ NEVER HAD OCC                  -5       240     12.1   Missing
+                                      -------  -------  -------
+                             Total      1990    100.0    100.0
+
+Valid cases    1369      Missing cases    621
+ 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+INT003    OCCUPATIONAL STATUS
+ 
+
+                                                        Valid     Cum
+ Value Label                 Value  Frequency  Percent  Percent  Percent
+ 
+ SELF EMPLOYED                   1       128      6.4      9.8      9.8
+ EMPL CIVIL SERV                 2       374     18.8     28.6     38.4
+ OTHER EMPLOYEE                  3       805     40.5     61.6    100.0
+                                -7       352     17.7   Missing
+ NO ANSWER                      -6        91      4.6   Missing
+ NEVER HAD OCC                  -5       240     12.1   Missing
+                                      -------  -------  -------
+                             Total      1990    100.0    100.0
+
+Valid cases    1307      Missing cases    683
+UNWEIGHTED FREQUENCIES                                              Page 4
+ Steinmetz Archive              SUN SPARC        Solaris 2.3     21 Apr 04
+ 
+ File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT004    NUMBER OF PEOPLE UNDER GUIDANCE
+ 
+
+                    Cum                     Cum                     Cum
+    Value   Freq Pct Pct    Value   Freq Pct Pct    Value   Freq Pct Pct
+ 
+        0    668  60  60       18      3   0  90       40     13   1  96
+        1     50   4  64       20     18   2  91       44      2   0  97
+        2     49   4  68       21      1   0  91       45      3   0  97
+        3     53   5  73       22      3   0  92       50      1   0  97
+        4     36   3  76       23      1   0  92       55      2   0  97
+        5     26   2  79       24      3   0  92       56      1   0  97
+        6     17   2  80       25      9   1  93       60      1   0  97
+        7     18   2  82       26      2   0  93       65      2   0  98
+        8     15   1  83       27      1   0  93       66      1   0  98
+        9      7   1  84       28      2   0  93       70      1   0  98
+       10     21   2  86       30     15   1  94       71      1   0  98
+       11      5   0  86       31      1   0  95       80      1   0  98
+       12     11   1  87       32      1   0  95       88      3   0  98
+       13      3   0  87       33      1   0  95       90      1   0  98
+       14      5   0  88       34      1   0  95       93      1   0  98
+       15     14   1  89       35      4   0  95       99     19   2 100
+       16      3   0  89       39      1   0  95
+
+                       M I S S I N G   D A T A
+    Value   Freq            Value   Freq            Value   Freq
+ 
+       -7    352               -6    277               -5    240
+
+Valid cases    1121      Missing cases    869
+UNWEIGHTED FREQUENCIES                                              Page 5
+ Steinmetz Archive              SUN SPARC        Solaris 2.3     21 Apr 04
+ 
+ File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT005    OCCUPATION FATHER <PRESENT OR LAST ONE>
+ 
+
+                                                        Valid     Cum
+ Value Label                 Value  Frequency  Percent  Percent  Percent
+ 
+ MANAGER 10+                     1        79      4.0      5.2      5.2
+ MANAGER 9-                      2       128      6.4      8.5     13.7
+ PROFESSIONAL                    3        41      2.1      2.7     16.4
+ FARMER                          4       156      7.8     10.3     26.7
+ HIGHER EMPLOYEE                 5       171      8.6     11.3     38.0
+ INTERMEDIATE EMP                6       282     14.2     18.6     56.6
+ LOWER EMPLOYEE                  7       105      5.3      6.9     63.5
+ SKILLED LABOUR                  8       298     15.0     19.7     83.2
+ UNSKILLED LABOUR                9       254     12.8     16.8    100.0
+                                -7       352     17.7   Missing
+ NO ANSWER                      -6       115      5.8   Missing
+ NEVER HAD OCC                  -5         9       .5   Missing
+                                      -------  -------  -------
+                             Total      1990    100.0    100.0
+
+Valid cases    1514      Missing cases    476
+ 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+INT006    OCCUPATIONAL STATUS FATHER
+ 
+
+                                                        Valid     Cum
+ Value Label                 Value  Frequency  Percent  Percent  Percent
+ 
+ SELF EMPLOYED                   1       443     22.3     28.3     28.3
+ EMPL CIVIL SERV                 2       336     16.9     21.5     49.8
+ OTHER EMPLOYEE                  3       785     39.4     50.2    100.0
+                                -7       352     17.7   Missing
+ NO ANSWER                      -6        65      3.3   Missing
+ NEVER HAD OCC                  -5         9       .5   Missing
+                                      -------  -------  -------
+                             Total      1990    100.0    100.0
+
+Valid cases    1564      Missing cases    426
+UNWEIGHTED FREQUENCIES                                              Page 6
+ Steinmetz Archive              SUN SPARC        Solaris 2.3     21 Apr 04
+ 
+ File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT007    NUMBER OF PEOPLE UNDER GUIDANCE FATHER
+ 
+
+                                                        Valid     Cum
+ Value Label                 Value  Frequency  Percent  Percent  Percent
+ 
+                                 0       617     31.0     47.4     47.4
+                                 1        78      3.9      6.0     53.4
+                                 2        81      4.1      6.2     59.6
+                                 3        59      3.0      4.5     64.2
+                                 4        60      3.0      4.6     68.8
+                                 5        60      3.0      4.6     73.4
+                                 6        28      1.4      2.2     75.6
+                                 7        12       .6       .9     76.5
+                                 8        22      1.1      1.7     78.2
+                                 9        18       .9      1.4     79.6
+                                10        48      2.4      3.7     83.2
+                                11         5       .3       .4     83.6
+                                12        14       .7      1.1     84.7
+                                13         3       .2       .2     84.9
+                                14         3       .2       .2     85.2
+                                15        21      1.1      1.6     86.8
+                                16         2       .1       .2     86.9
+                                17         1       .1       .1     87.0
+                                18         6       .3       .5     87.5
+                                19         1       .1       .1     87.5
+                                20        36      1.8      2.8     90.3
+                                22         7       .4       .5     90.9
+                                24         1       .1       .1     90.9
+                                25        12       .6       .9     91.9
+                                27         1       .1       .1     91.9
+                                28         2       .1       .2     92.1
+                                30        10       .5       .8     92.9
+                                32         1       .1       .1     92.9
+                                33         2       .1       .2     93.1
+                                35         5       .3       .4     93.5
+                                40        16       .8      1.2     94.7
+                                42         1       .1       .1     94.8
+                                45         3       .2       .2     95.0
+                                50         8       .4       .6     95.6
+                                55         4       .2       .3     95.9
+                                56         1       .1       .1     96.0
+                                60         3       .2       .2     96.2
+                                70         3       .2       .2     96.5
+                                75         1       .1       .1     96.5
+                                77         2       .1       .2     96.7
+                                80         4       .2       .3     97.0
+                                88         1       .1       .1     97.1
+                                90         1       .1       .1     97.2
+                                95         1       .1       .1     97.2
+                                99        36      1.8      2.8    100.0
+                                -7       352     17.7   Missing
+                                -6       328     16.5   Missing
+                                -5         9       .5   Missing
+                                      -------  -------  -------
+                             Total      1990    100.0    100.0
+
+Valid cases    1301      Missing cases    689
+UNWEIGHTED FREQUENCIES                                              Page 7
+ Steinmetz Archive              SUN SPARC        Solaris 2.3     21 Apr 04
+ 
+ File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT008    EDUCATION PARTNER
+ 
+
+                                                        Valid     Cum
+ Value Label                 Value  Frequency  Percent  Percent  Percent
+ 
+ ELEMENTARY                      1       136      6.8     12.9     12.9
+ LOWER VOCATIONAL                2       383     19.2     36.2     49.1
+ ADVANCED ELEM                   3       104      5.2      9.8     58.9
+ INTERMEDIATE VOC                4       175      8.8     16.6     75.5
+ SECONDARY                       5        57      2.9      5.4     80.9
+ HIGHER VOC                      6       117      5.9     11.1     92.0
+ UNIVERSITY                      7        85      4.3      8.0    100.0
+                                -7       352     17.7   Missing
+ NO ANSWER                      -6        41      2.1   Missing
+ NO PARTNER                     -5       540     27.1   Missing
+                                      -------  -------  -------
+                             Total      1990    100.0    100.0
+
+Valid cases    1057      Missing cases    933
+ 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+INT009    PAID WORKING-HOURS PARTNER
+ 
+
+                    Cum                     Cum                     Cum
+    Value   Freq Pct Pct    Value   Freq Pct Pct    Value   Freq Pct Pct
+ 
+        0    440  42  42       24      3   0  54       44      2   0  92
+        2      4   0  43       25      6   1  54       45     13   1  94
+        4      7   1  43       26      2   0  55       47      1   0  94
+        5      5   0  44       27      2   0  55       48      3   0  94
+        6      7   1  44       28      2   0  55       50     28   3  97
+        7      5   0  45       30     12   1  56       52      3   0  97
+        8     11   1  46       32     10   1  57       54      1   0  97
+        9     11   1  47       33      1   0  57       55      6   1  98
+       10     11   1  48       34      2   0  57       57      1   0  98
+       12      4   0  49       35      6   1  58       60      8   1  98
+       13      1   0  49       36     22   2  60       62      1   0  99
+       15      5   0  49       37      3   0  60       65      2   0  99
+       16     10   1  50       38     83   8  68       68      1   0  99
+       17      1   0  50       39      4   0  69       70      7   1 100
+       18      3   0  50       40    234  22  91       75      1   0 100
+       20     28   3  53       41      3   0  92       80      2   0 100
+       21      1   0  53       42      4   0  92       82      1   0 100
+       22      4   0  54       43      2   0  92       90      1   0 100
+
+                       M I S S I N G   D A T A
+    Value   Freq            Value   Freq            Value   Freq
+ 
+       -7    352               -6     57               -5    540
+
+Valid cases    1041      Missing cases    949
+UNWEIGHTED FREQUENCIES                                              Page 8
+ Steinmetz Archive              SUN SPARC        Solaris 2.3     21 Apr 04
+ 
+ File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT010    GETTING AHEAD: FROM WEALTHY FAMILY
+ 
+
+                                                        Valid     Cum
+ Value Label                 Value  Frequency  Percent  Percent  Percent
+ 
+ ESSENTIAL                       1        10       .5       .6       .6
+ VERY IMPORTANT                  2       160      8.0     10.2     10.8
+ FAIRLY IMPORTANT                3       437     22.0     27.8     38.6
+ NOT VERY IMPORT                 4       603     30.3     38.4     77.0
+ NOT IMPOR AT ALL                5       362     18.2     23.0    100.0
+                                -7       352     17.7   Missing
+ NO ANSWER                      -6        27      1.4   Missing
+ DON'T KNOW                     -3        39      2.0   Missing
+                                      -------  -------  -------
+                             Total      1990    100.0    100.0
+
+Valid cases    1572      Missing cases    418
+ 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+INT011    GETTING AHEAD: WELL EDUCATED PARENTS
+ 
+
+                                                        Valid     Cum
+ Value Label                 Value  Frequency  Percent  Percent  Percent
+ 
+ ESSENTIAL                       1         9       .5       .6       .6
+ VERY IMPORTANT                  2       405     20.4     25.5     26.1
+ FAIRLY IMPORTANT                3       686     34.5     43.3     69.4
+ NOT VERY IMPORT                 4       375     18.8     23.6     93.0
+ NOT IMPOR AT ALL                5       111      5.6      7.0    100.0
+                                -7       352     17.7   Missing
+ NO ANSWER                      -6        37      1.9   Missing
+ DON'T KNOW                     -3        15       .8   Missing
+                                      -------  -------  -------
+                             Total      1990    100.0    100.0
+
+Valid cases    1586      Missing cases    404
+UNWEIGHTED FREQUENCIES                                              Page 9
+ Steinmetz Archive              SUN SPARC        Solaris 2.3     21 Apr 04
+ 
+ File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT012    GETTING AHEAD: GOOD EDUCATION
+ 
+
+                                                        Valid     Cum
+ Value Label                 Value  Frequency  Percent  Percent  Percent
+ 
+ ESSENTIAL                       1       234     11.8     14.6     14.6
+ VERY IMPORTANT                  2       969     48.7     60.3     74.9
+ FAIRLY IMPORTANT                3       353     17.7     22.0     96.8
+ NOT VERY IMPORT                 4        39      2.0      2.4     99.3
+ NOT IMPOR AT ALL                5        12       .6       .7    100.0
+                                -7       352     17.7   Missing
+ NO ANSWER                      -6        25      1.3   Missing
+ DON'T KNOW                     -3         6       .3   Missing
+                                      -------  -------  -------
+                             Total      1990    100.0    100.0
+
+Valid cases    1607      Missing cases    383
+ 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+INT013    GETTING AHEAD: AMBITION
+ 
+
+                                                        Valid     Cum
+ Value Label                 Value  Frequency  Percent  Percent  Percent
+ 
+ ESSENTIAL                       1       318     16.0     20.1     20.1
+ VERY IMPORTANT                  2       763     38.3     48.1     68.2
+ FAIRLY IMPORTANT                3       411     20.7     25.9     94.1
+ NOT VERY IMPORT                 4        82      4.1      5.2     99.2
+ NOT IMPOR AT ALL                5        12       .6       .8    100.0
+                                -7       352     17.7   Missing
+ NO ANSWER                      -6        22      1.1   Missing
+ DON'T KNOW                     -3        30      1.5   Missing
+                                      -------  -------  -------
+                             Total      1990    100.0    100.0
+
+Valid cases    1586      Missing cases    404
+UNWEIGHTED FREQUENCIES                                             Page 10
+ Steinmetz Archive              SUN SPARC        Solaris 2.3     21 Apr 04
+ 
+ File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT014    GETTING AHEAD: TALENT
+ 
+
+                                                        Valid     Cum
+ Value Label                 Value  Frequency  Percent  Percent  Percent
+ 
+ ESSENTIAL                       1       119      6.0      7.5      7.5
+ VERY IMPORTANT                  2       698     35.1     44.0     51.5
+ FAIRLY IMPORTANT                3       565     28.4     35.6     87.1
+ NOT VERY IMPORT                 4       182      9.1     11.5     98.6
+ NOT IMPOR AT ALL                5        23      1.2      1.4    100.0
+                                -7       352     17.7   Missing
+ NO ANSWER                      -6        36      1.8   Missing
+ DON'T KNOW                     -3        15       .8   Missing
+                                      -------  -------  -------
+                             Total      1990    100.0    100.0
+
+Valid cases    1587      Missing cases    403
+ 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+INT015    GETTING AHEAD: HARD WORK
+ 
+
+                                                        Valid     Cum
+ Value Label                 Value  Frequency  Percent  Percent  Percent
+ 
+ ESSENTIAL                       1       299     15.0     18.6     18.6
+ VERY IMPORTANT                  2       784     39.4     48.8     67.4
+ FAIRLY IMPORTANT                3       442     22.2     27.5     95.0
+ NOT VERY IMPORT                 4        72      3.6      4.5     99.4
+ NOT IMPOR AT ALL                5         9       .5       .6    100.0
+                                -7       352     17.7   Missing
+ NO ANSWER                      -6        29      1.5   Missing
+ DON'T KNOW                     -3         3       .2   Missing
+                                      -------  -------  -------
+                             Total      1990    100.0    100.0
+
+Valid cases    1606      Missing cases    384
+UNWEIGHTED FREQUENCIES                                             Page 11
+ Steinmetz Archive              SUN SPARC        Solaris 2.3     21 Apr 04
+ 
+ File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT016    GETTING AHEAD: KNOWING THE RIGHT PEOPLE
+ 
+
+                                                        Valid     Cum
+ Value Label                 Value  Frequency  Percent  Percent  Percent
+ 
+ ESSENTIAL                       1       113      5.7      7.1      7.1
+ VERY IMPORTANT                  2       584     29.3     36.6     43.6
+ FAIRLY IMPORTANT                3       630     31.7     39.4     83.1
+ NOT VERY IMPORT                 4       235     11.8     14.7     97.8
+ NOT IMPOR AT ALL                5        35      1.8      2.2    100.0
+                                -7       352     17.7   Missing
+ NO ANSWER                      -6        28      1.4   Missing
+ DON'T KNOW                     -3        13       .7   Missing
+                                      -------  -------  -------
+                             Total      1990    100.0    100.0
+
+Valid cases    1597      Missing cases    393
+ 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+INT017    GETTING AHEAD: RELATIONS IN POLITICS
+ 
+
+                                                        Valid     Cum
+ Value Label                 Value  Frequency  Percent  Percent  Percent
+ 
+ ESSENTIAL                       1        23      1.2      1.5      1.5
+ VERY IMPORTANT                  2        86      4.3      5.6      7.1
+ FAIRLY IMPORTANT                3       216     10.9     14.1     21.2
+ NOT VERY IMPORT                 4       707     35.5     46.2     67.4
+ NOT IMPOR AT ALL                5       499     25.1     32.6    100.0
+                                -7       352     17.7   Missing
+ NO ANSWER                      -6        36      1.8   Missing
+ DON'T KNOW                     -3        71      3.6   Missing
+                                      -------  -------  -------
+                             Total      1990    100.0    100.0
+
+Valid cases    1531      Missing cases    459
+UNWEIGHTED FREQUENCIES                                             Page 12
+ Steinmetz Archive              SUN SPARC        Solaris 2.3     21 Apr 04
+ 
+ File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT018    GETTING AHEAD: MATTERS LIKE RACE OR COLO
+ 
+
+                                                        Valid     Cum
+ Value Label                 Value  Frequency  Percent  Percent  Percent
+ 
+ ESSENTIAL                       1        14       .7       .9       .9
+ VERY IMPORTANT                  2        89      4.5      5.9      6.8
+ FAIRLY IMPORTANT                3       271     13.6     17.8     24.6
+ NOT VERY IMPORT                 4       583     29.3     38.3     62.9
+ NOT IMPOR AT ALL                5       564     28.3     37.1    100.0
+                                -7       352     17.7   Missing
+ NO ANSWER                      -6        36      1.8   Missing
+ DON'T KNOW                     -3        81      4.1   Missing
+                                      -------  -------  -------
+                             Total      1990    100.0    100.0
+
+Valid cases    1521      Missing cases    469
+ 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+INT019    GETTING AHEAD: RELIGION
+ 
+
+                                                        Valid     Cum
+ Value Label                 Value  Frequency  Percent  Percent  Percent
+ 
+ ESSENTIAL                       1        13       .7       .8       .8
+ VERY IMPORTANT                  2        49      2.5      3.1      4.0
+ FAIRLY IMPORTANT                3       108      5.4      6.9     10.8
+ NOT VERY IMPORT                 4       590     29.6     37.6     48.5
+ NOT IMPOR AT ALL                5       808     40.6     51.5    100.0
+                                -7       352     17.7   Missing
+ NO ANSWER                      -6        42      2.1   Missing
+ DON'T KNOW                     -3        28      1.4   Missing
+                                      -------  -------  -------
+                             Total      1990    100.0    100.0
+
+Valid cases    1568      Missing cases    422
+UNWEIGHTED FREQUENCIES                                             Page 13
+ Steinmetz Archive              SUN SPARC        Solaris 2.3     21 Apr 04
+ 
+ File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT020    GETTING AHEAD: REGION COMING FROM
+ 
+
+                                                        Valid     Cum
+ Value Label                 Value  Frequency  Percent  Percent  Percent
+ 
+ ESSENTIAL                       1         4       .2       .3       .3
+ VERY IMPORTANT                  2        27      1.4      1.7      2.0
+ FAIRLY IMPORTANT                3       137      6.9      8.7     10.7
+ NOT VERY IMPORT                 4       633     31.8     40.2     50.9
+ NOT IMPOR AT ALL                5       772     38.8     49.1    100.0
+                                -7       352     17.7   Missing
+ NO ANSWER                      -6        42      2.1   Missing
+ DON'T KNOW                     -3        23      1.2   Missing
+                                      -------  -------  -------
+                             Total      1990    100.0    100.0
+
+Valid cases    1573      Missing cases    417
+ 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+INT021    GETTING AHEAD: BEING A MAN OR A WOMAN
+ 
+
+                                                        Valid     Cum
+ Value Label                 Value  Frequency  Percent  Percent  Percent
+ 
+ ESSENTIAL                       1         5       .3       .3       .3
+ VERY IMPORTANT                  2        53      2.7      3.4      3.7
+ FAIRLY IMPORTANT                3       204     10.3     13.0     16.7
+ NOT VERY IMPORT                 4       581     29.2     37.1     53.8
+ NOT IMPOR AT ALL                5       724     36.4     46.2    100.0
+                                -7       352     17.7   Missing
+ NO ANSWER                      -6        39      2.0   Missing
+ DON'T KNOW                     -3        32      1.6   Missing
+                                      -------  -------  -------
+                             Total      1990    100.0    100.0
+
+Valid cases    1567      Missing cases    423
+UNWEIGHTED FREQUENCIES                                             Page 14
+ Steinmetz Archive              SUN SPARC        Solaris 2.3     21 Apr 04
+ 
+ File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT022    GETTING AHEAD: POLITICAL BELIEFS
+ 
+
+                                                        Valid     Cum
+ Value Label                 Value  Frequency  Percent  Percent  Percent
+ 
+ ESSENTIAL                       1         5       .3       .3       .3
+ VERY IMPORTANT                  2        37      1.9      2.4      2.7
+ FAIRLY IMPORTANT                3       187      9.4     12.2     15.0
+ NOT VERY IMPORT                 4       638     32.1     41.7     56.7
+ NOT IMPOR AT ALL                5       662     33.3     43.3    100.0
+                                -7       352     17.7   Missing
+ NO ANSWER                      -6        42      2.1   Missing
+ DON'T KNOW                     -3        67      3.4   Missing
+                                      -------  -------  -------
+                             Total      1990    100.0    100.0
+
+Valid cases    1529      Missing cases    461
+ 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+INT023    GOOD CHANCE IMPROVING STANDARD OF LIVING
+ 
+
+                                                        Valid     Cum
+ Value Label                 Value  Frequency  Percent  Percent  Percent
+ 
+ STRONGLY AGREE                  1        27      1.4      1.9      1.9
+ AGREE                           2       338     17.0     23.8     25.7
+ NEITHER A OR D                  3       557     28.0     39.2     64.9
+ DISAGREE                        4       385     19.3     27.1     92.0
+ STRONGLY DISAGR                 5       113      5.7      8.0    100.0
+                                -7       352     17.7   Missing
+ NO ANSWER                      -6        70      3.5   Missing
+ DON'T KNOW                     -3       148      7.4   Missing
+                                      -------  -------  -------
+                             Total      1990    100.0    100.0
+
+Valid cases    1420      Missing cases    570
+UNWEIGHTED FREQUENCIES                                             Page 15
+ Steinmetz Archive              SUN SPARC        Solaris 2.3     21 Apr 04
+ 
+ File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT024    LARGE DIFF IN PAY NECESSARY TO WORK HARD
+ 
+
+                                                        Valid     Cum
+ Value Label                 Value  Frequency  Percent  Percent  Percent
+ 
+ ABSOLUTELY                      1       127      6.4      8.4      8.4
+ PROBABLY                        2       440     22.1     29.0     37.3
+ PROBABLY NOT                    3       383     19.2     25.2     62.5
+ DEFINITELY NOT                  4       569     28.6     37.5    100.0
+                                -7       352     17.7   Missing
+ NO ANSWER                      -6        41      2.1   Missing
+ DON'T KNOW                     -3        78      3.9   Missing
+                                      -------  -------  -------
+                             Total      1990    100.0    100.0
+
+Valid cases    1519      Missing cases    471
+ 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+INT025    NO EXTRA RESPONSABILITY UNLESS EXTRA PAI
+ 
+
+                                                        Valid     Cum
+ Value Label                 Value  Frequency  Percent  Percent  Percent
+ 
+ STRONGLY AGREE                  1       142      7.1      9.0      9.0
+ AGREE                           2       880     44.2     55.7     64.7
+ NEITHER A OR D                  3       247     12.4     15.6     80.3
+ DISAGREE                        4       273     13.7     17.3     97.6
+ STRONGLY DISAGR                 5        38      1.9      2.4    100.0
+                                -7       352     17.7   Missing
+ NO ANSWER                      -6        29      1.5   Missing
+ DON'T KNOW                     -3        29      1.5   Missing
+                                      -------  -------  -------
+                             Total      1990    100.0    100.0
+
+Valid cases    1580      Missing cases    410
+UNWEIGHTED FREQUENCIES                                             Page 16
+ Steinmetz Archive              SUN SPARC        Solaris 2.3     21 Apr 04
+ 
+ File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT026    NO EXTRA GUALIFICATIONS UNLESS EXTRA PAI
+ 
+
+                                                        Valid     Cum
+ Value Label                 Value  Frequency  Percent  Percent  Percent
+ 
+ STRONGLY AGREE                  1        73      3.7      4.8      4.8
+ AGREE                           2       597     30.0     39.2     44.0
+ NEITHER A OR D                  3       297     14.9     19.5     63.5
+ DISAGREE                        4       501     25.2     32.9     96.3
+ STRONGLY DISAGR                 5        56      2.8      3.7    100.0
+                                -7       352     17.7   Missing
+ NO ANSWER                      -6        91      4.6   Missing
+ DON'T KNOW                     -3        23      1.2   Missing
+                                      -------  -------  -------
+                             Total      1990    100.0    100.0
+
+Valid cases    1524      Missing cases    466
+ 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+INT027    INEQUALITY REMAINS: BENEFITS RICH!POWERF
+ 
+
+                                                        Valid     Cum
+ Value Label                 Value  Frequency  Percent  Percent  Percent
+ 
+ STRONGLY AGREE                  1       224     11.3     15.1     15.1
+ AGREE                           2       653     32.8     44.0     59.1
+ NEITHER A OR D                  3       248     12.5     16.7     75.8
+ DISAGREE                        4       277     13.9     18.7     94.5
+ STRONGLY DISAGR                 5        82      4.1      5.5    100.0
+                                -7       352     17.7   Missing
+ NO ANSWER                      -6       117      5.9   Missing
+ DON'T KNOW                     -3        37      1.9   Missing
+                                      -------  -------  -------
+                             Total      1990    100.0    100.0
+
+Valid cases    1484      Missing cases    506
+UNWEIGHTED FREQUENCIES                                             Page 17
+ Steinmetz Archive              SUN SPARC        Solaris 2.3     21 Apr 04
+ 
+ File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT028    NO LONG STUDY UNLESS EARNING A LOT MORE
+ 
+
+                                                        Valid     Cum
+ Value Label                 Value  Frequency  Percent  Percent  Percent
+ 
+ STRONGLY AGREE                  1       122      6.1      8.1      8.1
+ AGREE                           2       543     27.3     35.8     43.9
+ NEITHER A OR D                  3       328     16.5     21.7     65.5
+ DISAGREE                        4       462     23.2     30.5     96.0
+ STRONGLY DISAGR                 5        60      3.0      4.0    100.0
+                                -7       352     17.7   Missing
+ NO ANSWER                      -6        50      2.5   Missing
+ DON'T KNOW                     -3        73      3.7   Missing
+                                      -------  -------  -------
+                             Total      1990    100.0    100.0
+
+Valid cases    1515      Missing cases    475
+ 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+INT029    LARGE DIFF IN INCOME NECESSARY FOR PROSP
+ 
+
+                                                        Valid     Cum
+ Value Label                 Value  Frequency  Percent  Percent  Percent
+ 
+ STRONGLY AGREE                  1        35      1.8      2.4      2.4
+ AGREE                           2       216     10.9     14.5     16.9
+ NEITHER A OR D                  3       313     15.7     21.1     38.0
+ DISAGREE                        4       679     34.1     45.7     83.6
+ STRONGLY DISAGR                 5       243     12.2     16.4    100.0
+                                -7       352     17.7   Missing
+ NO ANSWER                      -6        72      3.6   Missing
+ DON'T KNOW                     -3        80      4.0   Missing
+                                      -------  -------  -------
+                             Total      1990    100.0    100.0
+
+Valid cases    1486      Missing cases    504
+UNWEIGHTED FREQUENCIES                                             Page 18
+ Steinmetz Archive              SUN SPARC        Solaris 2.3     21 Apr 04
+ 
+ File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT030    ALLOW PROFIT TO IMPROVE STANDARD OF LIVI
+ 
+
+                                                        Valid     Cum
+ Value Label                 Value  Frequency  Percent  Percent  Percent
+ 
+ STRONGLY AGREE                  1        72      3.6      5.0      5.0
+ AGREE                           2       430     21.6     29.9     34.9
+ NEITHER A OR D                  3       372     18.7     25.9     60.8
+ DISAGREE                        4       445     22.4     30.9     91.7
+ STRONGLY DISAGR                 5       119      6.0      8.3    100.0
+                                -7       352     17.7   Missing
+ NO ANSWER                      -6        44      2.2   Missing
+ DON'T KNOW                     -3       156      7.8   Missing
+                                      -------  -------  -------
+                             Total      1990    100.0    100.0
+
+Valid cases    1438      Missing cases    552
+ 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+INT031    INEQUALITY REMAINS: P DON'T JOIN TOGETHE
+ 
+
+                                                        Valid     Cum
+ Value Label                 Value  Frequency  Percent  Percent  Percent
+ 
+ STRONGLY AGREE                  1       124      6.2      8.7      8.7
+ AGREE                           2       585     29.4     41.1     49.8
+ NEITHER A OR D                  3       318     16.0     22.3     72.1
+ DISAGREE                        4       322     16.2     22.6     94.7
+ STRONGLY DISAGR                 5        76      3.8      5.3    100.0
+                                -7       352     17.7   Missing
+ NO ANSWER                      -6        78      3.9   Missing
+ DON'T KNOW                     -3       135      6.8   Missing
+                                      -------  -------  -------
+                             Total      1990    100.0    100.0
+
+Valid cases    1425      Missing cases    565
+UNWEIGHTED FREQUENCIES                                             Page 19
+ Steinmetz Archive              SUN SPARC        Solaris 2.3     21 Apr 04
+ 
+ File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT032A   BRICKLAYER ACTUALLY EARNS
+ 
+
+                    Cum                     Cum                     Cum
+    Value   Freq Pct Pct    Value   Freq Pct Pct    Value   Freq Pct Pct
+ 
+       12      2   0   0       32     45   3  37       51      1   0  97
+       14      1   0   0       33     37   3  39       52      2   0  97
+       15      5   0   1       34     28   2  41       53      2   0  97
+       17      1   0   1       35    184  13  54       54      1   0  97
+       18      4   0   1       36     76   5  59       55      8   1  98
+       19      3   0   1       37     29   2  61       56      2   0  98
+       20     24   2   3       38     48   3  65       58      1   0  98
+       21      5   0   3       39     36   3  67       59      1   0  98
+       22     15   1   4       40    223  16  83       60     14   1  99
+       23      7   0   5       41      8   1  83       64      1   0  99
+       24     24   2   6       42     29   2  85       65      3   0  99
+       25     72   5  11       43      2   0  86       70      1   0  99
+       26     26   2  13       44     10   1  86       79      1   0 100
+       27     16   1  14       45     74   5  91       80      3   0 100
+       28     29   2  16       46      5   0  92       86      1   0 100
+       29     17   1  18       48     10   1  92       90      2   0 100
+       30    216  15  33       49      2   0  93      125      1   0 100
+       31     11   1  33       50     61   4  97
+
+                       M I S S I N G   D A T A
+    Value   Freq            Value   Freq            Value   Freq
+ 
+       -7    560
+
+Valid cases    1430      Missing cases    560
+UNWEIGHTED FREQUENCIES                                             Page 20
+ Steinmetz Archive              SUN SPARC        Solaris 2.3     21 Apr 04
+ 
+ File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT032B   BRICKLAYER SHOULD EARN
+ 
+
+                    Cum                     Cum                     Cum
+    Value   Freq Pct Pct    Value   Freq Pct Pct    Value   Freq Pct Pct
+ 
+       14      1   0   0       35    164  12  38       55     21   1  95
+       15      5   0   0       36     43   3  41       56      3   0  95
+       16      1   0   0       37     15   1  42       57      2   0  95
+       18      2   0   1       38     47   3  45       59      2   0  95
+       19      1   0   1       39     37   3  48       60     36   3  98
+       20     14   1   2       40    280  20  68       61      1   0  98
+       21      6   0   2       41      5   0  68       65      1   0  98
+       22      8   1   3       42     30   2  70       66      1   0  98
+       23      5   0   3       43     14   1  71       70     13   1  99
+       24     13   1   4       44     19   1  72       78      2   0  99
+       25     38   3   7       45    123   9  81       80      4   0  99
+       26     12   1   8       46      7   0  82       85      1   0  99
+       27      7   0   8       47      4   0  82       86      1   0 100
+       28     14   1   9       48     11   1  83       88      1   0 100
+       29     12   1  10       49      7   0  83       90      3   0 100
+       30    146  10  20       50    132   9  93       93      1   0 100
+       31      5   0  21       51      3   0  93       99      1   0 100
+       32     32   2  23       52      4   0  93      125      1   0 100
+       33     22   2  24       53      1   0  93
+       34     21   1  26       54      1   0  93
+
+                       M I S S I N G   D A T A
+    Value   Freq            Value   Freq            Value   Freq
+ 
+       -7    583
+
+Valid cases    1407      Missing cases    583
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+INT033A   DOCTOR IN GENERAL PRACTICE ACTUALLY EARN
+ 
+
+Valid cases    1415      Missing cases    575
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+INT033B   DOCTOR IN GENERAL PRACTICE SHOULD EARN
+ 
+
+Valid cases    1394      Missing cases    596
+UNWEIGHTED FREQUENCIES                                             Page 21
+ Steinmetz Archive              SUN SPARC        Solaris 2.3     21 Apr 04
+ 
+ File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT034A   BANK CLERK ACTUALLY EARNS
+ 
+
+                    Cum                     Cum                     Cum
+    Value   Freq Pct Pct    Value   Freq Pct Pct    Value   Freq Pct Pct
+ 
+        8      1   0   0       31      6   0  33       50     82   6  95
+       10      3   0   0       32     33   2  36       51      1   0  95
+       12      2   0   0       33     32   2  38       52      2   0  95
+       15      1   0   0       34     27   2  40       53      1   0  95
+       16      3   0   1       35    189  13  53       55     13   1  96
+       17      2   0   1       36     62   4  58       56      4   0  96
+       18      3   0   1       37     13   1  58       57      1   0  96
+       19      1   0   1       38     32   2  61       60     26   2  98
+       20     24   2   3       39     27   2  63       65      2   0  98
+       21      3   0   3       40    238  17  79       66      1   0  98
+       22     12   1   4       41      4   0  80       68      1   0  99
+       23      7   0   4       42     20   1  81       70      8   1  99
+       24     34   2   7       43      8   1  82       75      1   0  99
+       25     75   5  12       44     11   1  82       76      1   0  99
+       26     14   1  13       45     75   5  88       80      4   0 100
+       27     16   1  14       46      9   1  88       83      1   0 100
+       28     36   3  17       47      1   0  88       85      1   0 100
+       29     14   1  18       48      7   0  89       90      1   0 100
+       30    216  15  33       49      2   0  89      100      4   0 100
+
+                       M I S S I N G   D A T A
+    Value   Freq            Value   Freq            Value   Freq
+ 
+       -7    572
+
+Valid cases    1418      Missing cases    572
+UNWEIGHTED FREQUENCIES                                             Page 22
+ Steinmetz Archive              SUN SPARC        Solaris 2.3     21 Apr 04
+ 
+ File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT034B   BANK CLERK SHOULD EARN
+ 
+
+                    Cum                     Cum                     Cum
+    Value   Freq Pct Pct    Value   Freq Pct Pct    Value   Freq Pct Pct
+ 
+       10      3   0   0       34     18   1  35       53      1   0  94
+       12      2   0   0       35    170  12  47       54      1   0  94
+       17      2   0   1       36     49   4  50       55     12   1  95
+       18      2   0   1       37     14   1  51       56      2   0  95
+       19      2   0   1       38     26   2  53       58      3   0  95
+       20     24   2   3       39     27   2  55       59      1   0  96
+       21      2   0   3       40    274  20  75       60     31   2  98
+       22     10   1   3       41      5   0  75       63      1   0  98
+       23      4   0   4       42     24   2  77       65      4   0  98
+       24     21   2   5       43      5   0  77       66      2   0  98
+       25     66   5  10       44     15   1  78       70     11   1  99
+       26     10   1  11       45     97   7  85       77      2   0  99
+       27     13   1  12       46     10   1  86       78      1   0  99
+       28     26   2  13       47      4   0  86       80      2   0  99
+       29     10   1  14       48      5   0  86       85      2   0 100
+       30    190  14  28       49      1   0  86       90      4   0 100
+       31      8   1  28       50    104   7  94      100      1   0 100
+       32     40   3  31       51      2   0  94      110      1   0 100
+       33     30   2  33       52      2   0  94      120      1   0 100
+
+                       M I S S I N G   D A T A
+    Value   Freq            Value   Freq            Value   Freq
+ 
+       -7    590
+
+Valid cases    1400      Missing cases    590
+UNWEIGHTED FREQUENCIES                                             Page 23
+ Steinmetz Archive              SUN SPARC        Solaris 2.3     21 Apr 04
+ 
+ File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT035A   OWNER SMALL SHOP ACTUALLY EARNS
+ 
+
+                    Cum                     Cum                     Cum
+    Value   Freq Pct Pct    Value   Freq Pct Pct    Value   Freq Pct Pct
+ 
+       10      2   0   0       45     71   5  56       88      3   0  93
+       11      1   0   0       46      1   0  56       89      2   0  93
+       14      1   0   0       47      2   0  56       90     18   1  94
+       16      1   0   0       48      4   0  56       95      1   0  94
+       17      1   0   0       49      5   0  57       98      1   0  94
+       18      2   0   1       50    197  14  71       99      2   0  95
+       20     35   3   3       51      1   0  71      100     35   3  97
+       21      2   0   3       52      4   0  71      110      6   0  98
+       22      8   1   4       53      1   0  71      111      1   0  98
+       23      1   0   4       54      1   0  72      130      1   0  98
+       24     12   1   5       55     22   2  73      132      1   0  98
+       25     39   3   8       56      3   0  73      135      1   0  98
+       26      2   0   8       58      2   0  74      150      6   0  98
+       27      5   0   8       59      4   0  74      160      1   0  98
+       28     10   1   9       60    128   9  83      165      1   0  98
+       29     11   1  10       62      1   0  83      170      1   0  99
+       30    161  12  21       65     17   1  85      175      1   0  99
+       31      4   0  22       66      4   0  85      180      1   0  99
+       32     11   1  23       67      2   0  85      190      1   0  99
+       33      8   1  23       68      1   0  85      200      6   0  99
+       34      7   1  24       69      2   0  85      220      1   0  99
+       35     94   7  31       70     31   2  87      247      1   0  99
+       36     17   1  32       72      1   0  88      250      2   0  99
+       37      7   1  32       75     13   1  88      298      1   0 100
+       38     17   1  34       76      1   0  89      346      1   0 100
+       39     10   1  34       78      1   0  89      350      2   0 100
+       40    209  15  50       80     50   4  92      467      1   0 100
+       41      1   0  50       82      1   0  92      555      1   0 100
+       42      7   1  50       84      1   0  92      700      1   0 100
+       43      3   0  50       85      2   0  93
+       44      3   0  51       87      1   0  93
+
+                       M I S S I N G   D A T A
+    Value   Freq            Value   Freq            Value   Freq
+ 
+       -7    622
+
+Valid cases    1368      Missing cases    622
+UNWEIGHTED FREQUENCIES                                             Page 24
+ Steinmetz Archive              SUN SPARC        Solaris 2.3     21 Apr 04
+ 
+ File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT035B   OWNER SMALL SHOP SHOULD EARN
+ 
+
+                    Cum                     Cum                     Cum
+    Value   Freq Pct Pct    Value   Freq Pct Pct    Value   Freq Pct Pct
+ 
+       11      1   0   0       49      6   0  38       97      1   0  92
+       12      1   0   0       50    244  18  56       98      3   0  92
+       14      1   0   0       51      2   0  56       99      5   0  93
+       20      5   0   1       52      3   0  57      100     48   4  96
+       22      2   0   1       53      2   0  57      110      5   0  97
+       23      2   0   1       54      4   0  57      111      1   0  97
+       24      1   0   1       55     45   3  60      120      4   0  97
+       25      7   1   1       56      1   0  60      130      2   0  97
+       26      2   0   2       57      4   0  61      132      1   0  97
+       28      2   0   2       58      1   0  61      134      1   0  97
+       29      4   0   2       59      2   0  61      140      1   0  97
+       30     52   4   6       60    176  13  74      150      9   1  98
+       31      1   0   6       65     30   2  76      160      2   0  98
+       32     10   1   7       66      5   0  77      175      1   0  98
+       33      5   0   7       67      1   0  77      178      1   0  98
+       34      5   0   8       68      1   0  77      180      3   0  99
+       35     47   4  11       69      1   0  77      190      2   0  99
+       36     14   1  12       70     72   5  82      200      4   0  99
+       37      3   0  12       72      1   0  82      230      1   0  99
+       38     12   1  13       75     22   2  84      240      1   0  99
+       39      5   0  14       79      4   0  84      250      1   0  99
+       40    198  15  28       80     60   4  89      275      1   0  99
+       41      3   0  29       81      1   0  89      300      2   0  99
+       42      9   1  29       82      1   0  89      331      1   0  99
+       43      5   0  30       85      7   1  89      334      1   0 100
+       44      5   0  30       88      1   0  90      350      2   0 100
+       45     88   7  37       89      1   0  90      450      1   0 100
+       46      7   1  37       90     27   2  92      478      1   0 100
+       47      1   0  37       95      3   0  92      555      1   0 100
+       48      6   0  38       96      1   0  92      770      1   0 100
+
+                       M I S S I N G   D A T A
+    Value   Freq            Value   Freq            Value   Freq
+ 
+       -7    649
+
+Valid cases    1341      Missing cases    649
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+INT036A   MANAGER LARGE DUTCH CO ACTUALLY EARNS
+ 
+
+Valid cases    1371      Missing cases    619
+UNWEIGHTED FREQUENCIES                                             Page 25
+ Steinmetz Archive              SUN SPARC        Solaris 2.3     21 Apr 04
+ 
+ File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT036B   MANAGER LARGE DUTCH CO SHOULD EARN
+ 
+
+Valid cases    1352      Missing cases    638
+ 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+INT037A   SKILLED FACTORY-WORKER ACTUALLY EARNS
+ 
+
+                    Cum                     Cum                     Cum
+    Value   Freq Pct Pct    Value   Freq Pct Pct    Value   Freq Pct Pct
+ 
+        9      1   0   0       29     15   1  18       47      3   0  90
+       10      4   0   0       30    259  19  37       48      8   1  91
+       11      1   0   0       31      6   0  37       49      7   1  91
+       13      1   0   1       32     36   3  40       50     74   5  96
+       14      3   0   1       33     26   2  42       51      1   0  97
+       15      6   0   1       34     21   2  43       55     10   1  97
+       17      1   0   1       35    178  13  56       56      2   0  97
+       18      5   0   2       36     51   4  60       57      1   0  97
+       19      2   0   2       37     22   2  61       59      1   0  98
+       20     34   2   4       38     26   2  63       60     20   1  99
+       21      7   1   5       39     28   2  65       65      2   0  99
+       22     15   1   6       40    246  18  83       66      1   0  99
+       23      9   1   6       41      4   0  83       70      2   0  99
+       24     22   2   8       42     17   1  84       75      1   0  99
+       25     68   5  13       43      4   0  85       80      7   1 100
+       26     10   1  14       44      9   1  85       98      1   0 100
+       27     13   1  15       45     60   4  90
+       28     34   2  17       46      3   0  90
+
+                       M I S S I N G   D A T A
+    Value   Freq            Value   Freq            Value   Freq
+ 
+       -7    602
+
+Valid cases    1388      Missing cases    602
+UNWEIGHTED FREQUENCIES                                             Page 26
+ Steinmetz Archive              SUN SPARC        Solaris 2.3     21 Apr 04
+ 
+ File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT037B   SKILLED FACTORY-WORKER SHOULD EARN
+ 
+
+                    Cum                     Cum                     Cum
+    Value   Freq Pct Pct    Value   Freq Pct Pct    Value   Freq Pct Pct
+ 
+       10      1   0   0       32     20   1  21       52      3   0  90
+       11      1   0   0       33     27   2  23       54      1   0  90
+       13      1   0   0       34     18   1  24       55     36   3  93
+       15      2   0   0       35    163  12  36       58      3   0  93
+       16      2   0   1       36     40   3  39       59      2   0  93
+       17      1   0   1       37     13   1  40       60     52   4  97
+       18      1   0   1       38     34   2  42       62      1   0  97
+       19      1   0   1       39     24   2  44       63      1   0  97
+       20      9   1   1       40    326  24  67       65      6   0  98
+       21      4   0   2       41      4   0  68       66      3   0  98
+       22      5   0   2       42     25   2  70       67      2   0  98
+       23      6   0   2       43      8   1  70       70     10   1  99
+       24     17   1   4       44      9   1  71       75      1   0  99
+       25     30   2   6       45    103   7  78       78      1   0  99
+       26      6   0   6       46      9   1  79       80      7   1  99
+       27      5   0   7       47      5   0  79       88      1   0  99
+       28     20   1   8       48     11   1  80       90      4   0 100
+       29      4   0   8       49      8   1  81       99      1   0 100
+       30    148  11  19       50    129   9  90      100      1   0 100
+       31      2   0  19       51      2   0  90      150      1   0 100
+
+                       M I S S I N G   D A T A
+    Value   Freq            Value   Freq            Value   Freq
+ 
+       -7    609
+
+Valid cases    1381      Missing cases    609
+UNWEIGHTED FREQUENCIES                                             Page 27
+ Steinmetz Archive              SUN SPARC        Solaris 2.3     21 Apr 04
+ 
+ File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT038A   FARMER ACTUALLY EARNS
+ 
+
+                    Cum                     Cum                     Cum
+    Value   Freq Pct Pct    Value   Freq Pct Pct    Value   Freq Pct Pct
+ 
+        5      1   0   0       48     10   1  41       90     26   2  89
+       10      3   0   0       49      3   0  41       95      3   0  89
+       12      1   0   0       50    218  16  57       96      1   0  90
+       15      2   0   1       52      3   0  57       98      1   0  90
+       18      1   0   1       53      1   0  57       99      2   0  90
+       19      1   0   1       54      3   0  57      100     64   5  94
+       20     22   2   2       55     23   2  59      110      6   0  95
+       21      2   0   2       56      1   0  59      111      4   0  95
+       22      4   0   3       57      1   0  59      120      6   0  96
+       23      2   0   3       58      4   0  60      124      1   0  96
+       24      5   0   3       59      2   0  60      125      1   0  96
+       25     36   3   6       60    163  12  72      130      7   1  96
+       26      1   0   6       62      2   0  72      140      1   0  96
+       27      6   0   6       63      1   0  72      150     17   1  98
+       28      4   0   7       65     19   1  73      156      1   0  98
+       29      6   0   7       66      5   0  74      160      2   0  98
+       30     95   7  14       67      1   0  74      170      1   0  98
+       31      4   0  14       68      2   0  74      180      1   0  98
+       32      7   1  15       69      2   0  74      185      1   0  98
+       33      5   0  15       70     58   4  78      190      2   0  98
+       34      5   0  16       73      1   0  78      195      1   0  98
+       35     57   4  20       74      1   0  78      200      9   1  99
+       36     13   1  21       75     20   1  80      205      1   0  99
+       37      2   0  21       76      1   0  80      250      1   0  99
+       38      6   0  21       77      1   0  80      300      5   0  99
+       39      7   1  22       79      1   0  80      342      1   0 100
+       40    191  14  36       80     86   6  86      400      1   0 100
+       41      2   0  36       81      1   0  87      430      1   0 100
+       42      4   0  36       82      1   0  87      455      1   0 100
+       44      3   0  37       85      7   1  87      500      1   0 100
+       45     40   3  40       86      1   0  87      700      1   0 100
+       46      2   0  40       87      1   0  87      800      1   0 100
+       47      2   0  40       88      1   0  87
+
+                       M I S S I N G   D A T A
+    Value   Freq            Value   Freq            Value   Freq
+ 
+       -7    631
+
+Valid cases    1359      Missing cases    631
+UNWEIGHTED FREQUENCIES                                             Page 28
+ Steinmetz Archive              SUN SPARC        Solaris 2.3     21 Apr 04
+ 
+ File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT038B   FARMER SHOULD EARN
+ 
+
+                    Cum                     Cum                     Cum
+    Value   Freq Pct Pct    Value   Freq Pct Pct    Value   Freq Pct Pct
+ 
+       12      1   0   0       52      5   0  46      109      1   0  94
+       13      1   0   0       53      2   0  46      110      4   0  95
+       20      5   0   1       54      4   0  46      111      1   0  95
+       22      1   0   1       55     45   3  50      115      1   0  95
+       23      1   0   1       56      5   0  50      120     13   1  96
+       24      1   0   1       57      4   0  50      121      1   0  96
+       25      6   0   1       58      4   0  51      122      1   0  96
+       28      4   0   1       59      2   0  51      124      1   0  96
+       29      1   0   2       60    178  13  64      125      4   0  96
+       30     40   3   5       61      1   0  64      126      1   0  96
+       31      2   0   5       64      1   0  64      130      4   0  97
+       32      2   0   5       65     20   1  66      140      2   0  97
+       33      3   0   5       66      3   0  66      150     11   1  97
+       34      3   0   5       68      1   0  66      155      1   0  98
+       35     45   3   9       70    111   8  74      180      3   0  98
+       36      8   1   9       72      2   0  74      185      1   0  98
+       37      3   0   9       73      2   0  74      190      1   0  98
+       38      5   0  10       75     31   2  77      200      9   1  99
+       39      8   1  10       76      2   0  77      211      1   0  99
+       40    145  11  21       78      1   0  77      220      1   0  99
+       41      2   0  21       79      5   0  77      250      5   0  99
+       42      6   0  22       80     78   6  83      300      5   0  99
+       43      6   0  22       85     15   1  84      342      1   0 100
+       44      4   0  22       88      1   0  84      345      1   0 100
+       45     57   4  27       89      2   0  85      350      1   0 100
+       46      4   0  27       90     32   2  87      400      1   0 100
+       47      3   0  27       92      2   0  87      420      1   0 100
+       48      8   1  28       94      1   0  87      559      1   0 100
+       49      2   0  28       95      5   0  87      888      1   0 100
+       50    237  18  46       99      5   0  88
+       51      1   0  46      100     85   6  94
+
+                       M I S S I N G   D A T A
+    Value   Freq            Value   Freq            Value   Freq
+ 
+       -7    641
+
+Valid cases    1349      Missing cases    641
+UNWEIGHTED FREQUENCIES                                             Page 29
+ Steinmetz Archive              SUN SPARC        Solaris 2.3     21 Apr 04
+ 
+ File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT039A   SECRETARY ACTUALLY EARNS
+ 
+
+                    Cum                     Cum                     Cum
+    Value   Freq Pct Pct    Value   Freq Pct Pct    Value   Freq Pct Pct
+ 
+       10      1   0   0       34     20   1  33       55     14   1  94
+       12      1   0   0       35    160  12  45       56      2   0  94
+       14      1   0   0       36     56   4  49       57      1   0  94
+       15      2   0   0       37     13   1  50       58      2   0  95
+       17      1   0   0       38     27   2  52       60     34   2  97
+       18      6   0   1       39     12   1  53       62      1   0  97
+       20     35   3   3       40    292  21  74       63      1   0  97
+       21      4   0   4       41      4   0  74       65      5   0  98
+       22      6   0   4       42     16   1  75       66      1   0  98
+       23      5   0   5       43      9   1  76       68      1   0  98
+       24     17   1   6       44     11   1  77       69      1   0  98
+       25     62   5  10       45     68   5  82       70      7   1  98
+       26     12   1  11       46      4   0  82       72      2   0  98
+       27      9   1  12       47      6   0  83       75      3   0  99
+       28     17   1  13       48     20   1  84       80      7   1  99
+       29     10   1  14       49      4   0  84       86      1   0  99
+       30    186  14  27       50    114   8  93       87      1   0  99
+       31      7   1  28       51      3   0  93       90      6   0 100
+       32     41   3  31       52      5   0  93      100      2   0 100
+       33     12   1  32       54      1   0  93      200      1   0 100
+
+                       M I S S I N G   D A T A
+    Value   Freq            Value   Freq            Value   Freq
+ 
+       -7    617
+
+Valid cases    1373      Missing cases    617
+UNWEIGHTED FREQUENCIES                                             Page 30
+ Steinmetz Archive              SUN SPARC        Solaris 2.3     21 Apr 04
+ 
+ File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT039B   SECRETARY SHOULD EARN
+ 
+
+                    Cum                     Cum                     Cum
+    Value   Freq Pct Pct    Value   Freq Pct Pct    Value   Freq Pct Pct
+ 
+       10      1   0   0       33     18   1  26       52      2   0  92
+       12      1   0   0       34     20   1  27       53      2   0  92
+       14      1   0   0       35    172  13  40       54      2   0  92
+       15      4   0   1       36     50   4  44       55     22   2  94
+       18      4   0   1       37     15   1  45       56      1   0  94
+       19      1   0   1       38     33   2  47       58      1   0  94
+       20     14   1   2       39     14   1  48       60     40   3  97
+       21      3   0   2       40    283  21  69       63      1   0  97
+       22      7   1   3       41      5   0  69       65      7   1  97
+       23      5   0   3       42     22   2  71       67      1   0  98
+       24     12   1   4       43     10   1  72       68      2   0  98
+       25     52   4   8       44     13   1  73       70     12   1  99
+       26      7   1   8       45     91   7  79       74      1   0  99
+       27      8   1   9       46      6   0  80       75      1   0  99
+       28      8   1   9       47      5   0  80       80      5   0  99
+       29      9   1  10       48     12   1  81       88      1   0  99
+       30    167  12  22       49      5   0  81       90      7   1 100
+       31      1   0  22       50    139  10  92       99      1   0 100
+       32     26   2  24       51      2   0  92      100      3   0 100
+
+                       M I S S I N G   D A T A
+    Value   Freq            Value   Freq            Value   Freq
+ 
+       -7    632
+
+Valid cases    1358      Missing cases    632
+UNWEIGHTED FREQUENCIES                                             Page 31
+ Steinmetz Archive              SUN SPARC        Solaris 2.3     21 Apr 04
+ 
+ File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT040A   BUS DRIVER ACTUALLY EARNS
+ 
+
+                    Cum                     Cum                     Cum
+    Value   Freq Pct Pct    Value   Freq Pct Pct    Value   Freq Pct Pct
+ 
+        9      1   0   0       31     12   1  32       52      3   0  95
+       10      1   0   0       32     37   3  35       53      1   0  95
+       11      1   0   0       33     34   2  37       54      3   0  96
+       13      2   0   0       34     24   2  39       55     14   1  97
+       14      1   0   0       35    173  12  51       56      3   0  97
+       15      1   0   1       36     48   3  55       57      1   0  97
+       16      1   0   1       37     22   2  56       59      2   0  97
+       17      1   0   1       38     42   3  59       60     19   1  98
+       18      5   0   1       39     27   2  61       65      1   0  98
+       19      3   0   1       40    262  19  80       66      1   0  99
+       20     25   2   3       41      2   0  80       70      9   1  99
+       21      5   0   3       42     17   1  81       72      1   0  99
+       22     11   1   4       43     14   1  82       75      1   0  99
+       23      5   0   5       44      9   1  83       80      3   0 100
+       24     15   1   6       45     80   6  89       87      1   0 100
+       25     52   4   9       46      9   1  89       88      1   0 100
+       26     14   1  10       47      6   0  90       90      2   0 100
+       27     17   1  12       48     12   1  91       95      1   0 100
+       28     28   2  14       49      3   0  91      150      1   0 100
+       29     20   1  15       50     58   4  95
+       30    223  16  31       51      1   0  95
+
+                       M I S S I N G   D A T A
+    Value   Freq            Value   Freq            Value   Freq
+ 
+       -7    598
+
+Valid cases    1392      Missing cases    598
+UNWEIGHTED FREQUENCIES                                             Page 32
+ Steinmetz Archive              SUN SPARC        Solaris 2.3     21 Apr 04
+ 
+ File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT040B   BUS DRIVER SHOULD EARN
+ 
+
+                    Cum                     Cum                     Cum
+    Value   Freq Pct Pct    Value   Freq Pct Pct    Value   Freq Pct Pct
+ 
+        9      1   0   0       36     41   3  38       59      5   0  94
+       14      2   0   0       37     20   1  39       60     34   2  97
+       15      1   0   0       38     39   3  42       62      1   0  97
+       16      2   0   0       39     19   1  43       63      1   0  97
+       18      3   0   1       40    289  21  64       65      5   0  97
+       20      7   1   1       41      5   0  65       66      5   0  97
+       21      3   0   1       42     31   2  67       67      1   0  97
+       22      5   0   2       43     10   1  68       69      1   0  98
+       23      2   0   2       44     18   1  69       70     18   1  99
+       24     14   1   3       45    127   9  78       75      1   0  99
+       25     35   3   5       46     11   1  79       76      1   0  99
+       26      6   0   6       47      7   1  80       78      1   0  99
+       27     10   1   7       48     13   1  81       80      5   0  99
+       28     16   1   8       49      9   1  81       87      1   0  99
+       29     12   1   9       50    138  10  91       90      3   0 100
+       30    133  10  18       52      4   0  91       95      1   0 100
+       31      3   0  18       54      1   0  92       99      1   0 100
+       32     29   2  21       55     22   2  93      100      1   0 100
+       33     27   2  23       56      4   0  93      250      1   0 100
+       34     17   1  24       57      2   0  94
+       35    153  11  35       58      2   0  94
+
+                       M I S S I N G   D A T A
+    Value   Freq            Value   Freq            Value   Freq
+ 
+       -7    610
+
+Valid cases    1380      Missing cases    610
+UNWEIGHTED FREQUENCIES                                             Page 33
+ Steinmetz Archive              SUN SPARC        Solaris 2.3     21 Apr 04
+ 
+ File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT041A   UNSKILLED FACTORY-WORKER ACTUALLY EARNS
+ 
+
+                    Cum                     Cum                     Cum
+    Value   Freq Pct Pct    Value   Freq Pct Pct    Value   Freq Pct Pct
+ 
+        6      1   0   0       24     52   4  25       40     59   4  97
+        8      1   0   0       25    188  14  39       42      4   0  97
+       10     11   1   1       26     35   3  42       43      1   0  97
+       11      3   0   1       27     23   2  43       44      2   0  97
+       12      8   1   2       28     92   7  50       45     13   1  98
+       13      1   0   2       29     25   2  52       46      1   0  98
+       14      2   0   2       30    309  23  74       50      9   1  99
+       15      8   1   3       31      7   1  75       52      1   0  99
+       16      3   0   3       32     45   3  78       53      2   0  99
+       17      4   0   3       33     19   1  80       55      2   0  99
+       18     27   2   5       34     17   1  81       56      1   0  99
+       19     16   1   6       35    110   8  89       60      3   0 100
+       20    135  10  16       36     19   1  90       70      1   0 100
+       21     19   1  17       37      7   1  91       77      1   0 100
+       22     35   3  20       38     18   1  92       80      1   0 100
+       23     24   2  22       39      7   1  93       85      1   0 100
+
+                       M I S S I N G   D A T A
+    Value   Freq            Value   Freq            Value   Freq
+ 
+       -7    617
+
+Valid cases    1373      Missing cases    617
+UNWEIGHTED FREQUENCIES                                             Page 34
+ Steinmetz Archive              SUN SPARC        Solaris 2.3     21 Apr 04
+ 
+ File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT041B   UNSKILLED FACTORY-WORKER SHOULD EARN
+ 
+
+                    Cum                     Cum                     Cum
+    Value   Freq Pct Pct    Value   Freq Pct Pct    Value   Freq Pct Pct
+ 
+        6      1   0   0       28     57   4  30       48      4   0  95
+        9      1   0   0       29     15   1  31       49      2   0  95
+       10      3   0   0       30    299  22  53       50     40   3  98
+       11      2   0   1       31      9   1  54       52      1   0  98
+       12      3   0   1       32     36   3  56       54      1   0  98
+       14      2   0   1       33     28   2  58       55      3   0  98
+       15      8   1   1       34     22   2  60       57      2   0  98
+       16      1   0   2       35    163  12  72       58      1   0  98
+       17      1   0   2       36     27   2  74       60      8   1  99
+       18      8   1   2       37     13   1  75       63      1   0  99
+       19      8   1   3       38     18   1  76       66      1   0  99
+       20     71   5   8       39     20   1  78       70      8   1 100
+       21     11   1   9       40    157  11  89       77      2   0 100
+       22     34   2  11       41      3   0  89       88      1   0 100
+       23     10   1  12       42     10   1  90       90      1   0 100
+       24     29   2  14       43      4   0  90       95      1   0 100
+       25    123   9  23       44      6   0  91      200      1   0 100
+       26     19   1  25       45     41   3  94
+       27     20   1  26       46      6   0  94
+
+                       M I S S I N G   D A T A
+    Value   Freq            Value   Freq            Value   Freq
+ 
+       -7    623
+
+Valid cases    1367      Missing cases    623
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+INT042A   MINISTER ACTUALLY EARNS
+ 
+
+Valid cases    1388      Missing cases    602
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+INT042B   MINISTER SHOULD EARN
+ 
+
+Valid cases    1378      Missing cases    612
+UNWEIGHTED FREQUENCIES                                             Page 35
+ Steinmetz Archive              SUN SPARC        Solaris 2.3     21 Apr 04
+ 
+ File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT043    DIFFERENCES IN INCOME ARE TOO BIG
+ 
+
+                                                        Valid     Cum
+ Value Label                 Value  Frequency  Percent  Percent  Percent
+ 
+ STRONGLY AGREE                  1       300     15.1     19.0     19.0
+ AGREE                           2       748     37.6     47.4     66.4
+ NEITHER A OR D                  3       206     10.4     13.0     79.4
+ DISAGREE                        4       278     14.0     17.6     97.0
+ STRONGLY DISAGR                 5        47      2.4      3.0    100.0
+                                -7       352     17.7   Missing
+ NO ANSWER                      -6        33      1.7   Missing
+ DON'T KNOW                     -3        26      1.3   Missing
+                                      -------  -------  -------
+                             Total      1990    100.0    100.0
+
+Valid cases    1579      Missing cases    411
+ 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+INT044    GOV SHOULD: REDUCE DIFFERENCES IN INCOME
+ 
+
+                                                        Valid     Cum
+ Value Label                 Value  Frequency  Percent  Percent  Percent
+ 
+ STRONGLY AGREE                  1       254     12.8     16.3     16.3
+ AGREE                           2       761     38.2     48.8     65.1
+ NEITHER A OR D                  3       174      8.7     11.2     76.3
+ DISAGREE                        4       282     14.2     18.1     94.4
+ STRONGLY DISAGR                 5        88      4.4      5.6    100.0
+                                -7       352     17.7   Missing
+ NO ANSWER                      -6        49      2.5   Missing
+ DON'T KNOW                     -3        30      1.5   Missing
+                                      -------  -------  -------
+                             Total      1990    100.0    100.0
+
+Valid cases    1559      Missing cases    431
+UNWEIGHTED FREQUENCIES                                             Page 36
+ Steinmetz Archive              SUN SPARC        Solaris 2.3     21 Apr 04
+ 
+ File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT045    GOV SHOULD: MORE HIGHER EDUC POOR CHILDR
+ 
+
+                                                        Valid     Cum
+ Value Label                 Value  Frequency  Percent  Percent  Percent
+ 
+ STRONGLY AGREE                  1       427     21.5     26.8     26.8
+ AGREE                           2       925     46.5     58.0     84.8
+ NEITHER A OR D                  3       142      7.1      8.9     93.7
+ DISAGREE                        4        83      4.2      5.2     98.9
+ STRONGLY DISAGR                 5        17       .9      1.1    100.0
+                                -7       352     17.7   Missing
+ NO ANSWER                      -6        31      1.6   Missing
+ DON'T KNOW                     -3        13       .7   Missing
+                                      -------  -------  -------
+                             Total      1990    100.0    100.0
+
+Valid cases    1594      Missing cases    396
+ 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+INT046    GOV SHOULD: JOB FOR EVERY WILLING WORKER
+ 
+
+                                                        Valid     Cum
+ Value Label                 Value  Frequency  Percent  Percent  Percent
+ 
+ STRONGLY AGREE                  1       359     18.0     23.1     23.1
+ AGREE                           2       804     40.4     51.7     74.7
+ NEITHER A OR D                  3       244     12.3     15.7     90.4
+ DISAGREE                        4       127      6.4      8.2     98.6
+ STRONGLY DISAGR                 5        22      1.1      1.4    100.0
+                                -7       352     17.7   Missing
+ NO ANSWER                      -6        63      3.2   Missing
+ DON'T KNOW                     -3        19      1.0   Missing
+                                      -------  -------  -------
+                             Total      1990    100.0    100.0
+
+Valid cases    1556      Missing cases    434
+UNWEIGHTED FREQUENCIES                                             Page 37
+ Steinmetz Archive              SUN SPARC        Solaris 2.3     21 Apr 04
+ 
+ File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT047    GOV SHOULD: LESS SOC SECURITY UNEMPLOYED
+ 
+
+                                                        Valid     Cum
+ Value Label                 Value  Frequency  Percent  Percent  Percent
+ 
+ STRONGLY AGREE                  1        58      2.9      3.8      3.8
+ AGREE                           2       262     13.2     17.0     20.8
+ NEITHER A OR D                  3       343     17.2     22.3     43.1
+ DISAGREE                        4       622     31.3     40.4     83.4
+ STRONGLY DISAGR                 5       255     12.8     16.6    100.0
+                                -7       352     17.7   Missing
+ NO ANSWER                      -6        48      2.4   Missing
+ DON'T KNOW                     -3        50      2.5   Missing
+                                      -------  -------  -------
+                             Total      1990    100.0    100.0
+
+Valid cases    1540      Missing cases    450
+ 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+INT048    GOV SHOULD: DECENT ST OF LIVING UNEMPLOY
+ 
+
+                                                        Valid     Cum
+ Value Label                 Value  Frequency  Percent  Percent  Percent
+ 
+ STRONGLY AGREE                  1       152      7.6     10.2     10.2
+ AGREE                           2       751     37.7     50.3     60.4
+ NEITHER A OR D                  3       358     18.0     24.0     84.4
+ DISAGREE                        4       199     10.0     13.3     97.7
+ STRONGLY DISAGR                 5        34      1.7      2.3    100.0
+                                -7       352     17.7   Missing
+ NO ANSWER                      -6       107      5.4   Missing
+ DON'T KNOW                     -3        37      1.9   Missing
+                                      -------  -------  -------
+                             Total      1990    100.0    100.0
+
+Valid cases    1494      Missing cases    496
+UNWEIGHTED FREQUENCIES                                             Page 38
+ Steinmetz Archive              SUN SPARC        Solaris 2.3     21 Apr 04
+ 
+ File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT049    GOV SHOULD: EVERYONE MINIMUM BASIC INCOM
+ 
+
+                                                        Valid     Cum
+ Value Label                 Value  Frequency  Percent  Percent  Percent
+ 
+ STRONGLY AGREE                  1       156      7.8     10.2     10.2
+ AGREE                           2       608     30.6     39.8     50.0
+ NEITHER A OR D                  3       277     13.9     18.1     68.1
+ DISAGREE                        4       366     18.4     23.9     92.0
+ STRONGLY DISAGR                 5       122      6.1      8.0    100.0
+                                -7       352     17.7   Missing
+ NO ANSWER                      -6        44      2.2   Missing
+ DON'T KNOW                     -3        65      3.3   Missing
+                                      -------  -------  -------
+                             Total      1990    100.0    100.0
+
+Valid cases    1529      Missing cases    461
+ 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+INT050    TAXES FOR THOSE WITH HIGH INCOMES
+ 
+
+                                                        Valid     Cum
+ Value Label                 Value  Frequency  Percent  Percent  Percent
+ 
+ MUCH TOO HIGH                   1        77      3.9      5.1      5.1
+ TOO HIGH                        2       321     16.1     21.4     26.5
+ ABOUT RIGHT                     3       380     19.1     25.3     51.8
+ TOO LOW                         4       577     29.0     38.4     90.2
+ MUCH TOO LOW                    5       148      7.4      9.8    100.0
+                                -7       352     17.7   Missing
+ NO ANSWER                      -6        36      1.8   Missing
+ DON'T KNOW                     -3        99      5.0   Missing
+                                      -------  -------  -------
+                             Total      1990    100.0    100.0
+
+Valid cases    1503      Missing cases    487
+UNWEIGHTED FREQUENCIES                                             Page 39
+ Steinmetz Archive              SUN SPARC        Solaris 2.3     21 Apr 04
+ 
+ File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT051    TAXES FOR THOSE WITH MIDDLE INCOMES
+ 
+
+                                                        Valid     Cum
+ Value Label                 Value  Frequency  Percent  Percent  Percent
+ 
+ MUCH TOO HIGH                   1       101      5.1      6.7      6.7
+ TOO HIGH                        2       807     40.6     53.2     59.9
+ ABOUT RIGHT                     3       576     28.9     38.0     97.9
+ TOO LOW                         4        32      1.6      2.1    100.0
+                                -7       352     17.7   Missing
+ NO ANSWER                      -6        39      2.0   Missing
+ DON'T KNOW                     -3        83      4.2   Missing
+                                      -------  -------  -------
+                             Total      1990    100.0    100.0
+
+Valid cases    1516      Missing cases    474
+ 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+INT052    TAXES FOR THOSE WITH LOW INCOMES
+ 
+
+                                                        Valid     Cum
+ Value Label                 Value  Frequency  Percent  Percent  Percent
+ 
+ MUCH TOO HIGH                   1       401     20.2     26.3     26.3
+ TOO HIGH                        2       812     40.8     53.3     79.6
+ ABOUT RIGHT                     3       294     14.8     19.3     98.9
+ TOO LOW                         4        14       .7       .9     99.9
+ MUCH TOO LOW                    5         2       .1       .1    100.0
+                                -7       352     17.7   Missing
+ NO ANSWER                      -6        37      1.9   Missing
+ DON'T KNOW                     -3        78      3.9   Missing
+                                      -------  -------  -------
+                             Total      1990    100.0    100.0
+
+Valid cases    1523      Missing cases    467
+UNWEIGHTED FREQUENCIES                                             Page 40
+ Steinmetz Archive              SUN SPARC        Solaris 2.3     21 Apr 04
+ 
+ File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT053    SHARE OF INCOME IN TAX HIGH VS LOW INCOM
+ 
+
+                                                        Valid     Cum
+ Value Label                 Value  Frequency  Percent  Percent  Percent
+ 
+ MUCH LARGER                     1       194      9.7     12.6     12.6
+ LARGER                          2       925     46.5     60.3     72.9
+ SAME SHARE                      3       345     17.3     22.5     95.4
+ SMALLER                         4        57      2.9      3.7     99.2
+ MUCH SMALLER                    5        13       .7       .8    100.0
+                                -7       352     17.7   Missing
+ NO ANSWER                      -6        40      2.0   Missing
+ DON'T KNOW                     -3        64      3.2   Missing
+                                      -------  -------  -------
+                             Total      1990    100.0    100.0
+
+Valid cases    1534      Missing cases    456
+ 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+INT054    CONTRAST: POOR PEOPLE AND RICH PEOPLE
+ 
+
+                                                        Valid     Cum
+ Value Label                 Value  Frequency  Percent  Percent  Percent
+ 
+ VERY LARGE                      1       461     23.2     29.3     29.3
+ LARGE                           2       779     39.1     49.6     78.9
+ NOT VERY LARGE                  3       323     16.2     20.5     99.4
+ NOT LARGE AT ALL                4         9       .5       .6    100.0
+                                -7       352     17.7   Missing
+ NO ANSWER                      -6        34      1.7   Missing
+ DON'T KNOW                     -3        32      1.6   Missing
+                                      -------  -------  -------
+                             Total      1990    100.0    100.0
+
+Valid cases    1572      Missing cases    418
+UNWEIGHTED FREQUENCIES                                             Page 41
+ Steinmetz Archive              SUN SPARC        Solaris 2.3     21 Apr 04
+ 
+ File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT055    CONTRAST: WORKING CLASS AND MIDDLE CLASS
+ 
+
+                                                        Valid     Cum
+ Value Label                 Value  Frequency  Percent  Percent  Percent
+ 
+ VERY LARGE                      1        20      1.0      1.3      1.3
+ LARGE                           2       329     16.5     21.2     22.5
+ NOT VERY LARGE                  3      1138     57.2     73.2     95.7
+ NOT LARGE AT ALL                4        67      3.4      4.3    100.0
+                                -7       352     17.7   Missing
+ NO ANSWER                      -6        41      2.1   Missing
+ DON'T KNOW                     -3        43      2.2   Missing
+                                      -------  -------  -------
+                             Total      1990    100.0    100.0
+
+Valid cases    1554      Missing cases    436
+ 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+INT056    CONTRAST: UNEMPLOYED AND PEOPLE WITH JOB
+ 
+
+                                                        Valid     Cum
+ Value Label                 Value  Frequency  Percent  Percent  Percent
+ 
+ VERY LARGE                      1       120      6.0      8.0      8.0
+ LARGE                           2       633     31.8     41.9     49.9
+ NOT VERY LARGE                  3       701     35.2     46.5     96.4
+ NOT LARGE AT ALL                4        55      2.8      3.6    100.0
+                                -7       352     17.7   Missing
+ NO ANSWER                      -6        78      3.9   Missing
+ DON'T KNOW                     -3        51      2.6   Missing
+                                      -------  -------  -------
+                             Total      1990    100.0    100.0
+
+Valid cases    1509      Missing cases    481
+UNWEIGHTED FREQUENCIES                                             Page 42
+ Steinmetz Archive              SUN SPARC        Solaris 2.3     21 Apr 04
+ 
+ File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT057    CONTRAST: EMPLOYERS AND EMPLOYED
+ 
+
+                                                        Valid     Cum
+ Value Label                 Value  Frequency  Percent  Percent  Percent
+ 
+ VERY LARGE                      1       253     12.7     17.5     17.5
+ LARGE                           2       772     38.8     53.4     70.9
+ NOT VERY LARGE                  3       411     20.7     28.4     99.4
+ NOT LARGE AT ALL                4         9       .5       .6    100.0
+                                -7       352     17.7   Missing
+ NO ANSWER                      -6       124      6.2   Missing
+ DON'T KNOW                     -3        69      3.5   Missing
+                                      -------  -------  -------
+                             Total      1990    100.0    100.0
+
+Valid cases    1445      Missing cases    545
+ 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+INT058    CONTRAST: COUNTRYPEOPLE AND TOWNSPEOPLE
+ 
+
+                                                        Valid     Cum
+ Value Label                 Value  Frequency  Percent  Percent  Percent
+ 
+ VERY LARGE                      1        73      3.7      4.9      4.9
+ LARGE                           2       431     21.7     28.7     33.5
+ NOT VERY LARGE                  3       879     44.2     58.4     92.0
+ NOT LARGE AT ALL                4       121      6.1      8.0    100.0
+                                -7       352     17.7   Missing
+ NO ANSWER                      -6        56      2.8   Missing
+ DON'T KNOW                     -3        78      3.9   Missing
+                                      -------  -------  -------
+                             Total      1990    100.0    100.0
+
+Valid cases    1504      Missing cases    486
+UNWEIGHTED FREQUENCIES                                             Page 43
+ Steinmetz Archive              SUN SPARC        Solaris 2.3     21 Apr 04
+ 
+ File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT059    CONTRAST: YOUNG PEOPLE AND OLDER PEOPLE
+ 
+
+                                                        Valid     Cum
+ Value Label                 Value  Frequency  Percent  Percent  Percent
+ 
+ VERY LARGE                      1        77      3.9      5.1      5.1
+ LARGE                           2       520     26.1     34.5     39.6
+ NOT VERY LARGE                  3       832     41.8     55.2     94.8
+ NOT LARGE AT ALL                4        78      3.9      5.2    100.0
+                                -7       352     17.7   Missing
+ NO ANSWER                      -6        49      2.5   Missing
+ DON'T KNOW                     -3        82      4.1   Missing
+                                      -------  -------  -------
+                             Total      1990    100.0    100.0
+
+Valid cases    1507      Missing cases    483
+ 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+INT060    RUNG OF SOCIAL LADDER
+ 
+
+                                                        Valid     Cum
+ Value Label                 Value  Frequency  Percent  Percent  Percent
+ 
+ 1 BOTTOM                        1       167      8.4     10.5     10.5
+ 2                               2       175      8.8     11.0     21.5
+ 3                               3       253     12.7     15.9     37.3
+ 4                               4       276     13.9     17.3     54.6
+ 5                               5       311     15.6     19.5     74.2
+ 6                               6       237     11.9     14.9     89.0
+ 7                               7       124      6.2      7.8     96.8
+ 8                               8        31      1.6      1.9     98.7
+ 9                               9        10       .5       .6     99.4
+ 10 TOP                         10        10       .5       .6    100.0
+                                -7       352     17.7   Missing
+ NO ANSWER                      -6        44      2.2   Missing
+                                      -------  -------  -------
+                             Total      1990    100.0    100.0
+
+Valid cases    1594      Missing cases    396
+UNWEIGHTED FREQUENCIES                                             Page 44
+ Steinmetz Archive              SUN SPARC        Solaris 2.3     21 Apr 04
+ 
+ File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT061    ACHIEVED COMP WITH JOB FATHER RESP WAS 1
+ 
+
+                                                        Valid     Cum
+ Value Label                 Value  Frequency  Percent  Percent  Percent
+ 
+ MUCH MORE                       1       112      5.6      8.0      8.0
+ MORE                            2       557     28.0     39.8     47.9
+ ABOUT EQUAL                     3       459     23.1     32.8     80.7
+ LESS                            4       215     10.8     15.4     96.1
+ MUCH LESS                       5        55      2.8      3.9    100.0
+ NEVER HAD JOB                  -7       352     17.7   Missing
+ NO ANSWER                      -6        72      3.6   Missing
+ NO <JOB> FATHER                -5       168      8.4   Missing
+                                      -------  -------  -------
+                             Total      1990    100.0    100.0
+
+Valid cases    1398      Missing cases    592
+ 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+INT062    OCCUPATION FATHER WHEN RESP WAS 16
+ 
+
+                                                        Valid     Cum
+ Value Label                 Value  Frequency  Percent  Percent  Percent
+ 
+ PROF OR TECHN                   1        62      3.1      4.1      4.1
+ HIGHER ADMIN                    2       136      6.8      8.9     13.0
+ CLERICAL                        3       157      7.9     10.3     23.2
+ SALES                           4       175      8.8     11.5     34.7
+ SERVICE                         5       129      6.5      8.4     43.2
+ SKILLED WORKER                  6       277     13.9     18.1     61.3
+ SEMI-SKILLED                    7       196      9.8     12.8     74.1
+ UNSKILLED                       8       206     10.4     13.5     87.6
+ FARM                            9       189      9.5     12.4    100.0
+                                -7       352     17.7   Missing
+ NO ANSWER                      -6        68      3.4   Missing
+ NO <JOB> FATHER                -5        43      2.2   Missing
+                                      -------  -------  -------
+                             Total      1990    100.0    100.0
+
+Valid cases    1527      Missing cases    463
+UNWEIGHTED FREQUENCIES                                             Page 45
+ Steinmetz Archive              SUN SPARC        Solaris 2.3     21 Apr 04
+ 
+ File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT063    OCCUPATIONAL STATUS FATHER RESP WAS 16
+ 
+
+                                                        Valid     Cum
+ Value Label                 Value  Frequency  Percent  Percent  Percent
+ 
+ SELF-EMPLOYED                   1       411     20.7     26.7     26.7
+ WORK FOR SOMEONE                2      1128     56.7     73.3    100.0
+                                -7       352     17.7   Missing
+ NO ANSWER                      -6        56      2.8   Missing
+ NO <JOB> FATHER                -5        43      2.2   Missing
+                                      -------  -------  -------
+                             Total      1990    100.0    100.0
+
+Valid cases    1539      Missing cases    451
+ 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+INT064    FIRST JOB AFTER FINISHING EDUCATION
+ 
+
+                                                        Valid     Cum
+ Value Label                 Value  Frequency  Percent  Percent  Percent
+ 
+ PROF OR TECHN                   1        38      1.9      2.9      2.9
+ HIGHER ADMIN                    2        37      1.9      2.8      5.7
+ CLERICAL                        3       356     17.9     27.1     32.8
+ SALES                           4       161      8.1     12.2     45.0
+ SERVICE                         5       235     11.8     17.9     62.9
+ SKILLED WORKER                  6       169      8.5     12.9     75.7
+ SEMI-SKILLED                    7       142      7.1     10.8     86.5
+ UNSKILLED                       8       126      6.3      9.6     96.1
+ FARM                            9        51      2.6      3.9    100.0
+                                -7       352     17.7   Missing
+ NO ANSWER                      -6        97      4.9   Missing
+ NEVER HAD JOB                  -5       226     11.4   Missing
+                                      -------  -------  -------
+                             Total      1990    100.0    100.0
+
+Valid cases    1315      Missing cases    675
+UNWEIGHTED FREQUENCIES                                             Page 46
+ Steinmetz Archive              SUN SPARC        Solaris 2.3     21 Apr 04
+ 
+ File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT065    OCCUPATIONAL STATUS OF FIRST JOB
+ 
+
+                                                        Valid     Cum
+ Value Label                 Value  Frequency  Percent  Percent  Percent
+ 
+ SELF-EMPLOYED                   1        37      1.9      2.7      2.7
+ WORK FOR SOMEONE                2      1312     65.9     97.3    100.0
+                                -7       352     17.7   Missing
+ NO ANSWER                      -6        63      3.2   Missing
+ NEVER HAD JOB                  -5       226     11.4   Missing
+                                      -------  -------  -------
+                             Total      1990    100.0    100.0
+
+Valid cases    1349      Missing cases    641
+ 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+INT066    PRESENT OR LAST JOB
+ 
+
+                                                        Valid     Cum
+ Value Label                 Value  Frequency  Percent  Percent  Percent
+ 
+ PROF OR TECHN                   1        50      2.5      3.9      3.9
+ HIGHER ADMIN                    2        88      4.4      6.8     10.7
+ CLERICAL                        3       330     16.6     25.5     36.2
+ SALES                           4       167      8.4     12.9     49.1
+ SERVICE                         5       268     13.5     20.7     69.8
+ SKILLED WORKER                  6       174      8.7     13.4     83.2
+ SEMI-SKILLED                    7        97      4.9      7.5     90.7
+ UNSKILLED                       8        91      4.6      7.0     97.8
+ FARM                            9        29      1.5      2.2    100.0
+                                -7       352     17.7   Missing
+ NO ANSWER                      -6       118      5.9   Missing
+ NEVER HAD JOB                  -5       226     11.4   Missing
+                                      -------  -------  -------
+                             Total      1990    100.0    100.0
+
+Valid cases    1294      Missing cases    696
+UNWEIGHTED FREQUENCIES                                             Page 47
+ Steinmetz Archive              SUN SPARC        Solaris 2.3     21 Apr 04
+ 
+ File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT067    OCCUPATIONAL STATUS OF PRESENT OR LAST J
+ 
+
+                                                        Valid     Cum
+ Value Label                 Value  Frequency  Percent  Percent  Percent
+ 
+ SELF-EMPLOYED                   1       124      6.2      9.4      9.4
+ WORK FOR SOMEONE                2      1190     59.8     90.6    100.0
+                                -7       352     17.7   Missing
+ NO ANSWER                      -6        98      4.9   Missing
+ NEVER HAD JOB                  -5       226     11.4   Missing
+                                      -------  -------  -------
+                             Total      1990    100.0    100.0
+
+Valid cases    1314      Missing cases    676
+UNWEIGHTED FREQUENCIES                                             Page 48
+ Steinmetz Archive              SUN SPARC        Solaris 2.3     21 Apr 04
+ 
+ File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT068    ANNUAL NET INCME OF HOUSEHOLD
+ 
+
+                    Cum                     Cum                     Cum
+    Value   Freq Pct Pct    Value   Freq Pct Pct    Value   Freq Pct Pct
+ 
+        1      1   0   0       29     14   1  42       55     11   1  91
+        2      1   0   0       30    127   9  51       56      1   0  91
+        4      2   0   0       31      8   1  52       57      2   0  92
+        6      3   0   0       32     27   2  54       58      2   0  92
+        7      4   0   1       33     28   2  56       59      2   0  92
+        8      3   0   1       34      7   0  56       60     47   3  95
+        9     10   1   2       35     46   3  59       61      3   0  95
+       10     19   1   3       36     31   2  62       62      2   0  96
+       11      8   1   4       37     19   1  63       63      1   0  96
+       12     26   2   5       38     17   1  64       65     12   1  97
+       13     11   1   6       39     21   1  66       68      1   0  97
+       14     10   1   7       40    119   8  74       69      1   0  97
+       15     23   2   9       41      8   1  75       70     12   1  98
+       16     20   1  10       42     20   1  76       72      2   0  98
+       17     22   2  12       43     12   1  77       73      1   0  98
+       18     50   4  15       44     12   1  78       74      1   0  98
+       19     29   2  17       45     43   3  81       75      4   0  98
+       20     67   5  22       46      6   0  81       80     13   1  99
+       21     12   1  23       47      8   1  82       85      1   0  99
+       22     28   2  25       48     17   1  83       90      5   0  99
+       23     29   2  27       49      6   0  83       91      1   0 100
+       24     49   3  30       50     74   5  89       95      1   0 100
+       25     64   5  35       51      6   0  89      100      1   0 100
+       26     34   2  37       52     13   1  90      110      2   0 100
+       27     24   2  39       53      5   0  90      115      1   0 100
+       28     31   2  41       54      5   0  91      120      2   0 100
+
+                       M I S S I N G   D A T A
+    Value   Freq            Value   Freq            Value   Freq
+ 
+       -7    579
+
+Valid cases    1411      Missing cases    579
+UNWEIGHTED FREQUENCIES                                             Page 49
+ Steinmetz Archive              SUN SPARC        Solaris 2.3     21 Apr 04
+ 
+ File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT901    TIJDSDUUR VRAAGGESPREK
+ 
+
+                                                        Valid     Cum
+ Value Label                 Value  Frequency  Percent  Percent  Percent
+ 
+ MINDER 30 MIN                   1        38      1.9      2.4      2.4
+ 30 - 45  MIN                    2       108      5.4      6.8      9.2
+ 45 - 60  MIN                    3       120      6.0      7.5     16.7
+ 60 - 75  MIN                    4       215     10.8     13.5     30.2
+ 75 - 90  MIN                    5       336     16.9     21.1     51.3
+ 90 -105  MIN                    6       272     13.7     17.1     68.3
+ 105-120  MIN                    7       232     11.7     14.6     82.9
+ 120-135  MIN                    8       174      8.7     10.9     93.8
+ 135-150  MIN                    9        52      2.6      3.3     97.1
+ MEER 150 MIN                   10        47      2.4      2.9    100.0
+                                -7       352     17.7   Missing
+                                -6        44      2.2   Missing
+                                      -------  -------  -------
+                             Total      1990    100.0    100.0
+
+Valid cases    1594      Missing cases    396
+ 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+INT902    OORDEEL GESPREKSDUUR
+ 
+
+                                                        Valid     Cum
+ Value Label                 Value  Frequency  Percent  Percent  Percent
+ 
+ TE LANG                         1       623     31.3     39.2     39.2
+ NIET TE LANG                    2       966     48.5     60.8    100.0
+                                -7       352     17.7   Missing
+                                -6        49      2.5   Missing
+                                      -------  -------  -------
+                             Total      1990    100.0    100.0
+
+Valid cases    1589      Missing cases    401
+UNWEIGHTED FREQUENCIES                                             Page 50
+ Steinmetz Archive              SUN SPARC        Solaris 2.3     21 Apr 04
+ 
+ File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT903    WENSELIJKE GESPREKSDUUR
+ 
+
+                                                        Valid     Cum
+ Value Label                 Value  Frequency  Percent  Percent  Percent
+ 
+ MINDER 30 MIN                   1       115      5.8      7.3      7.3
+ 30 - 45  MIN                    2       305     15.3     19.2     26.5
+ 45 - 60  MIN                    3       324     16.3     20.4     46.9
+ 60 - 75  MIN                    4       242     12.2     15.3     62.2
+ 75 - 90  MIN                    5       181      9.1     11.4     73.6
+ 90 -105  MIN                    6       139      7.0      8.8     82.3
+ 105-120  MIN                    7       146      7.3      9.2     91.6
+ 120-135  MIN                    8        64      3.2      4.0     95.6
+ 135-150  MIN                    9        24      1.2      1.5     97.1
+ MEER 150 MIN                   10        46      2.3      2.9    100.0
+                                -7       352     17.7   Missing
+                                -6        52      2.6   Missing
+                                      -------  -------  -------
+                             Total      1990    100.0    100.0
+
+Valid cases    1586      Missing cases    404
+ 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+INT904    HOE INTERESSANT WAS GESPREK?
+ 
+
+                                                        Valid     Cum
+ Value Label                 Value  Frequency  Percent  Percent  Percent
+ 
+ ZEER INTERESSANT                1       351     17.6     22.2     22.2
+ TAMELIJK INTERESSANT            2       933     46.9     59.0     81.2
+ NIET ZO INTERESSANT             3       265     13.3     16.8     97.9
+ ONINTERESSANT                   4        33      1.7      2.1    100.0
+                                -7       352     17.7   Missing
+                                -6        56      2.8   Missing
+                                      -------  -------  -------
+                             Total      1990    100.0    100.0
+
+Valid cases    1582      Missing cases    408
+UNWEIGHTED FREQUENCIES                                             Page 51
+ Steinmetz Archive              SUN SPARC        Solaris 2.3     21 Apr 04
+ 
+ File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+INT905    HOE LEERZAAM WAS GESPREK?
+ 
+
+                                                        Valid     Cum
+ Value Label                 Value  Frequency  Percent  Percent  Percent
+ 
+ ZEER LEERZAAM                   1       200     10.1     12.5     12.5
+ TAMELIJK LEERZAAM               2       769     38.6     47.9     60.4
+ NIET ZO LEERZAAM                3       499     25.1     31.1     91.5
+ NIET LEERZAAM                   4       137      6.9      8.5    100.0
+                                -7       352     17.7   Missing
+                                -6        33      1.7   Missing
+                                      -------  -------  -------
+                             Total      1990    100.0    100.0
+
+Valid cases    1605      Missing cases    385
+UNWEIGHTED FREQUENCIES                                             Page 52
+ Steinmetz Archive              SUN SPARC        Solaris 2.3     21 Apr 04
+ 
+ File:     P0947: Culturele veranderingen 1987, schriftelijk
+ 
+
+
+ Positional index
+
+
+  Variable  Page    Variable  Page    Variable  Page    Variable  Page
+ 
+ WEGINGZ       1   INT022       14   INT038A      27   INT055       41
+ INT001        2   INT023       14   INT038B      28   INT056       41
+ INT002        3   INT024       15   INT039A      29   INT057       42
+ INT003        3   INT025       15   INT039B      30   INT058       42
+ INT004        4   INT026       16   INT040A      31   INT059       43
+ INT005        5   INT027       16   INT040B      32   INT060       43
+ INT006        5   INT028       17   INT041A      33   INT061       44
+ INT007        6   INT029       17   INT041B      34   INT062       44
+ INT008        7   INT030       18   INT042A      34   INT063       45
+ INT009        7   INT031       18   INT042B      34   INT064       45
+ INT010        8   INT032A      19   INT043       35   INT065       46
+ INT011        8   INT032B      20   INT044       35   INT066       46
+ INT012        9   INT033A      20   INT045       36   INT067       47
+ INT013        9   INT033B      20   INT046       36   INT068       48
+ INT014       10   INT034A      21   INT047       37   INT901       49
+ INT015       10   INT034B      22   INT048       37   INT902       49
+ INT016       11   INT035A      23   INT049       38   INT903       50
+ INT017       11   INT035B      24   INT050       38   INT904       50
+ INT018       12   INT036A      24   INT051       39   INT905       51
+ INT019       12   INT036B      25   INT052       39
+ INT020       13   INT037A      25   INT053       40
+ INT021       13   INT037B      26   INT054       40
+
+
+ Alphabetic index
+
+
+  Variable  Page    Variable  Page    Variable  Page    Variable  Page
+ 
+ INT001        2   INT022       14   INT037B      26   INT053       40
+ INT002        3   INT023       14   INT038A      27   INT054       40
+ INT003        3   INT024       15   INT038B      28   INT055       41
+ INT004        4   INT025       15   INT039A      29   INT056       41
+ INT005        5   INT026       16   INT039B      30   INT057       42
+ INT006        5   INT027       16   INT040A      31   INT058       42
+ INT007        6   INT028       17   INT040B      32   INT059       43
+ INT008        7   INT029       17   INT041A      33   INT060       43
+ INT009        7   INT030       18   INT041B      34   INT061       44
+ INT010        8   INT031       18   INT042A      34   INT062       44
+ INT011        8   INT032A      19   INT042B      34   INT063       45
+ INT012        9   INT032B      20   INT043       35   INT064       45
+ INT013        9   INT033A      20   INT044       35   INT065       46
+ INT014       10   INT033B      20   INT045       36   INT066       46
+ INT015       10   INT034A      21   INT046       36   INT067       47
+ INT016       11   INT034B      22   INT047       37   INT068       48
+ INT017       11   INT035A      23   INT048       37   INT901       49
+ INT018       12   INT035B      24   INT049       38   INT902       49
+ INT019       12   INT036A      24   INT050       38   INT903       50
+ INT020       13   INT036B      25   INT051       39   INT904       50
+ INT021       13   INT037A      25   INT052       39   INT905       51
+UNWEIGHTED FREQUENCIES                                             Page 53
+ Steinmetz Archive              SUN SPARC        Solaris 2.3     21 Apr 04
+ 
+ File:     P0947: Culturele veranderingen 1987, schriftelijk
+ 
+
+
+ Alphabetic index
+
+
+  Variable  Page    Variable  Page    Variable  Page    Variable  Page
+ 
+ WEGINGZ       1

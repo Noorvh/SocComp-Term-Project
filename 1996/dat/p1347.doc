@@ -1,0 +1,148 @@
+-> display documents.
+18 Oct 04 SPSS for Unix, Release 6.1 (Solaris 2.3)                       Page 16
+14:52:59  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P1347: Culturele Verandering in Ned, CV1996, versie oct2004
+
+DOCUMENTS  File gemaakt door pgm 'I:\TRAJECT\DN-CUL96\A1-C1\P05.XIN'
+   (Entered 06 Mar 98)
+
+document Hieronder de setup waarmee de RC-variabelen zijn    *
+aangemaakt. De labels bevatten echter een verouderde vraag-  *
+aanduiding en zijn gewijzigd.                                *.
+   (Entered 18 OCT 04)
+
+document Setup van SCP, originele naam recode.XIN, die de RC-variabelen *
+construeert. Labels later aangepast.                                    *
+sUBTITLE '  SCHALEN VRAAG 204 '                                         *
+compute score1=0
+compute score2=0
+compute score3=0
+compute score4=0
+compute score5=0
+compute score6=0
+compute score7=0
+compute max1=0
+compute max2=0
+compute max3=0
+compute max4=0
+compute max5=0
+compute max6=0
+compute max7=0
+compute som1=0
+compute som2=0
+compute som3=0
+compute som4=0
+compute som5=0
+compute som6=0
+compute som7=0
+compute gem1=0
+compute gem2=0
+compute gem3=0
+compute gem4=0
+compute gem5=0
+compute gem6=0
+compute gem7=0
+COMPUTE VMAX=0
+DO REPEAT
+     N=SCORE1 TO SCORE7
+    /M=MAX1 TO MAX7
+    /P=SOM1 TO SOM7
+    /G=GEM1 TO GEM7
+    /I=1 2 3 4 5 6 7
+-   COUNT N=VAR1059A TO VAR1059T(I)
+-   COMPUTE M=VMAX + N
+-   COMPUTE P=(VMAX + 1 + M) * (M - VMAX) / 2
+-   COMPUTE G=0
+-   IF N > 0 G=P / N
+-   COMPUTE VMAX=M
+END REPEAT
+COMPUTE RC105901=0
+COMPUTE RC105902=0
+COMPUTE RC105903=0
+COMPUTE RC105904=0
+COMPUTE RC105905=0
+18 Oct 04 SPSS for Unix, Release 6.1 (Solaris 2.3)                       Page 17
+14:52:59  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+COMPUTE RC105906=0
+COMPUTE RC105907=0
+COMPUTE RC105908=0
+COMPUTE RC105909=0
+COMPUTE RC105910=0
+COMPUTE RC105911=0
+COMPUTE RC105912=0
+COMPUTE RC105913=0
+COMPUTE RC105914=0
+COMPUTE RC105915=0
+COMPUTE RC105916=0
+COMPUTE RC105917=0
+COMPUTE RC105918=0
+COMPUTE RC105919=0
+COMPUTE RC105920=0
+recode rc105901 to rc105920(0=sysmis)
+COUNT NTOT=VAR1059A TO VAR1059T(1 THRU 7)
+COUNT STAPELS=SCORE1 TO SCORE7(1 THRU 20)
+VECTOR T=RC105901 TO RC105920
+VECTOR V=VAR1059A TO VAR1059T
+VECTOR GEM=GEM1 TO GEM7
+compute k=ntot-1
+compute b1=99/k
+compute b0=101-(1-b1)
+LOOP #I=1 TO 20
+-   do if RANGE(V(#I),1,7) and stapels ge 5 and ntot ge 15
+*   -       compute   T(#I)=GEM(V(#I))
+*   -       compute   T(#I)=101-(GEM(V(#I)) * 99/k + (1-99/k))
+-       compute   T(#I)=b0- b1*GEM(V(#I))
+-   end if
+END LOOP
+compute sum2=sum(rc105901 to rc105920)
+VAR LABELS
+            RC105901  'M204 Belang voorz: VOORTGEZET ONDERWIJS    '/
+            RC105902  'M204 Belang voorz: ALG EN ACAD ZIEKENHS    '/
+            RC105903  'M204 Belang voorz: SPORTZALEN EN VELDEN    '/
+            RC105904  'M204 Belang voorz: GEVANGENIS              '/
+            RC105905  'M204 Belang voorz: MIDDELB BEROEPSONDERW   '/
+            RC105906  'M204 Belang voorz: ALG PSYCH ZIEKENHUIS    '/
+            RC105907  'M204 Belang voorz: BIBLIOTHEKEN            '/
+            RC105908  'M204 Belang voorz: POLITIE                 '/
+            RC105909  'M204 Belang voorz: HOGER ONDERWIJS         '/
+            RC105910  'M204 Belang voorz: KRUISWERK + WIJKVERPL   '/
+            RC105911  'M204 Belang voorz: MUSEUM                  '/
+            RC105912  'M204 Belang voorz: BUREAU RECHTSHULP       '/
+            RC105913  'M204 Belang voorz: SPECIAAL ONDERWIJS      '/
+            RC105914  'M204 Belang voorz: GEZINSVERZORGING        '/
+            RC105915  'M204 Belang voorz: TONEEL OPERA BALLET     '/
+            RC105916  'M204 Belang voorz: SOCIALE WERKPLAATS      '/
+            RC105917  'M204 Belang voorz: ONDERWIJS VOLWASSENEN   '/
+            RC105918  'M204 Belang voorz: BEJAARDENOORD           '/
+            RC105919  'M204 Belang voorz: CLUB- EN BUURTHUIS      '/
+            RC105920  'M204 Belang voorz: ARBEIDSBUREAU           '/
+VALUE LABELS RC105901 TO RC105920
+             1 'minst belangrijk' 100 'belangrijkste'
+FORMATS VAR1059A TO VAR1059T SCORE1 TO SCORE7 MAX1 TO MAX7
+    SOM1 TO SOM7 GEM1 TO GEM7 ntot stapels sum2(F3.0)
+    RC105901 TO RC105920 (F3.0)
+LIST VAR1059A TO VAR1059T SCORE1 TO SCORE7 MAX1 TO MAX7
+    SOM1 TO SOM7 GEM1 TO GEM7
+18 Oct 04 SPSS for Unix, Release 6.1 (Solaris 2.3)                       Page 18
+14:52:59  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+    RC105901 TO RC105920
+    /CASES=5
+descriptives var1059a to var1059t rc105901 to rc105920
+crosstabs ntot by stapels/sum2 by ntot stapels
+frequencies  sum2  ntot
+******************************einde setup****************************.
+   (Entered 18 OCT 04)
+18 Oct 04 SPSS for Unix, Release 6.1 (Solaris 2.3)                       Page 19
+14:52:59  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+-> set lsiting to.
+
+>Error # 801 in column 5.  Text: LSITING
+>Unrecognized text appears on the SET command.  See the syntax help for your
+>system for valid keywords.
+>This command not executed.
+
+-> set listing to.

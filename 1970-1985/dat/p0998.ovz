@@ -1,0 +1,125 @@
+P0998
+
+Update: 23-05-2003/Nero.
+
+Alles over deze puinhoop op een rijtje.
+
+De originele tape kwam binnen maart/april 1989. Deze werd verstuurd vanaf het 
+RISBO (EUR) door Jaap Vink, telefoon toen :010-4082068
+
+Mededeling Middendorp 1991: De twee-punts file (=P0998B) is splitsbaar door te 
+selecteren op respondentnummer. De eerste 1977 cases zijn uit 1975, de overige 
+2007 cases zijn uit 1980. (Als er maar niet gesorteerd is dan!)
+Uit de documentatie blijkt dat ik aan deze file een jaar-variabele heb 
+toegevoegd en enige labels heb verbeterd. Er zijn nog oude frequencies per 
+jaar. Definitief verbeterde file aangemaakt op 23 februari 1992.
+
+
+Toch blijven die aantallen cases mij vooralsnog duister:
+
+Wave      N in P0998A    N in P0998B   N in P0998B vlgs. Middendorp  Verschil
+====      ===========    ===========   ============================  ========
+
+1970      1905           N/A
+
+1975      1803           1977          1824                          153   
+
+1980      1859           2007          2007                          0
+
+1985      1791           N/A  
+
+ 
+Verschillen in variable labels.
+==============================
+
+(Controleer nog met vragenlijsten/codeboeken! Dan verbeteren!)
+
+1. Var110 Gov. sh. incr-decr ... analoog 111-118, in file A
+
+2. Var115 luxury goods := stimulants, in file A
+
+3. Var162, widows := widows-orphans, a la var157, in file B
+
+4. Var631, Degree of urb CBS vs. Other data on municipality
+
+
+Vreemd
+=====
+
+Var002 heet Age, exact, maar is dat niet. De values zijn:
+1 17-20
+2 21-25
+3 26-30
+4 31-35
+5 36-40
+6 41-45
+7 46-50
+8 51-55
+9 56-60
+10 61-? (er stond 61 t/m 69)
+11 ?    (er stond 65 t/m 69)
+
+
+Losse opmerking
+===============
+
+Het is eigenlijk een schande dat we Middendorps enquetes onder parlementariers 
+niet of ongedocumenteerd hebben (P0079C, 1971 hebben we wel iets van. De data 
+uit 1981 geheel niet). Misschien nooit goed gedumpt wegens privacy-problemen?
+
+
+Factoren die wellicht in de naamgeving van onbekende variabelen voorkomen 
+(pag.89):
+
+C = Conservatism
+L = Liberalism
+S = Socialism
+L-C = Liberal-Conservatism
+A = Authoritarian Conservatism
+
+Schaaltypen, zie pag. 96.
+
+L-R = Left - Right
+L-A = Libertarian-Authoritarian   (pag. 107)
+
+(zie ook pag. 130)
+
+
+Schalen.
+=======
+
+De schaalvariabelen GELIB t/m TOLHOM worden verklaard in Appendix 4, 
+tabel 4.1 (scannen !)
+
+Van de schaalvars:
+POLINT (politieke belangstelling?) 4 pt.
+OPTPESS                            2 pt.
+ANOMIA (anomie)                    5 pt.  
+..
+RELID                              0-9 
+..
+LERI   (links-rechts?)             0-20 
+AUTH                               0-18
+LERI9                              0-9             
+AUTH9                              0-9
+vindt ik geen documentatie  
+
+De schalen:
+ORTH     (religieuze orthodoxie)     0-8 
+RELTOL   (religieuze tolerantie)     0-3
+CONFESS  (confessionalisme)          0-7
+FSCALE   (authoritarianisme)         0-9
+CONA     (conservatisme)             0-9
+CONF     (authoritair conservatisme) 0-9
+LIB      (liberalisme)               0-9
+SOC      (socialisme)                0-9
+
+zie ik wel beschreven, maar niet hun constructie.
+
+
+Variabelen
+==========
+
+De variablenames van de VAR*** - variabelen lijken geheel conform de 
+SCP-standaard,zoals terug te vinden in de vragendatabase. Soms lijkt 
+de codering wel af te wijken.

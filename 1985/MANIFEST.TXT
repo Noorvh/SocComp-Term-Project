@@ -1,0 +1,7 @@
+dat/p0836.cmd (application/octet-stream) 150199 bytes.
+additional-metadata-P0836.xml (text/xml) 2211 bytes.
+dat/p0836.dat (text/x-fixed-field) 1855904 bytes.
+dat/p0836.por (application/x-spss-por) 2089962 bytes.
+easy-migration.zip (application/zip) 36125 bytes.
+dat/p0836.pdf (application/pdf) 2715076 bytes.
+dat/p0836.zip (application/zip) 3093182 bytes.

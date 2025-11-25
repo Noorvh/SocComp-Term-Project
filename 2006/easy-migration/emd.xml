@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<emd:easymetadata emd:version="0.1" xmlns:emd="http://easy.dans.knaw.nl/easy/easymetadata/" xmlns:eas="http://easy.dans.knaw.nl/easy/easymetadata/eas/" xmlns:dct="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:foxml="info:fedora/fedora-system:def/foxml#">
+  <emd:title>
+    <dc:title>Culturele Veranderingen in Nederland 2006 - CV'06</dc:title>
+  </emd:title>
+  <emd:creator>
+    <dc:creator>Sociaal en Cultureel Planbureau, SCP * Den Haag (primary investigator)</dc:creator>
+  </emd:creator>
+  <emd:subject>
+    <dc:subject>Culturele Veranderingen</dc:subject>
+    <dc:subject>Democratie</dc:subject>
+    <dc:subject>Emancipatie</dc:subject>
+    <dc:subject>Ethnocentrisme</dc:subject>
+    <dc:subject>Gender</dc:subject>
+    <dc:subject>Generaties</dc:subject>
+    <dc:subject>Leefomstandigheden</dc:subject>
+    <dc:subject>Minderheden</dc:subject>
+    <dc:subject>Criminaliteit</dc:subject>
+    <dc:subject>Onderwijs</dc:subject>
+    <dc:subject>Ouderen</dc:subject>
+    <dc:subject>Overheidsbeleid</dc:subject>
+    <dc:subject>Politiek</dc:subject>
+    <dc:subject>Publieke Opinie</dc:subject>
+    <dc:subject>Religie</dc:subject>
+    <dc:subject>Sociale zekerheid</dc:subject>
+    <dc:subject>Vertrouwen</dc:subject>
+    <dc:subject>Vrijheid van meningsuiting</dc:subject>
+    <dc:subject>Welzijn</dc:subject>
+    <dc:subject>Werk</dc:subject>
+    <dc:subject>Gebruikersreview</dc:subject>
+  </emd:subject>
+  <emd:description>
+    <dc:description>Het doel van het onderzoek Culturele Veranderingen in Nederland is het systematisch peilen van meningen onder de Nederlandse bevolking om inzicht te krijgen in de culturele veranderingen. Het onderzoek is gebaseerd op enquêtevragen uit een aantal onderzoeken die vóór 1975 zijn gehouden en wordt in principe jaarlijks, na 1999 tweejaarlijks herhaald. Het steekproefaantal wordt zodanig gekozen dat de netto respons rond de 2000 personen ligt.        
+       
+De vragen hebben betrekking op de volgende onderwerpen: veiligheid, criminaliteit, leefsituatie, sociale contacten, vrijtijdsbesteding, gezondheid, emancipatie, homosexualiteit, sociale zekerheid, migratie, islam, woonomstandigheden.          
+Het databestand bevat bovendien een groot aantal achtergrondvariabelen o.a. met betrekking tot religie, politieke overtuiging, inkomen en onderwijs.                        
+      
+Tot en met 2002 waren in het schriftelijke deel van CV vragen opgenomen voor het International Social Survey Programme (ISSP). Vanaf 2004 bevat het schriftelijke deel vragen voor de SCP Leefsituatie-index (SLI).</dc:description>
+  </emd:description>
+  <emd:contributor/>
+  <emd:date>
+    <eas:created eas:scheme="W3CDTF" eas:format="DAY">2007-01-01T00:00:00.000+01:00</eas:created>
+    <eas:available eas:scheme="W3CDTF" eas:format="DAY">2010-08-11T00:00:00.000+02:00</eas:available>
+  </emd:date>
+  <emd:format>
+    <dc:format>SPSS</dc:format>
+  </emd:format>
+  <emd:identifier>
+    <dc:identifier eas:scheme="AIP_ID">twips.dans.knaw.nl--4855289459940977638-1212134339471</dc:identifier>
+    <dc:identifier eas:scheme="PID" eas:identification-system="http://www.persistent-identifier.nl">urn:nbn:nl:ui:13-73o-mbh</dc:identifier>
+    <dc:identifier eas:scheme="DOI" eas:identification-system="http://dx.doi.org">10.17026/dans-zh2-8kh6</dc:identifier>
+    <dc:identifier>P1757</dc:identifier>
+    <dc:identifier eas:scheme="DMO_ID">easy-dataset:43077</dc:identifier>
+  </emd:identifier>
+  <emd:source/>
+  <emd:language>
+    <dc:language eas:schemeId="common.dc.language" eas:scheme="ISO 639">dut/nld</dc:language>
+  </emd:language>
+  <emd:relation>
+    <eas:relation eas:emphasis="true">
+      <eas:subject-title>Aanvullende informatie van het Sociaal en Cultureel Planbureau</eas:subject-title>
+      <eas:subject-link>http://www.scp.nl/content.jsp?objectid=default:18453</eas:subject-link>
+    </eas:relation>
+    <eas:relation eas:emphasis="true">
+      <eas:subject-title>International Social Survey Program - ISSP</eas:subject-title>
+      <eas:subject-link>http://www.gesis.org/en/data_service/issp/</eas:subject-link>
+    </eas:relation>
+    <eas:relation eas:emphasis="true">
+      <eas:subject-title>SCP leefsituatie index</eas:subject-title>
+      <eas:subject-link>http://www.scp.nl/Organisatie/Stafafdelingen/Informatievoorziening_Automatisering/Lopende_onderzoeksthema_s_van_I_A/Leefsituatie_index</eas:subject-link>
+    </eas:relation>
+    <eas:relation eas:emphasis="true">
+      <eas:subject-title>Voor deze dataset zijn enkele reviews beschikbaar.</eas:subject-title>
+      <eas:subject-link>http://datareviews.dans.knaw.nl/details.php?pid=urn:nbn:nl:ui:13-73o-mbh</eas:subject-link>
+    </eas:relation>
+    <eas:relation eas:emphasis="true">
+      <eas:subject-title>Thematische collectie: Culturele Veranderingen in Nederland (CV) en SCP Leefsituatie Index (SLI)</eas:subject-title>
+      <eas:subject-link>http://dx.doi.org/10.17026/dans-zpa-9uwp</eas:subject-link>
+    </eas:relation>
+  </emd:relation>
+  <emd:coverage>
+    <dct:spatial>Nederland</dct:spatial>
+  </emd:coverage>
+  <emd:rights>
+    <dct:accessRights eas:schemeId="common.dcterms.accessrights">OPEN_ACCESS</dct:accessRights>
+    <dct:license eas:scheme="EASY version 1">accept</dct:license>
+  </emd:rights>
+  <emd:audience>
+    <dct:audience eas:schemeId="custom.disciplines">easy-discipline:42</dct:audience>
+    <dct:audience eas:schemeId="custom.disciplines">easy-discipline:51</dct:audience>
+  </emd:audience>
+  <emd:other>
+    <eas:application-specific>
+      <eas:metadataformat>SOCIOLOGY</eas:metadataformat>
+    </eas:application-specific>
+    <eas:etc>
+      <property-list>
+        <comment>Synchronization of EasyII</comment>
+        <entry key="conversion.date">2011-07-22T16:33:33.72Z</entry>
+        <entry key="previous.collection-id">twips.dans.knaw.nl--4855289459940977638-1212134339471</entry>
+        <entry key="nl.knaw.dans.easy.tools.task.am.dataset.AudienceCorrectorTask">2011-08-01T15:47:46.234+02:00</entry>
+      </property-list>
+    </eas:etc>
+  </emd:other>
+</emd:easymetadata>

@@ -1,0 +1,52 @@
+
+  19  display documents.
+21 Apr 04                                                                Page 25
+13:19:09  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+File:     P0947: Culturele veranderingen 1987, schriftelijk
+
+DOCUMENT      ENTERED 23JAN9
+                GET FILE         DATA>CUL87>D1 CUL87D1
+               ENTERED 01/23/90
+                S P E C I F I C A T I E S    T A P E    S C P
+                =============================================
+
+
+                SOCIAAL EN CULTUREEL PLANBUREAU    070-949330
+                J.C. VAN MARKENLAAN 3
+                2285 VL  RIJSWIJK
+
+                DATUM VAN BEHANDELING: 23-01-1990
+
+                CONTACTPERSOON SCP:
+                 JAN SPIT
+
+                BESTEMD VOOR:
+                 STEINMETZARCHIEF
+
+
+                LOGISCHE TAPE 1:  SPSS-SETUP
+                              2:  FILEINFO
+                              3:  CASES
+
+
+                CODE=EBCDIC, DENSITY=1600BPI, NINETRACK,
+                RECORDLENGTH=80, BLOCKINGFACTOR=100
+
+
+
+
+                STANDAARD NEGATIEVE CODERINGEN:
+
+                  -1 ANDERE REDENEN
+                  -2 GEEN ANTWOORD, WIL NIET ZEGGEN
+                  -3 WEET NIET
+                  -4 WEET NIET, GEEN ANTWOORD
+                  -5 NIET VAN TOEPASSING (ROUTING)
+                  -6 TIKFOUT
+                  -7 ANDERE UITZONDERINGEN.
+   (Entered 01 NOV 94)
+21 Apr 04                                                                Page 26
+13:19:09  Steinmetz Archive              SUN SPARC        Solaris 2.3
+
+  20  set listing 'p0947s.lab'.

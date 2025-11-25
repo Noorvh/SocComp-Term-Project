@@ -1,0 +1,10 @@
+easy-migration.zip (application/zip) 27596 bytes.
+CV2012 Antwoordkaarten.pdf (application/pdf) 40885 bytes.
+CV2012 CCF v2.sav (application/x-spss-sav) 1689087 bytes.
+CV2012 Onderzoeksverantwoording.pdf (application/pdf) 739268 bytes.
+CV2012 CCF v2.por (application/x-spss-por) 3075410 bytes.
+CV2012 Toelichting portable data.pdf (application/pdf) 47626 bytes.
+CV2012 CCF v2.dta (application/x-stata-14) 2235903 bytes.
+CV2012 Vragenlijst variant B.pdf (application/pdf) 574540 bytes.
+CV2012 Vraagteksten & schema's.pdf (application/pdf) 2562390 bytes.
+CV2012 Vragenlijst variant A.pdf (application/pdf) 569908 bytes.

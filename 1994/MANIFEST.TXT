@@ -1,0 +1,7 @@
+easy-migration.zip (application/zip) 31457 bytes.
+dat/p1290.frq (application/octet-stream) 803911 bytes.
+dat/p1290.dic (text/x-c) 405453 bytes.
+dat/p1290.lab (application/octet-stream) 41999 bytes.
+additional-metadata-P1290.xml (text/xml) 2065 bytes.
+dat/p1290.pdf (application/pdf) 3682284 bytes.
+dat/p1290.por (application/x-spss-por) 3946968 bytes.

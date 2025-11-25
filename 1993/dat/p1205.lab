@@ -1,0 +1,633 @@
+
+  13  display labels.
+05 Sep 96 SPSS for Unix, Release 5.0 (Solaris 2.2)                      Page 188
+15:05:46  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+
+            List of variables on the working file
+
+Name     Position  Label
+
+AE001           1  M     Mosaic type household
+AE002           2  M     Mosaic type household (indeling 1993/94)
+INT001          3  M   4 Years of education since 6th birthday
+INT004          4  M  17 Number of persons working under respondents supervisio
+INT044          5  S   5 Government should reduce differences in incomes
+INT087          6  S   3 Way of cohabitation
+INT229          7  S  35 Opinion about God
+INT229M         8  M  92 Opinion about God
+INT237          9  M  93 Opinion about the bible
+INT257         10  M  94 Religiousness of respondent
+INT263         11  S   4 Children should obey or make own decisions (important
+INT264         12  S   5 Private enterprise is solution for economical problems
+INT265         13  S   6 Most important issue in the Netherlands
+INT266         14  S   6 Second most important issue in the Netherlands
+INT267         15  S   7 Too much confidence in science, too less in senses and
+INT268         16  S   7 Modern science does more harm than good
+INT269         17  S   7 Change by human cause in environment makes things wors
+INT270         18  S   7 Modern science will solve environmental problems
+INT271         19  S   7 Worry too much about future environment, too less abou
+INT272         20  S   7 Everything we do in modern times harms environment
+INT273         21  S   7 Animals should have the same moral rights as humans
+INT274         22  S   7 People should respect environment because it was creat
+INT275         23  S   7 Population growth always harms environment
+INT276         24  S   7 Worry too much about human progress harming environmen
+INT277         25  S   7 Environmental balance will be stable without human int
+INT278         26  S   7 To protect environment the Netherlands do need economi
+INT279         27  S   7 Right to use animals for medical testing in order to s
+INT280         28  S   7 Environment is a struggle for survival of fittest
+INT281         29  S   7 Economic growth always harms environment
+INT282         30  S   8 Perception of environment in relation to world view
+INT283         31  S   9 Willing to pay much higher prices for protection of en
+INT284         32  S  10 Willing to pay much higher taxes for protection of env
+INT285         33  S  11 Willing to cut standard of living for protection of en
+INT286         34  S  12 Too difficult to do much about environmental protectio
+INT287         35  S  12 Doing right for environment, even if it costs more mon
+INT288         36  S  13 All radioactivity is caused by humans
+INT289         37  S  13 Antibiotics can kill bacteria, not viruses
+INT290         38  S  13 Astrology has some scientific truth
+INT291         39  S  13 Human race stems from early animal species
+INT292         40  S  13 All man-made chemicals can cause cancer
+INT293         41  S  13 Exposure to radioactivity will cause a certain death
+INT294         42  S  13 Radioactive refuse will remain dangerous for thousands
+INT295         43  S  13 Greenhouse effect is caused by a gap in the atmosphere
+INT296         44  S  13 Use of coal, oil, gas contributes to the Greenhouse ef
+INT297         45  S  13 All pesticides used in farming cause cancer
+INT298         46  S  13 Humans cause extinction of plants and animals
+INT299         47  S  13 Cars are not an important cause of air pollution in th
+INT300         48  S  14 Danger for environment (air pollution by cars)
+INT301         49  S  15 Danger for family (air pollution by cars)
+INT302         50  S  16 Increase of ill-health (air pollution by cars)
+INT303         51  S  17 Danger for environment (nuclear power stations)
+INT304         52  S  18 Danger for family (nuclear power stations)
+INT305         53  S  19 Danger for environment (air pollution by industry)
+INT306         54  S  20 Danger for family (air pollution by industry)
+05 Sep 96 SPSS for Unix, Release 5.0 (Solaris 2.2)                      Page 189
+15:05:46  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+INT307         55  S  21 Danger for environment (pesticides in farming)
+INT308         56  S  22 Danger for family (pesticides in farming)
+INT309         57  S  23 Danger for environment (pollution of Dutch surface wat
+INT310         58  S  24 Danger for family (pollution of Dutch surface water)
+INT311         59  S  25 Danger for environment (rise of temperature)
+INT312         60  S  26 Danger for family (rise of temperature)
+INT313         61  S  27 People or government should decide how to protect envi
+INT314         62  S  28 Businesses or government should decide how to protect
+INT315         63  S  29 Making efforts to sort refuse for recycling
+INT316         64  S  30 Buying vegetables grown without pesticides
+INT317         65  S  31 Refusal of eating meat for moral or environmental reas
+INT318         66  S  32 Cut back on driving car for environmental reasons
+INT319         67  S  33 Member of group with main purpose to protect environme
+INT320         68  S  34 Signed petition about environmental issue during last
+INT321         69  S  34 Given money to environmental group during the last 5 y
+INT322         70  S  34 Taken part in protest or demonstration about environme
+INT323         71  S  36 Description of residence
+RESPNR         72  M     Uniek respondentnummer
+V040           73  M   9 Doet ondervraagde persoon betaald werk
+V041           74  M  12 Vroeger wel betaald werk gedaan
+V049           75  M  16 Dienstverband ondervraagde persoon
+V200           76  M   6 Ondervraagde persoon: hoogste diploma avo
+V201           77  M   7 Ondervraagde persoon: hoogste diploma beroepsonderwijs
+V202           78  M  11 Eigen maatschappelijke indeling
+VAR000         79  M     Eerste of tweede ondervraagde
+VAR001         80  M   1 Sexe respondent
+VAR002         81  M   2 Leeftijd respondent
+VAR003         82  M   3 Burgerlijke staat
+VAR006         83  M   5 Laatst genoten opleiding
+VAR016         84  M  14 Respondent: <vroegere> werkzaamheden
+VAR038         85  M 115 Ooit weleens een 2e kamer-zitting op tv gezien
+VAR039         86  M 116 Interesse voor politieke tv-programma's
+VAR040         87  M 117 Regelmaat van het lezen over landelijke politiek
+VAR041         88  M 118 Geabonneerd op landelijk dagblad
+VAR042A        89  M 119 Geabonneerd op Algemeen Dagblad
+VAR042B        90  M 119 Geabonneerd op Nederlands Dagblad
+VAR042C        91  M 119 Geabonneerd op NRC/Handelsblad
+VAR042D        92  M 119 Geabonneerd op Het Parool
+VAR042E        93  M 119 Geabonneerd op Reformatorisch Dagblad
+VAR042F        94  M 119 Geabonneerd op De Telegraaf
+VAR042G        95  M 119 Geabonneerd op Trouw
+VAR042H        96  M 119 Geabonneerd op De Volkskrant
+VAR043         97  M 120 Regelmaat van het lezen in de krant over eigen woonpla
+VAR044         98  M 121 Regelmaat van het lezen van binnenlands nieuws
+VAR045         99  M 122 Regelmaat van het lezen van buitenlands nieuws
+VAR058        100  M  26 Heerst op ogenblik in ons land welvaart?
+VAR059        101  M  27 Is gezin van respondent welvarend?
+VAR062        102  M  28 Toekomstverwachting welvaart
+VAR063        103  M  29 Toekomstverwachting welvaart eigen gezin
+VAR065        104  M  32 Komt economische crisis of blijft welvaart in nabije t
+VAR091        105  M  33 Eigen toekomst wordt grotendeels door jezelf of door o
+VAR092        106  M  34 De opvattingen over gedrag en zeden in Nederland gaan
+VAR096        107  M  37 Meer of minder overheidsgeld voor openbare voorziening
+VAR097        108  M  38 Iedereen gelijke kansen (ingrijpende overheidsmaatrege
+VAR098        109  M  38 Inkomensnivellering (ingrijpende overheidsmaatregelen)
+VAR099        110  M  38 Bezitnivellering (ingrijpende overheidsmaatregelen)
+VAR100        111  M  39 Huiswerkvoorzieningen (overheid moet ..)
+VAR101        112  M  39 Veel meer studiebeurzen (overheid moet ..)
+VAR103        113  M  39 Goede & goedkope woningen (overheid moet ..)
+05 Sep 96 SPSS for Unix, Release 5.0 (Solaris 2.2)                      Page 190
+15:05:46  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+VAR1031       114  M 193 Aantal allochtonen in ons land <niet> teveel
+VAR1032A      115  M 194 Aanwezigheid van mensen met een andere nationaliteit <
+VAR1032B      116  M 194 Aanwezigheid van mensen van een ander ras <niet> hinde
+VAR1033       117  M 195 Allochtonen krijgen soms voorrang
+VAR1034       118  M  59 Voor of tegen mini-stelsel in sociale zekerheid?
+VAR1035A      119  M  60 Sociale zekerheid te duur (voor mini-stelsel)
+VAR1035B      120  M  60 Nu teveel misbruik (voor mini-stelsel)
+VAR1035C      121  M  60 Vereenvoudiging (voor mini-stelsel)
+VAR1035D      122  M  60 Stimulans om te gaan werken (voor mini-stelsel)
+VAR1035E      123  M  60 Zelf kiezen voor vorm van verzekering (voor mini-stels
+VAR1035F      124  M  60 Minder overheidsbemoeienis (voor mini-stelsel)
+VAR1035G      125  M  60 Ander motief (voor mini-stelsel)
+VAR1036A      126  M  61 Al genoeg bezuinigd (tegen mini-stelsel)
+VAR1036B      127  M  61 Uitkeringen te laag (tegen mini-stelsel)
+VAR1036C      128  M  61 Bijverzekeren kan probleem zijn (tegen mini-stelsel)
+VAR1036D      129  M  61 Recht opgebouwd voor hoge uitkering (tegen mini-stelse
+VAR1036E      130  M  61 Solidariteit (tegen mini-stelsel)
+VAR1036F      131  M  61 Overheidsverantwoording (tegen mini-stelsel)
+VAR1036G      132  M  61 Ander motief (tegen mini-stelsel)
+VAR1046A      133  M 133 Orde handhaven (prioriteit politieke doelen)
+VAR1046B      134  M 133 Politieke inspraak burgers vergroten (prioriteit polit
+VAR1046C      135  M 133 Prijsstijging tegengaan (prioriteit politieke doelen)
+VAR1046D      136  M 133 Vrijheid van meningsuiting beschermen (prioriteit poli
+VAR1046E      137  M 133 Economische groei handhaven (prioriteit politieke doel
+VAR1046F      138  M 133 Sterk leger (prioriteit politieke doelen)
+VAR1046G      139  M 133 Meer inspraak van mensen bij beslissingen op werk en i
+VAR1046H      140  M 133 Land verfraaien (prioriteit politieke doelen)
+VAR1046I      141  M 133 Stabiele economie handhaven (prioriteit politieke doel
+VAR1046J      142  M 133 Misdaadbestrijding (prioriteit politieke doelen)
+VAR1046K      143  M 133 Vriendelijkere samenleving (prioriteit politieke doele
+VAR1046L      144  M 133 Niet-kapitalistische samenleving (prioriteit politieke
+VAR1046M      145  M 133 Werkloosheidbestrijding (prioriteit politieke doelen)
+VAR1046N      146  M 133 Milieuverontreiniging bestrijden (prioriteit politieke
+VAR1046O      147  M 133 Sociale zekerheid op peil houden (prioriteit politieke
+VAR1046P      148  M 133 Opvang immigranten (prioriteit politieke doelen)
+VAR1060       149  M   8 Ondervraagde persoon: opleidingsrichting
+VAR1061       150  M  24 Aantal uren vrijwilligerswerk per week tbv instelling
+VAR1062       151  M  24 Aantal uren onbetaalde hulp per week aan zieke of geha
+VAR1063       152  M  62 Voor of tegen de invoering van een basisinkomen
+VAR1064A      153  M  63 Ieders heeft recht op eigen inkomen (voor basisinkomen
+VAR1064B      154  M  63 Minder misbruik van sociale zekerheid (voor basisinkom
+VAR1064C      155  M  63 Huishoudelijk werk dan ook betaald (voor basisinkomen)
+VAR1064D      156  M  63 Eerlijkere werkverdeling tussen mannen en vrouwen (voo
+VAR1064E      157  M  63 Meer werk dat nuttig is voor de samenleving wordt geda
+VAR1064F      158  M  63 Meer ontplooiingskansen door minder te gaan werken (vo
+VAR1064G      159  M  63 Ander motief (voor basisinkomen)
+VAR1065A      160  M  64 Geld komt ook terecht waar het niet nodig is (tegen ba
+VAR1065B      161  M  64 Alleenstaanden kunnen er niet van rondkomen (tegen bas
+VAR1065C      162  M  64 Omstandigheden verschillen (tegen basisinkomen)
+VAR1065D      163  M  64 Geen recht op geld bij onwil om te werken (tegen basis
+VAR1065E      164  M  64 Te duur (tegen basisinkomen)
+VAR1065F      165  M  64 Prikkel voor betaald werk weg (tegen basisinkomen)
+VAR1065G      166  M  64 Inkomen is eigen verantwoording, geen taak van de over
+VAR1065H      167  M  64 Ander motief (tegen basisinkomen)
+VAR1066       168  M  65 Voor of tegen verplicht werken voor iedereen
+VAR1067A      169  M  66 Goede manier om mensen aan de slag te krijgen (voor ve
+VAR1067B      170  M  66 Ieder die kan werken, hoort ook te werken (voor verpli
+VAR1067C      171  M  66 Overheid mag in ruil voor geld iets terug verwachten (
+VAR1067D      172  M  66 Ieder verdient zijn eigen inkomen (voor verplicht werk
+05 Sep 96 SPSS for Unix, Release 5.0 (Solaris 2.2)                      Page 191
+15:05:46  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+VAR1067E      173  M  66 Meer werk dat nuttig is voor de samenleving wordt geda
+VAR1067F      174  M  66 Nu teveel uitkeringstrekkers die best tegenprestaties
+VAR1067G      175  M  66 Ander motief (voor verplicht werken)
+VAR1068A      176  M  67 Aantasting van persoonlijke vrijheid (tegen verplicht
+VAR1068B      177  M  67 Teveel werk onder niveau (tegen verplicht werken)
+VAR1068C      178  M  67 Alleenstaande ouders met jonge kinderen hebben niet ge
+VAR1068D      179  M  67 Niet genoeg werk (tegen verplicht werken)
+VAR1068E      180  M  67 Gaat ten koste van normale banen (tegen verplicht werk
+VAR1068F      181  M  67 Bestaansminimum voor mensen die niet willen (tegen ver
+VAR1068G      182  M  67 Ander motief (tegen verplicht werken)
+VAR1069       183  M  68 Hoogte van sociale uitkeringen moet gelijk op met lone
+VAR107        184  M  39 Onderwijs tot 18e jaar gratis (overheid moet ..)
+VAR1070       185  M  69 Hoogte van sociale uitkeringen moet gelijk op met kost
+VAR1071A      186  M  79 Verpleegkundigen (moeten meer of minder verdienen)
+VAR1071B      187  M  79 Medisch specialisten (moeten meer of minder verdienen)
+VAR1071C      188  M  79 Leerkrachten basisonderwijs (moeten meer of minder ver
+VAR1071D      189  M  79 Leerkrachten algemeen voortgezet onderwijs (moeten mee
+VAR1071E      190  M  79 Leerkrachten beroepsonderwijs (moeten meer of minder v
+VAR1071F      191  M  79 Psychologen (moeten meer of minder verdienen)
+VAR1071G      192  M  79 Politie-agenten (moeten meer of minder verdienen)
+VAR1071H      193  M  79 Bejaardenhulpen (moeten meer of minder verdienen)
+VAR1071I      194  M  79 Maatschappelijk werkers (moeten meer of minder verdien
+VAR1071J      195  M  79 Rechters (moeten meer of minder verdienen)
+VAR1071K      196  M  79 Wetenschappelijk onderzoekers (moeten meer of minder v
+VAR1071L      197  M  79 Huisartsen (moeten meer of minder verdienen)
+VAR1071M      198  M  79 Docenten aan de universiteit (moeten meer of minder ve
+VAR1071N      199  M  79 Personeel gemeentereiniging (moeten meer of minder ver
+VAR1072       200  M  84 Aantal gevolgde opleidingen: -a maakt niet uit, diplom
+VAR1073       201  M  84 Zelfstandig beleid voor onderwijsinstellingen: -a mag
+VAR1074       202  M  84 Toegankelijkheid hoger onderwijs: -a voor ieder met he
+VAR1075       203  M 105 Welke achternaam moet eigen kind krijgen?
+VAR1076       204  M 143 Anderen overtuigen lukt
+VAR1077       205  M 144 Frekwentie van politieke gesprekken met vrienden
+VAR1078       206  M 153 Patient moet zonder meer euthanasie kunnen laten plege
+VAR1079       207  M 167 De toestand van het milieu is een bedreiging voor mijn
+VAR1080       208  M 167 Aantasting van het milieu vormt een risiko voor de toe
+VAR1081       209  M 167 Achteruitgang van het milieu heeft gevolgen voor mijn
+VAR1082       210  M 167 Al die drukte rond het milieu is overdreven
+VAR1083       211  M 167 Ongerust over de toestand van het milieu
+VAR1084       212  M 167 Het milieu gaat zichtbaar achteruit
+VAR1085       213  M 168 Papier bij huisvuil (milieubewustheid)
+VAR1086       214  M 169 Schadelijkheid van aankopen voor het milieu (milieubew
+VAR1087       215  M 170 Plastic tas weigeren (milieubewustheid)
+VAR1088       216  M 171 Verandering in de afgelopen 6 maanden (toestand van mi
+VAR1089       217  M 172 Huidige toestand (toestand van milieu in Nederland)
+VAR109        218  M  39 Milieu-vervuiling bestrijden (overheid moet ..)
+VAR1090       219  M 173 Verwachting in de komende 6 maanden (toestand van mili
+VAR1091       220  M 174 Industrie (kan bijdragen aan oplossing van het milieup
+VAR1092       221  M 174 Eigen huishouden (kan bijdragen aan oplossing van het
+VAR1093       222  M 174 Landbouw en veeteelt (kan bijdragen aan oplossing van
+VAR1094       223  M 174 Andere huishoudens (kan bijdragen aan oplossing van he
+VAR1095       224  M 174 Overheid (kan bijdragen aan oplossing van het milieupr
+VAR1096       225  M 175 Industrie (bereid bij te dragen aan oplossing van het
+VAR1097       226  M 175 Eigen huishouden (bereid bij te dragen aan oplossing v
+VAR1098       227  M 175 Landbouw en veeteelt (bereid bij te dragen aan oplossi
+VAR1099       228  M 175 Andere huishoudens (bereid bij te dragen aan oplossing
+VAR110        229  M  39 Belasting op hogere inkomens (overheid moet ..)
+VAR1100       230  M 175 Overheid (bereid bij te dragen aan oplossing van het m
+VAR1101       231  M 188 Hulp bij zelfdoding onder bepaalde omstandigheden
+05 Sep 96 SPSS for Unix, Release 5.0 (Solaris 2.2)                      Page 192
+15:05:46  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+VAR1102A      232  M 189 Huisarts (rangordening van voorzieningen in het verzek
+VAR1102B      233  M 189 Fysiotherapie (rangordening van voorzieningen in het v
+VAR1102C      234  M 189 Gezinsverzorging (rangordening van voorzieningen in he
+VAR1102D      235  M 189 In vitro fertilisatie (rangordening van voorzieningen
+VAR1102E      236  M 189 Open hart operatie (rangordening van voorzieningen in
+VAR1102F      237  M 189 Geneesmiddelen (rangordening van voorzieningen in het
+VAR1102G      238  M 189 Sportletsels (rangordening van voorzieningen in het ve
+VAR1102H      239  M 189 Tandarts voor volwassenen (rangordening van voorzienin
+VAR1102I      240  M 189 Plastische chirurgie (rangordening van voorzieningen i
+VAR1102J      241  M 189 Psychiatrische ziekenhuizen (rangordening van voorzien
+VAR1102K      242  M 189 Hulpmiddelen (rangordening van voorzieningen in het ve
+VAR1103       243  M 197 Politiek asiel (soepelheid bij het afgeven van verblij
+VAR1104       244  M 197 Economische redenen (soepelheid bij het afgeven van ve
+VAR1105       245  M 197 Gezinshereniging (soepelheid bij het afgeven van verbl
+VAR1106       246  M 197 Toekomstige echtgenote (soepelheid bij het afgeven van
+VAR114        247  M  39 Belasting op lagere inkomens (overheid moet ..)
+VAR118        248  M  39 Belasting op winsten en vermogens (overheid moet ..)
+VAR121        249  M  39 Leerplicht tot 18e jaar (overheid moet ..)
+VAR122        250  M  39 Meer kunstsubsidies (overheid moet ..)
+VAR124        251  M  39 Goedkope creches bouwen (overheid moet ..)
+VAR125        252  M  40 Overheidsuitgaven omhoog of omlaag?
+VAR136        253  M  41 Bezorgd over mogelijke eigen werkloosheid
+VAR147        254  M  81 Tevredenheid over mogelijkheden van het gevolgde onder
+VAR148        255  M  83 Kinderen krijgen kans op beter onderwijs
+VAR149        256  M  42 Mate van tevredenheid over eigen inkomen
+VAR150        257  M  43 Oordeel over eigen inkomen tov landelijke inkomensverd
+VAR151        258  M  44 Hoogte eigen inkomen mbt opleiding en praktijkervaring
+VAR153        259  M  54 Tevreden met de sociale voorzieningen in Nederland
+VAR154        260  M  55 De algemene ouderdomswet<aow> is (on)voldoende
+VAR154A       261  M  55 De ziektewet is (on)voldoende
+VAR155        262  M  55 De algemene bijstandswet is (on)voldoende
+VAR156        263  M  55 De werkloosheidswet<ww> is (on)voldoende
+VAR157        264  M  55 De algemene weduwen- en wezenwet<aww> is (on)voldoende
+VAR157A       265  M  55 Arbeidsongeschiktheidswet<wao,aaw> is (on)voldoende
+VAR159A       266  M  58 Ziektewet (misbruik van sociale wetten)
+VAR160        267  M  58 Algemene Bijstandswet (misbruik van sociale wetten)
+VAR161        268  M  58 Werkloosheidswet<ww> (misbruik van sociale wetten)
+VAR162A       269  M  58 Arbeidsongeschiktheidswet<wao,aaw> (misbruik van socia
+VAR164        270  M  74 Inkomensverschillen te groot of te klein
+VAR165        271  M  75 Gewenste inkomensverschillen groter of kleiner
+VAR166        272  M  76 Gewenste verschillen in bezit groter of kleiner
+VAR167        273  M  77 Gewenste inspraak van arbeiders in bedrijven groter of
+VAR171        274  M  78 Recht op financiele stabiliteit van het inkomen
+VAR179        275  M  80 Vrijheid tot demonstreren
+VAR180        276  M  80 Vrijheid tot kritiek op koningshuis
+VAR181        277  M  80 Vrijheid tot staken voor loonsverhoging
+VAR182        278  M  80 Vrijheid tot weigering militaire dienst
+VAR183        279  M  80 Vrijheid tot bezetting van gebouwen
+VAR184        280  M  80 Vrijheid tot publiceren wat men wil
+VAR185        281  M  80 Vrijheid tot verkondigen wat men wil
+VAR198        282  M  85 Geloof waarmee respondent is opgevoed
+VAR201        283  M  88 Kerkgenootschap ondervraagde persoon
+VAR204        284  M  87 Frekwentie kerkgang
+VAR205        285  M  86 Geloof in leven na de dood
+VAR206        286  M  86 Geloof in bestaan van een hemel
+VAR207        287  M  86 Geloof in een vagevuur
+VAR208        288  M  86 Geloof in een hel
+VAR209        289  M  86 Geloof in een duivel
+VAR210        290  M  86 Geloof in het bestaan van adam en eva
+05 Sep 96 SPSS for Unix, Release 5.0 (Solaris 2.2)                      Page 193
+15:05:46  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+VAR211        291  M  86 De bijbel is het woord van god
+VAR212        292  M  86 Zinnig om voor zichzelf te bidden
+VAR222        293  M  89 Schoolkeuze lager onderwijs voor eigen kind op basis v
+VAR223        294  M  90 Verhouding tussen politiek en godsdienst
+VAR224        295  M  91 Omroepvereniging (vereniging moet uitgaan van godsdien
+VAR225        296  M  91 Sportvereniging (vereniging moet uitgaan van godsdiens
+VAR226        297  M  91 Vakvereniging (vereniging moet uitgaan van godsdiensti
+VAR227        298  M  91 Jeugdvereniging (vereniging moet uitgaan van godsdiens
+VAR228        299  M  91 Moet een politieke partij uitgaan van godsdienstige pr
+VAR229        300  M  95 Het allerbelangrijkste in het leven
+VAR241        301  M 123 Kranten en tijdschriften geven wel-niet een goed beeld
+VAR242        302  M 124 Televisie geeft wel-niet een goed beeld van gebeurteni
+VAR243        303  M 125 Openheid van nederlandse politiek is voldoende
+VAR271        304  M 111 Inspraak studenten op bestuur van universiteit moet gr
+VAR272        305  M 111 Inspraak leerlingen van middelbare scholen en pedagogi
+VAR273        306  M 111 Inspraak burgers op bestuur van gemeente en provincie
+VAR274        307  M 113 Zou gaan stemmen indien nu verkiezing voor de 2e kamer
+VAR275        308  M 114 Huidige partijkeuze
+VAR342        309  M 153 Standsverschillen moeten kleiner
+VAR346        310  M 153 Het roken van marihuana en hashish moet streng gestraf
+VAR347        311  M 153 Abortus moet mogelijk zijn als vrouw dit wenst
+VAR351        312  M 153 Doodstraf weer invoeren voor bepaalde misdaden zou mis
+VAR357        313  M 153 Vrouw is geschikter voor opvoeding van kleine kinderen
+VAR364        314  M 149 Verwacht een betere maatschappij in Nederland
+VAR365        315  M 150 Maatschappelijke positie zou kunnen verslechteren in d
+VAR366        316  M 151 Verwacht in financieel opzicht een zorgeloze oude dag
+VAR367        317  M 152 Eigen indeling sociale klasse van ondervraagde persoon
+VAR377        318  M 139 Gemeenteraadsleden bekommeren zich niet om de mening v
+VAR378        319  M 139 Mensen als ik hebben geen invloed op de gemeentepoliti
+VAR402        320  M 153 De politie doet haar werk uitstekend
+VAR405        321  M 153 De overheid bemoeit zich met teveel dingen
+VAR406        322  M 154 Belastingen moeten omhoog of omlaag
+VAR407        323  M 155 Loon- en inkomensbelasting over eigen inkomen is te ho
+VAR408        324  M 156 Aktie tegen onrechtvaardige wet aangenomen door 2e kam
+VAR409        325  M 157 Goedkeuring van demonstraties tegen een onrechtvaardig
+VAR410        326  M 157 Goedkeuring van arrestatie van demonstranten
+VAR411        327  M 157 Goedkeuring van protest door bezetting van een school
+VAR412        328  M 157 Goedkeuring van ontslag van docenten die betrokken zij
+VAR413        329  M 157 Goedkeuring van wilde staking bij ontslag van een aant
+VAR414        330  M 157 Goedkeuring van politieontruiming van een door werknem
+VAR426        331  M 163 Lucht- en watervervuiling door industrie moet aangepak
+VAR427        332  M 164 Bezorgdheid over milieuverontreiniging
+VAR428        333  M 165 Bestrijding van milieuverontreiniging is genoeg
+VAR429        334  M 166 Persoonlijke financiele bijdrage aan bestrijding van v
+VAR433        335  M 110 Misdadigers proberen te veranderen ipv te straffen
+VAR445        336  M 110 Sexuele misdadigers proberen te genezen ipv straffen
+VAR461        337  M 112 Politieke kleur: links of rechts
+VAR462        338  M 211 Totaal bruto gezinsinkomen
+VAR491        339  M 126 Politieke interesse van ondervraagde persoon
+VAR493        340  M 127 Standpunt ooit op een bijeenkomst naar voren gebracht
+VAR494        341  M 128 Standpunt ooit via een krant naar voren gebracht?
+VAR495        342  M 129 Recent een politieke bijeenkomst bezocht
+VAR496        343  M 130 Recent zich ingezet voor een politieke partij
+VAR497        344  M 131 Lid <geweest> politieke partij
+VAR498        345  M 132 Partij waarvan men lid is <geweest>
+VAR499        346  M 146 Vakbondslid <inclusief beroepsverenigingen>
+VAR500        347  M 147 Aantal jaren dat men vakbondslid is
+VAR515        348  M  97 Vrouw met schoolgaande kinderen werkt naast huishoudin
+VAR516        349  M  98 Vrouw werkt, kind moet naar een creche
+05 Sep 96 SPSS for Unix, Release 5.0 (Solaris 2.2)                      Page 194
+15:05:46  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+VAR517        350  M  99 Wel of geen scheiding bij echtpaar met kinderen thuis
+VAR519        351  M 100 Echtpaar wil bewust geen kinderen (standpunt aanvaardb
+VAR544        352  M 198 Euthanasie op verzoek van patient dmv het geven van ee
+VAR545        353  M 199 Homosexuelen zoveel mogelijk vrijlaten in manier van l
+VAR546        354  M 196 Bezwaar tegen buren van ander ras
+VAR548        355  M 215 Anderen aanwezig bij vraaggesprek
+VAR549A       356  M 216 Echtgenoot (aanwezigen bij vraaggesprek)
+VAR549B       357  M 216 Ouder (aanwezigen bij vraaggesprek)
+VAR549C       358  M 216 Kind (aanwezigen bij vraaggesprek)
+VAR549D       359  M 216 Familie (aanwezigen bij vraaggesprek)
+VAR549E       360  M 216 Wijkgenoot (aanwezigen bij vraaggesprek)
+VAR549F       361  M 216 Anderen (aanwezigen bij vraaggesprek)
+VAR550        362  M 217 Invloed van anderen op vraaggesprek
+VAR567        363  M  45 Verwachting tav hoogte van inkomens in de komende tijd
+VAR568        364  M  46 Mate van stijging of daling van de inkomens
+VAR569        365  M  47 Gezien economische situatie moeten inkomens stijgen of
+VAR570        366  M  48 Mate van stijging of daling van de inkomens gezien de
+VAR571        367  M  49 Verwachting tav sociale uitkeringen in de komende tijd
+VAR572        368  M  50 Mate van stijging of daling van de sociale uitkeringen
+VAR573        369  M  51 Gezien economische situatie moeten sociale uitkeringen
+VAR574        370  M  52 Mate van stijging of daling van de sociale uitkeringen
+VAR576        371  M  53 Leren leven met minder sociale zekerheid in de toekoms
+VAR577        372  M  56 Hoeveel mensen maken misbruik van sociale verzekeringe
+VAR578        373  M  57 Kent persoonlijk gevallen van misbruik van sociale ver
+VAR591        374  M 111 Inspraak ouders bij gang van zaken op school van kinde
+VAR592        375  M 140 Aktief bij een inspraakprocedure in afgelopen 2 jaar
+VAR594        376  M 153 Vrouwen moeten voorrang hebben vanwege hun achterstand
+VAR595        377  M 153 De rechter behandelt elke zaak onbevooroordeeld
+VAR596        378  M 153 Inkomens moeten minstens gelijk blijven want ons land
+VAR597        379  M 145 Recent een vakbondsbijeenkomst bezocht?
+VAR598        380  M 148 Lid van werkgevers- of middenstandsorganisatie
+VAR599        381  M 141 Inspanning voor kwesties van landelijk belang of werel
+VAR600        382  M 142 Inspanning voor kwesties op gemeentelijk niveau
+VAR611        383  M  35 Milieuverontreiniging neemt toe (ontwikkelingen in Ned
+VAR618        384  M  35 Steeds minder officiele huwelijken (ontwikkelingen in
+VAR619        385  M  35 Invloed van de kerk wordt groter (ontwikkelingen in Ne
+VAR620        386  M  35 Mensen laten zich meer door een geloof leiden (ontwikk
+VAR624        387  M  36 Denkt na over hoe de wereld er over 15 jaar uit zal zi
+VAR626        388  M     Nielsen-distrikt
+VAR627        389  M     Cebuco-distrikt
+VAR628        390  M     Nodaal gebied
+VAR629        391  M     Provincie
+VAR630        392  M     Gemeentegrootte
+VAR631        393  M     Urbanisatiegraad cbs
+VAR632A       394  M     Gemeentenummer cbs
+VAR632B       395  M     Economisch geografisch gebied
+VAR632C       396  M     Corop-gebied
+VAR632D       397  M     Postcodegebied
+VAR632E       398  M     Wet gemeenschappelijke regelingen gebied
+VAR632F       399  M     Stedelijkheid: aantal adressen per km2
+VAR632G       400  M     Stedelijke agglomeratie
+VAR634        401  M 157 Goedkeuring van staken tegen het verlagen van de socia
+VAR635        402  M 157 Goedkeuring van het kraken van een leegstaand pand doo
+VAR636        403  M 157 Goedkeuring van het gewelddadig ontruimen van een gekr
+VAR637        404  M 157 Goedkeuring van toegangsblokkade van een kerncentrale
+VAR638        405  M 157 Goedkeuring van verwijdering van demonstranten op last
+VAR647        406  M  19 Respondent is wel of geen huisvrouw?
+VAR677        407  M 158 Kans op confrontatie met energieproblemen in naaste to
+VAR678        408  M 159 Heeft respondent energiebesparende maatregelen genomen
+05 Sep 96 SPSS for Unix, Release 5.0 (Solaris 2.2)                      Page 195
+15:05:46  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+VAR679A       409  M 160 Dubbele ramen laten aanbrengen (energiebesparende maat
+VAR679B       410  M 160 Spouwmuur laten isoleren (energiebesparende maatregele
+VAR679C       411  M 160 Minder autorijden (energiebesparende maatregelen getro
+VAR679D       412  M 160 Minder stoken (energiebesparende maatregelen getroffen
+VAR679E       413  M 160 Vaker de gordijnen dicht (energiebesparende maatregele
+VAR679F       414  M 160 Minder warm water gebruiken (energiebesparende maatreg
+VAR679G       415  M 160 Bewust zuinigere apparatuur gekocht (energiebesparende
+VAR679H       416  M 160 Minder vaak elektrische huishoudelijke apparaten gebru
+VAR679I       417  M 160 Andere maatregelen genomen (energiebesparende maatrege
+VAR680A       418  M 161 Autoloze dag invoeren (energiebesparende overheidsmaat
+VAR680B       419  M 161 Hogere subsidie voor woningisolatie (energiebesparende
+VAR680C       420  M 161 Prijs van elektriciteit, gas of benzine verhogen (ener
+VAR680D       421  M 161 Benzinedistributie invoeren (energiebesparende overhei
+VAR680E       422  M 161 Straatverlichting verminderen (energiebesparende overh
+VAR680F       423  M 161 Hogere belasting voor auto met hoog benzineverbruik (e
+VAR680G       424  M 161 Meer controle op snelheidsbeperking (energiebesparende
+VAR680H       425  M 161 Weet niet (energiebesparende overheidsmaatregelen)
+VAR682        426  M 153 Dwingende overheidsmaatregelen mbt energiebesparing mo
+VAR683A       427  M 190 Iemand met gezin (prioriteit bij woning)
+VAR683B       428  M 190 Gastarbeider (prioriteit bij woning)
+VAR683C       429  M 190 Jongere (prioriteit bij woning)
+VAR683D       430  M 190 Surinaams gezin (prioriteit bij woning)
+VAR683E       431  M 190 Iemand met andere huidskleur (prioriteit bij woning)
+VAR683F       432  M 190 Groot gezin (prioriteit bij woning)
+VAR683G       433  M 190 Gezin met kinderen (prioriteit bij woning)
+VAR683H       434  M 190 Alleenstaande man (prioriteit bij woning)
+VAR684        435  M 212 Samenstelling van het huishouden
+VAR687        436  M 106 Misdadigheid in Nederland neemt de laatste tijd toe of
+VAR688        437  M 107 Mate van af- of toename van misdadigheid in Nederland
+VAR689        438  M 108 Misdaad in Nederland wordt een echt probleem
+VAR703        439  M  70 Verschil tussen arbeidsinkomen en sociale uitkeringen
+VAR704        440  M  71 Ontwikkeling van verschil tussen arbeidsinkomen en soc
+VAR705        441  M  72 Rechtvaardigheid van ontwikkeling verschil arbeidsinko
+VAR706        442  M  73 Kans op verzet van uitkeringstrekkers
+VAR711        443  M 134 Invloed van regeringsbesluiten op dagelijks leven
+VAR712        444  M 135 Bij regeringsbesluiten wordt voldoende rekening gehoud
+VAR713        445  M 136 Invloed van gemeentebestuursbesluiten op dagelijks lev
+VAR714        446  M 137 Bij gemeentebestuursbesluiten wordt voldoende rekening
+VAR715        447  M 138 Verdeling van zeggenschap tussen gemeente en regering
+VAR723        448  M  10 Aantal betaalde arbeidsuren per week
+VAR724        449  M  21 Zou blijven werken na een miljoen in een loterij te he
+VAR725        450  M  22 Bereid om onbetaald een uur door te werken indien nodi
+VAR728A       451  M 191 Werknemer met gezin (prioriteit bij ontslag)
+VAR728B       452  M 191 Buitenlander (prioriteit bij ontslag)
+VAR728C       453  M 191 Man (prioriteit bij ontslag)
+VAR728D       454  M 191 Surinamer (prioriteit bij ontslag)
+VAR728E       455  M 191 Jongere (prioriteit bij ontslag)
+VAR728F       456  M 191 Blanke (prioriteit bij ontslag)
+VAR729A       457  M 192 Werknemer met gezin (prioriteit bij promotie)
+VAR729B       458  M 192 Buitenlander (prioriteit bij promotie)
+VAR729C       459  M 192 Man (prioriteit bij promotie)
+VAR729D       460  M 192 Surinamer (prioriteit bij promotie)
+VAR729E       461  M 192 Jongere (prioriteit bij promotie)
+VAR729F       462  M 192 Blanke (prioriteit bij promotie)
+VAR746        463  M  96 Samenwonen als voorbereiding huwelijk (goedkeuring van
+VAR747        464  M  96 Ongehuwd samenwonen zonder trouwplannen (goedkeuring v
+VAR748        465  M  96 Commune (goedkeuring van samenlevingsvormen)
+VAR749        466  M  96 Centraal wonen (goedkeuring van samenlevingsvormen)
+VAR750        467  M  96 Samenwonen van homosexueel of lesbisch paar (goedkeuri
+05 Sep 96 SPSS for Unix, Release 5.0 (Solaris 2.2)                      Page 196
+15:05:46  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+VAR751        468  M  96 Als alleenstaande wonen (goedkeuring van samenlevingsv
+VAR752        469  M  96 Duurzame relatie zonder samenwonen (goedkeuring van sa
+VAR757A       470  M 200 Woonruimte (homosexuele paren zelfde rechten als echtp
+VAR757B       471  M 200 Adopteren van kinderen (homosexuele paren zelfde recht
+VAR757C       472  M 200 Erven van elkaar (homosexuele paren zelfde rechten als
+VAR768        473  M 101 Aanvaardbaarheid kinderopvang voor kinderen jonger dan
+VAR805        474  M  20 Wenselijkheid van een werkkring buitenshuis (indien re
+VAR806        475  M  23 Veel zin in werken na het vrije weekend
+VAR807        476  M  23 Jammer als het weekend voorbij is en je weer aan het w
+VAR808        477  M  23 Wie ten onrechte niet werkt heeft geen recht op inkome
+VAR809        478  M  23 Wie niet werkt zal niet eten
+VAR820        479  M  82 Ondervraagde persoon heeft kinderen jonger dan 21 jaar
+VAR823        480  M  84 Beleid onderwijs moet benadrukken -a inspraak van oude
+VAR825        481  M  84 Levensbeschouwing op school -a aandacht voor diverse g
+VAR827        482  M  84 Samenstelling groepen in vo van leerlingen met -a zelf
+VAR828        483  M  84 Omvang school in vo moet zijn: -a groot met veel schoo
+VAR844        484  M 110 Gelijke verdeling van huishoudelijk werk tussen man en
+VAR845        485  M 110 Zowel man als vrouw zijn verantwoordelijk voor het hui
+VAR846        486  M 110 Betaald werk gelijk verdelen over mannen en vrouwen
+VAR847        487  M 110 Zowel man als vrouw verantwoordelijk voor kinderverzor
+VAR848        488  M 110 Behandelplicht voor verslaafden aan verdovende middele
+VAR849        489  M 110 Onder medisch toezicht gratis verdovende middelen vers
+VAR851        490  M 153 Binnenkort zal een omvangrijke oorlog uitbreken
+VAR853        491  M 153 Binnenkort kan men een zeer grote milieuramp verwachte
+VAR854        492  M 153 De economische situatie zal nog veel slechter worden
+VAR855        493  M 153 Kerncentrale-rampen zullen niet uitblijven
+VAR872        494  M 162 Energieschaarste op korte of lange termijn
+VAR895        495  M 102 Goedkeuring van bewust ongehuwd moederschap
+VAR896        496  M 103 Goedkeuring van ongehuwd samenwonen en kinderen krijge
+VAR898        497  M 104 Welke achternaam moet een kind krijgen?
+VAR900A       498  M 219 Duur vraaggesprek in minuten
+VAR900B       499  M 218 Datum vraaggesprek: maand en dag
+VAR900C       500  M 218 Datum vraaggesprek: maand
+VAR900D       501  M 220 Bereidheid schriftelijk deel
+VAR900E       502  S  68 Tijdsduur vraaggesprek
+VAR900F       503  S  69 Duurde het vraaggesprek te lang?
+VAR900G       504  S  70 Geoorloofde tijdsduur van zo'n vraaggesprek
+VAR900H       505  S  71 Oordeel van respondent over het vraaggesprek
+VAR900J       506  M     Nipo enqueteursnummer
+VAR900K       507  M 214 Interviewers' indruk van vraaggesprek: ondervraagde vo
+VAR901        508  M     Kleur omslag formulier
+VAR902        509  M     Aantal bruikbare gesprekken
+VAR903        510  M     1e of enige te ondervragen persoon
+VAR904        511  M     2e te ondervragen persoon
+VAR905        512  M     Reden geen gesprek
+VAR906        513  M     Sexe mannelijk gezinshoofd
+VAR907        514  M     Leeftijd mannelijk gezinshoofd
+VAR908        515  M     Sexe vrouwelijk gezinshoofd
+VAR909        516  M     Leeftijd vrouwelijk gezinshoofd
+VAR910        517  M     Sexe oudste kind
+VAR911        518  M     Leeftijd oudste kind
+VAR912        519  M     Sexe 2e kind
+VAR913        520  M     Leeftijd 2e kind
+VAR914        521  M     Sexe 3e kind
+VAR915        522  M     Leeftijd 3e kind
+VAR916        523  M     Sexe 4e kind
+VAR917        524  M     Leeftijd 4e kind
+VAR918        525  M     Sexe 5e kind
+VAR919        526  M     Leeftijd 5e kind
+05 Sep 96 SPSS for Unix, Release 5.0 (Solaris 2.2)                      Page 197
+15:05:46  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+VAR920        527  M     Sexe 6e kind
+VAR921        528  M     Leeftijd 6e kind
+VAR922        529  M     Sexe 7e kind
+VAR923        530  M     Leeftijd 7e kind
+VAR924        531  M     Sexe 8e kind
+VAR925        532  M     Leeftijd 8e kind
+VAR926        533  M     Sexe ander gezinslid <oudste>
+VAR927        534  M     Leeftijd ander gezinslid <oudste>
+VAR928        535  M     Sexe ander gezinslid
+VAR929        536  M     Leeftijd ander gezinslid
+VAR930A       537  M 209 Eigen inkomen in huishouden: man-vader?
+VAR930B       538  M 209 Eigen inkomen in huishouden: vrouw-moeder?
+VAR930C       539  M 209 Eigen inkomen in huishouden: aantal kinderen
+VAR930D       540  M 209 Eigen inkomen in huishouden: aantal anderen
+VAR931        541  M 210 Netto gezinsinkomen
+VAR941A       542  M 201 Hitech: milieutechnologie
+VAR941B       543  M 201 Hitech: kommunikatietechnologie
+VAR941C       544  M 201 Hitech: computertechnologie
+VAR941D       545  M 201 Hitech: automatisering
+VAR941E       546  M 201 Hitech: dna-technologie
+VAR941F       547  M 201 Hitech: reageerbuisbaby
+VAR941G       548  M 201 Hitech: kernenergie
+VAR941H       549  M 201 Hitech: militaire technologie
+VAR942        550  M 202 Hitech: persoonlijke beleving
+VAR943        551  M 203 Hitech: beleving in werksituatie
+VAR944        552  M 204 Hitech: confrontatie in dagelijkse bezigheden
+VAR945        553  M 205 Hitech: is op de hoogte van vernieuwingen
+VAR946        554  M 206 Hitech: volgen van informatie
+VAR947        555  M 207 Hitech: behoefte aan meer informatie
+VAR948        556  M 208 Hitech: mens moet zich aanpassen aan de stand van de t
+VAR949        557  M 208 Hitech: wetenschap vrij laten tbv vooruitgang
+VAR950        558  M 208 Hitech: door techniek zullen oplossingen komen
+VAR951        559  M  30 Verwachting economische situatie over 12 maanden
+VAR952        560  M  31 Verwachting werkloosheid over 12 maanden
+VAR953        561  M 109 Strafmaat in Nederland voor misdadigers is te zwaar of
+VAR974        562  M 176 Weet u wat aids is
+VAR979A       563  M 177 Geen sexueel kontakt hebben (manieren om aids-besmetti
+VAR979B       564  M 177 Geen wisselende partners (manieren om aids-besmetting
+VAR979C       565  M 177 Geen homosexuele kontakten (manieren om aids-besmettin
+VAR979D       566  M 177 Condooms gebruiken (manieren om aids-besmetting te voo
+VAR979E       567  M 177 Andere voorbehoedmiddelen gebruiken (manieren om aids-
+VAR979F       568  M 177 Zorgvuldigheid bij bloedtransfusie (manieren om aids-b
+VAR979G       569  M 177 Eigen injectiespuit (manieren om aids-besmetting te vo
+VAR979H       570  M 177 Niet iedereen zoenen (manieren om aids-besmetting te v
+VAR979I       571  M 177 Goede hygiene (manieren om aids-besmetting te voorkome
+VAR979J       572  M 177 Risikogroepen mijden (manieren om aids-besmetting te v
+VAR979K       573  M 177 Goede voorlichting (manieren om aids-besmetting te voo
+VAR979L       574  M 177 Nog anders (manieren om aids-besmetting te voorkomen)
+VAR979M       575  M 177 Niet te voorkomen (manieren om aids-besmetting te voor
+VAR979N       576  M 177 Weet niet (manieren om aids-besmetting te voorkomen)
+VAR980        577  M 178 Aantal echte aids-patienten
+VAR982        578  M 179 Risico om zelf besmet te worden met aids-virus
+VAR983        579  M 180 Zelf maatregelen genomen ter voorkoming van aids-besme
+VAR984        580  M 181 Kans op aids-vaccin binnen 5 jaar
+VAR985        581  M 182 Kans op aids-geneesmiddel binnen 5 jaar
+VAR986        582  M 183 Kans op aids-remmend gedrag binnen 5 jr
+VAR987        583  M 184 Verplichte bloedproef (maatregelen tegen verspreiding
+VAR988        584  M 184 Aids-patienten weren uit openbare gelegenheden (maatre
+VAR989        585  M 184 Verplichte medische keuring voor prostituees (maatrege
+05 Sep 96 SPSS for Unix, Release 5.0 (Solaris 2.2)                      Page 198
+15:05:46  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+VAR990        586  M 184 Zelfdiscipline (maatregelen tegen verspreiding van aid
+VAR991        587  M 185 Genoeg voorlichting over aids
+VAR992        588  M 186 Genoeg onderzoek naar aids
+VAR993        589  M 187 Overheidsaanpak van het aids-probleem is goed
+05 Sep 96 SPSS for Unix, Release 5.0 (Solaris 2.2)                      Page 199
+15:05:46  SPSS QA Version                SUN Sparc        Solaris 2.2
+
+  14  set listing 'klad.doc'.
